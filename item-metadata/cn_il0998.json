@@ -1,0 +1,1905 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Historic American Buildings Survey, C., Moratz, P. O., Kapp, P. H., Bricker, B., Dean, T., Halkyard, S. [...] Scott, T. (1933) <cite>Paxton Carnegie Library, 254 South Market Street, Paxton, Ford County, IL</cite>. Ford County Paxton Illinois, 1933. Documentation Compiled After. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/il0998/.",
+    "chicago": "Historic American Buildings Survey, Creator, Paul O Moratz, Paul Hardin Kapp, Brodie Bricker, Travis Dean, Shellie Halkyard, Adnahn Humayun, et al. <cite>Paxton Carnegie Library, 254 South Market Street, Paxton, Ford County, IL</cite>. Ford County Paxton Illinois, 1933. Documentation Compiled After. Photograph. https://www.loc.gov/item/il0998/.",
+    "mla": "Historic American Buildings Survey, Creator, et al. <cite>Paxton Carnegie Library, 254 South Market Street, Paxton, Ford County, IL</cite>. Documentation Compiled After. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/il0998/&gt;."
+  },
+  "item": {
+    "_version_": 1782472273190453248,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/il0998/",
+      "http://www.loc.gov/item/il0998/",
+      "http://www.loc.gov/pictures/item/il0998/",
+      "https://www.loc.gov/pictures/collection/hh/item/il0998/",
+      "http://www.loc.gov/pictures/collection/hh/item/il0998/",
+      "https://cdn.loc.gov/master/pnp/habshaer/il/il0900/il0998/data/il0998data.pdf",
+      "http://cdn.loc.gov/master/pnp/habshaer/il/il0900/il0998/data/il0998data.pdf",
+      "https://www.loc.gov:8081/pictures/search/?q=drawing: il0998&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+      "http://www.loc.gov:8081/pictures/search/?q=drawing: il0998&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+      "http://www.loc.gov/resource/hhh.il0998data/",
+      "http://www.loc.gov/resource/hhh.il0998.sheet/",
+      "http://www.loc.gov/resource/hhh.il0998.sheet",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00001a",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00002a",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00003a",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00004a",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00005a",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00006a",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00007a",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00008a",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00009a",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00010a",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00011a",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00012a",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00013a",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00014a",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00015a",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00016a",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00017a",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00018a",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00019a",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00020a",
+      "http://www.loc.gov/resource/hhh.il0998.sheet.00021a"
+    ],
+    "call_number": "HABS IL-329",
+    "campaigns": [],
+    "contributor_names": [
+      "Historic American Buildings Survey, creator",
+      "Moratz, Paul O., Architect",
+      "Kapp, Paul Hardin, faculty sponsor",
+      "Bricker, Brodie, delineator",
+      "Dean, Travis, delineator",
+      "Halkyard, Shellie, delineator",
+      "Humayun, Adnahn, delineator",
+      "Johnson, Jarrell, delineator",
+      "Kirby, Shaefer, delineator",
+      "Mann, Laura, delineator",
+      "Nurse, Lauren, delineator",
+      "Pratt, Curt, delineator",
+      "Timmerman, John, delineator",
+      "Weir, Krista, delineator",
+      "Scott, Theresa, delineator"
+    ],
+    "contributors": [
+      {
+        "bricker, brodie": "https://www.loc.gov/search/?fa=contributor:bricker,+brodie&fo=json"
+      },
+      {
+        "dean, travis": "https://www.loc.gov/search/?fa=contributor:dean,+travis&fo=json"
+      },
+      {
+        "halkyard, shellie": "https://www.loc.gov/search/?fa=contributor:halkyard,+shellie&fo=json"
+      },
+      {
+        "historic american buildings survey": "https://www.loc.gov/search/?fa=contributor:historic+american+buildings+survey&fo=json"
+      },
+      {
+        "humayun, adnahn": "https://www.loc.gov/search/?fa=contributor:humayun,+adnahn&fo=json"
+      },
+      {
+        "johnson, jarrell": "https://www.loc.gov/search/?fa=contributor:johnson,+jarrell&fo=json"
+      },
+      {
+        "kapp, paul hardin": "https://www.loc.gov/search/?fa=contributor:kapp,+paul+hardin&fo=json"
+      },
+      {
+        "kirby, shaefer": "https://www.loc.gov/search/?fa=contributor:kirby,+shaefer&fo=json"
+      },
+      {
+        "mann, laura": "https://www.loc.gov/search/?fa=contributor:mann,+laura&fo=json"
+      },
+      {
+        "moratz, paul o.": "https://www.loc.gov/search/?fa=contributor:moratz,+paul+o.&fo=json"
+      },
+      {
+        "nurse, lauren": "https://www.loc.gov/search/?fa=contributor:nurse,+lauren&fo=json"
+      },
+      {
+        "pratt, curt": "https://www.loc.gov/search/?fa=contributor:pratt,+curt&fo=json"
+      },
+      {
+        "scott, theresa": "https://www.loc.gov/search/?fa=contributor:scott,+theresa&fo=json"
+      },
+      {
+        "timmerman, john": "https://www.loc.gov/search/?fa=contributor:timmerman,+john&fo=json"
+      },
+      {
+        "weir, krista": "https://www.loc.gov/search/?fa=contributor:weir,+krista&fo=json"
+      }
+    ],
+    "control_number": "il0998",
+    "created": "2016-04-18T21:15:54Z",
+    "created_published": [
+      "Documentation compiled after 1933"
+    ],
+    "created_published_date": "Documentation compiled after 1933",
+    "description": [
+      "Measured Drawing(s): 21 | Data Page(s): 8"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2023-11-13T17:30:15.898Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/hh/item/il0998/#hh-2"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "group": [
+      "hh-2",
+      "habshaer-group-2"
+    ],
+    "hassegments": true,
+    "id": "http://www.loc.gov/item/il0998/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0900/il0998/sheet/00001_150px.jpg#h=99&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0900/il0998/sheet/00001r.jpg#h=424&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0900/il0998/sheet/00001v.jpg#h=678&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "HABS IL-329",
+      "contributor_names": [
+        "Moratz, Paul O., Architect ",
+        "Kapp, Paul Hardin, faculty sponsor ",
+        "Bricker, Brodie, delineator ",
+        "Dean, Travis, delineator ",
+        "Halkyard, Shellie, delineator ",
+        "Humayun, Adnahn, delineator ",
+        "Johnson, Jarrell, delineator ",
+        "Kirby, Shaefer, delineator ",
+        "Mann, Laura, delineator ",
+        "Nurse, Lauren, delineator ",
+        "Pratt, Curt, delineator ",
+        "Timmerman, John, delineator ",
+        "Weir, Krista, delineator ",
+        "Scott, Theresa, delineator "
+      ],
+      "control_number": "il0998",
+      "created": "2016-04-18T21:15:54Z",
+      "created_published": "Documentation compiled after 1933",
+      "created_published_date": "Documentation compiled after 1933",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Historic%20American%20Buildings%20Survey&co=hh",
+          "role": "creator",
+          "title": "Historic American Buildings Survey"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Moratz%2C%20Paul%20O.&co=hh",
+          "role": "Architect",
+          "title": "Moratz, Paul O."
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Kapp%2C%20Paul%20Hardin&co=hh",
+          "role": "faculty sponsor",
+          "title": "Kapp, Paul Hardin"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Bricker%2C%20Brodie&co=hh",
+          "role": "delineator",
+          "title": "Bricker, Brodie"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Dean%2C%20Travis&co=hh",
+          "role": "delineator",
+          "title": "Dean, Travis"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Halkyard%2C%20Shellie&co=hh",
+          "role": "delineator",
+          "title": "Halkyard, Shellie"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Humayun%2C%20Adnahn&co=hh",
+          "role": "delineator",
+          "title": "Humayun, Adnahn"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Johnson%2C%20Jarrell&co=hh",
+          "role": "delineator",
+          "title": "Johnson, Jarrell"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Kirby%2C%20Shaefer&co=hh",
+          "role": "delineator",
+          "title": "Kirby, Shaefer"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Mann%2C%20Laura&co=hh",
+          "role": "delineator",
+          "title": "Mann, Laura"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Nurse%2C%20Lauren&co=hh",
+          "role": "delineator",
+          "title": "Nurse, Lauren"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Pratt%2C%20Curt&co=hh",
+          "role": "delineator",
+          "title": "Pratt, Curt"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Timmerman%2C%20John&co=hh",
+          "role": "delineator",
+          "title": "Timmerman, John"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Weir%2C%20Krista&co=hh",
+          "role": "delineator",
+          "title": "Weir, Krista"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Scott%2C%20Theresa&co=hh",
+          "role": "delineator",
+          "title": "Scott, Theresa"
+        }
+      ],
+      "display_offsite": true,
+      "id": "il0998",
+      "latitude / longitude": "40.4587905943781,-88.0984412098",
+      "link": "https://www.loc.gov/pictures/item/il0998/",
+      "medium_brief": "Measured Drawing(s): 21, Data Page(s): 8",
+      "mediums": [
+        "Measured Drawing(s): 21 ",
+        "Data Page(s): 8 "
+      ],
+      "modified": "2023-10-21T02:52:09Z",
+      "notes": [
+        "STORED ON SITE. mchr",
+        "2012 Charles E. Peterson Prize, Entry",
+        "Significance: The Paxton Carnegie Library is locally significant under Criterion A and C.  It is significant for educational purposes in its role in providing library services to the citizens of Paxton.  The building is also significant as a local architectural example of the Classic Revival/Beaus Arts style.  In addition, it is an example of a \"Carnegie Library\", meeting the criteria of the Carnegie Library property type.  The period of significance for the building is 1904, when it was built ",
+        "Unprocessed Field note material exists for this structure: N1830 ",
+        "Survey number: HABS IL-329 ",
+        "Building/structure dates: 1904 Initial Construction "
+      ],
+      "part_of": "Historic American Buildings Survey (Library of Congress)",
+      "part_of_group": "Survey Number il0998",
+      "place": [
+        {
+          "latitude": "40.4587905943781",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Illinois--Ford%20County--Paxton&co=hh",
+          "longitude": "-88.0984412098",
+          "title": "Illinois -- Ford County -- Paxton"
+        }
+      ],
+      "raw_collections": [
+        "diof",
+        "hh",
+        "survey"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "resource_links": [
+        "https://tile.loc.gov/storage-services/master/pnp/habshaer/il/il0900/il0998/data/il0998data.pdf",
+        "https://www.loc.gov:8081/pictures/search/?q=Drawing: il0998&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+      ],
+      "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+      "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0900/il0998/sheet/00001_150px.jpg?q=il0998.sheet.00001a&c=21&st=gallery",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0900/il0998/sheet/00001r.jpg?q=il0998.sheet.00001a&c=21&st=gallery",
+      "source_created": "1970-01-01T00:00:00Z",
+      "source_modified": "2016-04-18T21:15:00Z",
+      "subject_headings": [
+        "libraries",
+        "Classical Revival architectural elements",
+        "Beaux-Arts architectural elements",
+        "Illinois -- Ford County -- Paxton"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0900/il0998/sheet/00001_150px.jpg?q=il0998.sheet.00001a&c=21&st=gallery",
+      "title": "Paxton Carnegie Library, 254 South Market Street, Paxton, Ford County, IL"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "latitude / longitude": "40.4587905943781,-88.0984412098",
+    "latlong": [
+      40.4587905943781,
+      -88.0984412098
+    ],
+    "link": "https://www.loc.gov/pictures/item/il0998/",
+    "location": [
+      "ford county",
+      "paxton",
+      "illinois"
+    ],
+    "location_str": "",
+    "locations": [
+      {
+        "ford county": "https://www.loc.gov/search/?fa=location:ford+county&fo=json"
+      },
+      {
+        "illinois": "https://www.loc.gov/search/?fa=location:illinois&fo=json"
+      },
+      {
+        "paxton": "https://www.loc.gov/search/?fa=location:paxton&fo=json"
+      }
+    ],
+    "locations_str": [
+      null
+    ],
+    "lonlat": [
+      -88.0984412098,
+      40.4587905943781
+    ],
+    "medium": [
+      "Measured Drawing(s): 21 ",
+      "Data Page(s): 8 "
+    ],
+    "medium_brief": "Measured Drawing(s): 21, Data Page(s): 8",
+    "mime_type": [
+      "image/gif",
+      "application/pdf"
+    ],
+    "modified": "2023-10-21T02:52:09Z",
+    "notes": [
+      "STORED ON SITE. mchr",
+      "2012 Charles E. Peterson Prize, Entry",
+      "Significance: The Paxton Carnegie Library is locally significant under Criterion A and C.  It is significant for educational purposes in its role in providing library services to the citizens of Paxton.  The building is also significant as a local architectural example of the Classic Revival/Beaus Arts style.  In addition, it is an example of a \"Carnegie Library\", meeting the criteria of the Carnegie Library property type.  The period of significance for the building is 1904, when it was built ",
+      "Unprocessed Field note material exists for this structure: N1830 ",
+      "Survey number: HABS IL-329 ",
+      "Building/structure dates: 1904 Initial Construction "
+    ],
+    "online_format": [
+      "image",
+      "pdf"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_formats": [],
+    "part_of_group": "Survey Number il0998",
+    "partof": [
+      {
+        "count": 45519,
+        "title": "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+        "url": "https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/?fo=json"
+      },
+      {
+        "count": 437336,
+        "title": "american memory",
+        "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "40.4587905943781",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Illinois--Ford%20County--Paxton&co=hh",
+        "longitude": "-88.0984412098",
+        "title": "Illinois -- Ford County -- Paxton"
+      }
+    ],
+    "raw_collections": [
+      "diof",
+      "hh",
+      "survey"
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=hh&pk=il0998&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproductions": [],
+    "resource_links": [
+      "https://tile.loc.gov/storage-services/master/pnp/habshaer/il/il0900/il0998/data/il0998data.pdf",
+      "https://www.loc.gov:8081/pictures/search/?q=Drawing: il0998&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+    ],
+    "resources": [
+      {
+        "caption": "Drawings from Survey HABS IL-329 ",
+        "files": 21,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0900/il0998/sheet/00001_150px.jpg",
+        "url": "https://www.loc.gov/resource/hhh.il0998.sheet"
+      },
+      {
+        "caption": "Data Pages from Survey HABS IL-329 ",
+        "files": 1,
+        "image": "/static/images/original-format/manuscript-mixed-material.svg"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/114_habs.html\">Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscape Survey (HABS/HAER/HALS) Collection - Rights and Restrictions Information</a> </p>\n \n"
+    ],
+    "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "score": 38.392532,
+    "shard": "00",
+    "shelf_id": "HABS IL-329",
+    "site": [
+      "pictures"
+    ],
+    "source_collection": "Historic American Buildings Survey (Library of Congress)",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2000-01-01T12:00:00Z",
+    "subject": [
+      "classical revival architectural elements",
+      "libraries",
+      "beaux-arts architectural elements"
+    ],
+    "subject_headings": [
+      "libraries",
+      "Classical Revival architectural elements",
+      "Beaux-Arts architectural elements",
+      "Illinois -- Ford County -- Paxton"
+    ],
+    "subjects": [
+      {
+        "beaux-arts architectural elements": "https://www.loc.gov/search/?fa=subject:beaux-arts+architectural+elements&fo=json"
+      },
+      {
+        "classical revival architectural elements": "https://www.loc.gov/search/?fa=subject:classical+revival+architectural+elements&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0900/il0998/sheet/00001_150px.jpg?q=il0998.sheet.00001a&c=21&st=gallery",
+    "timestamp": "2023-11-13T17:53:46.085Z",
+    "title": "Paxton Carnegie Library, 254 South Market Street, Paxton, Ford County, IL",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/il0998/"
+  },
+  "latlong": "40.4587905943781,-88.0984412098",
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/il1002/",
+        "http://www.loc.gov/item/il1002/",
+        "http://www.loc.gov/pictures/item/il1002/",
+        "https://www.loc.gov/pictures/collection/hh/item/il1002/",
+        "http://www.loc.gov/pictures/collection/hh/item/il1002/",
+        "https://cdn.loc.gov/master/pnp/habshaer/il/il1000/il1002/data/il1002data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/il/il1000/il1002/data/il1002data.pdf",
+        "https://stage.loc.gov/pictures/search/?q=drawing: il1002&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=drawing: il1002&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.il1002data/",
+        "http://www.loc.gov/resource/hhh.il1002.sheet/",
+        "http://www.loc.gov/resource/hhh.il1002.sheet",
+        "http://www.loc.gov/resource/hhh.il1002.sheet.00001a",
+        "http://www.loc.gov/resource/hhh.il1002.sheet.00002a",
+        "http://www.loc.gov/resource/hhh.il1002.sheet.00003a",
+        "http://www.loc.gov/resource/hhh.il1002.sheet.00004a",
+        "http://www.loc.gov/resource/hhh.il1002.sheet.00005a",
+        "http://www.loc.gov/resource/hhh.il1002.sheet.00006a",
+        "http://www.loc.gov/resource/hhh.il1002.sheet.00007a",
+        "http://www.loc.gov/resource/hhh.il1002.sheet.00008a",
+        "http://www.loc.gov/resource/hhh.il1002.sheet.00009a"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "bevis and company",
+        "tuney, samantha",
+        "howard, stephen w.",
+        "historic american buildings survey",
+        "miles, manley",
+        "morrow, dean george",
+        "woollard, christopher",
+        "stebbins, joel",
+        "kraft, brianna",
+        "chen, becky",
+        "university of illinois at urbana-champaign",
+        "mcpartland, mary",
+        "butka, erik",
+        "kapp, paul hardin",
+        "wozniak, joanna",
+        "university of illinois college of agriculture, consumer, and environmental sciences",
+        "pratt, curt",
+        "zupancic, michelle",
+        "gunn, charles a"
+      ],
+      "description": [
+        "Measured Drawing(s): 9 | Data Page(s): 7"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T17:30:13.755Z",
+      "group": [
+        "hh-2",
+        "habshaer-group-2"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/il1002/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il1000/il1002/sheet/00001_150px.jpg#h=101&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il1000/il1002/sheet/00001r.jpg#h=431&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il1000/il1002/sheet/00001v.jpg#h=690&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        40.105244,
+        -88.226123
+      ],
+      "location": [
+        "urbana",
+        "champaign county",
+        "illinois"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -88.226123,
+        40.105244
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 25.441267,
+      "shelf_id": "HABS IL-331",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "experimental stations and agricultural research",
+        "education",
+        "hedges (plants)",
+        "astronomy",
+        "soil",
+        "research",
+        "telescopes",
+        "observatories"
+      ],
+      "timestamp": "2023-11-13T17:53:46.085Z",
+      "title": "University of Illinois Observatory and Morrow Plots, 901 South Matthews Avenue, Urbana, Champaign County, IL",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/il1002/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/il1013/",
+        "http://www.loc.gov/item/il1013/",
+        "http://www.loc.gov/pictures/item/il1013/",
+        "https://www.loc.gov/pictures/collection/hh/item/il1013/",
+        "http://www.loc.gov/pictures/collection/hh/item/il1013/",
+        "https://cdn.loc.gov/master/pnp/habshaer/il/il1000/il1013/data/il1013data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/il/il1000/il1013/data/il1013data.pdf",
+        "https://stage.loc.gov/pictures/search/?q=drawing: il1013&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=drawing: il1013&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.il1013data/",
+        "http://www.loc.gov/resource/hhh.il1013.sheet/",
+        "http://www.loc.gov/resource/hhh.il1013.sheet",
+        "http://www.loc.gov/resource/hhh.il1013.sheet.00001a",
+        "http://www.loc.gov/resource/hhh.il1013.sheet.00002a",
+        "http://www.loc.gov/resource/hhh.il1013.sheet.00003a",
+        "http://www.loc.gov/resource/hhh.il1013.sheet.00004a",
+        "http://www.loc.gov/resource/hhh.il1013.sheet.00005a",
+        "http://www.loc.gov/resource/hhh.il1013.sheet.00006a",
+        "http://www.loc.gov/resource/hhh.il1013.sheet.00007a",
+        "http://www.loc.gov/resource/hhh.il1013.sheet.00008a",
+        "http://www.loc.gov/resource/hhh.il1013.sheet.00009a",
+        "http://www.loc.gov/resource/hhh.il1013.sheet.00010a",
+        "http://www.loc.gov/resource/hhh.il1013.sheet.00011a",
+        "http://www.loc.gov/resource/hhh.il1013.sheet.00012a",
+        "http://www.loc.gov/resource/hhh.il1013.sheet.00013a",
+        "http://www.loc.gov/resource/hhh.il1013.sheet.00014a",
+        "http://www.loc.gov/resource/hhh.il1013.sheet.00015a"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "valin, kelly",
+        "kapp, paul hardin",
+        "hoag, smith",
+        "ferrari, catherine r.",
+        "wright & foster",
+        "lind, jacob",
+        "elgin fire company no. 5",
+        "scanlan, james",
+        "hawthorn hardware",
+        "anderson, stephanie",
+        "seiger & son",
+        "fleming, david",
+        "historic american buildings survey",
+        "university of illinois at urbana-champaign, school of architecture",
+        "burgess, dana",
+        "mcpartland, mary"
+      ],
+      "description": [
+        "Measured Drawing(s): 15 | Data Page(s): 7"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T17:30:13.755Z",
+      "group": [
+        "hh-2",
+        "habshaer-group-2"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/il1013/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il1000/il1013/sheet/00001_150px.jpg#h=100&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il1000/il1013/sheet/00001r.jpg#h=427&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il1000/il1013/sheet/00001v.jpg#h=683&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        42.025786,
+        -88.269465
+      ],
+      "location": [
+        "kane county",
+        "elgin",
+        "illinois"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -88.269465,
+        42.025786
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 25.029083,
+      "shelf_id": "HABS IL-335",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "courses (wall components)",
+        "hip roofs",
+        "galleries & museums",
+        "cupolas",
+        "fire fighting",
+        "brick buildings",
+        "stone foundations",
+        "adaptive reuse",
+        "classical revival architectural elements",
+        "fire stations"
+      ],
+      "timestamp": "2023-11-13T17:53:46.085Z",
+      "title": "Elgin Fire Barn No. 5, 533 Saint Charles Street, Elgin, Kane County, IL",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/il1013/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/il1001/",
+        "http://www.loc.gov/item/il1001/",
+        "http://www.loc.gov/pictures/item/il1001/",
+        "https://www.loc.gov/pictures/collection/hh/item/il1001/",
+        "http://www.loc.gov/pictures/collection/hh/item/il1001/",
+        "https://cdn.loc.gov/master/pnp/habshaer/il/il1000/il1001/data/il1001data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/il/il1000/il1001/data/il1001data.pdf",
+        "https://stage.loc.gov/pictures/search/?q=drawing: il1001&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=drawing: il1001&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.il1001data/",
+        "http://www.loc.gov/resource/hhh.il1001.sheet/",
+        "http://www.loc.gov/resource/hhh.il1001.sheet",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00001a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00002a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00003a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00004a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00005a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00006a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00007a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00008a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00009a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00010a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00011a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00012a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00013a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00014a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00015a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00016a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00017a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00018a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00019a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00020a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00021a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00022a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00023a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00024a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00025a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00026a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00027a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00028a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00029a",
+        "http://www.loc.gov/resource/hhh.il1001.sheet.00030a"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "historic american buildings survey",
+        "mulligan, charles j",
+        "raney, stephanie",
+        "zimmerman, william carbys",
+        "howard, stephen w",
+        "kraft, brianna",
+        "yu, wei",
+        "stanton, meggan",
+        "university of illinois at urbana-champaign",
+        "albrecht, brian",
+        "schara, mark",
+        "jobst & sons contractors",
+        "hickman, donald, jr",
+        "butka, erik",
+        "kapp, paul hardin",
+        "alsum-wassenaar, sara",
+        "krehbeil, albert henry",
+        "wozinak, joanna",
+        "zupancic, michelle"
+      ],
+      "description": [
+        "Measured Drawing(s): 30 | Data Page(s): 7"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T17:30:13.755Z",
+      "group": [
+        "hh-2",
+        "habshaer-group-2"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/il1001/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il1000/il1001/sheet/00001_150px.jpg#h=100&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il1000/il1001/sheet/00001r.jpg#h=426&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il1000/il1001/sheet/00001v.jpg#h=682&w=1024"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        39.797999,
+        -89.652741
+      ],
+      "location": [
+        "illinois",
+        "sangamon county",
+        "springfield"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -89.652741,
+        39.797999
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 24.945368,
+      "shelf_id": "HABS IL-330",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "stone buildings (limestone)",
+        "courthouses",
+        "beaux-arts architectural elements",
+        "prairie school architectural elements",
+        "murals"
+      ],
+      "timestamp": "2023-11-13T17:53:46.085Z",
+      "title": "Illinois Supreme Court Building, 200 East Capitol Avenue, Springfield, Sangamon County, IL",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/il1001/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/il0417/",
+        "http://www.loc.gov/item/il0417/",
+        "http://www.loc.gov/pictures/item/il0417/",
+        "https://www.loc.gov/pictures/collection/hh/item/il0417/",
+        "http://www.loc.gov/pictures/collection/hh/item/il0417/",
+        "https://cdn.loc.gov/master/pnp/habshaer/il/il0400/il0417/data/il0417data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/il/il0400/il0417/data/il0417data.pdf",
+        "https://www.loc.gov:8081/pictures/search/?q=drawing: il0417&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov:8081/pictures/search/?q=drawing: il0417&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.il0417data/",
+        "http://www.loc.gov/resource/hhh.il0417.sheet/",
+        "http://www.loc.gov/resource/hhh.il0417.sheet",
+        "http://www.loc.gov/resource/hhh.il0417.sheet.00001a",
+        "http://www.loc.gov/resource/hhh.il0417.sheet.00002a",
+        "http://www.loc.gov/resource/hhh.il0417.sheet.00003a",
+        "http://www.loc.gov/resource/hhh.il0417.sheet.00004a"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "dyson, carol",
+        "hanpeter, rich",
+        "zinni, paul",
+        "historic american buildings survey",
+        "university of illinois"
+      ],
+      "description": [
+        "Measured Drawing(s): 4"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T17:30:17.133Z",
+      "group": [
+        "hh-2",
+        "habshaer-group-2"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/il0417/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0400/il0417/sheet/00001_150px.jpg#h=100&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0400/il0417/sheet/00001r.jpg#h=427&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0400/il0417/sheet/00001v.jpg#h=683&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "ford county",
+        "paxton",
+        "illinois"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 24.49936,
+      "shelf_id": "HABS ILL,27-PAX,2-",
+      "site": [
+        "pictures"
+      ],
+      "timestamp": "2023-11-13T17:50:20.502Z",
+      "title": "Paxton Water Tower, Centre & Market Streets, Paxton, Ford County, IL",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/il0417/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/il0418/",
+        "http://www.loc.gov/item/il0418/",
+        "http://www.loc.gov/pictures/item/il0418/",
+        "https://www.loc.gov/pictures/collection/hh/item/il0418/",
+        "http://www.loc.gov/pictures/collection/hh/item/il0418/",
+        "https://cdn.loc.gov/master/pnp/habshaer/il/il0400/il0418/data/il0418data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/il/il0400/il0418/data/il0418data.pdf",
+        "https://www.loc.gov:8081/pictures/search/?q=drawing: il0418&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov:8081/pictures/search/?q=drawing: il0418&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.il0418data/",
+        "http://www.loc.gov/resource/hhh.il0418.sheet/",
+        "http://www.loc.gov/resource/hhh.il0418.sheet",
+        "http://www.loc.gov/resource/hhh.il0418.sheet.00001a",
+        "http://www.loc.gov/resource/hhh.il0418.sheet.00002a",
+        "http://www.loc.gov/resource/hhh.il0418.sheet.00003a",
+        "http://www.loc.gov/resource/hhh.il0418.sheet.00004a",
+        "http://www.loc.gov/resource/hhh.il0418.sheet.00005a",
+        "http://www.loc.gov/resource/hhh.il0418.sheet.00006a",
+        "http://www.loc.gov/resource/hhh.il0418.sheet.00007a",
+        "http://www.loc.gov/resource/hhh.il0418.sheet.00008a",
+        "http://www.loc.gov/resource/hhh.il0418.sheet.00009a",
+        "http://www.loc.gov/resource/hhh.il0418.sheet.00010a"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "dyson, carol",
+        "hernandez, haime",
+        "ashby, dave",
+        "geier, rose",
+        "historic american buildings survey",
+        "university of illinois",
+        "scanlan, beth"
+      ],
+      "description": [
+        "Measured Drawing(s): 10"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T17:30:17.133Z",
+      "group": [
+        "hh-2",
+        "habshaer-group-2"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/il0418/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0400/il0418/sheet/00001_150px.jpg#h=118&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0400/il0418/sheet/00001r.jpg#h=502&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0400/il0418/sheet/00001v.jpg#h=803&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "ford county",
+        "paxton",
+        "illinois"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 24.49936,
+      "shelf_id": "HABS ILL,27-PAX,1-",
+      "site": [
+        "pictures"
+      ],
+      "timestamp": "2023-11-13T17:50:20.502Z",
+      "title": "Middlecoff-Baier House, 440 East Pells Street, Paxton, Ford County, IL",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/il0418/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/oh1946/",
+        "http://www.loc.gov/item/oh1946/",
+        "http://www.loc.gov/pictures/item/oh1946/",
+        "https://www.loc.gov/pictures/collection/hh/item/oh1946/",
+        "http://www.loc.gov/pictures/collection/hh/item/oh1946/",
+        "https://cdn.loc.gov/master/pnp/habshaer/oh/oh1900/oh1946/data/oh1946data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/oh/oh1900/oh1946/data/oh1946data.pdf",
+        "https://www.loc.gov:8081/pictures/search/?q=drawing: oh1946&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov:8081/pictures/search/?q=drawing: oh1946&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.oh1946data/",
+        "http://www.loc.gov/resource/hhh.oh1946.sheet/",
+        "http://www.loc.gov/resource/hhh.oh1946.sheet",
+        "http://www.loc.gov/resource/hhh.oh1946.sheet.00001a",
+        "http://www.loc.gov/resource/hhh.oh1946.sheet.00002a",
+        "http://www.loc.gov/resource/hhh.oh1946.sheet.00003a",
+        "http://www.loc.gov/resource/hhh.oh1946.sheet.00004a",
+        "http://www.loc.gov/resource/hhh.oh1946.sheet.00005a",
+        "http://www.loc.gov/resource/hhh.oh1946.sheet.00006a",
+        "http://www.loc.gov/resource/hhh.oh1946.sheet.00007a",
+        "http://www.loc.gov/resource/hhh.oh1946.sheet.00008a",
+        "http://www.loc.gov/resource/hhh.oh1946.sheet.00009a",
+        "http://www.loc.gov/resource/hhh.oh1946.sheet.00010a",
+        "http://www.loc.gov/resource/hhh.oh1946.sheet.00011a",
+        "http://www.loc.gov/resource/hhh.oh1946.sheet.00012a"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "knott, joseph",
+        "cramer, ashley",
+        "historic american buildings survey",
+        "schafer, marcus",
+        "sisinger, ashlie",
+        "robinson, marsha",
+        "harpster & bliss",
+        "ceralo, catherine",
+        "serdinak, mike",
+        "aviv, lee",
+        "coerver, tim",
+        "short, bruce",
+        "butcher, carly",
+        "cantanzariti, joe",
+        "senske, jason",
+        "mcnutt, j. ryan",
+        "nelson, darrell",
+        "hughes, ben",
+        "murphy, elizabeth corbin",
+        "barroner, jeremy"
+      ],
+      "description": [
+        "Measured Drawing(s): 12"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T18:49:32.685Z",
+      "group": [
+        "hh-4",
+        "habshaer-group-4"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/oh1946/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/oh/oh1900/oh1946/sheet/00001_150px.jpg#h=100&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/oh/oh1900/oh1946/sheet/00001r.jpg#h=426&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/oh/oh1900/oh1946/sheet/00001v.jpg#h=682&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "ohio",
+        "akron",
+        "summit county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 22.979399,
+      "shelf_id": "HABS OH-2480",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "beaux-arts architectural elements",
+        "schools",
+        "classical revival architectural elements"
+      ],
+      "timestamp": "2023-11-13T19:18:15.190Z",
+      "title": "Samuel Findley School, Tallmadge and Cuyahoga Streets, Akron, Summit County, OH",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/oh1946/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "hh-2",
+      "habshaer-group-2",
+      "hh-4",
+      "habshaer-group-4",
+      "sanborn"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "hhh.il0998.sheet",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.739652156829834,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/hhh.il0998.sheet/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json&sp=1",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ],
+      "sp": [
+        "1"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&sp=1",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": 1,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294091.9422305,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 1324528,
+      "type": "drawing",
+      "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/il/il0900/il0998/sheet/00001a.tif",
+      "width": 0
+    },
+    {
+      "height": 99,
+      "levels": 1,
+      "mimetype": "image/jpg",
+      "size": 4125,
+      "type": "drawing",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0900/il0998/sheet/00001_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 424,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 78923,
+      "type": "drawing",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0900/il0998/sheet/00001r.jpg",
+      "width": 640
+    },
+    {
+      "height": 678,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 162378,
+      "type": "drawing",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0900/il0998/sheet/00001v.jpg",
+      "width": 1024
+    },
+    {
+      "aka": "https://www.loc.gov/resource/hhh.il0998.sheet.00001a",
+      "mimetype": "application/json",
+      "title": "Cover Sheet - Paxton Carnegie Library, 254 South Market Street, Paxton, Ford County, IL",
+      "use": "caption"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "first": null,
+    "from": 1,
+    "last": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&sp=4",
+    "next": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&sp=2",
+    "of": 21,
+    "page_list": [
+      {
+        "number": 1,
+        "url": null
+      },
+      {
+        "number": 2,
+        "url": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&sp=2"
+      },
+      {
+        "number": 3,
+        "url": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&sp=3"
+      },
+      {
+        "number": "...",
+        "url": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&sp=4"
+      }
+    ],
+    "perpage": 1,
+    "perpage_options": [
+      25,
+      50,
+      100,
+      150
+    ],
+    "previous": null,
+    "results": "1 - 1",
+    "to": 1,
+    "total": 21
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=hh&pk=il0998&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sanborn02085_001/",
+        "https://hdl.loc.gov/loc.gmd/g4104pm.g020851887",
+        "http://www.loc.gov/resource/g4104pm.g020851887/"
+      ],
+      "campaigns": [],
+      "date": "1887-04",
+      "dates": [
+        "1887-04"
+      ],
+      "description": [
+        "Apr 1887. 2 sheet(s)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-08T18:06:00.705Z",
+      "group": [
+        "sanborn"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sanborn02085_001/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104pm/g020851887/02085_1887-0001.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104pm/g020851887/02085_1887-0001.gif#h=150&w=126",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd410m:g4104m:g4104pm:g020851887:02085_1887-0001/full/pct:12.5/0/default.jpg#h=956&w=806",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd410m:g4104m:g4104pm:g020851887:02085_1887-0001/full/pct:25/0/default.jpg#h=1912&w=1612"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "ford county",
+        "paxton",
+        "united states",
+        "illinois"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/jp2"
+      ],
+      "number": [
+        "2018-04-24t09:37:54"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "sanborn maps",
+        "geography and map division"
+      ],
+      "score": 18.372738,
+      "shelf_id": "http://www.loc.gov/item/sanborn02085_001/",
+      "site": [
+        "ammem"
+      ],
+      "timestamp": "2024-10-08T18:35:20.916Z",
+      "title": "Sanborn Fire Insurance Map from Paxton, Ford County, Illinois.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/sanborn02085_001/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sanborn02085_002/",
+        "https://hdl.loc.gov/loc.gmd/g4104pm.g020851892",
+        "http://www.loc.gov/resource/g4104pm.g020851892/"
+      ],
+      "campaigns": [],
+      "date": "1892-11",
+      "dates": [
+        "1892-11"
+      ],
+      "description": [
+        "Nov 1892. 3 sheet(s)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-08T18:06:00.705Z",
+      "group": [
+        "sanborn"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sanborn02085_002/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104pm/g020851892/02085_1892-0001.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104pm/g020851892/02085_1892-0001.gif#h=150&w=126",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd410m:g4104m:g4104pm:g020851892:02085_1892-0001/full/pct:12.5/0/default.jpg#h=956&w=806",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd410m:g4104m:g4104pm:g020851892:02085_1892-0001/full/pct:25/0/default.jpg#h=1912&w=1612"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "ford county",
+        "paxton",
+        "united states",
+        "illinois"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/jp2"
+      ],
+      "number": [
+        "2018-04-24t09:37:54"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "sanborn maps",
+        "geography and map division"
+      ],
+      "score": 18.372738,
+      "shelf_id": "http://www.loc.gov/item/sanborn02085_002/",
+      "site": [
+        "ammem"
+      ],
+      "timestamp": "2024-10-08T18:35:20.916Z",
+      "title": "Sanborn Fire Insurance Map from Paxton, Ford County, Illinois.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/sanborn02085_002/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sanborn02085_003/",
+        "https://hdl.loc.gov/loc.gmd/g4104pm.g020851897",
+        "http://www.loc.gov/resource/g4104pm.g020851897/"
+      ],
+      "campaigns": [],
+      "date": "1897-11",
+      "dates": [
+        "1897-11"
+      ],
+      "description": [
+        "Nov 1897. 3 sheet(s)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-08T18:06:00.705Z",
+      "group": [
+        "sanborn"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sanborn02085_003/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104pm/g020851897/02085_1897-0001.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104pm/g020851897/02085_1897-0001.gif#h=150&w=126",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd410m:g4104m:g4104pm:g020851897:02085_1897-0001/full/pct:12.5/0/default.jpg#h=956&w=806",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd410m:g4104m:g4104pm:g020851897:02085_1897-0001/full/pct:25/0/default.jpg#h=1912&w=1612"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "ford county",
+        "paxton",
+        "united states",
+        "illinois"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/jp2"
+      ],
+      "number": [
+        "2018-04-24t09:37:54"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "sanborn maps",
+        "geography and map division"
+      ],
+      "score": 18.372738,
+      "shelf_id": "http://www.loc.gov/item/sanborn02085_003/",
+      "site": [
+        "ammem"
+      ],
+      "timestamp": "2024-10-08T18:35:20.916Z",
+      "title": "Sanborn Fire Insurance Map from Paxton, Ford County, Illinois.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/sanborn02085_003/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sanborn02085_004/",
+        "https://hdl.loc.gov/loc.gmd/g4104pm.g020851902",
+        "http://www.loc.gov/resource/g4104pm.g020851902/"
+      ],
+      "campaigns": [],
+      "date": "1902-08",
+      "dates": [
+        "1902-08"
+      ],
+      "description": [
+        "Aug 1902. 5 sheet(s)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-08T18:06:00.705Z",
+      "group": [
+        "sanborn"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sanborn02085_004/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104pm/g020851902/02085_1902-0001.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104pm/g020851902/02085_1902-0001.gif#h=150&w=126",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd410m:g4104m:g4104pm:g020851902:02085_1902-0001/full/pct:12.5/0/default.jpg#h=956&w=806",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd410m:g4104m:g4104pm:g020851902:02085_1902-0001/full/pct:25/0/default.jpg#h=1912&w=1612"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "ford county",
+        "paxton",
+        "united states",
+        "illinois"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/jp2"
+      ],
+      "number": [
+        "2018-07-06t10:59:28"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "sanborn maps",
+        "geography and map division"
+      ],
+      "score": 18.372738,
+      "shelf_id": "http://www.loc.gov/item/sanborn02085_004/",
+      "site": [
+        "ammem"
+      ],
+      "timestamp": "2024-10-08T18:35:20.916Z",
+      "title": "Sanborn Fire Insurance Map from Paxton, Ford County, Illinois.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/sanborn02085_004/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sanborn02085_005/",
+        "https://hdl.loc.gov/loc.gmd/g4104pm.g020851910",
+        "http://www.loc.gov/resource/g4104pm.g020851910/"
+      ],
+      "campaigns": [],
+      "date": "1910-04",
+      "dates": [
+        "1910-04"
+      ],
+      "description": [
+        "Apr 1910. 5 sheet(s)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-08T18:06:00.705Z",
+      "group": [
+        "sanborn"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sanborn02085_005/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104pm/g020851910/02085_1910-0001.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104pm/g020851910/02085_1910-0001.gif#h=150&w=126",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd410m:g4104m:g4104pm:g020851910:02085_1910-0001/full/pct:12.5/0/default.jpg#h=956&w=806",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd410m:g4104m:g4104pm:g020851910:02085_1910-0001/full/pct:25/0/default.jpg#h=1912&w=1612"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "ford county",
+        "paxton",
+        "united states",
+        "illinois"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/jp2"
+      ],
+      "number": [
+        "2018-07-06t10:59:28"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "sanborn maps",
+        "geography and map division"
+      ],
+      "score": 18.372738,
+      "shelf_id": "http://www.loc.gov/item/sanborn02085_005/",
+      "site": [
+        "ammem"
+      ],
+      "timestamp": "2024-10-08T18:35:20.916Z",
+      "title": "Sanborn Fire Insurance Map from Paxton, Ford County, Illinois.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/sanborn02085_005/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sanborn02085_006/",
+        "https://hdl.loc.gov/loc.gmd/g4104pm.g020851921",
+        "http://www.loc.gov/resource/g4104pm.g020851921/"
+      ],
+      "campaigns": [],
+      "date": "1921-03",
+      "dates": [
+        "1921-03"
+      ],
+      "description": [
+        "Mar 1921. 10 sheet(s)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-08T18:06:00.705Z",
+      "group": [
+        "sanborn"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sanborn02085_006/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104pm/g020851921/02085_1921-0001.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd410m/g4104m/g4104pm/g020851921/02085_1921-0001.gif#h=150&w=126",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd410m:g4104m:g4104pm:g020851921:02085_1921-0001/full/pct:12.5/0/default.jpg#h=956&w=806",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd410m:g4104m:g4104pm:g020851921:02085_1921-0001/full/pct:25/0/default.jpg#h=1912&w=1612"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "ford county",
+        "paxton",
+        "united states",
+        "illinois"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/jp2"
+      ],
+      "number": [
+        "2018-07-06t10:59:28"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "sanborn maps",
+        "geography and map division"
+      ],
+      "score": 18.372738,
+      "shelf_id": "http://www.loc.gov/item/sanborn02085_006/",
+      "site": [
+        "ammem"
+      ],
+      "timestamp": "2024-10-08T18:35:20.916Z",
+      "title": "Sanborn Fire Insurance Map from Paxton, Ford County, Illinois.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/sanborn02085_006/"
+    }
+  ],
+  "reproductions": "<h3>If Digital Images Are Displaying</h3>\n\n<p>You can download online images yourself.  Alternatively, you can purchase copies of various types through Library of Congress Duplication Services.</p>\n\n<p>HABS/HAER/HALS materials have generally been scanned at high resolution that is suitable for most publication purposes (see <a href=\"/ppoc/hh/resources/digitizing.html\">Digitizing the Collection</a> for further details about the digital images).</p>\n\n<ul>\n<p>\n<li><strong>Photographs--</strong>All photographs are printed from digital files to preserve the fragile originals.\n</li>\n<ul>\n<li>Make note of the Call Number and Item Number that appear under the photograph in the multiple-image display (e.g., HAER, NY,52-BRIG,4-2).\n</li>\n<li>If possible, include a printout of the photograph.\n</li>\n</ul>\n</p>\n\n<p>\n<li><strong>Drawings--</strong>All drawings are printed from digital files to preserve the fragile originals.\n</li>\n<ul>\n<li>Make note of the Survey Number (e.g., HAER NY - 143) and Sheet Number (e.g., &quot;Sheet 1 of 4&quot;), which appear on the edge of the drawing. (NOTE: These numbers are visible in the Tiff &quot;Reference Image&quot; display.)\n</li>\n<li>If possible, include a printout of the drawing. \n</li>\n</ul>\n</p>\n\n<p>\n<li><strong>Data Pages</strong>\n</li>\n<ul>\n<li>Make note of the Call Number in the catalog record.\n</li>\n</ul>\n</p>\n</ul>\n\n<h3>If Digital Images Are Not Displaying</h3>\n\n<p>In the rare case that a digital image for HABS/HAER/HALS documentation is not displaying online, select images for reproduction through one of these methods:</p>\n<ul>\n<p>\n<li>Visit the Prints & Photographs Reading Room and request to view the group (general information about service in the reading room is available at: <a href=\"https://www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>). It is best to contact reference staff in advance (see: <a href=\"https://www.loc.gov/rr/print/address.html\">https://www.loc.gov/rr/print/address.html</a>) to make sure the material is on site.  OR\n</li>\n</p>\n\n<p>\n<li>P&amp;P reading room staff can provide up to 15 quick copies of items per calendar year (many original items in the holdings are too old or fragile to make such copies, but generally HABS/HAER/HALS materials are in good enough condition to be placed on photocopy machines). For assistance, see our <a href=\"https://www.loc.gov/rr/askalib/ask-print.html\">Ask a Librarian</a> page OR\n</li>\n</p>\n\n<p>\n<li>Hire a freelance researcher to do further selection for you (a list of researchers in available at: <a href=\"https://www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>).\n</li>\n</p>\n\n<p>\n<li>You can purchase copies of various types, including quick copies, through Library of Congress Duplication Services (price lists, contact information, and order forms for Library of Congress Duplication Services are available on the <a href=\"https://www.loc.gov/duplicationservices/\">Duplication Services Web site</a>):\n</li>\n</p>\n\n<ul>\n<li>Make note of the Call Number listed above. \n</li>\n<li>Look at the Medium field above. If it lists more than one item: \n</li>\n<ul>\n<li>The entire group can be ordered as photocopies or high-quality copies. \n</li>\n<li>All the items in a particular medium (e.g., all drawings, all photographs) can be ordered as photocopies or high-quality copies.   \n</li>\n</ul>\n</ul>\n</ul>",
+  "resource": {
+    "caption": "Drawings from Survey HABS IL-329 ",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0900/il0998/sheet/00001_150px.jpg",
+    "segment_count": 21,
+    "url": "https://www.loc.gov/resource/hhh.il0998.sheet"
+  },
+  "resources": [
+    {
+      "caption": "Drawings from Survey HABS IL-329 ",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0900/il0998/sheet/00001_150px.jpg",
+      "segment_count": 21,
+      "url": "https://www.loc.gov/resource/hhh.il0998.sheet"
+    }
+  ],
+  "segments": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/hhh.il0998.sheet/?sp=1",
+        "http://www.loc.gov/resource/hhh.il0998.sheet.00001a"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "mann, laura",
+        "kapp, paul hardin",
+        "bricker, brodie",
+        "dean, travis",
+        "weir, krista",
+        "humayun, adnahn",
+        "halkyard, shellie",
+        "nurse, lauren",
+        "johnson, jarrell",
+        "kirby, shaefer",
+        "timmerman, john",
+        "scott, theresa",
+        "pratt, curt",
+        "historic american buildings survey",
+        "moratz, paul o."
+      ],
+      "description": [
+        ""
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T17:30:15.898Z",
+      "group": [
+        "hh-2",
+        "habshaer-group-2"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/resource/hhh.il0998.sheet/?sp=1",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0900/il0998/sheet/00001_150px.jpg#h=99&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0900/il0998/sheet/00001r.jpg#h=424&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/il/il0900/il0998/sheet/00001v.jpg#h=678&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        40.4587905943781,
+        -88.0984412098
+      ],
+      "location": [
+        "ford county",
+        "paxton",
+        "illinois"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -88.0984412098,
+        40.4587905943781
+      ],
+      "mime_type": [
+        "image/tiff",
+        "image/jpg",
+        "image/jpeg",
+        "image/jpeg",
+        "application/json"
+      ],
+      "number": [
+        "0000000001"
+      ],
+      "number_page": [
+        "0000000001"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "resources": [
+        {
+          "files": 1,
+          "url": "https://www.loc.gov/resource/hhh.il0998.sheet/?sp=1"
+        }
+      ],
+      "segmentof": [
+        "http://www.loc.gov/resource/hhh.il0998.sheet/"
+      ],
+      "shelf_id": "01",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "classical revival architectural elements",
+        "libraries",
+        "beaux-arts architectural elements"
+      ],
+      "timestamp": "2023-11-13T17:53:20.385Z",
+      "title": "Cover Sheet - Paxton Carnegie Library, 254 South Market Street, Paxton, Ford County, IL",
+      "type": [
+        "segment"
+      ],
+      "url": "https://www.loc.gov/resource/hhh.il0998.sheet/?sp=1"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294092682,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "viewer_pagination": {
+    "current": 1,
+    "first": null,
+    "from": 1,
+    "last": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&sp=4",
+    "next": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&sp=2",
+    "of": 21,
+    "page_list": [
+      {
+        "number": 1,
+        "url": null
+      },
+      {
+        "number": 2,
+        "url": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&sp=2"
+      },
+      {
+        "number": 3,
+        "url": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&sp=3"
+      },
+      {
+        "number": "...",
+        "url": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&sp=4"
+      }
+    ],
+    "perpage": 1,
+    "perpage_options": [
+      25,
+      50,
+      100,
+      150
+    ],
+    "previous": null,
+    "results": "1 - 1",
+    "to": 1,
+    "total": 21
+  },
+  "views": {
+    "brief": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&sp=1&st=gallery",
+    "grid": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&sp=1&st=grid",
+    "image": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&sp=1&st=list",
+    "pdf": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&sp=1",
+    "slideshow": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&sp=1&st=slideshow",
+    "text": "https://www.loc.gov/resource/hhh.il0998.sheet/?fo=json&sp=1&st=text"
+  }
+}

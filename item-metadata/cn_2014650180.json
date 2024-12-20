@@ -1,0 +1,1782 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Handy, L. C. (ca. 1900) <cite>Buffalo, N.Y. -Public library - children's room</cite>. Buffalo New York, ca. 1900. [Buffalo, New York] [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2014650180/.",
+    "chicago": "Handy, Levin C. <cite>Buffalo, N.Y. -Public library - children's room</cite>. Buffalo New York, ca. 1900. [Buffalo, New York] Photograph. https://www.loc.gov/item/2014650180/.",
+    "mla": "Handy, Levin C. <cite>Buffalo, N.Y. -Public library - children's room</cite>. [Buffalo, New York] Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2014650180/&gt;."
+  },
+  "item": {
+    "_version_": 1731696067024519168,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2014650180/",
+      "http://www.loc.gov/item/2014650180/",
+      "http://www.loc.gov/pictures/item/2014650180/",
+      "https://www.loc.gov/pictures/collection/cph/item/2014650180/",
+      "http://www.loc.gov/pictures/collection/cph/item/2014650180/",
+      "http://www.loc.gov/resource/ds.06507/",
+      "https://hdl.loc.gov/loc.pnp/ds.06507",
+      "http://lccn.loc.gov/2014650180"
+    ],
+    "call_number": "LOT 6437 [item] [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Handy, Levin C. (Levin Corbin), 1855-1932."
+    ],
+    "contributors": [
+      {
+        "handy, levin c. (levin corbin)": "https://www.loc.gov/search/?fa=contributor:handy,+levin+c.+%28levin+corbin%29&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2016-04-20T03:26:54Z",
+    "created_published": [
+      "[Buffalo, New York], [ca. 1900]"
+    ],
+    "created_published_date": "[ca. 1900]",
+    "date": "1900-01-01",
+    "dates": [
+      {
+        "1900": "https://www.loc.gov/search/?dates=1900/1900&fo=json"
+      }
+    ],
+    "description": [
+      "1 photograph : gelatin silver print ; sheet 24 x 19 cm. | Photograph shows girls and boys reading in the children's room at the public library in Buffalo, New York."
+    ],
+    "digital_id": [
+      "ds 06507 //hdl.loc.gov/loc.pnp/ds.06507"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-24T20:36:36.758Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/cph/item/2014650180/#cph",
+      "http://lccn.loc.gov/2014650180#catalog-split-11"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Photographic prints--1890-1910."
+    ],
+    "genre": [
+      "Photographic prints--1890-1910"
+    ],
+    "group": [
+      "cph",
+      "catalog-split-11",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-11",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2014650180/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06507_150px.jpg#h=121&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06507r.jpg#h=516&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06507v.jpg#h=826&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LOT 6437 [item] [P&P]",
+      "contributor_names": [
+        "Handy, Levin C. (Levin Corbin), 1855-1932.,  "
+      ],
+      "contributors": [
+        "Handy, Levin C. (Levin Corbin), 1855-1932."
+      ],
+      "control_number": "2014650180",
+      "created": "2016-04-20T03:26:54Z",
+      "created_published": "[Buffalo, New York], [ca. 1900]",
+      "created_published_date": "[ca. 1900]",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Handy%2C%20Levin%20C.%20%28Levin%20Corbin%29%2C%201855-1932.&co=cph",
+          "role": "",
+          "title": "Handy, Levin C. (Levin Corbin), 1855-1932."
+        }
+      ],
+      "date": "[ca. 1900]",
+      "digital_id": [
+        "ds 06507 //hdl.loc.gov/loc.pnp/ds.06507"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1890-1910.&co=cph",
+          "title": "Photographic prints--1890-1910."
+        }
+      ],
+      "genre": [
+        "Photographic prints--1890-1910"
+      ],
+      "id": "2014650180",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2014650180/",
+      "location": [
+        "New York (State)--Buffalo"
+      ],
+      "marc": "https://www.loc.gov/pictures/item/2014650180/marc/",
+      "medium": [
+        "1 photograph : gelatin silver print ; sheet 24 x 19 cm."
+      ],
+      "medium_brief": "1 photograph :",
+      "mediums": [
+        "1 photograph : gelatin silver print ; sheet 24 x 19 cm."
+      ],
+      "modified": "2016-04-20T03:26:54Z",
+      "notes": [
+        "Title from item.",
+        "Handwritten on recto: \"card 125, 1 plate, total 8.\"",
+        "Stamped on recto: \"Negative by L.C. Handy.\"",
+        "Print from copy negative by L.C. Handy."
+      ],
+      "other_control_numbers": [
+        "18404160"
+      ],
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York%20%28State%29--Buffalo&co=cph",
+          "longitude": "",
+          "title": "New York (State)--Buffalo"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-ds-06507 (digital file from original item)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/ds.06507"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06507_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06507r.jpg",
+      "sort_date": "1900",
+      "source_created": "2014-12-11T00:00:00Z",
+      "source_modified": "2014-12-11T17:25:01Z",
+      "subject_headings": [
+        "Public libraries--New York (State)--Buffalo--1890-1910.",
+        "Children--New York (State)--Buffalo--1890-1910.",
+        "Reading--New York (State)--Buffalo--1890-1910.",
+        "New York (State)--Buffalo"
+      ],
+      "subjects": [
+        "Public libraries--New York (State)--Buffalo--1890-1910",
+        "Children--New York (State)--Buffalo--1890-1910",
+        "Reading--New York (State)--Buffalo--1890-1910"
+      ],
+      "summary": "Photograph shows girls and boys reading in the children's room at the public library in Buffalo, New York.",
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06507_150px.jpg",
+      "title": "Buffalo, N.Y. -  Public library - children's room"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2014650180",
+    "link": "https://www.loc.gov/pictures/item/2014650180/",
+    "location": [
+      "buffalo",
+      "new york"
+    ],
+    "locations": [
+      {
+        "buffalo": "https://www.loc.gov/search/?fa=location:buffalo&fo=json"
+      },
+      {
+        "new york": "https://www.loc.gov/search/?fa=location:new+york&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2014650180/marc/",
+    "medium": [
+      "1 photograph : gelatin silver print ; sheet 24 x 19 cm."
+    ],
+    "medium_brief": "1 photograph :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2016-04-20T03:26:54Z",
+    "notes": [
+      "Title from item.",
+      "Handwritten on recto: \"card 125, 1 plate, total 8.\"",
+      "Stamped on recto: \"Negative by L.C. Handy.\"",
+      "Print from copy negative by L.C. Handy."
+    ],
+    "number": [
+      "sheet",
+      "2014650180",
+      "http://www.loc.gov/item/18404160",
+      "2014-12-11t17:25:01"
+    ],
+    "number_carrier_type": [
+      "sheet"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/18404160"
+    ],
+    "number_lccn": [
+      "2014650180"
+    ],
+    "number_source_modified": [
+      "2014-12-11t17:25:01"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "18404160"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2014650180/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2014650180/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2014650180/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 16,
+        "title": "lot 6437",
+        "url": "https://www.loc.gov/search/?fa=partof:lot+6437&fo=json"
+      },
+      {
+        "count": 117442,
+        "title": "miscellaneous items in high demand",
+        "url": "https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20York%20%28State%29--Buffalo&co=cph",
+        "longitude": "",
+        "title": "New York (State)--Buffalo"
+      }
+    ],
+    "related": {
+      "group_record": "https://www.loc.gov/pictures/search/?q=LOT 6437&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2014650180&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-ds-06507 (digital file from original item)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/ds.06507"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from original item",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06507_150px.jpg",
+        "url": "https://www.loc.gov/resource/ds.06507/"
+      }
+    ],
+    "rights": [],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "LOT 6437 [item] [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1900",
+    "source_created": "2014-12-11T00:00:00Z",
+    "source_modified": "2014-12-11T17:25:01Z",
+    "subject": [
+      "photographic prints",
+      "new york (state)",
+      "children",
+      "buffalo",
+      "public libraries",
+      "reading"
+    ],
+    "subject_headings": [
+      "Public libraries--New York (State)--Buffalo--1890-1910",
+      "Children--New York (State)--Buffalo--1890-1910",
+      "Reading--New York (State)--Buffalo--1890-1910"
+    ],
+    "subjects": [
+      {
+        "buffalo": "https://www.loc.gov/search/?fa=subject:buffalo&fo=json"
+      },
+      {
+        "children": "https://www.loc.gov/search/?fa=subject:children&fo=json"
+      },
+      {
+        "new york (state)": "https://www.loc.gov/search/?fa=subject:new+york+%28state%29&fo=json"
+      },
+      {
+        "photographic prints": "https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json"
+      },
+      {
+        "public libraries": "https://www.loc.gov/search/?fa=subject:public+libraries&fo=json"
+      },
+      {
+        "reading": "https://www.loc.gov/search/?fa=subject:reading&fo=json"
+      }
+    ],
+    "summary": "Photograph shows girls and boys reading in the children's room at the public library in Buffalo, New York.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06507_150px.jpg",
+    "timestamp": "2022-05-02T06:47:42.802Z",
+    "title": "Buffalo, N.Y. -  Public library - children's room",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2014650180/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014647581/",
+        "http://www.loc.gov/item/2014647581/",
+        "http://www.loc.gov/pictures/item/2014647581/",
+        "https://www.loc.gov/pictures/collection/cph/item/2014647581/",
+        "http://www.loc.gov/pictures/collection/cph/item/2014647581/",
+        "http://www.loc.gov/resource/ds.06502/",
+        "http://lccn.loc.gov/2014647581",
+        "https://hdl.loc.gov/loc.pnp/ds.06502"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "handy, levin c. (levin corbin)"
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 photograph : gelatin silver print ; sheet 27 x 34 cm. | Photograph shows empty book shelves."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T13:30:22.781Z",
+      "group": [
+        "cph",
+        "catalog-split-06",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-06",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014647581/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06502_150px.jpg#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06502r.jpg#h=512&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06502v.jpg#h=819&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "southport",
+        "connecticut"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2014647581",
+        "sheet",
+        "2014-09-22t15:29:54",
+        "http://www.loc.gov/item/18311845"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "miscellaneous items in high demand",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "lot 6437"
+      ],
+      "score": 31.163145,
+      "shelf_id": "LOT 6437 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "bookstacks",
+        "southport",
+        "connecticut",
+        "photographic prints",
+        "pequot library",
+        "equipment & supplies",
+        "public libraries"
+      ],
+      "timestamp": "2022-05-02T06:44:44.106Z",
+      "title": "Pequot Library, Southport, Conn.",
+      "url": "https://www.loc.gov/item/2014647581/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014647582/",
+        "http://www.loc.gov/item/2014647582/",
+        "http://www.loc.gov/pictures/item/2014647582/",
+        "https://www.loc.gov/pictures/collection/cph/item/2014647582/",
+        "http://www.loc.gov/pictures/collection/cph/item/2014647582/",
+        "http://www.loc.gov/resource/ds.06504/",
+        "https://hdl.loc.gov/loc.pnp/ds.06504",
+        "http://lccn.loc.gov/2014647582"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "handy, levin c. (levin corbin)"
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 photograph : gelatin silver print ; sheet 24 x 19 cm. | Photograph shows staircase at the Central Library, Chicago Public Library."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-24T20:34:32.814Z",
+      "group": [
+        "cph",
+        "catalog-split-07",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-07",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014647582/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06504_150px.jpg#h=150&w=115",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06504r.jpg#h=640&w=489",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06504v.jpg#h=1024&w=782"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "illinois",
+        "chicago"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/18311885",
+        "sheet",
+        "2014-09-22t15:36:06",
+        "2014647582"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "miscellaneous items in high demand",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "lot 6437"
+      ],
+      "score": 31.163145,
+      "shelf_id": "LOT 6437 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "central library",
+        "chicago",
+        "stairways",
+        "photographic prints",
+        "chicago public library",
+        "illinois",
+        "buildings",
+        "public libraries"
+      ],
+      "timestamp": "2022-05-02T06:44:44.106Z",
+      "title": "Washington St. staircase",
+      "url": "https://www.loc.gov/item/2014647582/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014650178/",
+        "http://www.loc.gov/item/2014650178/",
+        "http://www.loc.gov/pictures/item/2014650178/",
+        "https://www.loc.gov/pictures/collection/cph/item/2014650178/",
+        "http://www.loc.gov/pictures/collection/cph/item/2014650178/",
+        "http://www.loc.gov/resource/ds.06506/",
+        "https://hdl.loc.gov/loc.pnp/ds.06506",
+        "http://lccn.loc.gov/2014650178"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "handy, levin c. (levin corbin)"
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 photograph : gelatin silver print ; sheet 24 x 19 cm. | Photograph shows bulletin boards at the Central Library, Chicago Public Library."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T13:36:24.577Z",
+      "group": [
+        "cph",
+        "catalog-split-02",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014650178/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06506_150px.jpg#h=150&w=120",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06506r.jpg#h=640&w=512",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06506v.jpg#h=1024&w=820"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "illinois",
+        "chicago"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "sheet",
+        "2014650178",
+        "2014-12-11t17:40:17",
+        "http://www.loc.gov/item/18404120"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "miscellaneous items in high demand",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "lot 6437"
+      ],
+      "score": 31.163145,
+      "shelf_id": "LOT 6437 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "central library",
+        "chicago",
+        "photographic prints",
+        "bulletin boards",
+        "chicago public library",
+        "illinois",
+        "buildings",
+        "public libraries"
+      ],
+      "timestamp": "2022-05-02T06:47:42.802Z",
+      "title": "Delivery room - bulletin board",
+      "url": "https://www.loc.gov/item/2014650178/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014650179/",
+        "http://www.loc.gov/item/2014650179/",
+        "http://www.loc.gov/pictures/item/2014650179/",
+        "https://www.loc.gov/pictures/collection/cph/item/2014650179/",
+        "http://www.loc.gov/pictures/collection/cph/item/2014650179/",
+        "http://www.loc.gov/resource/ds.06505/",
+        "https://hdl.loc.gov/loc.pnp/ds.06505",
+        "http://lccn.loc.gov/2014650179"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "handy, levin c. (levin corbin)"
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 photograph : gelatin silver print ; sheet 24 x 19 cm. | Photograph shows photographs in storage cabinets and books on shelves at the public library in Brookline, Massachusetts."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-24T20:36:36.758Z",
+      "group": [
+        "cph",
+        "catalog-split-03",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014650179/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06505_150px.jpg#h=124&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06505r.jpg#h=529&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06505v.jpg#h=846&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "massachusetts",
+        "brookline"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2014-12-11t17:12:31",
+        "sheet",
+        "http://www.loc.gov/item/18404150",
+        "2014650179"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "miscellaneous items in high demand",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "lot 6437"
+      ],
+      "score": 31.163145,
+      "shelf_id": "LOT 6437 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "photographic prints",
+        "massachusetts",
+        "cabinets (case furniture)",
+        "brookline",
+        "photographs",
+        "books",
+        "public libraries"
+      ],
+      "timestamp": "2022-05-02T06:47:42.802Z",
+      "title": "Alcove containing books on art, showing cabinets for storing photographs",
+      "url": "https://www.loc.gov/item/2014650179/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014650181/",
+        "http://www.loc.gov/item/2014650181/",
+        "http://www.loc.gov/pictures/item/2014650181/",
+        "https://www.loc.gov/pictures/collection/cph/item/2014650181/",
+        "http://www.loc.gov/pictures/collection/cph/item/2014650181/",
+        "http://www.loc.gov/resource/ds.06509/",
+        "https://hdl.loc.gov/loc.pnp/ds.06509",
+        "http://lccn.loc.gov/2014650181"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "handy, levin c. (levin corbin)"
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 photograph : gelatin silver print ; sheet 24 x 19 cm. | Photograph shows an office with a desk, book stand, cabinets, books, and a fireplace at the Millicent Library, Fairhaven, Massachusetts."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-24T20:36:36.758Z",
+      "group": [
+        "cph",
+        "catalog-split-12",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014650181/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06509_150px.jpg#h=126&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06509r.jpg#h=539&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06509v.jpg#h=862&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "fairhaven",
+        "massachusetts"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/18404172",
+        "sheet",
+        "2014-12-11t17:33:20",
+        "2014650181"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "miscellaneous items in high demand",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "lot 6437"
+      ],
+      "score": 31.163145,
+      "shelf_id": "LOT 6437 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "offices",
+        "millicent library",
+        "massachusetts",
+        "photographic prints",
+        "fairhaven",
+        "public libraries"
+      ],
+      "timestamp": "2022-05-02T06:47:42.802Z",
+      "title": "Librarian's room",
+      "url": "https://www.loc.gov/item/2014650181/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014650182/",
+        "http://www.loc.gov/item/2014650182/",
+        "http://www.loc.gov/pictures/item/2014650182/",
+        "https://www.loc.gov/pictures/collection/cph/item/2014650182/",
+        "http://www.loc.gov/pictures/collection/cph/item/2014650182/",
+        "http://www.loc.gov/resource/ds.06508/",
+        "http://lccn.loc.gov/2014650182",
+        "https://hdl.loc.gov/loc.pnp/ds.06508"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "handy, levin c. (levin corbin)"
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 photograph : gelatin silver print ; sheet 24 x 19 cm. | Photograph shows exhibit cases of birds and plants at the City Library, Springfield, Massachusetts."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-24T20:36:36.758Z",
+      "group": [
+        "cph",
+        "catalog-split-13",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014650182/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06508_150px.jpg#h=127&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06508r.jpg#h=542&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06508v.jpg#h=868&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "springfield",
+        "fairhaven",
+        "massachusetts"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/18404183",
+        "sheet",
+        "2014650182",
+        "2014-12-11t17:39:55"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "miscellaneous items in high demand",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "lot 6437"
+      ],
+      "score": 31.163145,
+      "shelf_id": "LOT 6437 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "springfield city library (mass.)",
+        "photographic prints",
+        "massachusetts",
+        "exhibitions",
+        "springfield",
+        "fairhaven",
+        "buildings",
+        "public libraries"
+      ],
+      "timestamp": "2022-05-02T06:47:42.802Z",
+      "title": "Museum of natural history",
+      "url": "https://www.loc.gov/item/2014650182/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "cph",
+      "catalog-split-11",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-11",
+      "main-catalog",
+      "catalog-split-06",
+      "main-catalog-split-06",
+      "catalog-split-07",
+      "main-catalog-split-07",
+      "catalog-split-02",
+      "main-catalog-split-02",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "catalog-split-12",
+      "main-catalog-split-12",
+      "catalog-split-13",
+      "main-catalog-split-13",
+      "ndnp/ohi",
+      "ohio-historical-society-awardee"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "ds.06507",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 1.09205961227417,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/ds.06507/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/ds.06507/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294118.2105916,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 136612494,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/ds/06500/06507u.tif",
+      "width": 0
+    },
+    {
+      "height": 121,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 16984,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06507_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 516,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 75730,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06507r.jpg",
+      "width": 640
+    },
+    {
+      "height": 826,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 415232,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06507v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": "https://www.loc.gov/pictures/search/?q=LOT 6437&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2014650180&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83045274/1903-05-30/ed-1/",
+        "http://www.loc.gov/resource/sn83045274/1903-05-30/ed-1/"
+      ],
+      "batch": [
+        "ohi_bartleby_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ohio history connection, columbus, oh"
+      ],
+      "date": "1903-05-30",
+      "dates": [
+        "1903-05-30"
+      ],
+      "description": [
+        "Toledo, Ohio"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-09-04T23:14:45.968Z",
+      "group": [
+        "ndnp/ohi",
+        "ohio-historical-society-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83045274/1903-05-30/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bartleby_ver01:data:sn83045274:00279556124:1903053001:0622/full/pct:3.125/0/default.jpg#h=263&w=184",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bartleby_ver01:data:sn83045274:00279556124:1903053001:0622/full/pct:6.25/0/default.jpg#h=527&w=369",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bartleby_ver01:data:sn83045274:00279556124:1903053001:0622/full/pct:12.5/0/default.jpg#h=1055&w=739"
+      ],
+      "index": 1,
+      "language": [
+        "polish"
+      ],
+      "location": [
+        "chicago",
+        "cook",
+        "toledo",
+        "united states",
+        "new york",
+        "illinois",
+        "buffalo",
+        "lucas",
+        "ohio"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00279556124",
+        "sn83045274",
+        "1"
+      ],
+      "numeric_shelf_id": 190305301,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Issues for July 4, 1903-Feb. 6, 1904, published as: Ameryka tygodnik polski",
+        "Polish weekly Ameryka",
+        "Ameryka"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "ameryka echo (toledo, ohio) 1902-1971",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 18.098375,
+      "shelf_id": "sn83045274, 1903-05-30, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "buffalo (n.y.)",
+        "chicago",
+        "buffalo",
+        "cook",
+        "newspapers",
+        "new york (state)",
+        "toledo",
+        "united states",
+        "illinois",
+        "ohio",
+        "polish",
+        "chicago (ill.)",
+        "polish people",
+        "lucas",
+        "polish americans",
+        "toledo (ohio)"
+      ],
+      "timestamp": "2023-09-05T02:00:55.036Z",
+      "title": "Ameryka echo (Toledo, Ohio), May 30, 1903",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83045274/1903-05-30/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83045274/1903-06-06/ed-1/",
+        "http://www.loc.gov/resource/sn83045274/1903-06-06/ed-1/"
+      ],
+      "batch": [
+        "ohi_bartleby_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ohio history connection, columbus, oh"
+      ],
+      "date": "1903-06-06",
+      "dates": [
+        "1903-06-06"
+      ],
+      "description": [
+        "Toledo, Ohio"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-09-04T23:14:45.968Z",
+      "group": [
+        "ndnp/ohi",
+        "ohio-historical-society-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83045274/1903-06-06/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bartleby_ver01:data:sn83045274:00279556124:1903060601:0634/full/pct:3.125/0/default.jpg#h=265&w=184",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bartleby_ver01:data:sn83045274:00279556124:1903060601:0634/full/pct:6.25/0/default.jpg#h=530&w=369",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bartleby_ver01:data:sn83045274:00279556124:1903060601:0634/full/pct:12.5/0/default.jpg#h=1061&w=738"
+      ],
+      "index": 2,
+      "language": [
+        "polish"
+      ],
+      "location": [
+        "chicago",
+        "cook",
+        "toledo",
+        "united states",
+        "new york",
+        "illinois",
+        "buffalo",
+        "lucas",
+        "ohio"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00279556124",
+        "sn83045274",
+        "1"
+      ],
+      "numeric_shelf_id": 190306061,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Issues for July 4, 1903-Feb. 6, 1904, published as: Ameryka tygodnik polski",
+        "Polish weekly Ameryka",
+        "Ameryka"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "ameryka echo (toledo, ohio) 1902-1971",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 18.098375,
+      "shelf_id": "sn83045274, 1903-06-06, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "buffalo (n.y.)",
+        "chicago",
+        "buffalo",
+        "cook",
+        "newspapers",
+        "new york (state)",
+        "toledo",
+        "united states",
+        "illinois",
+        "ohio",
+        "polish",
+        "chicago (ill.)",
+        "polish people",
+        "lucas",
+        "polish americans",
+        "toledo (ohio)"
+      ],
+      "timestamp": "2023-09-05T02:00:55.036Z",
+      "title": "Ameryka echo (Toledo, Ohio), June 6, 1903",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83045274/1903-06-06/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83045274/1903-07-04/ed-1/",
+        "http://www.loc.gov/resource/sn83045274/1903-07-04/ed-1/"
+      ],
+      "batch": [
+        "ohi_bartleby_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ohio history connection, columbus, oh"
+      ],
+      "date": "1903-07-04",
+      "dates": [
+        "1903-07-04"
+      ],
+      "description": [
+        "Toledo, Ohio"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-09-04T23:14:45.968Z",
+      "group": [
+        "ndnp/ohi",
+        "ohio-historical-society-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83045274/1903-07-04/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bartleby_ver01:data:sn83045274:00279556124:1903070401:0688/full/pct:3.125/0/default.jpg#h=266&w=185",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bartleby_ver01:data:sn83045274:00279556124:1903070401:0688/full/pct:6.25/0/default.jpg#h=532&w=371",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bartleby_ver01:data:sn83045274:00279556124:1903070401:0688/full/pct:12.5/0/default.jpg#h=1065&w=743"
+      ],
+      "index": 3,
+      "language": [
+        "polish"
+      ],
+      "location": [
+        "chicago",
+        "cook",
+        "toledo",
+        "united states",
+        "new york",
+        "illinois",
+        "buffalo",
+        "lucas",
+        "ohio"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00279556124",
+        "sn83045274",
+        "1"
+      ],
+      "numeric_shelf_id": 190307041,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Issues for July 4, 1903-Feb. 6, 1904, published as: Ameryka tygodnik polski",
+        "Polish weekly Ameryka",
+        "Ameryka"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "ameryka echo (toledo, ohio) 1902-1971",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 18.098375,
+      "shelf_id": "sn83045274, 1903-07-04, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "buffalo (n.y.)",
+        "chicago",
+        "buffalo",
+        "cook",
+        "newspapers",
+        "new york (state)",
+        "toledo",
+        "united states",
+        "illinois",
+        "ohio",
+        "polish",
+        "chicago (ill.)",
+        "polish people",
+        "lucas",
+        "polish americans",
+        "toledo (ohio)"
+      ],
+      "timestamp": "2023-09-05T02:00:55.036Z",
+      "title": "Ameryka echo (Toledo, Ohio), July 4, 1903",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83045274/1903-07-04/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83045274/1903-08-01/ed-1/",
+        "http://www.loc.gov/resource/sn83045274/1903-08-01/ed-1/"
+      ],
+      "batch": [
+        "ohi_bartleby_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ohio history connection, columbus, oh"
+      ],
+      "date": "1903-08-01",
+      "dates": [
+        "1903-08-01"
+      ],
+      "description": [
+        "Toledo, Ohio"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-09-04T23:14:45.968Z",
+      "group": [
+        "ndnp/ohi",
+        "ohio-historical-society-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83045274/1903-08-01/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bartleby_ver01:data:sn83045274:00279556124:1903080101:0736/full/pct:3.125/0/default.jpg#h=266&w=185",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bartleby_ver01:data:sn83045274:00279556124:1903080101:0736/full/pct:6.25/0/default.jpg#h=532&w=371",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bartleby_ver01:data:sn83045274:00279556124:1903080101:0736/full/pct:12.5/0/default.jpg#h=1064&w=743"
+      ],
+      "index": 4,
+      "language": [
+        "polish"
+      ],
+      "location": [
+        "chicago",
+        "cook",
+        "toledo",
+        "united states",
+        "new york",
+        "illinois",
+        "buffalo",
+        "lucas",
+        "ohio"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00279556124",
+        "sn83045274",
+        "1"
+      ],
+      "numeric_shelf_id": 190308011,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Issues for July 4, 1903-Feb. 6, 1904, published as: Ameryka tygodnik polski",
+        "Polish weekly Ameryka",
+        "Ameryka"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "ameryka echo (toledo, ohio) 1902-1971",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 18.098375,
+      "shelf_id": "sn83045274, 1903-08-01, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "buffalo (n.y.)",
+        "chicago",
+        "buffalo",
+        "cook",
+        "newspapers",
+        "new york (state)",
+        "toledo",
+        "united states",
+        "illinois",
+        "ohio",
+        "polish",
+        "chicago (ill.)",
+        "polish people",
+        "lucas",
+        "polish americans",
+        "toledo (ohio)"
+      ],
+      "timestamp": "2023-09-05T02:00:55.036Z",
+      "title": "Ameryka echo (Toledo, Ohio), August 1, 1903",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83045274/1903-08-01/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83045274/1903-09-05/ed-1/",
+        "http://www.loc.gov/resource/sn83045274/1903-09-05/ed-1/"
+      ],
+      "batch": [
+        "ohi_bartleby_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ohio history connection, columbus, oh"
+      ],
+      "date": "1903-09-05",
+      "dates": [
+        "1903-09-05"
+      ],
+      "description": [
+        "Toledo, Ohio"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-09-04T23:14:45.968Z",
+      "group": [
+        "ndnp/ohi",
+        "ohio-historical-society-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83045274/1903-09-05/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bartleby_ver01:data:sn83045274:00279556124:1903090501:0798/full/pct:3.125/0/default.jpg#h=266&w=185",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bartleby_ver01:data:sn83045274:00279556124:1903090501:0798/full/pct:6.25/0/default.jpg#h=533&w=371",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bartleby_ver01:data:sn83045274:00279556124:1903090501:0798/full/pct:12.5/0/default.jpg#h=1066&w=742"
+      ],
+      "index": 5,
+      "language": [
+        "polish"
+      ],
+      "location": [
+        "chicago",
+        "cook",
+        "toledo",
+        "united states",
+        "new york",
+        "illinois",
+        "buffalo",
+        "lucas",
+        "ohio"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00279556124",
+        "sn83045274",
+        "1"
+      ],
+      "numeric_shelf_id": 190309051,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Issues for July 4, 1903-Feb. 6, 1904, published as: Ameryka tygodnik polski",
+        "Polish weekly Ameryka",
+        "Ameryka"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "ameryka echo (toledo, ohio) 1902-1971",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 18.098375,
+      "shelf_id": "sn83045274, 1903-09-05, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "buffalo (n.y.)",
+        "chicago",
+        "buffalo",
+        "cook",
+        "newspapers",
+        "new york (state)",
+        "toledo",
+        "united states",
+        "illinois",
+        "ohio",
+        "polish",
+        "chicago (ill.)",
+        "polish people",
+        "lucas",
+        "polish americans",
+        "toledo (ohio)"
+      ],
+      "timestamp": "2023-09-05T02:00:55.036Z",
+      "title": "Ameryka echo (Toledo, Ohio), September 5, 1903",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83045274/1903-09-05/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83045274/1903-06-13/ed-1/",
+        "http://www.loc.gov/resource/sn83045274/1903-06-13/ed-1/"
+      ],
+      "batch": [
+        "ohi_bartleby_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ohio history connection, columbus, oh"
+      ],
+      "date": "1903-06-13",
+      "dates": [
+        "1903-06-13"
+      ],
+      "description": [
+        "Toledo, Ohio"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-09-04T23:14:45.968Z",
+      "group": [
+        "ndnp/ohi",
+        "ohio-historical-society-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83045274/1903-06-13/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bartleby_ver01:data:sn83045274:00279556124:1903061301:0646/full/pct:3.125/0/default.jpg#h=265&w=185",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bartleby_ver01:data:sn83045274:00279556124:1903061301:0646/full/pct:6.25/0/default.jpg#h=530&w=370",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_bartleby_ver01:data:sn83045274:00279556124:1903061301:0646/full/pct:12.5/0/default.jpg#h=1060&w=740"
+      ],
+      "index": 6,
+      "language": [
+        "polish"
+      ],
+      "location": [
+        "chicago",
+        "cook",
+        "toledo",
+        "united states",
+        "new york",
+        "illinois",
+        "buffalo",
+        "lucas",
+        "ohio"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00279556124",
+        "sn83045274",
+        "1"
+      ],
+      "numeric_shelf_id": 190306131,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Issues for July 4, 1903-Feb. 6, 1904, published as: Ameryka tygodnik polski",
+        "Polish weekly Ameryka",
+        "Ameryka"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "ameryka echo (toledo, ohio) 1902-1971",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 18.098375,
+      "shelf_id": "sn83045274, 1903-06-13, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "buffalo (n.y.)",
+        "chicago",
+        "buffalo",
+        "cook",
+        "newspapers",
+        "new york (state)",
+        "toledo",
+        "united states",
+        "illinois",
+        "ohio",
+        "polish",
+        "chicago (ill.)",
+        "polish people",
+        "lucas",
+        "polish americans",
+        "toledo (ohio)"
+      ],
+      "timestamp": "2023-09-05T02:00:55.036Z",
+      "title": "Ameryka echo (Toledo, Ohio), June 13, 1903",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83045274/1903-06-13/ed-1/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "digital file from original item",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06507_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/ds.06507/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from original item",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06507_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/ds.06507/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294119302,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/ds.06507/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/ds.06507/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/ds.06507/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/ds.06507/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/ds.06507/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/ds.06507/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/ds.06507/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/ds.06507/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/ds.06507/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/ds.06507/?fo=json&st=text"
+  }
+}

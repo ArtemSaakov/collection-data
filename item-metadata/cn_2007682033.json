@@ -1,0 +1,1711 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "(ca. 1895) <cite>Main entrance. Boston Public Library</cite>. Boston Massachusetts, ca. 1895. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2007682033/.",
+    "chicago": "<cite>Main entrance. Boston Public Library</cite>. Boston Massachusetts, ca. 1895. Photograph. https://www.loc.gov/item/2007682033/.",
+    "mla": "<cite>Main entrance. Boston Public Library</cite>. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2007682033/&gt;."
+  },
+  "item": {
+    "_version_": 1731688327688486912,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2007682033/",
+      "http://www.loc.gov/item/2007682033/",
+      "http://www.loc.gov/pictures/item/2007682033/",
+      "https://www.loc.gov/pictures/collection/cph/item/2007682033/",
+      "http://www.loc.gov/pictures/collection/cph/item/2007682033/",
+      "http://www.loc.gov/resource/ppmsca.15426/",
+      "https://hdl.loc.gov/loc.pnp/ppmsca.15426",
+      "http://lccn.loc.gov/2007682033"
+    ],
+    "call_number": "U.S. GEOG FILE - Mass.--Boston--Public bldgs.--Library [item] [P&P]",
+    "campaigns": [],
+    "control_number": "",
+    "created": "2016-04-20T05:54:39Z",
+    "created_published": [
+      "c1895."
+    ],
+    "created_published_date": "c1895.",
+    "date": "1895-01-01",
+    "dates": [
+      {
+        "1895": "https://www.loc.gov/search/?dates=1895/1895&fo=json"
+      }
+    ],
+    "description": [
+      "1 photographic print. | Photograph shows the staircase corridor at the main entrance of the Boston Public Library."
+    ],
+    "digital_id": [
+      "ppmsca 15426 //hdl.loc.gov/loc.pnp/ppmsca.15426"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-26T07:26:03.139Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/cph/item/2007682033/#cph",
+      "http://lccn.loc.gov/2007682033#catalog-split-15"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Photographic prints--1890-1900."
+    ],
+    "genre": [
+      "Photographic prints--1890-1900"
+    ],
+    "group": [
+      "cph",
+      "catalog-split-15",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-15",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2007682033/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15426_150px.jpg#h=150&w=120",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15426t.gif#h=150&w=120",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15426r.jpg#h=640&w=514",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15426v.jpg#h=1024&w=822"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "U.S. GEOG FILE - Mass.--Boston--Public bldgs.--Library [item] [P&P]",
+      "control_number": "2007682033",
+      "created": "2016-04-20T05:54:39Z",
+      "created_published": "c1895.",
+      "created_published_date": "c1895.",
+      "date": "c1895.",
+      "digital_id": [
+        "ppmsca 15426 //hdl.loc.gov/loc.pnp/ppmsca.15426"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1890-1900.&co=cph",
+          "title": "Photographic prints--1890-1900."
+        }
+      ],
+      "genre": [
+        "Photographic prints--1890-1900"
+      ],
+      "id": "2007682033",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2007682033/",
+      "location": [
+        "Massachusetts--Boston"
+      ],
+      "marc": "https://www.loc.gov/pictures/item/2007682033/marc/",
+      "medium": [
+        "1 photographic print."
+      ],
+      "medium_brief": "1 photographic print.",
+      "mediums": [
+        "1 photographic print."
+      ],
+      "modified": "2016-04-20T05:54:39Z",
+      "notes": [
+        "26619 U.S. Copyright Office.",
+        "69479-B-1 U.S. Copyright Office.",
+        "Title from item.",
+        "Copyright 1895 by Charles Pollock, Boston."
+      ],
+      "other_control_numbers": [
+        "14894250"
+      ],
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Massachusetts--Boston&co=cph",
+          "longitude": "",
+          "title": "Massachusetts--Boston"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA",
+      "reproduction_number": "LC-DIG-ppmsca-15426 (digital file from original photograph)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/ppmsca.15426"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15426_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15426r.jpg",
+      "sort_date": "1895",
+      "source_created": "2007-06-18T00:00:00Z",
+      "source_modified": "2014-12-11T08:50:16Z",
+      "subject_headings": [
+        "Boston Public Library.--1890-1900.",
+        "Libraries--Massachusetts--Boston--1890-1900.",
+        "Public libraries--Massachusetts--Boston--1890-1900.",
+        "Stairways--Massachusetts--Boston--1890-1900.",
+        "Massachusetts--Boston"
+      ],
+      "subjects": [
+        "Boston Public Library.--1890-1900",
+        "Libraries--Massachusetts--Boston--1890-1900",
+        "Public libraries--Massachusetts--Boston--1890-1900",
+        "Stairways--Massachusetts--Boston--1890-1900"
+      ],
+      "summary": "Photograph shows the staircase corridor at the main entrance of the Boston Public Library.",
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15426_150px.jpg",
+      "title": "Main entrance. Boston Public Library"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2007682033",
+    "link": "https://www.loc.gov/pictures/item/2007682033/",
+    "location": [
+      "boston",
+      "massachusetts"
+    ],
+    "locations": [
+      {
+        "boston": "https://www.loc.gov/search/?fa=location:boston&fo=json"
+      },
+      {
+        "massachusetts": "https://www.loc.gov/search/?fa=location:massachusetts&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2007682033/marc/",
+    "medium": [
+      "1 photographic print."
+    ],
+    "medium_brief": "1 photographic print.",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2016-04-20T05:54:39Z",
+    "notes": [
+      "26619 U.S. Copyright Office.",
+      "69479-B-1 U.S. Copyright Office.",
+      "Title from item.",
+      "Copyright 1895 by Charles Pollock, Boston."
+    ],
+    "number": [
+      "2014-12-11t08:50:16",
+      "2007682033",
+      "http://www.loc.gov/item/14894250"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/14894250"
+    ],
+    "number_lccn": [
+      "2007682033"
+    ],
+    "number_source_modified": [
+      "2014-12-11t08:50:16"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "14894250"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2007682033/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2007682033/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2007682033/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 117442,
+        "title": "miscellaneous items in high demand",
+        "url": "https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Massachusetts--Boston&co=cph",
+        "longitude": "",
+        "title": "Massachusetts--Boston"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2007682033&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA"
+    ],
+    "reproduction_number": "LC-DIG-ppmsca-15426 (digital file from original photograph)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/ppmsca.15426"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from original item",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15426_150px.jpg",
+        "url": "https://www.loc.gov/resource/ppmsca.15426/"
+      }
+    ],
+    "rights": [],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "U.S. GEOG FILE - Mass.--Boston--Public bldgs.--Library [item] [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1895",
+    "source_created": "2007-06-18T00:00:00Z",
+    "source_modified": "2014-12-11T08:50:16Z",
+    "subject": [
+      "boston",
+      "photographic prints",
+      "massachusetts",
+      "stairways",
+      "boston public library",
+      "libraries",
+      "public libraries"
+    ],
+    "subject_headings": [
+      "Boston Public Library.--1890-1900",
+      "Libraries--Massachusetts--Boston--1890-1900",
+      "Public libraries--Massachusetts--Boston--1890-1900",
+      "Stairways--Massachusetts--Boston--1890-1900"
+    ],
+    "subjects": [
+      {
+        "boston": "https://www.loc.gov/search/?fa=subject:boston&fo=json"
+      },
+      {
+        "boston public library": "https://www.loc.gov/search/?fa=subject:boston+public+library&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "massachusetts": "https://www.loc.gov/search/?fa=subject:massachusetts&fo=json"
+      },
+      {
+        "photographic prints": "https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json"
+      },
+      {
+        "public libraries": "https://www.loc.gov/search/?fa=subject:public+libraries&fo=json"
+      },
+      {
+        "stairways": "https://www.loc.gov/search/?fa=subject:stairways&fo=json"
+      }
+    ],
+    "summary": "Photograph shows the staircase corridor at the main entrance of the Boston Public Library.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15426_150px.jpg",
+    "timestamp": "2022-05-02T04:44:42.049Z",
+    "title": "Main entrance. Boston Public Library",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2007682033/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": true,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007682028/",
+        "http://www.loc.gov/item/2007682028/",
+        "http://www.loc.gov/pictures/item/2007682028/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007682028/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007682028/",
+        "http://www.loc.gov/resource/ppmsca.15342/",
+        "http://lccn.loc.gov/2007682028",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15342"
+      ],
+      "campaigns": [],
+      "date": "1971-01-01",
+      "dates": [
+        "1971"
+      ],
+      "description": [
+        "1 photographic print ; 8 x 10 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T11:08:47.499Z",
+      "group": [
+        "cph",
+        "catalog-split-03",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007682028/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15342_150px.jpg#h=122&w=150"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "boston",
+        "massachusetts"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/14891444",
+        "2007682028",
+        "2007-07-30t13:38:22"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 11549",
+        "miscellaneous items in high demand",
+        "catalog",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 39.737732,
+      "shelf_id": "LOT 11549 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "boston",
+        "photographic prints",
+        "massachusetts",
+        "boston public library",
+        "public libraries"
+      ],
+      "timestamp": "2022-05-02T04:44:42.049Z",
+      "title": "[Addition to the Boston Public Library]",
+      "url": "https://www.loc.gov/item/2007682028/"
+    },
+    {
+      "access_restricted": true,
+      "aka": [
+        "https://www.loc.gov/pictures/item/00651240/",
+        "http://www.loc.gov/item/00651240/",
+        "http://www.loc.gov/pictures/item/00651240/",
+        "https://www.loc.gov/pictures/collection/cph/item/00651240/",
+        "http://www.loc.gov/pictures/collection/cph/item/00651240/",
+        "http://www.loc.gov/resource/cph.3c26784/",
+        "https://hdl.loc.gov/loc.pnp/cph.3c26784",
+        "http://lccn.loc.gov/00651240"
+      ],
+      "campaigns": [],
+      "date": "1893-01-01",
+      "dates": [
+        "1893"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T18:08:35.481Z",
+      "group": [
+        "cph",
+        "catalog-split-02",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00651240/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3c20000/3c26000/3c26700/3c26784_150px.jpg#h=122&w=150"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "boston",
+        "massachusetts"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/00651240",
+        "00651240",
+        "2002-11-10t19:50:22",
+        "http://www.loc.gov/item/12139843"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand",
+        "catalog"
+      ],
+      "score": 38.468624,
+      "shelf_id": "BIOG FILE - GROUP COLL - Trustees of the Boston Public Library 1893-1894 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "boston",
+        "group portraits",
+        "photographic prints",
+        "massachusetts",
+        "people",
+        "boston public library",
+        "mantels",
+        "libraries",
+        "portrait photographs",
+        "clocks & watches"
+      ],
+      "timestamp": "2022-05-01T18:33:49.825Z",
+      "title": "[Trustees of the Boston Public Library, seated left to right: Henry W. Haynes, Frederick O. Prince, Samuel A.B. Abbot, William R. Richards, and Phineas Pierce, in room with clock on mantel]",
+      "url": "https://www.loc.gov/item/00651240/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/det/item/2016799111/",
+        "https://hdl.loc.gov/loc.pnp/det.4a29032",
+        "http://www.loc.gov/item/2016799111/",
+        "http://www.loc.gov/pictures/item/2016799111/",
+        "https://hdl.loc.gov/loc.pnp/det.4a23573",
+        "http://www.loc.gov/resource/det.4a23573/",
+        "http://www.loc.gov/resource/det.4a29032/",
+        "http://lccn.loc.gov/2016799111"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "puvis de chavannes, pierre",
+        "detroit publishing co."
+      ],
+      "date": "1901-01-01",
+      "dates": [
+        "1901"
+      ],
+      "description": [
+        "1 negative : glass ; 8 x 10 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:29:04.987Z",
+      "group": [
+        "det",
+        "catalog-split-05",
+        "catalog",
+        "detroit-publishing-company",
+        "main-catalog-split-05",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016799111/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23500/4a23573_150px.jpg#h=150&w=120",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23500/4a23573t.gif#h=150&w=120",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23500/4a23573r.jpg#h=640&w=512",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23500/4a23573v.jpg#h=1024&w=819"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "boston",
+        "massachusetts"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2016799111",
+        "http://www.loc.gov/item/2016799111",
+        "http://www.loc.gov/item/det1994005068/pp",
+        "2017-10-27t10:43:32",
+        "http://www.loc.gov/item/20098918"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "detroit publishing company",
+        "catalog",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "american memory"
+      ],
+      "score": 38.219032,
+      "shelf_id": "LC-D4-71691 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "boston",
+        "massachusetts",
+        "stairways",
+        "boston public library",
+        "libraries",
+        "dry plate negatives",
+        "murals",
+        "interiors"
+      ],
+      "timestamp": "2022-04-25T07:40:23.998Z",
+      "title": "Grand staircase, Public Library, Boston, Mass.",
+      "url": "https://www.loc.gov/item/2016799111/"
+    },
+    {
+      "access_restricted": true,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014647604/",
+        "http://www.loc.gov/item/2014647604/",
+        "http://www.loc.gov/pictures/item/2014647604/",
+        "https://www.loc.gov/pictures/collection/cph/item/2014647604/",
+        "http://www.loc.gov/pictures/collection/cph/item/2014647604/",
+        "http://www.loc.gov/resource/ds.06539/",
+        "https://hdl.loc.gov/loc.pnp/ds.06539",
+        "http://lccn.loc.gov/2014647604"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "mckim, mead & white"
+      ],
+      "date": "1898-01-01",
+      "dates": [
+        "1898"
+      ],
+      "description": [
+        "1 photograph : black and white transparency on glass ; sheet 84 x 103 mm. (lantern slide) | Photograph shows architectural drawing of first floor of the Boston Public Library."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T03:40:44.833Z",
+      "group": [
+        "cph",
+        "catalog-split-02",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014647604/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06539_150px.jpg#h=138&w=150"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "boston",
+        "massachusetts"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "sheet",
+        "2014647604",
+        "2016-12-10t21:11:13",
+        "http://www.loc.gov/item/18361432"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand",
+        "catalog"
+      ],
+      "score": 36.241867,
+      "shelf_id": "Unprocessed in PR 06 CN 446, box 2, no. 3b7 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "boston",
+        "floor plans",
+        "massachusetts",
+        "architectural drawings",
+        "boston public library",
+        "reproductions",
+        "lantern slides",
+        "public libraries",
+        "buildings"
+      ],
+      "timestamp": "2022-05-02T06:44:44.106Z",
+      "title": "Bates Hall floor plan, Boston Public Library",
+      "url": "https://www.loc.gov/item/2014647604/"
+    },
+    {
+      "access_restricted": true,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014647605/",
+        "http://www.loc.gov/item/2014647605/",
+        "http://www.loc.gov/pictures/item/2014647605/",
+        "https://www.loc.gov/pictures/collection/cph/item/2014647605/",
+        "http://www.loc.gov/pictures/collection/cph/item/2014647605/",
+        "http://www.loc.gov/resource/ds.06553/",
+        "https://hdl.loc.gov/loc.pnp/ds.06553",
+        "http://lccn.loc.gov/2014647605"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "mckim, mead & white"
+      ],
+      "date": "1898-01-01",
+      "dates": [
+        "1898"
+      ],
+      "description": [
+        "1 photograph : black and white transparency on glass ; sheet 84 x 103 mm. (lantern slide) | Photograph shows architectural drawing of ground floor of the Boston Public Library."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T03:40:44.833Z",
+      "group": [
+        "cph",
+        "catalog-split-03",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014647605/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06553_150px.jpg#h=137&w=150"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "boston",
+        "massachusetts"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "sheet",
+        "2016-12-10t21:11:09",
+        "http://www.loc.gov/item/18361449",
+        "2014647605"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand",
+        "catalog"
+      ],
+      "score": 36.241867,
+      "shelf_id": "Unprocessed in PR 06 CN 446, box 2, no. 3b5 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "boston",
+        "floor plans",
+        "massachusetts",
+        "architectural drawings",
+        "boston public library",
+        "reproductions",
+        "lantern slides",
+        "public libraries",
+        "buildings"
+      ],
+      "timestamp": "2022-05-02T06:44:44.106Z",
+      "title": "Ground floor plan, Boston Public Library",
+      "url": "https://www.loc.gov/item/2014647605/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2013647066/",
+        "http://www.loc.gov/item/2013647066/",
+        "http://www.loc.gov/pictures/item/2013647066/",
+        "https://www.loc.gov/pictures/collection/cph/item/2013647066/",
+        "http://www.loc.gov/pictures/collection/cph/item/2013647066/",
+        "http://www.loc.gov/resource/ds.02413/",
+        "https://hdl.loc.gov/loc.pnp/ds.02413",
+        "http://lccn.loc.gov/2013647066"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "blanchard, young & co."
+      ],
+      "date": "1906-01-01",
+      "dates": [
+        "1906"
+      ],
+      "description": [
+        "1 print (postcard). | Postcard shows the Boston Public Library across Copley Square, the surrounding neighborhood, pedestrians, street cars, and horse and carriages."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-24T20:16:44.612Z",
+      "group": [
+        "cph",
+        "catalog-split-03",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2013647066/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/02400/02413_150px.jpg#h=50&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/02400/02413r.jpg#h=215&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/02400/02413v.jpg#h=343&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "copley square",
+        "boston",
+        "massachusetts"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/17669429",
+        "2013647066",
+        "2013-04-03t09:14:03"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "catalog",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "lot 14058"
+      ],
+      "score": 36.241867,
+      "shelf_id": "LOT 14058, no. 142 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "plazas",
+        "boston (mass.)",
+        "united states",
+        "boston",
+        "massachusetts",
+        "panoramic postcards",
+        "copley square",
+        "boston public library",
+        "public libraries",
+        "photomechanical prints",
+        "buildings"
+      ],
+      "timestamp": "2022-05-02T06:20:22.772Z",
+      "title": "Public Library, Copley Sq., Boston, Mass.",
+      "url": "https://www.loc.gov/item/2013647066/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "cph",
+      "catalog-split-15",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-15",
+      "main-catalog",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "catalog-split-02",
+      "main-catalog-split-02",
+      "det",
+      "catalog-split-05",
+      "detroit-publishing-company",
+      "main-catalog-split-05",
+      "ndnp/dlc-2020_now",
+      "library-of-congress-washington-dc-awardee-8",
+      "catalog-split-08",
+      "main-catalog-split-08",
+      "rbpebib.mar",
+      "broadsides-and-printed-ephemera",
+      "usgovdigresources",
+      "catalog-split-01",
+      "united-states-digital-resources",
+      "main-catalog-split-01",
+      "slaves-courts",
+      "slaves-and-the-courts"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "ppmsca.15426",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.5572106838226318,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/ppmsca.15426/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/ppmsca.15426/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294086.0242755,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 83230506,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/ppmsca/15400/15426u.tif",
+      "width": 0
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 5211,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15426_150px.jpg",
+      "width": 120
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 17269,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15426t.gif",
+      "width": 120
+    },
+    {
+      "height": 640,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 61395,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15426r.jpg",
+      "width": 514
+    },
+    {
+      "height": 1024,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 168936,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15426v.jpg",
+      "width": 822
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2007682033&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn84025816/1900-02-17/ed-1/",
+        "http://www.loc.gov/resource/sn84025816/1900-02-17/ed-1/"
+      ],
+      "batch": [
+        "dlc_bigstone_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1900-02-17",
+      "dates": [
+        "1900-02-17"
+      ],
+      "description": [
+        "Boston, Mass."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-07T20:29:59.284Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn84025816/1900-02-17/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bigstone_ver01:data:sn84025816:00220720457:1900021701:0001/full/pct:3.125/0/default.jpg#h=290&w=184",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bigstone_ver01:data:sn84025816:00220720457:1900021701:0001/full/pct:6.25/0/default.jpg#h=581&w=369",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bigstone_ver01:data:sn84025816:00220720457:1900021701:0001/full/pct:12.5/0/default.jpg#h=1162&w=738"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "boston",
+        "massachusetts",
+        "suffolk county",
+        "suffolk"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn84025816",
+        "1",
+        "00220720457"
+      ],
+      "numeric_shelf_id": 190002171,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "serial and government publications division",
+        "the boston advance (boston, mass.) 1896-1907"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 33.73524,
+      "shelf_id": "sn84025816, 1900-02-17, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "boston (mass.)",
+        "united states",
+        "boston",
+        "newspapers",
+        "suffolk county (mass.)",
+        "massachusetts",
+        "african american",
+        "suffolk county",
+        "african american newspapers",
+        "suffolk",
+        "african americans"
+      ],
+      "timestamp": "2023-08-07T23:44:14.963Z",
+      "title": "The Boston advance (Boston, Mass.), February 17, 1900",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn84025816/1900-02-17/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn84025817/1900-01-06/ed-1/",
+        "http://www.loc.gov/resource/sn84025817/1900-01-06/ed-1/"
+      ],
+      "batch": [
+        "dlc_bigstone_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1900-01-06",
+      "dates": [
+        "1900-01-06"
+      ],
+      "description": [
+        "Boston, Mass."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-07T20:29:59.284Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn84025817/1900-01-06/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bigstone_ver01:data:sn84025817:00220720457:1900010601:0001/full/pct:3.125/0/default.jpg#h=286&w=214",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bigstone_ver01:data:sn84025817:00220720457:1900010601:0001/full/pct:6.25/0/default.jpg#h=572&w=428",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_bigstone_ver01:data:sn84025817:00220720457:1900010601:0001/full/pct:12.5/0/default.jpg#h=1144&w=856"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "boston",
+        "massachusetts",
+        "suffolk county",
+        "suffolk"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn84025817",
+        "1",
+        "00220720457"
+      ],
+      "numeric_shelf_id": 190001061,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "serial and government publications division",
+        "the boston courant (boston, mass.) 1890-19??"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 33.73524,
+      "shelf_id": "sn84025817, 1900-01-06, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "boston (mass.)",
+        "united states",
+        "newspapers",
+        "suffolk county (mass.)",
+        "boston",
+        "massachusetts",
+        "african american",
+        "suffolk county",
+        "african american newspapers",
+        "suffolk",
+        "african americans"
+      ],
+      "timestamp": "2023-08-07T23:44:14.963Z",
+      "title": "The Boston courant (Boston, Mass.), January 6, 1900",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn84025817/1900-01-06/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/mm79032243",
+        "http://www.loc.gov/item/mm79032243/",
+        "https://link.gale.com/apps/collection/6DDT/SAS?u=loc_main&sid=SAS"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "mckim, charles follen"
+      ],
+      "description": [
+        "Correspondence, letterbooks, memoranda, diary transcript, notes, legal and financial records, sketches, drawings, photographs, and other papers relating chiefly to the firm of McKim, Mead, & White, New York, New York.  Documents McKim's designs for the Boston Public Library and Symphony Hall, Boston, Mass.; Columbia University's Morningside Heights campus and the University Club, New York, New York; Rhode Island State House, Providence, Rhode Island; restoration of the White House, Washington, D.C.; and the World's Columbian Exposition, Chicago, Illinois, 1893.  Also documents McKim's work on the U.S. Senate Commission for the Improvement of the District of Columbia concerned with the location and treatment of public buildings and grounds along the Mall and his membership on the Grant Memorial Commission.  Includes material pertaining to McKim's membership in societies and clubs including the American Institute of Architects, the Century Club, and the University Club.  Subjects include the development of American architecture, establishment of the American Academy in Rome, and efforts of abolitionists to provide aid for newly freed slaves in the years following the Civil War.  Diary includes McKim's account of an 1863 walking tour with Francis Jackson Garrison and Wendell Phillips Garrison to the Gettysburg battlefield and other areas in eastern Pennsylvania. Family correspondents include McKim's daughter, Margaret McKim; his father, J. Miller M'Kim; and other family members.  Other correspondents include Daniel Chester French, John La Farge, Francis Jackson Garrison, Wendell Phillips Garrison, William Lloyd Garrison, Francis Davis Millet, Charles Moore, H. Siddons Mowbray, Frederick Law Olmsted, and Augustus Saint-Gaudens."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-08-24T07:31:08.686Z",
+      "group": [
+        "catalog-split-08",
+        "catalog",
+        "main-catalog-split-08"
+      ],
+      "hassegments": false,
+      "id": "http://lccn.loc.gov/mm79032243",
+      "image_url": [],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "boston",
+        "rome",
+        "pennsylvania",
+        "italy",
+        "new york",
+        "massachusetts",
+        "illinois",
+        "chicago",
+        "the mall",
+        "rhode island",
+        "washington d.c.",
+        "gettysburg"
+      ],
+      "number": [
+        "mm79032243",
+        "2024-08-22t19:30:19"
+      ],
+      "original_format": [
+        "manuscript/mixed material",
+        "collection"
+      ],
+      "partof": [
+        "manuscript division",
+        "catalog"
+      ],
+      "score": 28.296383,
+      "shelf_id": "http://lccn.loc.gov/mm79032243",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "white house (washington, d.c.)",
+        "washington (d.c.)",
+        "congress",
+        "world's columbian exposition",
+        "new york",
+        "history",
+        "conservation and restoration",
+        "saint-gaudens, augustus",
+        "american institute of architects",
+        "m'kim, j. miller",
+        "mckim, margaret",
+        "societies, etc",
+        "exhibitions",
+        "garrison, william lloyd",
+        "la farge, john",
+        "millet, francis davis",
+        "public buildings",
+        "mall, the (washington, d.c.)",
+        "mckim family",
+        "gettysburg (pa.)",
+        "rhode island",
+        "capital and capitol",
+        "universities and colleges",
+        "harry siddons)",
+        "rome",
+        "pennsylvania",
+        "correspondence",
+        "massachusetts",
+        "freed persons",
+        "boston public library",
+        "chicago",
+        "mckim, mead, & white",
+        "rhode island state house (providence, r.i.)",
+        "university club (new york, n.y.)",
+        "architecture",
+        "clubs",
+        "garrison, francis jackson",
+        "chicago, ill.)",
+        "olmsted, frederick law",
+        "american academy in rome",
+        "architectural firms",
+        "italy",
+        "grant memorial commission",
+        "columbia university",
+        "mowbray, h. siddons",
+        "19th century",
+        "reconstruction (u.s. history,)",
+        "parks",
+        "african americans",
+        "james miller)",
+        "century club (new york, n.y.)",
+        "united states",
+        "symphony hall (boston, mass.)",
+        "boston",
+        "music-halls",
+        "illinois",
+        "french, daniel chester",
+        "moore, charles",
+        "description and travel",
+        "civil war",
+        "study and teaching",
+        "libraries",
+        "garrison, wendell phillips",
+        "senate",
+        "new york (state)",
+        "commission for the improvement of the district of columbia"
+      ],
+      "timestamp": "2024-08-24T07:34:43.306Z",
+      "title": "Charles Follen McKim papers,",
+      "type": [
+        "manuscript"
+      ],
+      "url": "//lccn.loc.gov/mm79032243"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://memory.loc.gov/cgi-bin/query/r?ammem/AMALL:@field(NUMBER+@band(rbpe+08201600))",
+        "https://hdl.loc.gov/loc.rbc/rbpe.08201600",
+        "http://www.loc.gov/item/rbpe.08201600/",
+        "http://www.loc.gov/resource/rbpe.08201600/",
+        "http://lccn.loc.gov/2021768702",
+        "http://www.loc.gov/item/2021768702/",
+        "https://hdl.loc.gov/loc.rbc/rbpe.08201600"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "boston. public library",
+        "printed ephemera collection (library of congress)",
+        "boston public library"
+      ],
+      "date": "18??",
+      "dates": [
+        "1800"
+      ],
+      "description": [
+        "Page Order: Pieces 2 and 3 are Leaflets. Page Order: Leaflet Available also through the Library of Congress web site in two forms: as facsimile page images and as full text in SGML. Printed Ephemera Collection; Portfolio 82, Folder 16."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-17T08:42:20.188Z",
+      "group": [
+        "rbpebib.mar",
+        "catalog-split-03",
+        "catalog",
+        "broadsides-and-printed-ephemera",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2021768702/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe08/rbpe082/08201600/001dq.gif",
+        "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe08/rbpe082/08201600/001dt.gif#h=48&w=100",
+        "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe08/rbpe082/08201600/001dq.gif#h=291&w=600",
+        "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe08/rbpe082/08201600/001dr.jpg#h=1174&w=2424"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "boston",
+        "massachusetts"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/gif",
+        "application/xml",
+        "image/tiff",
+        "application/pdf"
+      ],
+      "number": [
+        "rbpe08201600",
+        "2021768702",
+        "2022-10-19t16:16:01"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "rare book and special collections division",
+        "printed ephemera: three centuries of broadsides and other printed ephemera",
+        "american memory",
+        "catalog"
+      ],
+      "score": 23.358212,
+      "shelf_id": "Portfolio 82, Folder 16",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "blank forms",
+        "boston",
+        "massachusetts",
+        "forms",
+        "boston public library",
+        "advertisements"
+      ],
+      "timestamp": "2023-06-08T14:23:00.350Z",
+      "title": "[Blank forms used by the Boston Public Library n. d.].",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2021768702/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2002418943",
+        "http://www.loc.gov/item/2002418943/",
+        "https://hdl.loc.gov/loc.gdc/gdclccn.2002418943",
+        "http://www.loc.gov/resource/gdclccn.2002418943/",
+        "http://www.loc.gov/resource/gdcusgovdigresources.2002418943/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "geological survey (u.s.)",
+        "united states. federal highway administration",
+        "massachusetts. highway department",
+        "smith, kirk p."
+      ],
+      "date": "2002-01-01",
+      "dates": [
+        "2002"
+      ],
+      "description": [
+        "Includes bibliographical references (p. 59-62). Also available in digital form on the Library of Congress Web site."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-03-07T20:21:07.312Z",
+      "group": [
+        "usgovdigresources",
+        "catalog-split-01",
+        "catalog",
+        "united-states-digital-resources",
+        "main-catalog-split-01",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2002418943/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcusgovdigresources:2002418943:2002418943/full/pct:50/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcusgovdigresources:2002418943:2002418943/full/pct:50/0/default.jpg#h=476&w=468",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcusgovdigresources:2002418943:2002418943/full/pct:100/0/default.jpg#h=953&w=937"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "boston",
+        "massachusetts"
+      ],
+      "mime_type": [
+        "application/zip",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2022-02-18t06:56:27",
+        "2002418943"
+      ],
+      "online_format": [
+        "compressed data",
+        "image"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "general collections",
+        "u.s. government digital resources",
+        "catalog"
+      ],
+      "score": 16.468975,
+      "shelf_id": "GB701 .W375 no. 02-4059 TD224.M4",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "environmental aspects",
+        "water quality management",
+        "boston",
+        "massachusetts",
+        "best management practices (pollution prevention)",
+        "runoff",
+        "roads"
+      ],
+      "timestamp": "2022-09-08T14:49:09.012Z",
+      "title": "Effectiveness of three best management practices for highway-runoff quality along the Southeast Expressway, Boston, Massachusetts",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2002418943/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/04033077",
+        "http://www.loc.gov/item/04033077/",
+        "https://hdl.loc.gov/loc.law/llst.019",
+        "http://www.loc.gov/resource/llst.019/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "joseph meredith toner collection (library of congress)"
+      ],
+      "date": "1854",
+      "dates": [
+        "1854"
+      ],
+      "description": [
+        "Also available in digital form on the Library of Congress Web site. LAC tnb 2020-10-08 no edits (1 card) LAC brd 2019-04-29 no edits (2 cards)"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-08-06T21:06:13.526Z",
+      "group": [
+        "slaves-courts",
+        "slaves-and-the-courts"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/04033077/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/ll/llst/019/0000/00010000.gif",
+        "https://tile.loc.gov/storage-services/service/ll/llst/019/0000/00010000.gif#h=1206&w=750",
+        "https://tile.loc.gov/storage-services/master/ll/llst/019/0000/00010000.jpg#h=2863&w=1781"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "boston",
+        "massachusetts"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/gif",
+        "application/pdf",
+        "image/tiff",
+        "text/plain"
+      ],
+      "number": [
+        "2021-02-08t12:47:41",
+        "04033077"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "rare book and special collections division",
+        "slavery and the judiciary, 1740 to 1860",
+        "catalog",
+        "law library of congress"
+      ],
+      "score": 16.468975,
+      "shelf_id": "E450 .B92 E450 .B92 Copy 2 E450 .B92 Copy 3 E450 .B92 Copy 4 KF4545.S5 B67 1854 KF4545.S5 B67 1854 KF4545.S5 B67 1854",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "fugitive slaves",
+        "legal status, laws, etc",
+        "boston",
+        "antislavery movements",
+        "massachusetts",
+        "trials, litigation, etc",
+        "burns, anthony",
+        "riots"
+      ],
+      "timestamp": "2024-08-06T21:08:35.119Z",
+      "title": "Boston slave riot, and trial of Anthony Burns : containing the report of the Faneuil Hall meeting, the murder of Batchelder, Theodore Parker's lesson for the day, speeches of counsel on both sides, corrected by themselves, verbatim report of Judge Loring's decision, and, a detailed account of the embarkation",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/04033077/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "digital file from original item",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15426_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/ppmsca.15426/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from original item",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15426_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/ppmsca.15426/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294086581,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/ppmsca.15426/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/ppmsca.15426/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/ppmsca.15426/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/ppmsca.15426/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/ppmsca.15426/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/ppmsca.15426/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/ppmsca.15426/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/ppmsca.15426/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/ppmsca.15426/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/ppmsca.15426/?fo=json&st=text"
+  }
+}

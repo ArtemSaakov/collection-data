@@ -1,0 +1,1846 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Highsmith, C. M., photographer. (2017) <cite>The Cook Memorial Library, the public library of Tamworth, New Hampshire. TheQueen Anne Victorian building began as a private \"social library\" established by Parson Samuel Hidden; the building was given to the village in memory of Charles Cook, a prominent local businessman and politician</cite>. New Hampshire Tamworth United States, 2017. -09-22. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2017884872/.",
+    "chicago": "Highsmith, Carol M, photographer. <cite>The Cook Memorial Library, the public library of Tamworth, New Hampshire. TheQueen Anne Victorian building began as a private \"social library\" established by Parson Samuel Hidden; the building was given to the village in memory of Charles Cook, a prominent local businessman and politician</cite>. New Hampshire Tamworth United States, 2017. -09-22. Photograph. https://www.loc.gov/item/2017884872/.",
+    "mla": "Highsmith, Carol M, photographer. <cite>The Cook Memorial Library, the public library of Tamworth, New Hampshire. TheQueen Anne Victorian building began as a private \"social library\" established by Parson Samuel Hidden; the building was given to the village in memory of Charles Cook, a prominent local businessman and politician</cite>. -09-22. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2017884872/&gt;."
+  },
+  "item": {
+    "_version_": 1730912133013569536,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2017884872/",
+      "http://www.loc.gov/item/2017884872/",
+      "http://www.loc.gov/pictures/item/2017884872/",
+      "https://www.loc.gov/pictures/collection/highsm/item/2017884872/",
+      "http://www.loc.gov/pictures/collection/highsm/item/2017884872/",
+      "http://www.loc.gov/resource/highsm.48241/",
+      "https://hdl.loc.gov/loc.pnp/highsm.48241",
+      "http://lccn.loc.gov/2017884872"
+    ],
+    "call_number": "LC-DIG-highsm- 48241 (ONLINE) [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Highsmith, Carol M., 1946-, photographer"
+    ],
+    "contributors": [
+      {
+        "highsmith, carol m.": "https://www.loc.gov/search/?fa=contributor:highsmith,+carol+m.&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2018-02-27T03:07:31Z",
+    "created_published": [
+      "2017-09-22."
+    ],
+    "created_published_date": "2017-09-22.",
+    "date": "2017-01-01",
+    "dates": [
+      {
+        "2017": "https://www.loc.gov/search/?dates=2017/2017&fo=json"
+      }
+    ],
+    "description": [
+      "1 photograph : digital, tiff file, color."
+    ],
+    "digital_id": [
+      "highsm 48241 //hdl.loc.gov/loc.pnp/highsm.48241"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-30T23:05:02.579Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/highsm/item/2017884872/#highsm",
+      "http://lccn.loc.gov/2017884872#catalog-split-15"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Digital photographs--Color--2010-2020."
+    ],
+    "genre": [
+      "Digital photographs--Color--2010-2020"
+    ],
+    "group": [
+      "highsm",
+      "catalog-split-15",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-15",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2017884872/",
+    "image_url": [
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48241/full/pct:3.125/0/default.jpg#h=297&w=243",
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48241/full/pct:6.25/0/default.jpg#h=595&w=486",
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48241/full/pct:12.5/0/default.jpg#h=1190&w=972",
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48241/full/pct:25/0/default.jpg#h=2380&w=1945"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-DIG-highsm- 48241 (ONLINE) [P&P]",
+      "contributors": [
+        "Highsmith, Carol M., 1946- photographer."
+      ],
+      "control_number": "2017884872",
+      "created": "2018-02-27T03:07:31Z",
+      "created_published": "2017-09-22.",
+      "created_published_date": "2017-09-22.",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Highsmith%2C%20Carol%20M.%2C%201946-&co=highsm",
+          "role": "photographer",
+          "title": "Highsmith, Carol M., 1946-"
+        }
+      ],
+      "date": "2017-09-22.",
+      "digital_id": [
+        "highsm 48241 //hdl.loc.gov/loc.pnp/highsm.48241"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Digital%20photographs--Color--2010-2020.&co=highsm",
+          "title": "Digital photographs--Color--2010-2020."
+        }
+      ],
+      "genre": [
+        "Digital photographs--Color--2010-2020"
+      ],
+      "id": "2017884872",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2017884872/",
+      "marc": "https://www.loc.gov/pictures/item/2017884872/marc/",
+      "medium": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "medium_brief": "1 photograph :",
+      "mediums": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "modified": "2018-02-27T03:07:31Z",
+      "notes": [
+        "Title, date and keywords based on information provided by the photographer.",
+        "Purchase; Carol M. Highsmith Photography, Inc.; 2017; (DLC/PP-2016:103-10).",
+        "Forms part of: Carol M. Highsmith's America Project in the Carol M. Highsmith Archive.",
+        "Credit line: Photographs in Carol M. Highsmith's America Project in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2017884872",
+        "https://www.loc.gov/item/hig2018005919"
+      ],
+      "other_control_numbers": [
+        "20373437",
+        "hig2018005919"
+      ],
+      "part_of": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20Hampshire--Tamworth&co=highsm",
+          "longitude": "",
+          "title": "New Hampshire--Tamworth"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-highsm-48241 (original digital file)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/highsm.48241"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/highsm/48200/48241_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/highsm/48200/48241r.jpg",
+      "sort_date": "2017",
+      "source_collection": [
+        "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+      ],
+      "source_created": "2018-01-31T00:00:00Z",
+      "source_modified": "2018-02-23T13:38:30Z",
+      "subject_headings": [
+        "United States--New Hampshire--Tamworth.",
+        "America",
+        "Cook Memorial library",
+        "Public libraries",
+        "libraries",
+        "Queen Anne style",
+        "Charles Cook",
+        "New Hampshire--Tamworth"
+      ],
+      "subjects": [
+        "United States--New Hampshire--Tamworth",
+        "America",
+        "Cook Memorial library",
+        "Public libraries",
+        "Libraries",
+        "Queen Anne Style",
+        "Charles Cook"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/48200/48241_150px.jpg",
+      "title": "The Cook Memorial Library, the public library of Tamworth, New Hampshire. The 1895 Queen Anne Victorian building began as a private \"social library\" established by Parson Samuel Hidden; the building was given to the village in memory of Charles Cook, a prominent local businessman and politician"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2017884872",
+    "link": "https://www.loc.gov/pictures/item/2017884872/",
+    "location": [
+      "new hampshire",
+      "tamworth",
+      "united states"
+    ],
+    "location_city": [
+      "tamworth"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_state": [
+      "new hampshire"
+    ],
+    "locations": [
+      {
+        "new hampshire": "https://www.loc.gov/search/?fa=location:new+hampshire&fo=json"
+      },
+      {
+        "tamworth": "https://www.loc.gov/search/?fa=location:tamworth&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "tamworth": "https://www.loc.gov/search/?fa=location_city:tamworth&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "new hampshire": "https://www.loc.gov/search/?fa=location_state:new+hampshire&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2017884872/marc/",
+    "medium": [
+      "1 photograph : digital, tiff file, color."
+    ],
+    "medium_brief": "1 photograph :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2018-02-27T03:07:31Z",
+    "notes": [
+      "Title, date and keywords based on information provided by the photographer.",
+      "Purchase; Carol M. Highsmith Photography, Inc.; 2017; (DLC/PP-2016:103-10).",
+      "Forms part of: Carol M. Highsmith's America Project in the Carol M. Highsmith Archive.",
+      "Credit line: Photographs in Carol M. Highsmith's America Project in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division."
+    ],
+    "number": [
+      "2018-02-23t13:38:30",
+      "2017884872",
+      "http://www.loc.gov/item/2017884872",
+      "online resource",
+      "http://www.loc.gov/item/20373437",
+      "http://www.loc.gov/item/hig2018005919"
+    ],
+    "number_carrier_type": [
+      "online resource"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/20373437",
+      "http://www.loc.gov/item/hig2018005919",
+      "http://www.loc.gov/item/2017884872"
+    ],
+    "number_lccn": [
+      "2017884872"
+    ],
+    "number_source_modified": [
+      "2018-02-23t13:38:30"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "20373437",
+      "hig2018005919"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2017884872/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2017884872/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2017884872/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 69132,
+        "title": "highsmith (carol m.) archive",
+        "url": "https://www.loc.gov/collections/carol-m-highsmith/?fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=New%20Hampshire--Tamworth&co=highsm",
+        "longitude": "",
+        "title": "New Hampshire--Tamworth"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2017884872&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-highsm-48241 (original digital file)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/highsm.48241"
+    ],
+    "resources": [
+      {
+        "caption": "original digital file",
+        "files": 1,
+        "image": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48241/full/pct:3.125/0/default.jpg",
+        "url": "https://www.loc.gov/resource/highsm.48241/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/482_high.html\">Carol M. Highsmith - Rights and Restrictions Information</a> </p>\n \n"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "LC-DIG-highsm- 48241 (ONLINE) [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "2017",
+    "source_collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+    "source_created": "2018-01-31T00:00:00Z",
+    "source_modified": "2018-02-23T13:38:30Z",
+    "subject": [
+      "libraries",
+      "charles cook",
+      "tamworth",
+      "united states",
+      "cook memorial library",
+      "america",
+      "queen anne style",
+      "digital photographs",
+      "public libraries",
+      "color",
+      "new hampshire"
+    ],
+    "subject_headings": [
+      "United States--New Hampshire--Tamworth",
+      "America",
+      "Cook Memorial library",
+      "Public libraries",
+      "Libraries",
+      "Queen Anne Style",
+      "Charles Cook"
+    ],
+    "subjects": [
+      {
+        "america": "https://www.loc.gov/search/?fa=subject:america&fo=json"
+      },
+      {
+        "charles cook": "https://www.loc.gov/search/?fa=subject:charles+cook&fo=json"
+      },
+      {
+        "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+      },
+      {
+        "cook memorial library": "https://www.loc.gov/search/?fa=subject:cook+memorial+library&fo=json"
+      },
+      {
+        "digital photographs": "https://www.loc.gov/search/?fa=subject:digital+photographs&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "new hampshire": "https://www.loc.gov/search/?fa=subject:new+hampshire&fo=json"
+      },
+      {
+        "public libraries": "https://www.loc.gov/search/?fa=subject:public+libraries&fo=json"
+      },
+      {
+        "queen anne style": "https://www.loc.gov/search/?fa=subject:queen+anne+style&fo=json"
+      },
+      {
+        "tamworth": "https://www.loc.gov/search/?fa=subject:tamworth&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/48200/48241_150px.jpg",
+    "timestamp": "2022-04-23T15:07:25.129Z",
+    "title": "The Cook Memorial Library, the public library of Tamworth, New Hampshire. The 1895 Queen Anne Victorian building began as a private \"social library\" established by Parson Samuel Hidden; the building was given to the village in memory of Charles Cook, a prominent local businessman and politician",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2017884872/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017884863/",
+        "http://www.loc.gov/item/2017884863/",
+        "http://www.loc.gov/pictures/item/2017884863/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2017884863/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2017884863/",
+        "http://www.loc.gov/resource/highsm.48232/",
+        "http://lccn.loc.gov/2017884863",
+        "https://hdl.loc.gov/loc.pnp/highsm.48232"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2017-01-01",
+      "dates": [
+        "2017"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T21:21:08.656Z",
+      "group": [
+        "highsm",
+        "catalog-split-15",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017884863/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48232/full/pct:3.125/0/default.jpg#h=272&w=362",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48232/full/pct:6.25/0/default.jpg#h=544&w=725",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48232/full/pct:12.5/0/default.jpg#h=1088&w=1451",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48232/full/pct:25/0/default.jpg#h=2177&w=2902"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "new hampshire",
+        "tamworth",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2019-04-25t14:02:04",
+        "online resource",
+        "http://www.loc.gov/item/2017884863",
+        "http://www.loc.gov/item/20373428",
+        "http://www.loc.gov/item/hig2018005910",
+        "2017884863"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "highsmith (carol m.) archive",
+        "catalog",
+        "prints and photographs division"
+      ],
+      "score": 47.66496,
+      "shelf_id": "LC-DIG-highsm- 48232 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "tamworth",
+        "united states",
+        "america",
+        "wood-shingle barns",
+        "digital photographs",
+        "new hampshire barns",
+        "color",
+        "new hampshire"
+      ],
+      "timestamp": "2022-04-23T15:07:25.129Z",
+      "title": "Old wood-shingle barn near Tamworth, New Hampshire",
+      "url": "https://www.loc.gov/item/2017884863/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017884864/",
+        "http://www.loc.gov/item/2017884864/",
+        "http://www.loc.gov/pictures/item/2017884864/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2017884864/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2017884864/",
+        "http://www.loc.gov/resource/highsm.48233/",
+        "https://hdl.loc.gov/loc.pnp/highsm.48233",
+        "http://lccn.loc.gov/2017884864"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2017-01-01",
+      "dates": [
+        "2017"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T23:05:02.579Z",
+      "group": [
+        "highsm",
+        "catalog-split-00",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017884864/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48233/full/pct:3.125/0/default.jpg#h=272&w=362",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48233/full/pct:6.25/0/default.jpg#h=544&w=725",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48233/full/pct:12.5/0/default.jpg#h=1088&w=1451",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48233/full/pct:25/0/default.jpg#h=2177&w=2902"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "new hampshire",
+        "tamworth",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2018-02-23t13:38:07",
+        "online resource",
+        "2017884864",
+        "http://www.loc.gov/item/hig2018005911",
+        "http://www.loc.gov/item/2017884864",
+        "http://www.loc.gov/item/20373429"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "highsmith (carol m.) archive",
+        "catalog",
+        "prints and photographs division"
+      ],
+      "score": 47.66496,
+      "shelf_id": "LC-DIG-highsm- 48233 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "tamworth",
+        "united states",
+        "america",
+        "digital photographs",
+        "new hampshire barns",
+        "color",
+        "new hampshire"
+      ],
+      "timestamp": "2022-04-23T15:07:25.129Z",
+      "title": "A barn that, in a style common in parts of New England, matches the style of the adjacent farmstead house",
+      "url": "https://www.loc.gov/item/2017884864/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017884865/",
+        "http://www.loc.gov/item/2017884865/",
+        "http://www.loc.gov/pictures/item/2017884865/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2017884865/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2017884865/",
+        "http://www.loc.gov/resource/highsm.48234/",
+        "https://hdl.loc.gov/loc.pnp/highsm.48234",
+        "http://lccn.loc.gov/2017884865"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2017-01-01",
+      "dates": [
+        "2017"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T23:05:02.579Z",
+      "group": [
+        "highsm",
+        "catalog-split-01",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-01",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017884865/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48234/full/pct:3.125/0/default.jpg#h=251&w=272",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48234/full/pct:6.25/0/default.jpg#h=502&w=544",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48234/full/pct:12.5/0/default.jpg#h=1005&w=1088",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48234/full/pct:25/0/default.jpg#h=2011&w=2177"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "new hampshire",
+        "tamworth",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2017884865",
+        "http://www.loc.gov/item/hig2018005912",
+        "2018-02-23t13:38:10",
+        "online resource",
+        "http://www.loc.gov/item/20373430",
+        "2017884865"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "highsmith (carol m.) archive",
+        "catalog",
+        "prints and photographs division"
+      ],
+      "score": 47.66496,
+      "shelf_id": "LC-DIG-highsm- 48234 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "tamworth",
+        "united states",
+        "america",
+        "digital photographs",
+        "converted churches",
+        "color",
+        "new hampshire",
+        "rutabaga drapery studio"
+      ],
+      "timestamp": "2022-04-23T15:07:25.129Z",
+      "title": "A former country church near Tamworth, New Hampshire, that was sold to a weaver and became the Rutabaga Custom Drapery Studio",
+      "url": "https://www.loc.gov/item/2017884865/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017884866/",
+        "http://www.loc.gov/item/2017884866/",
+        "http://www.loc.gov/pictures/item/2017884866/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2017884866/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2017884866/",
+        "http://www.loc.gov/resource/highsm.48235/",
+        "https://hdl.loc.gov/loc.pnp/highsm.48235",
+        "http://lccn.loc.gov/2017884866"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2017-01-01",
+      "dates": [
+        "2017"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T23:05:02.579Z",
+      "group": [
+        "highsm",
+        "catalog-split-02",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017884866/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48235/full/pct:3.125/0/default.jpg#h=267&w=356",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48235/full/pct:6.25/0/default.jpg#h=534&w=712",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48235/full/pct:12.5/0/default.jpg#h=1068&w=1424",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48235/full/pct:25/0/default.jpg#h=2136&w=2848"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "new hampshire",
+        "tamworth",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2017884866",
+        "http://www.loc.gov/item/20373431",
+        "2018-02-23t13:38:13",
+        "online resource",
+        "http://www.loc.gov/item/hig2018005913",
+        "2017884866"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "highsmith (carol m.) archive",
+        "catalog",
+        "prints and photographs division"
+      ],
+      "score": 47.66496,
+      "shelf_id": "LC-DIG-highsm- 48235 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "tamworth",
+        "united states",
+        "america",
+        "digital photographs",
+        "brookyard barn",
+        "new hampshire barns",
+        "color",
+        "new hampshire"
+      ],
+      "timestamp": "2022-04-23T15:07:25.129Z",
+      "title": "An elegant farm building that its owner calls the Brookyard Barn, near Tamworth, New Hampshire",
+      "url": "https://www.loc.gov/item/2017884866/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017884867/",
+        "http://www.loc.gov/item/2017884867/",
+        "http://www.loc.gov/pictures/item/2017884867/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2017884867/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2017884867/",
+        "http://www.loc.gov/resource/highsm.48236/",
+        "https://hdl.loc.gov/loc.pnp/highsm.48236",
+        "http://lccn.loc.gov/2017884867"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2017-01-01",
+      "dates": [
+        "2017"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T21:33:34.272Z",
+      "group": [
+        "highsm",
+        "catalog-split-03",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017884867/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48236/full/pct:3.125/0/default.jpg#h=272&w=362",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48236/full/pct:6.25/0/default.jpg#h=544&w=725",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48236/full/pct:12.5/0/default.jpg#h=1088&w=1451",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48236/full/pct:25/0/default.jpg#h=2177&w=2902"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "new hampshire",
+        "tamworth",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2018-10-10t15:46:35",
+        "http://www.loc.gov/item/hig2018005914",
+        "online resource",
+        "2017884867",
+        "http://www.loc.gov/item/20373432",
+        "http://www.loc.gov/item/2017884867"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "highsmith (carol m.) archive",
+        "catalog",
+        "prints and photographs division"
+      ],
+      "score": 47.66496,
+      "shelf_id": "LC-DIG-highsm- 48236 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "tamworth",
+        "united states",
+        "america",
+        "digital photographs",
+        "edwin remick",
+        "remick country doctor museum & farm",
+        "color",
+        "new hampshire",
+        "edwin crafts remick"
+      ],
+      "timestamp": "2022-04-23T15:07:25.129Z",
+      "title": "The main house at the Remick Country Doctor Museum and Farm in Tamworth, New Hampshire, where father and son country doctors, Edwin Remick and Edwin \"Doc\" Crafts Remick, lived and practiced for a combined 99 years",
+      "url": "https://www.loc.gov/item/2017884867/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017884868/",
+        "http://www.loc.gov/item/2017884868/",
+        "http://www.loc.gov/pictures/item/2017884868/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2017884868/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2017884868/",
+        "http://www.loc.gov/resource/highsm.48237/",
+        "https://hdl.loc.gov/loc.pnp/highsm.48237",
+        "http://lccn.loc.gov/2017884868"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2017-01-01",
+      "dates": [
+        "2017"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T21:33:34.272Z",
+      "group": [
+        "highsm",
+        "catalog-split-04",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-04",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017884868/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48237/full/pct:3.125/0/default.jpg#h=272&w=362",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48237/full/pct:6.25/0/default.jpg#h=544&w=725",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48237/full/pct:12.5/0/default.jpg#h=1088&w=1451",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48237/full/pct:25/0/default.jpg#h=2177&w=2902"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "new hampshire",
+        "tamworth",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "online resource",
+        "2018-10-10t15:46:55",
+        "http://www.loc.gov/item/hig2018005915",
+        "2017884868",
+        "http://www.loc.gov/item/2017884868",
+        "http://www.loc.gov/item/20373433"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "highsmith (carol m.) archive",
+        "catalog",
+        "prints and photographs division"
+      ],
+      "score": 47.66496,
+      "shelf_id": "LC-DIG-highsm- 48237 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "greenhouses",
+        "tamworth",
+        "united states",
+        "america",
+        "digital photographs",
+        "edwin remick",
+        "remick country doctor museum & farm",
+        "color",
+        "new hampshire",
+        "edwin crafts remick"
+      ],
+      "timestamp": "2022-04-23T15:07:25.129Z",
+      "title": "Greenhouse at the Remick Country Doctor Museum and Farm in Tamworth, New Hampshire, where father and son country doctors, Edwin Remick and Edwin \"Doc\" Crafts Remick, lived and practiced for a combined 99 year",
+      "url": "https://www.loc.gov/item/2017884868/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "highsm",
+      "catalog-split-15",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-15",
+      "main-catalog",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "catalog-split-01",
+      "main-catalog-split-01",
+      "catalog-split-02",
+      "main-catalog-split-02",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "catalog-split-04",
+      "main-catalog-split-04",
+      "collections-portal",
+      "afc/2018031",
+      "trash-talk",
+      "usrep103",
+      "us-report",
+      "afc/2018029",
+      "catalog-split-12",
+      "green-book",
+      "main-catalog-split-12"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "highsm.48241",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.7495059967041016,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/highsm.48241/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/highsm.48241/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294100.1117222,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 297,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48241/full/pct:3.125/0/default.jpg",
+      "width": 243
+    },
+    {
+      "height": 595,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48241/full/pct:6.25/0/default.jpg",
+      "width": 486
+    },
+    {
+      "height": 1190,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48241/full/pct:12.5/0/default.jpg",
+      "width": 972
+    },
+    {
+      "height": 2380,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48241/full/pct:25/0/default.jpg",
+      "width": 1945
+    },
+    {
+      "height": 9520,
+      "info": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48241/info.json",
+      "levels": 7,
+      "mimetype": "image/jp2",
+      "size": 11592053,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/48200/48241.jp2",
+      "width": 7782
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2017884872&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/visual-image-web-archive/about-this-collection/",
+        "http://www.loc.gov/collections/visimage/",
+        "http://www.loc.gov/collections/visual-image-website-archives/",
+        "http://lccn.loc.gov/2007700166",
+        "http://www.loc.gov/item/2007700166/",
+        "https://hdl.loc.gov/loc.natlib/collnatlib.00000014"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress. prints and photographs division",
+        "library of congress"
+      ],
+      "count": 19,
+      "date": "2008",
+      "dates": [
+        "2008"
+      ],
+      "description": [
+        "Like books and magazines in the Library's general collections, this set of websites complements the original and historical visual material held in the Prints &amp; Photographs Division. Included are sites for photographers and cartoonists represented in P&amp;P (e.g., Kuper, Prokudin-Gorskii, Rogovin, and Telnaes). Also, websites for new digital image formats (e.g., Wrist photography, Reicholdarts cell phone photos, and Micah Wright remix posters). Other sites document new ways of displaying the visual arts through virtual galleries (e.g., Alternative Museum) and new ways of representing architectural work and the built environment (e.g., McKissack, Pritzker Prize, Vergara's Invincible Cities, and Vi&#241;oly). Major then-current event themes include views of Kurdistan and the Iraq War."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-11-10T06:06:24.286Z",
+      "group": [
+        "collections-portal"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/visual-image-web-archive/about-this-collection/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/visual-image-web-archive/500_500.jpg"
+      ],
+      "index": 1,
+      "items": "https://www.loc.gov/collections/visual-image-web-archive/",
+      "language": [
+        "english"
+      ],
+      "location": [
+        "russian federation",
+        "united states",
+        "kurdistan"
+      ],
+      "number": [
+        "2007700166",
+        "2012-03-21t11:31:00"
+      ],
+      "original_format": [
+        "collection",
+        "web archive"
+      ],
+      "partof": [
+        "digital collections",
+        "prints and photographs division",
+        "visual image web archive"
+      ],
+      "score": 16.12775,
+      "shelf_id": "~/collections/visual-image-web-archive/about-this-collection/",
+      "subject": [
+        "ethnographic photographs",
+        "portraits",
+        "cartoons (commentary)",
+        "digital photographs",
+        "illustrations",
+        "political cartoons",
+        "photographs",
+        "color",
+        "arts and culture",
+        "art & architecture",
+        "photographs, prints & posters"
+      ],
+      "timestamp": "2024-11-10T06:50:59.105Z",
+      "title": "Visual Image Web Archive",
+      "type": [
+        "collection"
+      ],
+      "url": "https://www.loc.gov/collections/visual-image-web-archive/about-this-collection/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/afc2018031.afc2018031_05210_sr02/",
+        "http://www.loc.gov/resource/afc2018031.afc2018031_05210_ph/",
+        "http://www.loc.gov/resource/afc2018031.afc2018031_05210_sr03/",
+        "http://lccn.loc.gov/2020655483",
+        "https://hdl.loc.gov/loc.afc/afc2018031.afc2018031_05210_sr01",
+        "https://hdl.loc.gov/loc.afc/afc2018031.afc2018031_05210_sr02",
+        "https://hdl.loc.gov/loc.afc/afc2018031.afc2018031_05210_sr03",
+        "http://www.loc.gov/resource/afc2018031.afc2018031_05210_ms01/",
+        "http://www.loc.gov/resource/afc2018031.afc2018031_05210_sr01/",
+        "http://www.loc.gov/item/2020655483/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "nickerson, virginia",
+        "saturley-hall, jessica",
+        "occupational folklife project"
+      ],
+      "date": "2018-01-01",
+      "dates": [
+        "2018"
+      ],
+      "description": [
+        "Jessica Saturley-Hall has a background in product management and development in the food industry. An entrepreneur and a gardener, she founded Upper Valley Compost to meet the need for a residential compost pick-up service in New Hampshire. She describes her innovative bucket-exchange collection model; the opportunities and challenges of being a small-business owner; and the different business considerations between hauling and making compost. She offers her perspectives on the future of food waste hauling and compost production and how they fit into the larger food system, local economies, and environmental stewardship."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-11-09T23:18:10.206Z",
+      "group": [
+        "afc/2018031",
+        "catalog-split-03",
+        "catalog",
+        "trash-talk",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2020655483/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018031:afc2018031_05210:afc2018031_05210_ph:afc2018031_05210_ph01/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018031:afc2018031_05210:afc2018031_05210_ph:afc2018031_05210_ph01/full/pct:6.25/0/default.jpg#h=250&w=375",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018031:afc2018031_05210:afc2018031_05210_ph:afc2018031_05210_ph01/full/pct:12.5/0/default.jpg#h=500&w=750",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018031:afc2018031_05210:afc2018031_05210_ph:afc2018031_05210_ph01/full/pct:25/0/default.jpg#h=1000&w=1500",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018031:afc2018031_05210:afc2018031_05210_ph:afc2018031_05210_ph01/full/pct:50/0/default.jpg#h=2000&w=3000",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018031:afc2018031_05210:afc2018031_05210_ph:afc2018031_05210_ph01/full/pct:100/0/default.jpg#h=4000&w=6000"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "new hampshire",
+        "lebanon"
+      ],
+      "mime_type": [
+        "audio/mp3",
+        "image/gif",
+        "application/pdf",
+        "image/jpeg",
+        "image/jp2",
+        "application/x-audio"
+      ],
+      "number": [
+        "online resource",
+        "2020-06-29t12:18:42",
+        "2020655483"
+      ],
+      "online_format": [
+        "audio",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "american folklife center",
+        "trash talk: workers in vermont's waste management industry: archie green fellows project, 2018-2019",
+        "occupational folklife project",
+        "catalog"
+      ],
+      "score": 15.277511,
+      "shelf_id": "http://lccn.loc.gov/2020655483",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "refuse and refuse disposal",
+        "career changes",
+        "color",
+        "refuse disposal industry",
+        "digital photographs",
+        "lebanon (n.h.)",
+        "technology",
+        "oral histories",
+        "personal narratives",
+        "self-employed",
+        "interviews",
+        "sustainable agriculture",
+        "materials handling",
+        "hazardous occupations",
+        "quality of work life",
+        "small business",
+        "employees",
+        "sound recordings",
+        "work environment",
+        "economic aspects",
+        "saturley-hall, jessica",
+        "sex role in the work environment",
+        "event place",
+        "job satisfaction"
+      ],
+      "timestamp": "2022-03-30T00:07:29.853Z",
+      "title": "Jessica Saturley-Hall interview conducted by Virginia Nickerson, 2018-09-18.",
+      "url": "https://www.loc.gov/item/2020655483/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/usrep383131/",
+        "http://www.loc.gov/resource/usrep.usrep383131/",
+        "http://www.loc.gov/item/usrep.usrep383131/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "supreme court of the united states",
+        "fortas, abe"
+      ],
+      "date": "1965",
+      "dates": [
+        "1965"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-12-04T18:42:03.175Z",
+      "group": [
+        "usrep103",
+        "us-report"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/usrep383131/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/ll/usrep/usrep383/usrep383131/usrep383131.gif#h=150&w=100"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "periodical"
+      ],
+      "partof": [
+        "u.s. reports: constitutional law",
+        "u.s. reports: volume 383",
+        "united states reports (official opinions of the u.s. supreme court)",
+        "law library of congress"
+      ],
+      "score": 15.175676,
+      "shelf_id": "Call Number: KF101 Series: Constitutional Law Series: Volume 383",
+      "subject": [
+        "supreme court",
+        "east feliciana parish",
+        "constitutional law",
+        "clinton",
+        "law",
+        "breach of the peace",
+        "freedom of speech",
+        "human rights and civil liberties",
+        "public libraries",
+        "judiciary",
+        "judicial decisions",
+        "racial and ethnic relations",
+        "civil disobedience",
+        "silent expression",
+        "judicial review and appeals",
+        "united states",
+        "law library",
+        "court decisions",
+        "common law",
+        "periodical",
+        "freedom of assembly",
+        "public buildings",
+        "buildings and property",
+        "garner v. louisiana",
+        "right to petition government for redress of grievances",
+        "libraries",
+        "protest and dissent",
+        "government documents",
+        "court opinions",
+        "louisiana",
+        "u.s. reports",
+        "state and local courts",
+        "segregation",
+        "court cases",
+        "civil rights movement",
+        "cox v. louisiana",
+        "discrimination",
+        "first amendment"
+      ],
+      "timestamp": "2023-12-04T19:10:20.192Z",
+      "title": "U.S. Reports: Brown v. Louisiana, 383 U.S. 131 (1966).",
+      "type": [
+        "periodical"
+      ],
+      "url": "https://www.loc.gov/item/usrep383131/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/afc2018029.afc2018029_05460_ph/",
+        "http://www.loc.gov/resource/afc2018029.afc2018029_05460_sr01/",
+        "http://www.loc.gov/resource/afc2018029.afc2018029_05460_ms01/",
+        "http://lccn.loc.gov/2020655503",
+        "https://hdl.loc.gov/loc.afc/afc2018029.afc2018029_05460_sr01",
+        "http://www.loc.gov/item/2020655503/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "bailey, patricia christman",
+        "christman, kenneth",
+        "occupational folklife project",
+        "taylor, candacy a."
+      ],
+      "date": "2018-01-01",
+      "dates": [
+        "2018"
+      ],
+      "description": [
+        "Kenneth Christman and Patricia Christman Bailey's father opened the R&R Liquor Store in 1948 in Nashville, Tennessee, and it has been in operation ever since. The store was built by a black architect, and Kenneth worked there for 42 years. He speaks about the detrimental affect the freeway (urban renewal) has had on their business. The siblings discuss other business challenges, including the fact that wine is being sold now in Tennessee grocery stores, and the negative impact that bulk stores and outlets are having on their business. Kenneth talks about the of impact gentrification on their business, and how they are not being included in the development that is currently underway in Nashville. Despite all the obstacles, the business is still going strong and Kenneth credits the success of the business to the steadfast commitment and support of the family."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-12-18T19:15:57.296Z",
+      "group": [
+        "afc/2018029",
+        "catalog-split-12",
+        "catalog",
+        "green-book",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2020655503/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018029:afc2018029_05460:afc2018029_05460_ph:afc2018029_05460_ph01/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018029:afc2018029_05460:afc2018029_05460_ph:afc2018029_05460_ph01/full/pct:6.25/0/default.jpg#h=239&w=359",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018029:afc2018029_05460:afc2018029_05460_ph:afc2018029_05460_ph01/full/pct:12.5/0/default.jpg#h=478&w=718",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018029:afc2018029_05460:afc2018029_05460_ph:afc2018029_05460_ph01/full/pct:25/0/default.jpg#h=957&w=1436",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018029:afc2018029_05460:afc2018029_05460_ph:afc2018029_05460_ph01/full/pct:50/0/default.jpg#h=1915&w=2873",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018029:afc2018029_05460:afc2018029_05460_ph:afc2018029_05460_ph01/full/pct:100/0/default.jpg#h=3831&w=5746"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "nashville",
+        "tennessee",
+        "united states"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "audio/mp3",
+        "image/gif",
+        "audio/wav",
+        "application/pdf",
+        "application/x-audio"
+      ],
+      "number": [
+        "2020-10-13t13:25:42",
+        "online resource",
+        "2020655503"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "american folklife center",
+        "the green book - documenting african american entrepreneurs: archie green fellows project, 2018-2019",
+        "catalog",
+        "occupational folklife project"
+      ],
+      "score": 12.537366,
+      "shelf_id": "http://lccn.loc.gov/2020655503",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "christman, kenneth",
+        "african american businesspeople",
+        "nashville (tenn.)",
+        "racism",
+        "color",
+        "travel",
+        "digital photographs",
+        "african americans",
+        "family-owned business enterprises",
+        "african american business enterprises",
+        "oral histories",
+        "personal narratives",
+        "united states",
+        "interviews",
+        "small business",
+        "guidebooks",
+        "history",
+        "sound recordings",
+        "bailey, patricia christman",
+        "event place"
+      ],
+      "timestamp": "2022-04-27T08:57:53.356Z",
+      "title": "Patricia Christman Bailey and Kenneth Christman interview conducted by Candacy A. Taylor, 2018-12-05.",
+      "url": "https://www.loc.gov/item/2020655503/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/afc2018029.afc2018029_05280_sr01/",
+        "http://www.loc.gov/item/2020655492/",
+        "http://www.loc.gov/resource/afc2018029.afc2018029_05280_ph/",
+        "http://lccn.loc.gov/2020655492",
+        "https://hdl.loc.gov/loc.afc/afc2018029.afc2018029_05280_sr01",
+        "http://www.loc.gov/resource/afc2018029.afc2018029_05280_ms01/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "taylor, candacy a.",
+        "davis, edward clinton",
+        "occupational folklife project"
+      ],
+      "date": "2018-01-01",
+      "dates": [
+        "2018"
+      ],
+      "description": [
+        "Dr. Edward Davis talks about his father's role in owning the Ben Moore, a Green Book hotel in Montgomery Alabama. His father purchased seventeen properties in the neighborhood street where the Ben Moore hotel was located. Davis inherited all of the properties after his father passed and he discusses the challenges of being a property owner and his efforts to preserve the building. Davis shares a story about his dad, who chased Reverend Ralph Abernathy with a hatchet after he caught Abernathy having an affair with his wife. Dr. Martin Luther King wrote an article about the incident in Jet Magazine. Clinton's father sued Jet Magazine for 75,000 and won."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-12-18T19:15:57.296Z",
+      "group": [
+        "afc/2018029",
+        "catalog-split-03",
+        "catalog",
+        "green-book",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2020655492/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018029:afc2018029_05280:afc2018029_05280_ph:afc2018029_05280_ph01/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018029:afc2018029_05280:afc2018029_05280_ph:afc2018029_05280_ph01/full/pct:6.25/0/default.jpg#h=233&w=350",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018029:afc2018029_05280:afc2018029_05280_ph:afc2018029_05280_ph01/full/pct:12.5/0/default.jpg#h=467&w=701",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018029:afc2018029_05280:afc2018029_05280_ph:afc2018029_05280_ph01/full/pct:25/0/default.jpg#h=935&w=1402",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018029:afc2018029_05280:afc2018029_05280_ph:afc2018029_05280_ph01/full/pct:50/0/default.jpg#h=1870&w=2805",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018029:afc2018029_05280:afc2018029_05280_ph:afc2018029_05280_ph01/full/pct:100/0/default.jpg#h=3740&w=5610"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "montgomery",
+        "alabama",
+        "united states"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "audio/mp3",
+        "image/gif",
+        "audio/wav",
+        "application/pdf",
+        "application/x-audio"
+      ],
+      "number": [
+        "2020-10-13t13:12:17",
+        "online resource",
+        "2020655492"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "american folklife center",
+        "the green book - documenting african american entrepreneurs: archie green fellows project, 2018-2019",
+        "catalog",
+        "occupational folklife project"
+      ],
+      "score": 12.537366,
+      "shelf_id": "http://lccn.loc.gov/2020655492",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "civil rights workers",
+        "african american businesspeople",
+        "color",
+        "african american press",
+        "travel",
+        "digital photographs",
+        "african americans",
+        "family-owned business enterprises",
+        "african american business enterprises",
+        "oral histories",
+        "personal narratives",
+        "united states",
+        "self-employed",
+        "interviews",
+        "small business",
+        "guidebooks",
+        "history",
+        "sound recordings",
+        "alabama",
+        "architecture",
+        "event place",
+        "african american civil rights workers",
+        "montgomery (ala.)",
+        "davis, edward clinton"
+      ],
+      "timestamp": "2022-04-27T08:57:53.356Z",
+      "title": "Edward Clinton Davis interview conducted by Candacy A. Taylor, 2018-12-31.",
+      "url": "https://www.loc.gov/item/2020655492/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://hdl.loc.gov/loc.afc/afc2018029.afc2018029_05240_sr01",
+        "http://www.loc.gov/resource/afc2018029.afc2018029_05240_ph/",
+        "http://www.loc.gov/resource/afc2018029.afc2018029_05240_ms01/",
+        "http://lccn.loc.gov/2020655491",
+        "http://www.loc.gov/item/2020655491/",
+        "http://www.loc.gov/resource/afc2018029.afc2018029_05240_sr01/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "taylor, candacy a.",
+        "pinkney, enid c.",
+        "occupational folklife project"
+      ],
+      "date": "2018-01-01",
+      "dates": [
+        "2018"
+      ],
+      "description": [
+        "Dr. Pinkney spearheaded the restoration of the historic Hampton House, a Green Book hotel in Miami, Florida. The Hampton House was the premier spot for black celebrities and travelers in the 1950s and 1960s. It was frequented by luminaries such as Martin Luther King Jr.--(it was where he practiced his \"I Have a Dream\" speech)--and it also the place where Malcolm X proselytized Cassius Clay into Muhammad Ali. Enid Pinkney patronized the Hampton House when she was young, and in 2002, at the age of 70, when she saw that it had been abandoned for three decades, she felt that she had to do something to save it. The Markowitz family, who operated the Hampton House while it was listed in the Green Book, designated Pinkney as the \"Founding President and CEO of the Historic Hampton House Community Trust.\" With her guidance and perseverance, Pinkney raised nearly 10 million dollars to rehabilitate the property to make it just like it was in the 1950s. In this interview, Pinkney discusses the long, arduous preservation process and the challenges of convincing the city to invest millions of dollars in a building located in a poverty-stricken neighborhood. She also talks about the addicts and people suffering in the community and the need for compassion and jobs. Pinkney was 87 years old at the time of this interview."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-12-18T19:15:57.296Z",
+      "group": [
+        "afc/2018029",
+        "catalog-split-02",
+        "catalog",
+        "green-book",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2020655491/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018029:afc2018029_05240:afc2018029_05240_ph:afc2018029_05240_ph01/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018029:afc2018029_05240:afc2018029_05240_ph:afc2018029_05240_ph01/full/pct:6.25/0/default.jpg#h=240&w=360",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018029:afc2018029_05240:afc2018029_05240_ph:afc2018029_05240_ph01/full/pct:12.5/0/default.jpg#h=480&w=720",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018029:afc2018029_05240:afc2018029_05240_ph:afc2018029_05240_ph01/full/pct:25/0/default.jpg#h=960&w=1440",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018029:afc2018029_05240:afc2018029_05240_ph:afc2018029_05240_ph01/full/pct:50/0/default.jpg#h=1920&w=2880",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018029:afc2018029_05240:afc2018029_05240_ph:afc2018029_05240_ph01/full/pct:100/0/default.jpg#h=3840&w=5760"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "florida",
+        "united states",
+        "miami"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "audio/mp3",
+        "image/gif",
+        "audio/wav",
+        "application/pdf",
+        "application/x-audio"
+      ],
+      "number": [
+        "2020655491",
+        "online resource",
+        "2020-10-13t13:58:31"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "american folklife center",
+        "the green book - documenting african american entrepreneurs: archie green fellows project, 2018-2019",
+        "catalog",
+        "occupational folklife project"
+      ],
+      "score": 12.537366,
+      "shelf_id": "http://lccn.loc.gov/2020655491",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "florida",
+        "discrimination in public accommodations",
+        "african american businesspeople",
+        "work-life balance",
+        "pinkney, enid c.",
+        "homeless persons",
+        "color",
+        "part-time employment",
+        "travel",
+        "digital photographs",
+        "african americans",
+        "miami (fla.)",
+        "african american business enterprises",
+        "oral histories",
+        "personal narratives",
+        "united states",
+        "interviews",
+        "guidebooks",
+        "history",
+        "sound recordings",
+        "homelessness",
+        "event place",
+        "substance abuse"
+      ],
+      "timestamp": "2022-04-27T08:57:53.356Z",
+      "title": "Enid Pinkney interview conducted by Candacy A. Taylor, 2018-12-27.",
+      "url": "https://www.loc.gov/item/2020655491/"
+    }
+  ],
+  "reproductions": "<p>\nSome images in this collection are described in groups; others are \ndescribed individually. In some cases, all of the images in the \ngroup display online, in other cases they do not.\n</p>\n\n<p>\nYou can download online images yourself.  Alternatively, you can \npurchase copies of various types.\n</p>\n\n<ol>\n<p>\t\n<strong><li>Determine whether the desired materials can be retrieved \nonline.</strong>\n</p>\n<ul>\n<p>\t\n<li>Look in the <strong>Medium</strong> field above to determine whether\n the description is for one photograph or more than one.</li>\n </p>\n <p>\n<li>If the description is for a single item and it is displaying, \nyou can download or purchase a print.  Cite the number that begins \nwith &quot;LC-DIG...&quot; when purchasing copies through Library of \nCongress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is \na &quot;Click for more images&quot; icon displaying, select that. \nIndividual images will display; you can download or purchase prints. \nCite the number that begins with &quot;LC-DIG...&quot; when purchasing \ncopies through Library of Congress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is no\n &quot;Click for more images&quot; icon displaying, return to the\n  &quot;About this Item&quot; tab and select the &quot;<i>Check for \n  online items from this group</i>&quot; link.  Then select the \n  \"Obtaining Copies\" tab for any retrieved items that are of interest.\n</p>\n</ul>\n</li>\n\n<p>\n<strong><li>If the images do not display online</strong> -- Select images for reproduction through one of these methods:\n</p>\n<ul>\n<p>\t\n<li>Visit the Prints &amp; Photographs Reading Room and request to view \nthe group (general information about service in the reading room is \navailable at: <a href=\"//www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>).</li>  \n</p>\n<p>\n<li>P&amp;P reading room staff can provide up to 15 photocopies of items \nper calendar year. (Color images cannot be photocopied.) For assistance,\n see our <a href=\"//www.loc.gov/rr/askalib/ask-print.html\">Ask a Librarian</a> page. OR</li>\n</p>\n<p>\n<li>Hire a freelance researcher to do further selection for you \n(a list of researchers is available at: \n<a href=\"//www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>).\n</p>\n</ul>\n</li>\n</ol>\n\n<p>\n<strong>Purchasing Copies</strong>\n</p>\n\n<p>\nLibrary of Congress Duplication Services can make copies of various \ntypes from images in Prints & Photographs Division Collections.  \nPrice lists, contact information, and order forms are available on the \n<a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.\n</p>\n\n<p>\nCarol M. Highsmith sells prints of her photographs at: <a href=\"http://photographsamerica.com/\">http://photographsamerica.com/</a> .\n</p>  \n\n\n\n\n        ",
+  "resource": {
+    "caption": "original digital file",
+    "image": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48241/full/pct:3.125/0/default.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/highsm.48241/"
+  },
+  "resources": [
+    {
+      "caption": "original digital file",
+      "image": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48200:48241/full/pct:3.125/0/default.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/highsm.48241/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294100861,
+  "type": "zoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/highsm.48241/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/highsm.48241/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/highsm.48241/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/highsm.48241/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/highsm.48241/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/highsm.48241/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/highsm.48241/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/highsm.48241/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/highsm.48241/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/highsm.48241/?fo=json&st=text"
+  }
+}

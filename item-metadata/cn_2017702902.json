@@ -1,0 +1,1806 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Margolies, J., photographer. (2008) <cite>Library, Dickason Street, Columbus, Wisconsin</cite>. United States Wisconsin Columbus, 2008. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2017702902/.",
+    "chicago": "Margolies, John, photographer. <cite>Library, Dickason Street, Columbus, Wisconsin</cite>. United States Wisconsin Columbus, 2008. Photograph. https://www.loc.gov/item/2017702902/.",
+    "mla": "Margolies, John, photographer. <cite>Library, Dickason Street, Columbus, Wisconsin</cite>. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2017702902/&gt;."
+  },
+  "collection": null,
+  "item": {
+    "_version_": 1774495613176512512,
+    "access_advisory": "Please use digital image: original slide is kept in cold storage for preservation.",
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2017702902/",
+      "http://www.loc.gov/item/2017702902/",
+      "http://www.loc.gov/pictures/item/2017702902/",
+      "https://hdl.loc.gov/loc.pnp/mrg.00788",
+      "https://hdl.loc.gov/loc.pnp/mrg.00788",
+      "http://www.loc.gov/resource/mrg.00788/",
+      "http://lccn.loc.gov/2017702902"
+    ],
+    "call_number": "LC-MA05- 788 [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Margolies, John, photographer"
+    ],
+    "contributors": [
+      {
+        "margolies, john": "https://www.loc.gov/search/?fa=contributor:margolies,+john&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2019-05-06T17:20:26Z",
+    "created_published": [
+      "2008."
+    ],
+    "created_published_date": "2008.",
+    "date": "2008",
+    "dates": [
+      {
+        "2008": "https://www.loc.gov/search/?dates=2008/2008&fo=json"
+      }
+    ],
+    "description": [
+      "1 photograph : color transparency ; 35 mm (slide format)."
+    ],
+    "digital_id": [
+      "mrg 00788 https://hdl.loc.gov/loc.pnp/mrg.00788"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2023-07-17T14:45:23.911Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/item/2017702902/#pp_other",
+      "http://lccn.loc.gov/2017702902#catalog-split-14"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Slides--2000-2010.--Color"
+    ],
+    "genre": [
+      "Slides--2000-2010.--Color"
+    ],
+    "group": [
+      "pp_other",
+      "catalog-split-14",
+      "catalog",
+      "prints-and-photographs-other",
+      "main-catalog-split-14"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2017702902/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/mrg/00700/00788_150px.jpg#h=102&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/mrg/00700/00788r.jpg#h=437&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/mrg/00700/00788v.jpg#h=699&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "access_advisory": "Please use digital image: original slide is kept in cold storage for preservation.",
+      "call_number": "LC-MA05- 788 [P&P]",
+      "contributors": [
+        "Margolies, John, photographer."
+      ],
+      "control_number": "2017702902",
+      "created": "2019-05-06T17:20:26Z",
+      "created_published": "2008.",
+      "created_published_date": "2008.",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Margolies%2C%20John",
+          "role": "photographer",
+          "title": "Margolies, John"
+        }
+      ],
+      "date": "2008.",
+      "digital_id": [
+        "mrg 00788 https://hdl.loc.gov/loc.pnp/mrg.00788"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Slides--2000-2010.--Color",
+          "title": "Slides--2000-2010.--Color"
+        }
+      ],
+      "genre": [
+        "Slides--2000-2010.--Color"
+      ],
+      "id": "2017702902",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2017702902/",
+      "marc": "https://www.loc.gov/pictures/item/2017702902/marc/",
+      "medium": [
+        "1 photograph : color transparency ; 35 mm (slide format)."
+      ],
+      "medium_brief": "1 photograph :",
+      "mediums": [
+        "1 photograph : color transparency ; 35 mm (slide format)."
+      ],
+      "modified": "2019-05-06T17:20:26Z",
+      "notes": [
+        "Title, date and keywords based on information provided by the photographer.",
+        "Margolies categories: Libraries; Main Street.",
+        "Purchase; John Margolies 2008 (DLC/PP-2008:109-1).",
+        "Credit line: John Margolies Roadside America photograph archive (1972-2008), Library of Congress, Prints and Photographs Division.",
+        "General information about the John Margolies Roadside America photograph archive is available at http://hdl.loc.gov/loc.pnp/pp.mrg",
+        "Forms part of: John Margolies Roadside America photograph archive (1972-2008)."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2017702902",
+        "https://www.loc.gov/item/mrg2017000787"
+      ],
+      "other_control_numbers": [
+        "19672742",
+        "mrg2017000787"
+      ],
+      "part_of": "Margolies, John John Margolies Roadside America photograph archive",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Wisconsin--Columbus",
+          "longitude": "",
+          "title": "Wisconsin--Columbus"
+        }
+      ],
+      "raw_collections": [
+        "017",
+        "20",
+        "diof",
+        "flickrmrg",
+        "minload",
+        "mrg",
+        "pp"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-mrg-00788 (digital file from original color transparency)",
+      "resource_links": [
+        "https://hdl.loc.gov/loc.pnp/mrg.00788"
+      ],
+      "restriction": "Please use digital image: original slide is kept in cold storage for preservation.",
+      "rights_advisory": "No known restrictions on publication. For more information, see \"John Margolies Roadside America Photograph Archive - Rights and Restrictions Information\" https://www.loc.gov/rr/print/res/723_marg.html",
+      "rights_information": "No known restrictions on publication. For more information, see \"John Margolies Roadside America Photograph Archive - Rights and Restrictions Information\" https://www.loc.gov/rr/print/res/723_marg.html",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/mrg/00700/00788_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/mrg/00700/00788r.jpg",
+      "sort_date": "2008",
+      "source_collection": [
+        "Margolies, John John Margolies Roadside America photograph archive"
+      ],
+      "source_created": "2017-04-05T00:00:00Z",
+      "source_modified": "2018-09-05T13:07:20Z",
+      "subject_headings": [
+        "Libraries--2000-2010.",
+        "United States--Wisconsin--Columbus.",
+        "Wisconsin--Columbus"
+      ],
+      "subjects": [
+        "Libraries--2000-2010",
+        "United States--Wisconsin--Columbus"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/mrg/00700/00788_150px.jpg",
+      "title": "Library, Dickason Street, Columbus, Wisconsin"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2017702902",
+    "link": "https://www.loc.gov/pictures/item/2017702902/",
+    "location": [
+      "united states",
+      "wisconsin",
+      "columbus"
+    ],
+    "location_city": [
+      "columbus"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_state": [
+      "wisconsin"
+    ],
+    "locations": [
+      {
+        "columbus": "https://www.loc.gov/search/?fa=location:columbus&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      },
+      {
+        "wisconsin": "https://www.loc.gov/search/?fa=location:wisconsin&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "columbus": "https://www.loc.gov/search/?fa=location_city:columbus&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "wisconsin": "https://www.loc.gov/search/?fa=location_state:wisconsin&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2017702902/marc/",
+    "medium": [
+      "1 photograph : color transparency ; 35 mm (slide format)."
+    ],
+    "medium_brief": "1 photograph :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2019-05-06T17:20:26Z",
+    "notes": [
+      "Title, date and keywords based on information provided by the photographer.",
+      "Margolies categories: Libraries; Main Street.",
+      "Purchase; John Margolies 2008 (DLC/PP-2008:109-1).",
+      "Credit line: John Margolies Roadside America photograph archive (1972-2008), Library of Congress, Prints and Photographs Division.",
+      "General information about the John Margolies Roadside America photograph archive is available at http://hdl.loc.gov/loc.pnp/pp.mrg",
+      "Forms part of: John Margolies Roadside America photograph archive (1972-2008)."
+    ],
+    "number": [
+      "2017702902",
+      "sheet",
+      "http://www.loc.gov/item/2017702902",
+      "http://www.loc.gov/item/mrg2017000787",
+      "http://www.loc.gov/item/19672742",
+      "2018-09-05t13:07:20"
+    ],
+    "number_carrier_type": [
+      "sheet"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/19672742",
+      "http://www.loc.gov/item/mrg2017000787",
+      "http://www.loc.gov/item/2017702902"
+    ],
+    "number_lccn": [
+      "2017702902"
+    ],
+    "number_source_modified": [
+      "2018-09-05t13:07:20"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "19672742",
+      "mrg2017000787"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2017702902/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2017702902/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2017702902/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 11708,
+        "title": "john margolies roadside america photograph archive",
+        "url": "https://www.loc.gov/search/?fa=partof:john+margolies+roadside+america+photograph+archive&fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Wisconsin--Columbus",
+        "longitude": "",
+        "title": "Wisconsin--Columbus"
+      }
+    ],
+    "raw_collections": [
+      "017",
+      "20",
+      "diof",
+      "flickrmrg",
+      "minload",
+      "mrg",
+      "pp"
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&pk=2017702902&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-mrg-00788 (digital file from original color transparency)",
+    "reproductions": [],
+    "resource_links": [
+      "https://hdl.loc.gov/loc.pnp/mrg.00788"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from original color transparency",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/mrg/00700/00788_150px.jpg",
+        "url": "https://www.loc.gov/resource/mrg.00788/"
+      }
+    ],
+    "restriction": "Please use digital image: original slide is kept in cold storage for preservation.",
+    "rights": [],
+    "rights_advisory": "No known restrictions on publication. For more information, see \"John Margolies Roadside America Photograph Archive - Rights and Restrictions Information\" https://www.loc.gov/rr/print/res/723_marg.html",
+    "rights_information": "No known restrictions on publication. For more information, see \"John Margolies Roadside America Photograph Archive - Rights and Restrictions Information\" https://www.loc.gov/rr/print/res/723_marg.html",
+    "score": 17.953835,
+    "shard": "00",
+    "shelf_id": "LC-MA05- 788 [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "2008",
+    "source_collection": "Margolies, John John Margolies Roadside America photograph archive",
+    "source_created": "2017-04-05T00:00:00Z",
+    "source_modified": "2000-01-01T12:00:00Z",
+    "subject": [
+      "united states",
+      "wisconsin",
+      "libraries",
+      "slides",
+      "columbus",
+      "color"
+    ],
+    "subject_headings": [
+      "Libraries--2000-2010",
+      "United States--Wisconsin--Columbus"
+    ],
+    "subjects": [
+      {
+        "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+      },
+      {
+        "columbus": "https://www.loc.gov/search/?fa=subject:columbus&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "slides": "https://www.loc.gov/search/?fa=subject:slides&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      },
+      {
+        "wisconsin": "https://www.loc.gov/search/?fa=subject:wisconsin&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/mrg/00700/00788_150px.jpg",
+    "timestamp": "2023-08-17T16:48:10.720Z",
+    "title": "Library, Dickason Street, Columbus, Wisconsin",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2017702902/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017703797/",
+        "http://www.loc.gov/item/2017703797/",
+        "http://www.loc.gov/pictures/item/2017703797/",
+        "https://hdl.loc.gov/loc.pnp/mrg.01683",
+        "https://hdl.loc.gov/loc.pnp/mrg.01683",
+        "http://www.loc.gov/resource/mrg.01683/",
+        "http://lccn.loc.gov/2017703797"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "margolies, john"
+      ],
+      "date": "1977",
+      "dates": [
+        "1977"
+      ],
+      "description": [
+        "1 photograph : color transparency ; 35 mm (slide format)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-17T14:44:33.878Z",
+      "group": [
+        "pp_other",
+        "catalog-split-11",
+        "catalog",
+        "prints-and-photographs-other",
+        "main-catalog-split-11"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017703797/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/01600/01683_150px.jpg#h=101&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/01600/01683r.jpg#h=429&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/01600/01683v.jpg#h=687&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "wisconsin",
+        "columbus"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2019-10-23t13:27:17",
+        "http://www.loc.gov/item/2017703797",
+        "sheet",
+        "http://www.loc.gov/item/mrg2017001682",
+        "http://www.loc.gov/item/19673810",
+        "2017703797"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "john margolies roadside america photograph archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 40.121845,
+      "shelf_id": "LC-MA05- 1683 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "automobile service stations",
+        "united states",
+        "wisconsin",
+        "slides",
+        "columbus",
+        "color"
+      ],
+      "timestamp": "2023-08-17T16:49:27.618Z",
+      "title": "Phillips 66 gas pumps, Route 60, Columbus, Wisconsin",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017703797/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017706155/",
+        "http://www.loc.gov/item/2017706155/",
+        "http://www.loc.gov/pictures/item/2017706155/",
+        "https://hdl.loc.gov/loc.pnp/mrg.04049",
+        "https://hdl.loc.gov/loc.pnp/mrg.04049",
+        "http://www.loc.gov/resource/mrg.04049/",
+        "http://lccn.loc.gov/2017706155"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "margolies, john"
+      ],
+      "date": "2008",
+      "dates": [
+        "2008"
+      ],
+      "description": [
+        "1 photograph : color transparency ; 35 mm (slide format)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-17T14:40:13.482Z",
+      "group": [
+        "pp_other",
+        "catalog-split-02",
+        "catalog",
+        "prints-and-photographs-other",
+        "main-catalog-split-02"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017706155/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/04000/04049_150px.jpg#h=104&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/04000/04049r.jpg#h=443&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/04000/04049v.jpg#h=708&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "wisconsin",
+        "columbus"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017706155",
+        "http://www.loc.gov/item/19676356",
+        "http://www.loc.gov/item/2017706155",
+        "http://www.loc.gov/item/mrg2017004040",
+        "sheet",
+        "2023-06-12t11:19:38"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "john margolies roadside america photograph archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 40.121845,
+      "shelf_id": "LC-MA05- 4049 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "wisconsin",
+        "slides",
+        "columbus",
+        "color",
+        "banks"
+      ],
+      "timestamp": "2023-08-17T16:53:02.751Z",
+      "title": "Farmers and Merchants Union Bank, James Street, Columbus, Wisconsin",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017706155/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017706156/",
+        "http://www.loc.gov/item/2017706156/",
+        "http://www.loc.gov/pictures/item/2017706156/",
+        "https://hdl.loc.gov/loc.pnp/mrg.04050",
+        "https://hdl.loc.gov/loc.pnp/mrg.04050",
+        "http://www.loc.gov/resource/mrg.04050/",
+        "http://lccn.loc.gov/2017706156"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "margolies, john"
+      ],
+      "date": "2008",
+      "dates": [
+        "2008"
+      ],
+      "description": [
+        "1 photograph : color transparency ; 35 mm (slide format)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-17T14:51:05.723Z",
+      "group": [
+        "pp_other",
+        "catalog-split-03",
+        "catalog",
+        "prints-and-photographs-other",
+        "main-catalog-split-03"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017706156/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/04000/04050_150px.jpg#h=150&w=104",
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/04000/04050r.jpg#h=640&w=443",
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/04000/04050v.jpg#h=1024&w=708"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "wisconsin",
+        "columbus"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017706156",
+        "sheet",
+        "http://www.loc.gov/item/2017706156",
+        "http://www.loc.gov/item/mrg2017004041",
+        "2023-06-12t11:20:14",
+        "http://www.loc.gov/item/19676357"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "john margolies roadside america photograph archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 40.121845,
+      "shelf_id": "LC-MA05- 4050 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "wisconsin",
+        "slides",
+        "columbus",
+        "color",
+        "banks"
+      ],
+      "timestamp": "2023-08-17T16:53:02.751Z",
+      "title": "Farmers and Merchants Union Bank, James Street, Columbus, Wisconsin",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017706156/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017706157/",
+        "http://www.loc.gov/item/2017706157/",
+        "http://www.loc.gov/pictures/item/2017706157/",
+        "https://hdl.loc.gov/loc.pnp/mrg.04051",
+        "https://hdl.loc.gov/loc.pnp/mrg.04051",
+        "http://www.loc.gov/resource/mrg.04051/",
+        "http://lccn.loc.gov/2017706157"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "margolies, john"
+      ],
+      "date": "2008",
+      "dates": [
+        "2008"
+      ],
+      "description": [
+        "1 photograph : color transparency ; 35 mm (slide format)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-17T14:40:13.482Z",
+      "group": [
+        "pp_other",
+        "catalog-split-04",
+        "catalog",
+        "prints-and-photographs-other",
+        "main-catalog-split-04"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017706157/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/04000/04051_150px.jpg#h=150&w=104",
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/04000/04051r.jpg#h=640&w=443",
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/04000/04051v.jpg#h=1024&w=708"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "wisconsin",
+        "columbus"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2017706157",
+        "sheet",
+        "http://www.loc.gov/item/19676358",
+        "http://www.loc.gov/item/mrg2017004042",
+        "2017706157",
+        "2023-06-12t11:20:36"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "john margolies roadside america photograph archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 40.121845,
+      "shelf_id": "LC-MA05- 4051 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "wisconsin",
+        "slides",
+        "columbus",
+        "color",
+        "banks"
+      ],
+      "timestamp": "2023-08-17T16:53:02.751Z",
+      "title": "Farmers and Merchants Union Bank, James Street, Columbus, Wisconsin",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017706157/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017706158/",
+        "http://www.loc.gov/item/2017706158/",
+        "http://www.loc.gov/pictures/item/2017706158/",
+        "https://hdl.loc.gov/loc.pnp/mrg.04052",
+        "https://hdl.loc.gov/loc.pnp/mrg.04052",
+        "http://www.loc.gov/resource/mrg.04052/",
+        "http://lccn.loc.gov/2017706158"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "margolies, john"
+      ],
+      "date": "2008",
+      "dates": [
+        "2008"
+      ],
+      "description": [
+        "1 photograph : color transparency ; 35 mm (slide format)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-17T14:40:13.482Z",
+      "group": [
+        "pp_other",
+        "catalog-split-05",
+        "catalog",
+        "prints-and-photographs-other",
+        "main-catalog-split-05"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017706158/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/04000/04052_150px.jpg#h=150&w=104",
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/04000/04052r.jpg#h=640&w=443",
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/04000/04052v.jpg#h=1024&w=708"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "wisconsin",
+        "columbus"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2017706158",
+        "http://www.loc.gov/item/19676359",
+        "sheet",
+        "2017706158",
+        "http://www.loc.gov/item/mrg2017004043",
+        "2023-06-12t11:21:40"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "john margolies roadside america photograph archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 40.121845,
+      "shelf_id": "LC-MA05- 4052 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "wisconsin",
+        "slides",
+        "columbus",
+        "color",
+        "banks"
+      ],
+      "timestamp": "2023-08-17T16:53:02.751Z",
+      "title": "Farmers and Merchants Union Bank, James Street, Columbus, Wisconsin",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017706158/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017706159/",
+        "http://www.loc.gov/item/2017706159/",
+        "http://www.loc.gov/pictures/item/2017706159/",
+        "https://hdl.loc.gov/loc.pnp/mrg.04053",
+        "https://hdl.loc.gov/loc.pnp/mrg.04053",
+        "http://www.loc.gov/resource/mrg.04053/",
+        "http://lccn.loc.gov/2017706159"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "margolies, john"
+      ],
+      "date": "2008",
+      "dates": [
+        "2008"
+      ],
+      "description": [
+        "1 photograph : color transparency ; 35 mm (slide format)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-17T14:40:14.313Z",
+      "group": [
+        "pp_other",
+        "catalog-split-06",
+        "catalog",
+        "prints-and-photographs-other",
+        "main-catalog-split-06"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017706159/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/04000/04053_150px.jpg#h=150&w=104",
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/04000/04053r.jpg#h=640&w=442",
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/04000/04053v.jpg#h=1024&w=707"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "wisconsin",
+        "columbus"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2023-06-12t11:22:04",
+        "sheet",
+        "http://www.loc.gov/item/2017706159",
+        "http://www.loc.gov/item/19676360",
+        "2017706159",
+        "http://www.loc.gov/item/mrg2017004044"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "john margolies roadside america photograph archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 40.121845,
+      "shelf_id": "LC-MA05- 4053 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "wisconsin",
+        "slides",
+        "columbus",
+        "color",
+        "banks"
+      ],
+      "timestamp": "2023-08-17T16:53:02.751Z",
+      "title": "Farmers and Merchants Union Bank, James Street, Columbus, Wisconsin",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017706159/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "pp_other",
+      "catalog-split-14",
+      "catalog",
+      "prints-and-photographs-other",
+      "main-catalog-split-14",
+      "catalog-split-11",
+      "main-catalog-split-11",
+      "catalog-split-02",
+      "main-catalog-split-02",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "catalog-split-04",
+      "main-catalog-split-04",
+      "catalog-split-05",
+      "main-catalog-split-05",
+      "catalog-split-06",
+      "main-catalog-split-06",
+      "gmd.mar",
+      "catalog-split-13",
+      "general-maps",
+      "main-catalog-split-13",
+      "main-catalog",
+      "ndnp/dlc-2020_now",
+      "library-of-congress-washington-dc-awardee-8",
+      "afc/2018032",
+      "psychiatric-nurses-in-wisconsin",
+      "catalog-split-00",
+      "main-catalog-split-00"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "mrg.00788",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.8005056381225586,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/mrg.00788/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/mrg.00788/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294121.5026934,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 54091070,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/mrg/00700/00788u.tif",
+      "width": 0
+    },
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 108149706,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/mrg/00700/00788a.tif",
+      "width": 0
+    },
+    {
+      "height": 102,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 11989,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/mrg/00700/00788_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 437,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 183047,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/mrg/00700/00788r.jpg",
+      "width": 640
+    },
+    {
+      "height": 699,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 417474,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/mrg/00700/00788v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&pk=2017702902&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/73694538/",
+        "http://www.loc.gov/resource/g4124c.pm010280/",
+        "https://hdl.loc.gov/loc.gmd/g4124c.pm010280",
+        "http://lccn.loc.gov/73694538"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ruger, a.",
+        "chicago lithographing co"
+      ],
+      "date": "1868-01-01",
+      "dates": [
+        "1868"
+      ],
+      "description": [
+        "Perspective map not drawn to scale. LC Panoramic maps (2nd ed.), 1028 Available also through the Library of Congress Web site as a raster image. Indexed for points of interest. Vault AACR2: 100; 651/1; 710/1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T23:37:17.190Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-13",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/73694538/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd412/g4124/g4124c/pm010280.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd412/g4124/g4124c/pm010280.gif#h=150&w=191",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd412:g4124:g4124c:pm010280/full/pct:12.5/0/default.jpg#h=788&w=1004",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd412:g4124:g4124c:pm010280/full/pct:25/0/default.jpg#h=1576&w=2008"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "wisconsin",
+        "columbus"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "73694538",
+        "http://www.loc.gov/item/5412164",
+        "http://www.loc.gov/item/73694538",
+        "2002-12-14t18:36:01"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "catalog",
+        "cities and towns",
+        "panoramic maps",
+        "geography and map division",
+        "american memory"
+      ],
+      "score": 20.85847,
+      "shelf_id": "G4124.C7A3 1868 .R8",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "wisconsin",
+        "aerial views",
+        "columbus (wis.)",
+        "columbus"
+      ],
+      "timestamp": "2022-12-10T05:50:21.547Z",
+      "title": "Bird's eye view of Columbus, Columbia Co., Wisconsin 1868.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/73694538/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn85042465/1887-03-19/ed-1/",
+        "http://www.loc.gov/resource/sn85042465/1887-03-19/ed-1/"
+      ],
+      "batch": [
+        "dlc_adirondack_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1887-03-19",
+      "dates": [
+        "1887-03-19"
+      ],
+      "description": [
+        "Columbus, Ohio"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-07T20:29:16.614Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn85042465/1887-03-19/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_adirondack_ver01:data:sn85042465:00220720469:1887031901:0001/full/pct:3.125/0/default.jpg#h=276&w=197",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_adirondack_ver01:data:sn85042465:00220720469:1887031901:0001/full/pct:6.25/0/default.jpg#h=552&w=395",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_adirondack_ver01:data:sn85042465:00220720469:1887031901:0001/full/pct:12.5/0/default.jpg#h=1104&w=790"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "columbus",
+        "united states",
+        "franklin",
+        "ohio"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00220720469",
+        "sn85042465",
+        "1"
+      ],
+      "numeric_shelf_id": 188703191,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the free american (columbus, ohio) 1887-18??",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 15.434311,
+      "shelf_id": "sn85042465, 1887-03-19, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "united states",
+        "newspapers",
+        "franklin",
+        "african american",
+        "columbus",
+        "african american newspapers",
+        "ohio",
+        "african americans",
+        "columbus (ohio)"
+      ],
+      "timestamp": "2023-08-07T20:58:50.809Z",
+      "title": "The free American (Columbus, Ohio), March 19, 1887",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn85042465/1887-03-19/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83016189/1900-01-27/ed-1/",
+        "http://www.loc.gov/resource/sn83016189/1900-01-27/ed-1/"
+      ],
+      "batch": [
+        "dlc_jean_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1900-01-27",
+      "dates": [
+        "1900-01-27"
+      ],
+      "description": [
+        "Columbus, Ga."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-07T20:32:31.197Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83016189/1900-01-27/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jean_ver01:data:sn83016189:00220720457:1900012701:0001/full/pct:3.125/0/default.jpg#h=301&w=201",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jean_ver01:data:sn83016189:00220720457:1900012701:0001/full/pct:6.25/0/default.jpg#h=602&w=403"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "georgia",
+        "muscogee county",
+        "columbus",
+        "muscogee"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn83016189",
+        "1",
+        "00220720457"
+      ],
+      "numeric_shelf_id": 190001271,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "serial and government publications division",
+        "columbus chronicle (columbus, ga.) 1895-1900"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 15.434311,
+      "shelf_id": "sn83016189, 1900-01-27, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "united states",
+        "georgia",
+        "newspapers",
+        "african american",
+        "muscogee county",
+        "muscogee county (ga.)",
+        "african american newspapers",
+        "columbus",
+        "columbus (ga.)",
+        "muscogee",
+        "african americans"
+      ],
+      "timestamp": "2023-08-08T11:12:37.199Z",
+      "title": "Columbus chronicle (Columbus, Ga.), January 27, 1900",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83016189/1900-01-27/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn84025831/1901-07-27/ed-1/",
+        "http://www.loc.gov/resource/sn84025831/1901-07-27/ed-1/"
+      ],
+      "batch": [
+        "dlc_greatsalt_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1901-07-27",
+      "dates": [
+        "1901-07-27"
+      ],
+      "description": [
+        "Columbus, Ohio"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-07T20:31:56.082Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn84025831/1901-07-27/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greatsalt_ver02:data:sn84025831:00220720366:1901072701:0001/full/pct:3.125/0/default.jpg#h=275&w=222",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greatsalt_ver02:data:sn84025831:00220720366:1901072701:0001/full/pct:6.25/0/default.jpg#h=550&w=444",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_greatsalt_ver02:data:sn84025831:00220720366:1901072701:0001/full/pct:12.5/0/default.jpg#h=1101&w=888"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "franklin county",
+        "united states",
+        "ohio",
+        "franklin",
+        "columbus"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn84025831",
+        "00220720366",
+        "1"
+      ],
+      "numeric_shelf_id": 190107271,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "serial and government publications division",
+        "columbus standard (columbus, ohio) 1898-1901"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 15.434311,
+      "shelf_id": "sn84025831, 1901-07-27, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "franklin county",
+        "united states",
+        "newspapers",
+        "franklin",
+        "african american",
+        "franklin county (ohio)",
+        "columbus",
+        "african american newspapers",
+        "ohio",
+        "african americans",
+        "columbus (ohio)"
+      ],
+      "timestamp": "2023-08-08T08:34:16.236Z",
+      "title": "Columbus standard (Columbus, Ohio), July 27, 1901",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn84025831/1901-07-27/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2021655231",
+        "http://www.loc.gov/item/2021655231/",
+        "https://hdl.loc.gov/loc.afc/afc2018032.afc2018032_05006_sr01",
+        "http://www.loc.gov/resource/afc2018032.afc2018032_05006_sr01/",
+        "http://www.loc.gov/resource/afc2018032.afc2018032_05006_ph/",
+        "http://www.loc.gov/resource/afc2018032.afc2018032_05006_ms01/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "hyman, charitie v.",
+        "occupational folklife project",
+        "chapin-donalson, suzanne"
+      ],
+      "date": "2019-01-01",
+      "dates": [
+        "2019"
+      ],
+      "description": [
+        "Suzanne Chapin-Donalson describes growing up in a culturally diverse neighborhood in Chicago. She talks about working with disadvantaged populations in Nashville, Tennessee and Milwaukee, Wisconsin. She recalls working with dementia patients as her first introduction into psychiatric nursing. She describes moving on to an in-patient hospital unit, which she says was an incredible learning experience. She currently works at an outpatient community support program, where she enjoys the team-based approach and continuity of care."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-06-30T16:05:17.246Z",
+      "group": [
+        "afc/2018032",
+        "catalog-split-11",
+        "catalog",
+        "psychiatric-nurses-in-wisconsin",
+        "main-catalog-split-11",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021655231/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018032:afc2018032_05006:afc2018032_05006_ph:afc2018032_05006_ph01/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018032:afc2018032_05006:afc2018032_05006_ph:afc2018032_05006_ph01/full/pct:6.25/0/default.jpg#h=213&w=285",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018032:afc2018032_05006:afc2018032_05006_ph:afc2018032_05006_ph01/full/pct:12.5/0/default.jpg#h=427&w=570",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018032:afc2018032_05006:afc2018032_05006_ph:afc2018032_05006_ph01/full/pct:25/0/default.jpg#h=855&w=1140",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018032:afc2018032_05006:afc2018032_05006_ph:afc2018032_05006_ph01/full/pct:50/0/default.jpg#h=1710&w=2281",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018032:afc2018032_05006:afc2018032_05006_ph:afc2018032_05006_ph01/full/pct:100/0/default.jpg#h=3420&w=4562"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "wisconsin",
+        "madison"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "audio/mp3",
+        "image/gif",
+        "audio/wav",
+        "application/pdf",
+        "application/x-audio"
+      ],
+      "number": [
+        "2021655231",
+        "2022-06-30t11:12:52",
+        "online resource"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "psychiatric nurses in wisconsin : archie green fellow project, 2018-2019",
+        "occupational folklife project",
+        "american folklife center",
+        "catalog"
+      ],
+      "score": 14.882972,
+      "shelf_id": "http://lccn.loc.gov/2021655231",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "mentoring",
+        "chapin-donalson, suzanne",
+        "personal narratives",
+        "digital photographs",
+        "psychiatric nursing",
+        "wisconsin",
+        "work ethic",
+        "interviews",
+        "sound recordings",
+        "medical care",
+        "work environment",
+        "job satisfaction",
+        "poverty",
+        "color",
+        "oral histories",
+        "united states",
+        "mental health personnel",
+        "mental illness",
+        "jargon (terminology)",
+        "psychiatric nurses"
+      ],
+      "timestamp": "2022-09-06T05:22:01.310Z",
+      "title": "Suzanne Chapin-Donalson interview conducted by Charitie V. Hyman, 2019-04-09",
+      "type": [
+        "sound recording-nonmusical"
+      ],
+      "url": "https://www.loc.gov/item/2021655231/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2021655236",
+        "http://www.loc.gov/item/2021655236/",
+        "https://hdl.loc.gov/loc.afc/afc2018032.afc2018032_05022_sr01",
+        "http://www.loc.gov/resource/afc2018032.afc2018032_05022_sr01/",
+        "http://www.loc.gov/resource/afc2018032.afc2018032_05022_ph/",
+        "http://www.loc.gov/resource/afc2018032.afc2018032_05022_ms01/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "krenz, vicki l.",
+        "occupational folklife project",
+        "hyman, charitie v."
+      ],
+      "date": "2019-01-01",
+      "dates": [
+        "2019"
+      ],
+      "description": [
+        "Vicki Krenz explains that she worked in a factory for 11 years before shifting to nursing. She talks about first working as a CNA in a nursing home. She describes communicating with dementia patients; how she worked nights and kept up her schooling; and about becoming an LPN and then RN. She talks about her job at the V.A. and then as a private duty nurse in patients' homes before eventually moving to the county jail. She explains about the stress there and describes the work environment. She notes that mental health is central to all nursing."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-06-30T16:05:17.246Z",
+      "group": [
+        "afc/2018032",
+        "catalog-split-00",
+        "catalog",
+        "psychiatric-nurses-in-wisconsin",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2021655236/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018032:afc2018032_05022:afc2018032_05022_ph:afc2018032_05022_ph01/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018032:afc2018032_05022:afc2018032_05022_ph:afc2018032_05022_ph01/full/pct:6.25/0/default.jpg#h=213&w=285",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018032:afc2018032_05022:afc2018032_05022_ph:afc2018032_05022_ph01/full/pct:12.5/0/default.jpg#h=427&w=570",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018032:afc2018032_05022:afc2018032_05022_ph:afc2018032_05022_ph01/full/pct:25/0/default.jpg#h=855&w=1140",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018032:afc2018032_05022:afc2018032_05022_ph:afc2018032_05022_ph01/full/pct:50/0/default.jpg#h=1710&w=2281",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2018032:afc2018032_05022:afc2018032_05022_ph:afc2018032_05022_ph01/full/pct:100/0/default.jpg#h=3420&w=4562"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "monroe",
+        "united states",
+        "wisconsin"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "audio/mp3",
+        "image/gif",
+        "audio/wav",
+        "application/pdf",
+        "application/x-audio"
+      ],
+      "number": [
+        "2022-06-30t11:21:35",
+        "2021655236",
+        "2022-07-01t10:30:21",
+        "online resource"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "psychiatric nurses in wisconsin : archie green fellow project, 2018-2019",
+        "occupational folklife project",
+        "american folklife center",
+        "catalog"
+      ],
+      "score": 14.882972,
+      "shelf_id": "http://lccn.loc.gov/2021655236",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "factories",
+        "night work",
+        "personal narratives",
+        "employees",
+        "digital photographs",
+        "job stress",
+        "psychiatric nursing",
+        "career changes",
+        "wisconsin",
+        "training of",
+        "interviews",
+        "sound recordings",
+        "correctional institutions",
+        "work and family",
+        "medical care",
+        "families",
+        "color",
+        "oral histories",
+        "krenz, vicki l.",
+        "united states",
+        "veterans",
+        "mental health personnel",
+        "mental illness",
+        "working mothers",
+        "psychiatric nurses",
+        "disabilities"
+      ],
+      "timestamp": "2022-09-06T05:22:01.310Z",
+      "title": "Vicki Krenz interview conducted by Charitie V. Hyman, 2019-05-07",
+      "type": [
+        "sound recording-nonmusical"
+      ],
+      "url": "https://www.loc.gov/item/2021655236/"
+    }
+  ],
+  "reproductions": "",
+  "resource": {
+    "caption": "digital file from original color transparency",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/mrg/00700/00788_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/mrg.00788/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from original color transparency",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/mrg/00700/00788_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/mrg.00788/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294122303,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/mrg.00788/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/mrg.00788/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/mrg.00788/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/mrg.00788/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/mrg.00788/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/mrg.00788/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/mrg.00788/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/mrg.00788/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/mrg.00788/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/mrg.00788/?fo=json&st=text"
+  }
+}

@@ -1,0 +1,1782 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Highsmith, C. M., photographer. (2018) <cite>Library. Herbert Hoover Federal Building located in downtown Washington, D.C</cite>. Washington D.C. Washington D.C. District of Columbia United States, 2018. -09-20. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2019631085/.",
+    "chicago": "Highsmith, Carol M, photographer. <cite>Library. Herbert Hoover Federal Building located in downtown Washington, D.C</cite>. Washington D.C. Washington D.C. District of Columbia United States, 2018. -09-20. Photograph. https://www.loc.gov/item/2019631085/.",
+    "mla": "Highsmith, Carol M, photographer. <cite>Library. Herbert Hoover Federal Building located in downtown Washington, D.C</cite>. -09-20. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2019631085/&gt;."
+  },
+  "item": {
+    "_version_": 1730913687964745728,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2019631085/",
+      "http://www.loc.gov/item/2019631085/",
+      "http://www.loc.gov/pictures/item/2019631085/",
+      "https://www.loc.gov/pictures/collection/highsm/item/2019631085/",
+      "http://www.loc.gov/pictures/collection/highsm/item/2019631085/",
+      "http://www.loc.gov/resource/highsm.53335/",
+      "http://lccn.loc.gov/2019631085",
+      "https://hdl.loc.gov/loc.pnp/highsm.53335"
+    ],
+    "call_number": "LC-DIG-highsm- 53335 (ONLINE) [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Highsmith, Carol M., 1946-, photographer"
+    ],
+    "contributors": [
+      {
+        "highsmith, carol m.": "https://www.loc.gov/search/?fa=contributor:highsmith,+carol+m.&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2019-10-01T06:51:58Z",
+    "created_published": [
+      "2018-09-20."
+    ],
+    "created_published_date": "2018-09-20.",
+    "date": "2018-01-01",
+    "dates": [
+      {
+        "2018": "https://www.loc.gov/search/?dates=2018/2018&fo=json"
+      }
+    ],
+    "description": [
+      "1 photograph : digital, tiff file, color."
+    ],
+    "digital_id": [
+      "highsm 53335 //hdl.loc.gov/loc.pnp/highsm.53335"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-30T19:15:01.389Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/highsm/item/2019631085/#highsm",
+      "http://lccn.loc.gov/2019631085#catalog-split-03"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Digital photographs--Color--2010-2020."
+    ],
+    "genre": [
+      "Digital photographs--Color--2010-2020"
+    ],
+    "group": [
+      "highsm",
+      "catalog-split-03",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-03",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2019631085/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53335_150px.jpg#h=146&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53335r.jpg#h=625&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53335v.jpg#h=1000&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-DIG-highsm- 53335 (ONLINE) [P&P]",
+      "contributors": [
+        "Highsmith, Carol M., 1946- photographer."
+      ],
+      "control_number": "2019631085",
+      "created": "2019-10-01T06:51:58Z",
+      "created_published": "2018-09-20.",
+      "created_published_date": "2018-09-20.",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Highsmith%2C%20Carol%20M.%2C%201946-&co=highsm",
+          "role": "photographer",
+          "title": "Highsmith, Carol M., 1946-"
+        }
+      ],
+      "date": "2018-09-20.",
+      "digital_id": [
+        "highsm 53335 //hdl.loc.gov/loc.pnp/highsm.53335"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Digital%20photographs--Color--2010-2020.&co=highsm",
+          "title": "Digital photographs--Color--2010-2020."
+        }
+      ],
+      "genre": [
+        "Digital photographs--Color--2010-2020"
+      ],
+      "id": "2019631085",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2019631085/",
+      "marc": "https://www.loc.gov/pictures/item/2019631085/marc/",
+      "medium": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "medium_brief": "1 photograph :",
+      "mediums": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "modified": "2019-10-01T06:51:58Z",
+      "notes": [
+        "Architect is James A Wetmore and it was built in 1930. It is known as the Commerce Building.",
+        "Photographed as part of an assignment for the General Services Administration.",
+        "Title, date and keywords based on information provided by the photographer.",
+        "Credit line: Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.",
+        "Purchase; Carol M. Highsmith; 2018; (DLC/PP-2017:162-8).",
+        "Forms part of: Photographs in the Carol M. Highsmith Archive."
+      ],
+      "other_control_numbers": [
+        "21114339"
+      ],
+      "part_of": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=District%20of%20Columbia--Washington%20%28D.C.%29&co=highsm",
+          "longitude": "",
+          "title": "District of Columbia--Washington (D.C.)"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-highsm-53335 (original digital file)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/highsm.53335"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53335_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53335r.jpg",
+      "sort_date": "2018",
+      "source_collection": [
+        "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+      ],
+      "source_created": "2019-08-02T00:00:00Z",
+      "source_modified": "2019-09-13T10:36:25Z",
+      "subject_headings": [
+        "United States--District of Columbia--Washington (D.C.)",
+        "Herbert Hoover Federal Building",
+        "Federal buildings",
+        "GSA",
+        "Commerce Building",
+        "James A. Wetmore",
+        "libraries",
+        "America",
+        "District Of Columbia--Washington (D.C.)"
+      ],
+      "subjects": [
+        "United States--District of Columbia--Washington (D.C.)",
+        "Herbert Hoover Federal Building",
+        "Federal buildings",
+        "GSA",
+        "Commerce Building",
+        "James A. Wetmore",
+        "Libraries",
+        "America"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53335_150px.jpg",
+      "title": "Library. Herbert Hoover Federal Building located in downtown Washington, D.C."
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2019631085",
+    "link": "https://www.loc.gov/pictures/item/2019631085/",
+    "location": [
+      "washington d.c.",
+      "washington (d.c.)",
+      "district of columbia",
+      "united states"
+    ],
+    "location_city": [
+      "washington (d.c.)"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_state": [
+      "district of columbia"
+    ],
+    "locations": [
+      {
+        "district of columbia": "https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      },
+      {
+        "washington (d.c.)": "https://www.loc.gov/search/?fa=location:washington+%28d.c.%29&fo=json"
+      },
+      {
+        "washington d.c.": "https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "washington (d.c.)": "https://www.loc.gov/search/?fa=location_city:washington+%28d.c.%29&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "district of columbia": "https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2019631085/marc/",
+    "medium": [
+      "1 photograph : digital, tiff file, color."
+    ],
+    "medium_brief": "1 photograph :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2019-10-01T06:51:58Z",
+    "notes": [
+      "Architect is James A Wetmore and it was built in 1930. It is known as the Commerce Building.",
+      "Photographed as part of an assignment for the General Services Administration.",
+      "Title, date and keywords based on information provided by the photographer.",
+      "Credit line: Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.",
+      "Purchase; Carol M. Highsmith; 2018; (DLC/PP-2017:162-8).",
+      "Forms part of: Photographs in the Carol M. Highsmith Archive."
+    ],
+    "number": [
+      "online resource",
+      "2019631085",
+      "2019-09-13t10:36:25",
+      "http://www.loc.gov/item/21114339"
+    ],
+    "number_carrier_type": [
+      "online resource"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/21114339"
+    ],
+    "number_lccn": [
+      "2019631085"
+    ],
+    "number_source_modified": [
+      "2019-09-13t10:36:25"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "21114339"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2019631085/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2019631085/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2019631085/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 69132,
+        "title": "highsmith (carol m.) archive",
+        "url": "https://www.loc.gov/collections/carol-m-highsmith/?fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=District%20of%20Columbia--Washington%20%28D.C.%29&co=highsm",
+        "longitude": "",
+        "title": "District of Columbia--Washington (D.C.)"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2019631085&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-highsm-53335 (original digital file)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/highsm.53335"
+    ],
+    "resources": [
+      {
+        "caption": "original digital file",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53335_150px.jpg",
+        "url": "https://www.loc.gov/resource/highsm.53335/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/482_high.html\">Carol M. Highsmith - Rights and Restrictions Information</a> </p>\n \n"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "LC-DIG-highsm- 53335 (ONLINE) [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "2018",
+    "source_collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+    "source_created": "2019-08-02T00:00:00Z",
+    "source_modified": "2019-09-13T10:36:25Z",
+    "subject": [
+      "washington (d.c.)",
+      "color",
+      "libraries",
+      "united states",
+      "digital photographs",
+      "james a. wetmore",
+      "herbert hoover federal building",
+      "commerce building",
+      "gsa",
+      "america",
+      "district of columbia",
+      "federal buildings"
+    ],
+    "subject_headings": [
+      "United States--District of Columbia--Washington (D.C.)",
+      "Herbert Hoover Federal Building",
+      "Federal buildings",
+      "GSA",
+      "Commerce Building",
+      "James A. Wetmore",
+      "Libraries",
+      "America"
+    ],
+    "subjects": [
+      {
+        "america": "https://www.loc.gov/search/?fa=subject:america&fo=json"
+      },
+      {
+        "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+      },
+      {
+        "commerce building": "https://www.loc.gov/search/?fa=subject:commerce+building&fo=json"
+      },
+      {
+        "digital photographs": "https://www.loc.gov/search/?fa=subject:digital+photographs&fo=json"
+      },
+      {
+        "district of columbia": "https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json"
+      },
+      {
+        "federal buildings": "https://www.loc.gov/search/?fa=subject:federal+buildings&fo=json"
+      },
+      {
+        "gsa": "https://www.loc.gov/search/?fa=subject:gsa&fo=json"
+      },
+      {
+        "herbert hoover federal building": "https://www.loc.gov/search/?fa=subject:herbert+hoover+federal+building&fo=json"
+      },
+      {
+        "james a. wetmore": "https://www.loc.gov/search/?fa=subject:james+a.+wetmore&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      },
+      {
+        "washington (d.c.)": "https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53335_150px.jpg",
+    "timestamp": "2022-04-23T15:32:07.950Z",
+    "title": "Library. Herbert Hoover Federal Building located in downtown Washington, D.C.",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2019631085/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2019631069/",
+        "http://www.loc.gov/item/2019631069/",
+        "http://www.loc.gov/pictures/item/2019631069/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2019631069/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2019631069/",
+        "http://www.loc.gov/resource/highsm.53319/",
+        "https://hdl.loc.gov/loc.pnp/highsm.53319",
+        "http://lccn.loc.gov/2019631069"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2018-01-01",
+      "dates": [
+        "2018"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T19:15:01.389Z",
+      "group": [
+        "highsm",
+        "catalog-split-05",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-05",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2019631069/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53319_150px.jpg#h=61&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53319r.jpg#h=262&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53319v.jpg#h=419&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington (d.c.)",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2019631069",
+        "online resource",
+        "http://www.loc.gov/item/21114189",
+        "2019-09-13t10:38:07"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "highsmith (carol m.) archive",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 80.22269,
+      "shelf_id": "LC-DIG-highsm- 53319 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "color",
+        "united states",
+        "digital photographs",
+        "james a. wetmore",
+        "herbert hoover federal building",
+        "commerce building",
+        "gsa",
+        "america",
+        "district of columbia",
+        "federal buildings"
+      ],
+      "timestamp": "2022-04-23T15:32:07.950Z",
+      "title": "Herbert Hoover Federal Building located in downtown Washington, D.C.",
+      "url": "https://www.loc.gov/item/2019631069/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2019631070/",
+        "http://www.loc.gov/item/2019631070/",
+        "http://www.loc.gov/pictures/item/2019631070/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2019631070/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2019631070/",
+        "http://www.loc.gov/resource/highsm.53320/",
+        "http://lccn.loc.gov/2019631070",
+        "https://hdl.loc.gov/loc.pnp/highsm.53320"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2018-01-01",
+      "dates": [
+        "2018"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T19:15:01.389Z",
+      "group": [
+        "highsm",
+        "catalog-split-13",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2019631070/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53320_150px.jpg#h=72&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53320r.jpg#h=306&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53320v.jpg#h=490&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington (d.c.)",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "online resource",
+        "2019-09-13t10:38:26",
+        "http://www.loc.gov/item/21114196",
+        "2019631070"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "highsmith (carol m.) archive",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 80.22269,
+      "shelf_id": "LC-DIG-highsm- 53320 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "color",
+        "united states",
+        "digital photographs",
+        "james a. wetmore",
+        "herbert hoover federal building",
+        "commerce building",
+        "gsa",
+        "america",
+        "district of columbia",
+        "federal buildings"
+      ],
+      "timestamp": "2022-04-23T15:32:07.950Z",
+      "title": "Herbert Hoover Federal Building located in downtown Washington, D.C.",
+      "url": "https://www.loc.gov/item/2019631070/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2019631071/",
+        "http://www.loc.gov/item/2019631071/",
+        "http://www.loc.gov/pictures/item/2019631071/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2019631071/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2019631071/",
+        "http://www.loc.gov/resource/highsm.53321/",
+        "http://lccn.loc.gov/2019631071",
+        "https://hdl.loc.gov/loc.pnp/highsm.53321"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2018-01-01",
+      "dates": [
+        "2018"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T19:15:01.389Z",
+      "group": [
+        "highsm",
+        "catalog-split-14",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2019631071/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53321_150px.jpg#h=75&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53321r.jpg#h=321&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53321v.jpg#h=514&w=1024"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington (d.c.)",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/21114202",
+        "online resource",
+        "2019631071",
+        "2019-09-13t10:38:41"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "highsmith (carol m.) archive",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 80.22269,
+      "shelf_id": "LC-DIG-highsm- 53321 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "color",
+        "united states",
+        "digital photographs",
+        "james a. wetmore",
+        "herbert hoover federal building",
+        "commerce building",
+        "gsa",
+        "america",
+        "district of columbia",
+        "federal buildings"
+      ],
+      "timestamp": "2022-04-23T15:32:07.950Z",
+      "title": "Herbert Hoover Federal Building located in downtown Washington, D.C.",
+      "url": "https://www.loc.gov/item/2019631071/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2019631072/",
+        "http://www.loc.gov/item/2019631072/",
+        "http://www.loc.gov/pictures/item/2019631072/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2019631072/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2019631072/",
+        "http://www.loc.gov/resource/highsm.53322/",
+        "https://hdl.loc.gov/loc.pnp/highsm.53322",
+        "http://lccn.loc.gov/2019631072"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2018-01-01",
+      "dates": [
+        "2018"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T19:15:01.389Z",
+      "group": [
+        "highsm",
+        "catalog-split-15",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2019631072/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53322_150px.jpg#h=97&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53322r.jpg#h=412&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53322v.jpg#h=659&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington (d.c.)",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2019631072",
+        "online resource",
+        "2019-09-13t10:38:54",
+        "http://www.loc.gov/item/21114219"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "highsmith (carol m.) archive",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 80.22269,
+      "shelf_id": "LC-DIG-highsm- 53322 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "doors",
+        "color",
+        "united states",
+        "digital photographs",
+        "james a. wetmore",
+        "herbert hoover federal building",
+        "commerce building",
+        "gsa",
+        "america",
+        "district of columbia",
+        "federal buildings"
+      ],
+      "timestamp": "2022-04-23T15:32:07.950Z",
+      "title": "Entrance. Herbert Hoover Federal Building located in downtown Washington, D.C.",
+      "url": "https://www.loc.gov/item/2019631072/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2019631073/",
+        "http://www.loc.gov/item/2019631073/",
+        "http://www.loc.gov/pictures/item/2019631073/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2019631073/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2019631073/",
+        "http://www.loc.gov/resource/highsm.53323/",
+        "http://lccn.loc.gov/2019631073",
+        "https://hdl.loc.gov/loc.pnp/highsm.53323"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2018-01-01",
+      "dates": [
+        "2018"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T19:15:01.389Z",
+      "group": [
+        "highsm",
+        "catalog-split-00",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2019631073/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53323_150px.jpg#h=100&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53323r.jpg#h=427&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53323v.jpg#h=683&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington (d.c.)",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "online resource",
+        "2019631073",
+        "2019-09-13t10:39:14",
+        "http://www.loc.gov/item/21114227"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "highsmith (carol m.) archive",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 80.22269,
+      "shelf_id": "LC-DIG-highsm- 53323 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "color",
+        "united states",
+        "digital photographs",
+        "pediments",
+        "james a. wetmore",
+        "herbert hoover federal building",
+        "commerce building",
+        "gsa",
+        "america",
+        "district of columbia",
+        "federal buildings"
+      ],
+      "timestamp": "2022-04-23T15:32:07.950Z",
+      "title": "Pediment. Herbert Hoover Federal Building located in downtown Washington, D.C.",
+      "url": "https://www.loc.gov/item/2019631073/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2019631074/",
+        "http://www.loc.gov/item/2019631074/",
+        "http://www.loc.gov/pictures/item/2019631074/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2019631074/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2019631074/",
+        "http://www.loc.gov/resource/highsm.53324/",
+        "https://hdl.loc.gov/loc.pnp/highsm.53324",
+        "http://lccn.loc.gov/2019631074"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2018-01-01",
+      "dates": [
+        "2018"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T19:15:01.389Z",
+      "group": [
+        "highsm",
+        "catalog-split-01",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-01",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2019631074/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53324_150px.jpg#h=100&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53324r.jpg#h=427&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53324v.jpg#h=683&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington (d.c.)",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "online resource",
+        "http://www.loc.gov/item/21114233",
+        "2019631074",
+        "2019-09-13t10:39:31"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "highsmith (carol m.) archive",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 80.22269,
+      "shelf_id": "LC-DIG-highsm- 53324 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "color",
+        "united states",
+        "digital photographs",
+        "pediments",
+        "james a. wetmore",
+        "herbert hoover federal building",
+        "commerce building",
+        "gsa",
+        "america",
+        "district of columbia",
+        "federal buildings"
+      ],
+      "timestamp": "2022-04-23T15:32:07.950Z",
+      "title": "Pediment. Herbert Hoover Federal Building located in downtown Washington, D.C.",
+      "url": "https://www.loc.gov/item/2019631074/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "highsm",
+      "catalog-split-03",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-03",
+      "main-catalog",
+      "catalog-split-05",
+      "main-catalog-split-05",
+      "catalog-split-13",
+      "main-catalog-split-13",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "catalog-split-01",
+      "main-catalog-split-01",
+      "ndnp/ncu",
+      "university-of-north-carolina-chapel-hill-library-awardee",
+      "gmd.mar",
+      "general-maps",
+      "sgpearlypress/dlc",
+      "early-press-of-the-nations-capitals"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "highsm.53335",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 1.0621442794799805,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/highsm.53335/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/highsm.53335/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294073.9960265,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 98118850,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/highsm/53300/53335u.tif",
+      "width": 0
+    },
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 196209562,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/highsm/53300/53335a.tif",
+      "width": 0
+    },
+    {
+      "height": 146,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 100090,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53335_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 625,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 163423,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53335r.jpg",
+      "width": 640
+    },
+    {
+      "height": 1000,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 689278,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53335v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2019631085&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn96027351/1868-01-01/ed-1/",
+        "http://www.loc.gov/resource/sn96027351/1868-01-01/ed-1/"
+      ],
+      "batch": [
+        "ncu_appling_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of north carolina at chapel hill library, chapel hill, nc"
+      ],
+      "date": "1868-01-01",
+      "dates": [
+        "1868-01-01"
+      ],
+      "description": [
+        "Washington, D.C."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-12T17:31:13.321Z",
+      "group": [
+        "ndnp/ncu",
+        "university-of-north-carolina-chapel-hill-library-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn96027351/1868-01-01/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_appling_ver02:data:sn96027351:00332891613:1868010101:0001/full/pct:3.125/0/default.jpg#h=298&w=203",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_appling_ver02:data:sn96027351:00332891613:1868010101:0001/full/pct:6.25/0/default.jpg#h=597&w=407",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_appling_ver02:data:sn96027351:00332891613:1868010101:0001/full/pct:12.5/0/default.jpg#h=1194&w=815"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00332891613",
+        "1",
+        "sn96027351"
+      ],
+      "numeric_shelf_id": 186801011,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "national savings bank (washington, d.c.) 1868-18?? [online resource]",
+        "serial and government publications division",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "monthly"
+      ],
+      "score": 28.598774,
+      "shelf_id": "sn96027351, 1868-01-01, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "united states",
+        "african americans",
+        "african american",
+        "washington",
+        "african american banks",
+        "district of columbia",
+        "newspapers"
+      ],
+      "timestamp": "2023-08-12T19:43:38.893Z",
+      "title": "National savings bank (Washington, D.C.), January 1, 1868",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn96027351/1868-01-01/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/g3851e.ct006252/",
+        "http://www.loc.gov/item/87694100/",
+        "https://hdl.loc.gov/loc.gmd/g3851e.ct006252",
+        "http://lccn.loc.gov/87694100"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress. map division"
+      ],
+      "date": "1926-01-01",
+      "dates": [
+        "1926"
+      ],
+      "description": [
+        "Ms. (india ink and typescript) on photocopy base map. Shows no. of vols. per library. Assemblage of several sheets mounted together on cloth backing. Internal portions excised from base map. Indexed. Available also through the Library of Congress Web site as a raster image. Vault DCP"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-30T01:44:51.743Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-03",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/87694100/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct006252.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct006252.gif#h=107&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851e:ct006252/full/pct:12.5/0/default.jpg#h=602&w=842",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851e:ct006252/full/pct:25/0/default.jpg#h=1205&w=1684"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/item/87694100",
+        "87694100",
+        "2017-01-24t12:02:43",
+        "http://www.loc.gov/item/5497836"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "general maps",
+        "american memory",
+        "cities and towns",
+        "catalog",
+        "geography and map division"
+      ],
+      "score": 22.37647,
+      "shelf_id": "G3851.E67 1926 .L5",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "libraries",
+        "united states",
+        "maps",
+        "statistics",
+        "washington",
+        "manuscript maps",
+        "district of columbia"
+      ],
+      "timestamp": "2022-12-10T06:00:00.118Z",
+      "title": "Libraries, Washington D.C.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/87694100/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83045242/1806-08-27/ed-1/",
+        "http://www.loc.gov/resource/sn83045242/1806-08-27/ed-1/"
+      ],
+      "batch": [
+        "dlc_domestic_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1806-08-27",
+      "dates": [
+        "1806-08-27"
+      ],
+      "description": [
+        "Washington City [D.C.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T00:33:54.197Z",
+      "group": [
+        "sgpearlypress/dlc",
+        "early-press-of-the-nations-capitals"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83045242/1806-08-27/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806082701:0001/full/pct:6.25/0/default.jpg#h=461&w=289",
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806082701:0001/full/pct:12.5/0/default.jpg#h=923&w=579"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn83045242"
+      ],
+      "numeric_shelf_id": 180608271,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "National intelligencer & Washington advertiser",
+        "National intelligencer, Washington advertiser"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "the national intelligencer and washington advertiser (washington city [d.c.]) 1800-1810",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "triweekly"
+      ],
+      "score": 17.563074,
+      "shelf_id": "sn83045242, 1806-08-27, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "united states",
+        "washington",
+        "district of columbia",
+        "newspapers"
+      ],
+      "timestamp": "2022-11-09T15:33:16.582Z",
+      "title": "The national intelligencer and Washington advertiser (Washington City [D.C.]), August 27, 1806",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83045242/1806-08-27/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83045242/1806-08-29/ed-1/",
+        "http://www.loc.gov/resource/sn83045242/1806-08-29/ed-1/"
+      ],
+      "batch": [
+        "dlc_domestic_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1806-08-29",
+      "dates": [
+        "1806-08-29"
+      ],
+      "description": [
+        "Washington City [D.C.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T00:33:54.197Z",
+      "group": [
+        "sgpearlypress/dlc",
+        "early-press-of-the-nations-capitals"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83045242/1806-08-29/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806082901:0001/full/pct:6.25/0/default.jpg#h=458&w=283",
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806082901:0001/full/pct:12.5/0/default.jpg#h=917&w=567"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn83045242"
+      ],
+      "numeric_shelf_id": 180608291,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "National intelligencer & Washington advertiser",
+        "National intelligencer, Washington advertiser"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "the national intelligencer and washington advertiser (washington city [d.c.]) 1800-1810",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "triweekly"
+      ],
+      "score": 17.563074,
+      "shelf_id": "sn83045242, 1806-08-29, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "united states",
+        "washington",
+        "district of columbia",
+        "newspapers"
+      ],
+      "timestamp": "2022-11-09T15:33:16.582Z",
+      "title": "The national intelligencer and Washington advertiser (Washington City [D.C.]), August 29, 1806",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83045242/1806-08-29/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83045242/1806-09-01/ed-1/",
+        "http://www.loc.gov/resource/sn83045242/1806-09-01/ed-1/"
+      ],
+      "batch": [
+        "dlc_domestic_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1806-09-01",
+      "dates": [
+        "1806-09-01"
+      ],
+      "description": [
+        "Washington City [D.C.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T00:33:54.197Z",
+      "group": [
+        "sgpearlypress/dlc",
+        "early-press-of-the-nations-capitals"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83045242/1806-09-01/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806090101:0001/full/pct:6.25/0/default.jpg#h=459&w=289",
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806090101:0001/full/pct:12.5/0/default.jpg#h=919&w=579"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn83045242"
+      ],
+      "numeric_shelf_id": 180609011,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "National intelligencer & Washington advertiser",
+        "National intelligencer, Washington advertiser"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "the national intelligencer and washington advertiser (washington city [d.c.]) 1800-1810",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "triweekly"
+      ],
+      "score": 17.563074,
+      "shelf_id": "sn83045242, 1806-09-01, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "united states",
+        "washington",
+        "district of columbia",
+        "newspapers"
+      ],
+      "timestamp": "2022-11-09T15:33:16.582Z",
+      "title": "The national intelligencer and Washington advertiser (Washington City [D.C.]), September 1, 1806",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83045242/1806-09-01/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83045242/1806-08-18/ed-1/",
+        "http://www.loc.gov/resource/sn83045242/1806-08-18/ed-1/"
+      ],
+      "batch": [
+        "dlc_domestic_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1806-08-18",
+      "dates": [
+        "1806-08-18"
+      ],
+      "description": [
+        "Washington City [D.C.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T00:33:54.197Z",
+      "group": [
+        "sgpearlypress/dlc",
+        "early-press-of-the-nations-capitals"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83045242/1806-08-18/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806081801:0001/full/pct:6.25/0/default.jpg#h=456&w=289",
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806081801:0001/full/pct:12.5/0/default.jpg#h=913&w=578"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn83045242"
+      ],
+      "numeric_shelf_id": 180608181,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "National intelligencer & Washington advertiser",
+        "National intelligencer, Washington advertiser"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "the national intelligencer and washington advertiser (washington city [d.c.]) 1800-1810",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "triweekly"
+      ],
+      "score": 17.563074,
+      "shelf_id": "sn83045242, 1806-08-18, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "united states",
+        "washington",
+        "district of columbia",
+        "newspapers"
+      ],
+      "timestamp": "2022-11-09T15:33:16.582Z",
+      "title": "The national intelligencer and Washington advertiser (Washington City [D.C.]), August 18, 1806",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83045242/1806-08-18/ed-1/"
+    }
+  ],
+  "reproductions": "<p>\nSome images in this collection are described in groups; others are \ndescribed individually. In some cases, all of the images in the \ngroup display online, in other cases they do not.\n</p>\n\n<p>\nYou can download online images yourself.  Alternatively, you can \npurchase copies of various types.\n</p>\n\n<ol>\n<p>\t\n<strong><li>Determine whether the desired materials can be retrieved \nonline.</strong>\n</p>\n<ul>\n<p>\t\n<li>Look in the <strong>Medium</strong> field above to determine whether\n the description is for one photograph or more than one.</li>\n </p>\n <p>\n<li>If the description is for a single item and it is displaying, \nyou can download or purchase a print.  Cite the number that begins \nwith &quot;LC-DIG...&quot; when purchasing copies through Library of \nCongress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is \na &quot;Click for more images&quot; icon displaying, select that. \nIndividual images will display; you can download or purchase prints. \nCite the number that begins with &quot;LC-DIG...&quot; when purchasing \ncopies through Library of Congress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is no\n &quot;Click for more images&quot; icon displaying, return to the\n  &quot;About this Item&quot; tab and select the &quot;<i>Check for \n  online items from this group</i>&quot; link.  Then select the \n  \"Obtaining Copies\" tab for any retrieved items that are of interest.\n</p>\n</ul>\n</li>\n\n<p>\n<strong><li>If the images do not display online</strong> -- Select images for reproduction through one of these methods:\n</p>\n<ul>\n<p>\t\n<li>Visit the Prints &amp; Photographs Reading Room and request to view \nthe group (general information about service in the reading room is \navailable at: <a href=\"//www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>).</li>  \n</p>\n<p>\n<li>P&amp;P reading room staff can provide up to 15 photocopies of items \nper calendar year. (Color images cannot be photocopied.) For assistance,\n see our <a href=\"//www.loc.gov/rr/askalib/ask-print.html\">Ask a Librarian</a> page. OR</li>\n</p>\n<p>\n<li>Hire a freelance researcher to do further selection for you \n(a list of researchers is available at: \n<a href=\"//www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>).\n</p>\n</ul>\n</li>\n</ol>\n\n<p>\n<strong>Purchasing Copies</strong>\n</p>\n\n<p>\nLibrary of Congress Duplication Services can make copies of various \ntypes from images in Prints & Photographs Division Collections.  \nPrice lists, contact information, and order forms are available on the \n<a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.\n</p>\n\n<p>\nCarol M. Highsmith sells prints of her photographs at: <a href=\"http://photographsamerica.com/\">http://photographsamerica.com/</a> .\n</p>  \n\n\n\n\n        ",
+  "resource": {
+    "caption": "original digital file",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53335_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/highsm.53335/"
+  },
+  "resources": [
+    {
+      "caption": "original digital file",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/highsm/53300/53335_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/highsm.53335/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294075058,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/highsm.53335/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/highsm.53335/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/highsm.53335/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/highsm.53335/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/highsm.53335/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/highsm.53335/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/highsm.53335/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/highsm.53335/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/highsm.53335/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/highsm.53335/?fo=json&st=text"
+  }
+}

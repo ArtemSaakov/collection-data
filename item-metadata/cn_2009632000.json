@@ -1,0 +1,1696 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Johnston, F. B., photographer. (ca. 1902) <cite>Interior view of library reading room with male and female students sitting at tables, reading, at the Tuskegee Institute</cite>. Alabama Tuskegee, ca. 1902. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2009632000/.",
+    "chicago": "Johnston, Frances Benjamin, photographer. <cite>Interior view of library reading room with male and female students sitting at tables, reading, at the Tuskegee Institute</cite>. Alabama Tuskegee, ca. 1902. Photograph. https://www.loc.gov/item/2009632000/.",
+    "mla": "Johnston, Frances Benjamin, photographer. <cite>Interior view of library reading room with male and female students sitting at tables, reading, at the Tuskegee Institute</cite>. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2009632000/&gt;."
+  },
+  "item": {
+    "_version_": 1731233488435150848,
+    "access_restricted": false,
+    "aka": [
+      "http://www.loc.gov/pictures/collection/fbj/item/2009632000/",
+      "http://www.loc.gov/item/2009632000/",
+      "http://www.loc.gov/pictures/item/2009632000/",
+      "https://hdl.loc.gov/loc.pnp/ppmscd.00084",
+      "http://www.loc.gov/resource/ppmscd.00084/",
+      "http://lccn.loc.gov/2009632000"
+    ],
+    "call_number": "LC-J694-30 [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Johnston, Frances Benjamin, 1864-1952, photographer"
+    ],
+    "contributors": [
+      {
+        "johnston, frances benjamin": "https://www.loc.gov/search/?fa=contributor:johnston,+frances+benjamin&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2016-04-21T07:51:50Z",
+    "created_published": [
+      "[ca. 1902]"
+    ],
+    "created_published_date": "[ca. 1902]",
+    "date": "1902-01-01",
+    "dates": [
+      {
+        "1902": "https://www.loc.gov/search/?dates=1902/1902&fo=json"
+      }
+    ],
+    "description": [
+      "1 negative : glass."
+    ],
+    "digital_id": [
+      "ppmscd 00084 //hdl.loc.gov/loc.pnp/ppmscd.00084"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-09-01T23:28:19.967Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/fbj/item/2009632000/#fbj",
+      "http://lccn.loc.gov/2009632000#catalog-split-06"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Glass negatives--1900-1910."
+    ],
+    "genre": [
+      "Glass negatives--1900-1910"
+    ],
+    "group": [
+      "fbj",
+      "catalog-split-06",
+      "catalog",
+      "frances-benjamin-johnston",
+      "main-catalog-split-06",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2009632000/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00084_150px.jpg#h=121&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00084t.gif#h=121&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00084r.jpg#h=518&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00084v.jpg#h=829&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-J694-30 [P&P]",
+      "contributors": [
+        "Johnston, Frances Benjamin, 1864-1952, photographer."
+      ],
+      "control_number": "2009632000",
+      "created": "2016-04-21T07:51:50Z",
+      "created_published": "[ca. 1902]",
+      "created_published_date": "[ca. 1902]",
+      "creators": [
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=name&q=Johnston%2C%20Frances%20Benjamin%2C%201864-1952&co=fbj",
+          "role": "photographer",
+          "title": "Johnston, Frances Benjamin, 1864-1952"
+        }
+      ],
+      "date": "[ca. 1902]",
+      "digital_id": [
+        "ppmscd 00084 //hdl.loc.gov/loc.pnp/ppmscd.00084"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=format&q=Glass%20negatives--1900-1910.&co=fbj",
+          "title": "Glass negatives--1900-1910."
+        }
+      ],
+      "genre": [
+        "Glass negatives--1900-1910"
+      ],
+      "id": "2009632000",
+      "link": "//www.loc.gov/pictures/item/2009632000/",
+      "location": [
+        "Alabama--Tuskegee"
+      ],
+      "marc": "//www.loc.gov/pictures/item/2009632000/marc/",
+      "medium": [
+        "1 negative : glass."
+      ],
+      "medium_brief": "1 negative :",
+      "mediums": [
+        "1 negative : glass."
+      ],
+      "modified": "2016-04-21T07:51:50Z",
+      "notes": [
+        "Title devised by Library staff.",
+        "Corresponding photoprint is filed in LOT 2962.",
+        "Forms part of: Frances Benjamin Johnston collection (Library of Congress)."
+      ],
+      "other_control_numbers": [
+        "15799112"
+      ],
+      "place": [
+        {
+          "latitude": "",
+          "link": "//www.loc.gov/pictures/related/?fi=place&q=Alabama--Tuskegee&co=fbj",
+          "longitude": "",
+          "title": "Alabama--Tuskegee"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-ppmscd-00084 (digital file from original glass negative)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/ppmscd.00084"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00084_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00084r.jpg",
+      "sort_date": "1902",
+      "source_created": "2009-06-30T00:00:00Z",
+      "source_modified": "2009-06-30T16:55:19Z",
+      "subject_headings": [
+        "Tuskegee Normal and Industrial Institute--Facilities--1900-1910.",
+        "African Americans--Education--Alabama--Tuskegee--1900-1910.",
+        "Libraries--Alabama--Tuskegee--1900-1910.",
+        "Reading rooms--Alabama--Tuskegee--1900-1910.",
+        "Students--Alabama--Tuskegee--1900-1910.",
+        "Reading--Alabama--Tuskegee--1900-1910.",
+        "Alabama--Tuskegee"
+      ],
+      "subjects": [
+        "Tuskegee Normal and Industrial Institute--Facilities--1900-1910",
+        "African Americans--Education--Alabama--Tuskegee--1900-1910",
+        "Libraries--Alabama--Tuskegee--1900-1910",
+        "Reading rooms--Alabama--Tuskegee--1900-1910",
+        "Students--Alabama--Tuskegee--1900-1910",
+        "Reading--Alabama--Tuskegee--1900-1910"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00084_150px.jpg",
+      "title": "[Interior view of library reading room with male and female students sitting at tables, reading, at the Tuskegee Institute]"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2009632000",
+    "link": "//www.loc.gov/pictures/item/2009632000/",
+    "location": [
+      "alabama",
+      "tuskegee"
+    ],
+    "locations": [
+      {
+        "alabama": "https://www.loc.gov/search/?fa=location:alabama&fo=json"
+      },
+      {
+        "tuskegee": "https://www.loc.gov/search/?fa=location:tuskegee&fo=json"
+      }
+    ],
+    "marc": "//www.loc.gov/pictures/item/2009632000/marc/",
+    "medium": [
+      "1 negative : glass."
+    ],
+    "medium_brief": "1 negative :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2016-04-21T07:51:50Z",
+    "notes": [
+      "Title devised by Library staff.",
+      "Corresponding photoprint is filed in LOT 2962.",
+      "Forms part of: Frances Benjamin Johnston collection (Library of Congress)."
+    ],
+    "number": [
+      "2009-06-30t16:55:19",
+      "2009632000",
+      "http://www.loc.gov/item/15799112"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/15799112"
+    ],
+    "number_lccn": [
+      "2009632000"
+    ],
+    "number_source_modified": [
+      "2009-06-30t16:55:19"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "15799112"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2009632000/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2009632000/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2009632000/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 3145,
+        "title": "johnston (frances benjamin) collection",
+        "url": "https://www.loc.gov/collections/frances-benjamin-johnston/?fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "//www.loc.gov/pictures/related/?fi=place&q=Alabama--Tuskegee&co=fbj",
+        "longitude": "",
+        "title": "Alabama--Tuskegee"
+      }
+    ],
+    "related": {
+      "neighbors": "//www.loc.gov/pictures/related/?&co=fbj&pk=2009632000&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-ppmscd-00084 (digital file from original glass negative)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/ppmscd.00084"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from original glass neg.",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00084_150px.jpg",
+        "url": "https://www.loc.gov/resource/ppmscd.00084/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/279_john.html\">Frances Benjamin Johnston - Rights and Restrictions Information</a> </p>\n \n"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "LC-J694-30 [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1902",
+    "source_created": "2009-06-30T00:00:00Z",
+    "source_modified": "2009-06-30T16:55:19Z",
+    "subject": [
+      "reading rooms",
+      "libraries",
+      "african americans",
+      "tuskegee",
+      "glass negatives",
+      "reading",
+      "tuskegee normal and industrial institute",
+      "students",
+      "alabama",
+      "education",
+      "facilities"
+    ],
+    "subject_headings": [
+      "Tuskegee Normal and Industrial Institute--Facilities--1900-1910",
+      "African Americans--Education--Alabama--Tuskegee--1900-1910",
+      "Libraries--Alabama--Tuskegee--1900-1910",
+      "Reading rooms--Alabama--Tuskegee--1900-1910",
+      "Students--Alabama--Tuskegee--1900-1910",
+      "Reading--Alabama--Tuskegee--1900-1910"
+    ],
+    "subjects": [
+      {
+        "african americans": "https://www.loc.gov/search/?fa=subject:african+americans&fo=json"
+      },
+      {
+        "alabama": "https://www.loc.gov/search/?fa=subject:alabama&fo=json"
+      },
+      {
+        "education": "https://www.loc.gov/search/?fa=subject:education&fo=json"
+      },
+      {
+        "facilities": "https://www.loc.gov/search/?fa=subject:facilities&fo=json"
+      },
+      {
+        "glass negatives": "https://www.loc.gov/search/?fa=subject:glass+negatives&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "reading": "https://www.loc.gov/search/?fa=subject:reading&fo=json"
+      },
+      {
+        "reading rooms": "https://www.loc.gov/search/?fa=subject:reading+rooms&fo=json"
+      },
+      {
+        "students": "https://www.loc.gov/search/?fa=subject:students&fo=json"
+      },
+      {
+        "tuskegee": "https://www.loc.gov/search/?fa=subject:tuskegee&fo=json"
+      },
+      {
+        "tuskegee normal and industrial institute": "https://www.loc.gov/search/?fa=subject:tuskegee+normal+and+industrial+institute&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00084_150px.jpg",
+    "timestamp": "2022-04-27T04:15:13.033Z",
+    "title": "[Interior view of library reading room with male and female students sitting at tables, reading, at the Tuskegee Institute]",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2009632000/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fbj/item/2009631999/",
+        "http://www.loc.gov/item/2009631999/",
+        "http://www.loc.gov/pictures/item/2009631999/",
+        "https://hdl.loc.gov/loc.pnp/ppmscd.00085",
+        "http://www.loc.gov/resource/ppmscd.00085/",
+        "http://lccn.loc.gov/2009631999"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "johnston, frances benjamin"
+      ],
+      "date": "1902-01-01",
+      "dates": [
+        "1902"
+      ],
+      "description": [
+        "1 negative : glass."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T23:28:19.967Z",
+      "group": [
+        "fbj",
+        "catalog-split-00",
+        "catalog",
+        "frances-benjamin-johnston",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2009631999/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00085_150px.jpg#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00085t.gif#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00085r.jpg#h=512&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00085v.jpg#h=820&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "alabama",
+        "tuskegee"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2009631999",
+        "2009-06-30t16:54:38",
+        "http://www.loc.gov/item/15799084"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog",
+        "johnston (frances benjamin) collection"
+      ],
+      "score": 63.915943,
+      "shelf_id": "LC-J694-21 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "eating & drinking",
+        "african americans",
+        "tuskegee",
+        "glass negatives",
+        "tuskegee normal and industrial institute",
+        "students",
+        "alabama",
+        "dining rooms",
+        "festive decorations",
+        "education",
+        "facilities"
+      ],
+      "timestamp": "2022-04-27T04:15:13.033Z",
+      "title": "[Interior view of dining hall, decorated for the holidays, with students sitting at tables at the Tuskegee Institute]",
+      "url": "https://www.loc.gov/item/2009631999/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fbj/item/2009631998/",
+        "http://www.loc.gov/item/2009631998/",
+        "http://www.loc.gov/pictures/item/2009631998/",
+        "https://hdl.loc.gov/loc.pnp/ppmscd.00083",
+        "http://www.loc.gov/resource/ppmscd.00083/",
+        "http://lccn.loc.gov/2009631998"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "johnston, frances benjamin"
+      ],
+      "date": "1902-01-01",
+      "dates": [
+        "1902"
+      ],
+      "description": [
+        "1 negative : glass."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T23:28:19.967Z",
+      "group": [
+        "fbj",
+        "catalog-split-15",
+        "catalog",
+        "frances-benjamin-johnston",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2009631998/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00083_150px.jpg#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00083t.gif#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00083r.jpg#h=515&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00083v.jpg#h=824&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "alabama",
+        "tuskegee"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/15799017",
+        "2009631998",
+        "2009-07-06t11:49:45"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog",
+        "johnston (frances benjamin) collection"
+      ],
+      "score": 63.915943,
+      "shelf_id": "LC-J694-14 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "women",
+        "chapels",
+        "african americans",
+        "tuskegee",
+        "glass negatives",
+        "spiritual life",
+        "tuskegee normal and industrial institute",
+        "students",
+        "alabama",
+        "education",
+        "facilities"
+      ],
+      "timestamp": "2022-04-27T04:15:13.033Z",
+      "title": "[Interior view of chapel filled with female students at the Tuskegee Institute]",
+      "url": "https://www.loc.gov/item/2009631998/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fbj/item/2014646471/",
+        "http://www.loc.gov/item/2014646471/",
+        "http://www.loc.gov/pictures/item/2014646471/",
+        "https://hdl.loc.gov/loc.pnp/ds.05586",
+        "http://www.loc.gov/resource/ds.05586/",
+        "http://lccn.loc.gov/2014646471"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "johnston, frances benjamin"
+      ],
+      "date": "1902-01-01",
+      "dates": [
+        "1902"
+      ],
+      "description": [
+        "1 negative : glass ; 8 x 10  in. | Photograph shows interior view of chemistry laboratory/classroom with students at the Tuskegee Institute, Tuskegee, Alabama. George Washington Carver stands second from right, facing front (framed by doorway). (Source: catalog record for print of negative in LOT 2962-1)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T23:28:20.495Z",
+      "group": [
+        "fbj",
+        "catalog-split-03",
+        "catalog",
+        "frances-benjamin-johnston",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014646471/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/05500/05586_150px.jpg#h=125&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/05500/05586r.jpg#h=532&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/05500/05586v.jpg#h=851&w=1024"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "alabama",
+        "tuskegee"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2014646471",
+        "http://www.loc.gov/item/18153850",
+        "2021-08-31t09:59:18"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog",
+        "johnston (frances benjamin) collection"
+      ],
+      "score": 54.87337,
+      "shelf_id": "LC-J694-161 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "group portraits",
+        "carver, george washington",
+        "african americans",
+        "tuskegee institute",
+        "tuskegee",
+        "laboratories",
+        "classrooms",
+        "glass negatives",
+        "portrait photographs",
+        "students",
+        "alabama",
+        "chemistry",
+        "education",
+        "facilities"
+      ],
+      "timestamp": "2022-04-27T04:15:52.180Z",
+      "title": "[Chemistry laboratory at Tuskegee Institute, ca. 1902]",
+      "url": "https://www.loc.gov/item/2014646471/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fbj/item/2013646241/",
+        "http://www.loc.gov/item/2013646241/",
+        "http://www.loc.gov/pictures/item/2013646241/",
+        "https://hdl.loc.gov/loc.pnp/ds.03983",
+        "http://www.loc.gov/resource/ds.03983/",
+        "http://lccn.loc.gov/2013646241"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "johnston, frances benjamin"
+      ],
+      "date": "1906-01-01",
+      "dates": [
+        "1906"
+      ],
+      "description": [
+        "1 negative : glass ; 8 x 10  in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T23:28:20.495Z",
+      "group": [
+        "fbj",
+        "catalog-split-13",
+        "catalog",
+        "frances-benjamin-johnston",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2013646241/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/03900/03983_150px.jpg#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/03900/03983r.jpg#h=511&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/03900/03983v.jpg#h=818&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "alabama",
+        "tuskegee"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/17684122",
+        "2013646241",
+        "2014-05-02t09:00:37"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog",
+        "johnston (frances benjamin) collection"
+      ],
+      "score": 53.666325,
+      "shelf_id": "LC-J694-344 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "group portraits",
+        "libraries",
+        "tuskegee institute",
+        "tuskegee",
+        "glass negatives",
+        "portrait photographs",
+        "students",
+        "alabama",
+        "facilities"
+      ],
+      "timestamp": "2022-04-27T04:15:52.180Z",
+      "title": "[Library interior at Tuskegee Institute, 1906]",
+      "url": "https://www.loc.gov/item/2013646241/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://hdl.loc.gov/loc.pnp/eadpnp.pp002010",
+        "https://hdl.loc.gov/loc.pnp/eadpnp.pp002010",
+        "https://findingaids.loc.gov/db/search/xq/searchMfer02.xq?_id=loc.pnp.eadpnp.pp002010&_faSection=overview&_faSubsection=did&_dmdid="
+      ],
+      "campaigns": [],
+      "contributor": [
+        "bedou, a. p. (arthur p.)",
+        "washington, booker t.",
+        "johnston, frances benjamin"
+      ],
+      "date": "1889",
+      "dates": [
+        "[1889 TO 1935]"
+      ],
+      "description": [
+        "Photographs document the activities of Booker T. Washington as a leader and agrarian organizer in the South at the turn of the century. Many depict Booker T. Washington’s speaking engagements at such places as Ocala, Tallahasee, and Daytona, Fla.; Mound Bayou, Miss.; and Baton Rouge, La. The collection also includes photographs that document classes and activities at the Tuskegee Normal and Industrial Institute, Tuskegee, Ala., including a parade for the celebration of the visit of President Theodore Roosevelt on October 24, 1905; celebrations for the twenty-fifth anniversary of the Institute in 1906; and students building dormitories and other facilities. Also includes a group portrait of the faculty of the Institute in 1897, as well as a few images of such faculty members as Frederick Douglass, Emmett Scott, and George Washington Carver. In addition, the collection contains portraits of other African Americans, including Blanche K. Bruce, Henry O. Tanner, John R. Lynch, Richard T. Greener, and John M. Langston, as well as alumni of Tuskegee Institute. Also includes portraits of African American students at other schools in the South. Many images are unique because of personal inscriptions to Booker T. Washington."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-11-10T02:15:58.690Z",
+      "group": [
+        "findingaids"
+      ],
+      "hassegments": false,
+      "id": "http://hdl.loc.gov/loc.pnp/eadpnp.pp002010",
+      "image_url": [],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "application/pdf",
+        "text/html"
+      ],
+      "online_format": [
+        "pdf",
+        "web page"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "finding aids"
+      ],
+      "score": 50.436535,
+      "shelf_id": "http://hdl.loc.gov/loc.pnp/eadpnp.pp002010",
+      "site": [
+        "findingaids"
+      ],
+      "subject": [
+        "washington, booker t.",
+        "buildings",
+        "school children",
+        "floats (parades)",
+        "albumen prints",
+        "students",
+        "schools",
+        "united states",
+        "african americans",
+        "educational facilities",
+        "education",
+        "group portraits",
+        "portraits",
+        "tuskegee normal and industrial institute",
+        "universities & colleges",
+        "women",
+        "tuskegee",
+        "gelatin silver prints",
+        "photomechanical prints",
+        "alabama",
+        "public speaking"
+      ],
+      "timestamp": "2024-11-10T02:19:00.190Z",
+      "title": "Visual materials from the Booker T. Washington papers",
+      "type": [
+        "still image"
+      ],
+      "url": "//hdl.loc.gov/loc.pnp/eadpnp.pp002010"
+    },
+    {
+      "access_restricted": true,
+      "aka": [
+        "https://www.loc.gov/pictures/item/99472031/",
+        "http://www.loc.gov/item/99472031/",
+        "http://www.loc.gov/pictures/item/99472031/",
+        "https://www.loc.gov/pictures/collection/coll/item/99472031/",
+        "http://www.loc.gov/pictures/collection/coll/item/99472031/",
+        "http://lccn.loc.gov/99472031"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "bedou, a. p. (arthur p.)",
+        "washington, booker t.",
+        "johnston, frances benjamin"
+      ],
+      "date": "1889",
+      "dates": [
+        "1889"
+      ],
+      "description": [
+        "whole collection 701 items | 701 photographs (chiefly photographic prints) ; 57 x 41 cm. or smaller. | Photographs document the activities of Booker T. Washington as a leader and agrarian organizer in the South at the turn of the century.  Many depict Booker T. Washington's speaking engagements at such places as Ocala, Tallahasee, and Daytona, Fla.; Mound Bayou, Miss.; and Baton Rouge, La.  The collection also includes photographs that document classes and activities at the Tuskegee Normal and Industrial Institute, Tuskegee, Ala., including a parade for the celebration of the visit of President Theodore Roosevelt on October 24, 1905; celebrations for the twenty-fifth anniversary of the Institute in 1906; and students building dormitories and other facilities.  Also includes a group portrait of the faculty of the Institute in 1897, as well as a few images of such faculty members as Frederick Douglass, Emmett Scott, and George Washington Carver.  In addition, the collection contains portraits of other African Americans, including Blanche K. Bruce, Henry O. Tanner, John R. Lynch, Richard T. Greener, and John M. Langston, as well as alumni of Tuskegee Institute.  Also includes portraits of African American students at other schools in the South.  Many images are unique because of personal inscriptions to Booker T. Washington."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-08-17T12:34:24.772Z",
+      "group": [
+        "coll",
+        "catalog-split-03",
+        "catalog",
+        "groups-of-images",
+        "main-catalog-split-03"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/99472031/",
+      "image_url": [
+        "https://www.loc.gov/static/images/original-format/group-of-images.svg"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "tuskegee",
+        "alabama",
+        "united states"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "number": [
+        "http://www.loc.gov/item/11782854",
+        "99472031",
+        "2021-07-16t09:37:43",
+        "http://www.loc.gov/item/99472031"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "catalog",
+        "lot 13164",
+        "groups of images (lots)"
+      ],
+      "score": 46.593792,
+      "shelf_id": "LOT 13164 (F) (H) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "washington, booker t.",
+        "buildings",
+        "school children",
+        "floats (parades)",
+        "albumen prints",
+        "students",
+        "schools",
+        "united states",
+        "african americans",
+        "educational facilities",
+        "education",
+        "group portraits",
+        "portraits",
+        "tuskegee normal and industrial institute",
+        "universities & colleges",
+        "women",
+        "tuskegee",
+        "gelatin silver prints",
+        "photomechanical prints",
+        "alabama",
+        "public speaking"
+      ],
+      "timestamp": "2024-08-17T13:09:03.358Z",
+      "title": "Visual materials from the Booker T. Washington papers",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/99472031/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "fbj",
+      "catalog-split-06",
+      "catalog",
+      "frances-benjamin-johnston",
+      "main-catalog-split-06",
+      "main-catalog",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "catalog-split-13",
+      "main-catalog-split-13",
+      "findingaids",
+      "coll",
+      "groups-of-images",
+      "rarebk/mur",
+      "catalog-split-07",
+      "african-american-perspectives",
+      "main-catalog-split-07",
+      "catalog-split-11",
+      "main-catalog-split-11",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "ndnp/dlc-2020_now",
+      "library-of-congress-washington-dc-awardee-8"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "ppmscd.00084",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.6372370719909668,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/ppmscd.00084/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/ppmscd.00084/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294087.057244,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 43387318,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/ppmscd/00000/00084u.tif",
+      "width": 0
+    },
+    {
+      "height": 121,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 23442,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00084_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 121,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 12921,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00084t.gif",
+      "width": 150
+    },
+    {
+      "height": 518,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 77489,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00084r.jpg",
+      "width": 640
+    },
+    {
+      "height": 829,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 166068,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00084v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "//www.loc.gov/pictures/related/?&co=fbj&pk=2009632000&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/mm78044669",
+        "http://www.loc.gov/item/mm78044669/",
+        "https://rotunda.upress.virginia.edu/founders/BTWN.html",
+        "https://go.gale.com/ps/aboutThisCollection?userGroupName=loc_main&inPS=true&mCode=4LKS&prodId=GDSC",
+        "https://hdl.loc.gov/loc.mss/eadmss.ms998017.001"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "washington, booker t."
+      ],
+      "description": [
+        "Correspondence, memoranda, book drafts and notes, articles, speeches, reports, minutes, financial papers, scrapbooks, printed material, clippings, blueprints, maps, drawings, prints, photographs, negatives, and other papers relating chiefly to the early history and administration of Tuskegee Institute, Tuskegee, Ala., founded by Washington in 1881; the National Negro Business League which he organized in 1900; the General Education Board, New York, N.Y.; Hampton Institute, Hampton, Va.; other African American schools; funding for the education of African Americans; education; and Washington's personal and family life.  Subjects include race relations as well as social and political developments between Reconstruction and World War I. Correspondents include William Henry Baldwin, Jr., Nannie Helen Burroughs, Wallace Buttrick, Andrew Carnegie, George Washington Carver, James Sullivan Clarkson, J.H. Dillard, Frederick Douglass, W.E.B. DuBois, Charles William Eliot, Timothy Thomas Fortune, Hollis Burke Frissell, Marcus Garvey, Abraham Grant, Leigh S.J. Hunt, Seth Low, Fred R. Moore, Robert Russa Moton, Edgar Gardiner Murphy, Daniel Alexander Payne Murray, Robert C. Ogden, Walter Hines Page, George Foster Peabody, John D. Rockefeller, Theodore Roosevelt, Elihu Root, Julius Rosenwald, Emmett J. Scott, Anson Phelps Stokes, William H. Taft, V.H. Tulane, and Oswald Garrison Villard."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-02-18T09:47:00.472Z",
+      "group": [
+        "catalog-split-06",
+        "catalog",
+        "main-catalog-split-06"
+      ],
+      "hassegments": false,
+      "id": "http://lccn.loc.gov/mm78044669",
+      "image_url": [],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "virginia",
+        "united states",
+        "tuskegee",
+        "alabama",
+        "hampton"
+      ],
+      "number": [
+        "2024-02-16t16:31:30",
+        "mm78044669"
+      ],
+      "original_format": [
+        "manuscript/mixed material",
+        "collection"
+      ],
+      "partof": [
+        "manuscript division",
+        "catalog"
+      ],
+      "score": 26.033379,
+      "shelf_id": "http://lccn.loc.gov/mm78044669",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "rosenwald, julius",
+        "correspondence",
+        "tulane, v. h.",
+        "dillard, j. h.",
+        "eliot, charles william",
+        "low, seth",
+        "moton, robert russa",
+        "african american universities and colleges",
+        "carver, george washington",
+        "william howard)",
+        "rockefeller, john d.",
+        "robert curtis)",
+        "ogden, robert c.",
+        "national negro business league (u.s.)",
+        "garvey, marcus",
+        "burroughs, nannie helen",
+        "general education board (new york, n.y.)",
+        "john davison)",
+        "james hardy)",
+        "scott, emmett j.",
+        "virginia",
+        "frederick randolph)",
+        "page, walter hines",
+        "united states",
+        "african americans",
+        "emmett jay)",
+        "murphy, edgar gardner",
+        "roosevelt, theodore",
+        "stokes, anson phelps",
+        "taft, william h.",
+        "victor h.)",
+        "frissell, hollis burke",
+        "carnegie, andrew",
+        "jr",
+        "buttrick, wallace",
+        "education",
+        "root, elihu",
+        "du bois, w. e. b.",
+        "hunt, leigh s. j.",
+        "african american businesspeople",
+        "politics and government",
+        "douglass, frederick",
+        "social conditions",
+        "villard, oswald garrison",
+        "universities and colleges",
+        "washington family",
+        "reconstruction (u.s. history,)",
+        "grant, abraham",
+        "peabody, george foster",
+        "william edward burghardt)",
+        "moore, fred r.",
+        "fortune, timothy thomas",
+        "murray, daniel alexander payne",
+        "endowments",
+        "tuskegee institute",
+        "tuskegee",
+        "baldwin, william henry",
+        "alabama",
+        "clarkson, james sullivan",
+        "hampton",
+        "hampton institute",
+        "race relations"
+      ],
+      "timestamp": "2024-02-18T09:49:10.573Z",
+      "title": "Booker T. Washington papers,",
+      "type": [
+        "manuscript"
+      ],
+      "url": "//lccn.loc.gov/mm78044669"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/91898220/",
+        "http://www.loc.gov/resource/lcrbmrp.t1704/",
+        "http://lccn.loc.gov/91898220",
+        "https://hdl.loc.gov/loc.rbc/lcrbmrp.t1704"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "washington, booker t.",
+        "daniel murray pamphlet collection (library of congress)",
+        "tuskegee normal and industrial institute"
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "An annual report submitted by Booker T. Washington, listing trustees, discussing the value of industrial education and the careers of the Institute's graduates, and giving figures for staff, income, and gifts."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-05-11T23:21:31.098Z",
+      "group": [
+        "rarebk/mur",
+        "catalog-split-07",
+        "catalog",
+        "african-american-perspectives",
+        "main-catalog-split-07",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/91898220/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/rbc/lcrbmrp/t1704/001.gif",
+        "https://tile.loc.gov/storage-services/service/rbc/lcrbmrp/t1704/001.gif#h=150&w=123",
+        "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t1704:001/full/pct:12.5/0/default.jpg#h=344&w=281",
+        "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t1704:001/full/pct:25/0/default.jpg#h=688&w=563",
+        "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t1704:001/full/pct:50/0/default.jpg#h=1376&w=1126",
+        "https://tile.loc.gov/image-services/iiif/service:rbc:lcrbmrp:t1704:001/full/pct:100/0/default.jpg#h=2752&w=2253"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "alabama",
+        "tuskegee"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "image/gif",
+        "text/plain",
+        "image/tiff",
+        "application/pdf"
+      ],
+      "number": [
+        "91898220",
+        "2019-09-28t12:45:19"
+      ],
+      "online_format": [
+        "image",
+        "online text",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "other_title": [
+        "Annual report of the principal of the Tuskegee Normal and Industrial Institute, Tuskegee, Alabama"
+      ],
+      "partof": [
+        "rare book and special collections division",
+        "african american perspectives: materials selected from the rare book collection",
+        "catalog"
+      ],
+      "score": 19.88816,
+      "shelf_id": "E449 .D16 vol. 17, no. 4",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "annual reports",
+        "tuskegee",
+        "alabama"
+      ],
+      "timestamp": "2022-04-23T05:14:01.940Z",
+      "title": "Nineteenth annual report of the principal of the Tuskegee Normal and Industrial Institute, Tuskegee, Alabama : for the year ending May 31, 1900.",
+      "url": "https://www.loc.gov/item/91898220/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2019452992",
+        "http://www.loc.gov/item/2019452992/",
+        "http://npshistory.com/publications/tuin/hrs-2019.pdf"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "united states. national park service",
+        "commonwealth heritage group"
+      ],
+      "date": "2019",
+      "dates": [
+        "2019"
+      ],
+      "description": [
+        "\"June 2019.\" Includes bibliographical references. Description based on online surrogate."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-06-02T21:23:53.246Z",
+      "group": [
+        "catalog-split-11",
+        "catalog",
+        "main-catalog-split-11",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://lccn.loc.gov/2019452992",
+      "image_url": [],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "tuskegee institute national historic site",
+        "alabama",
+        "tuskegee"
+      ],
+      "number": [
+        "2019452992",
+        "2022-09-01t13:06:13"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "other_title": [
+        "Historic resource study"
+      ],
+      "partof": [
+        "catalog"
+      ],
+      "score": 19.88816,
+      "shelf_id": "LC2851.T82 T88 2019",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "history",
+        "tuskegee institute",
+        "tuskegee",
+        "alabama",
+        "historic sites",
+        "tuskegee institute national historic site (tuskegee, ala.)"
+      ],
+      "timestamp": "2023-07-09T01:44:36.827Z",
+      "title": "Tuskegee Institute National Historic Site : historic resource study",
+      "type": [
+        "text"
+      ],
+      "url": "//lccn.loc.gov/2019452992"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/91011459/",
+        "http://lccn.loc.gov/91011459",
+        "http://www.netLibrary.com/urlapi.asp?action=summary&v=1&bookid=21066"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "jakeman, robert j."
+      ],
+      "date": "1992",
+      "dates": [
+        "1992"
+      ],
+      "description": [
+        "Includes bibliographical references (p. [391]-402) and index. Also available as an electronic book via the World Wide Web to institutions affiliated with netLibrary, Inc."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-06-02T22:29:45.061Z",
+      "group": [
+        "catalog-split-14",
+        "catalog",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://lccn.loc.gov/91011459",
+      "image_url": [],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "alabama",
+        "tuskegee"
+      ],
+      "number": [
+        "2004-06-14t14:10:42",
+        "91011459"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "catalog"
+      ],
+      "score": 19.88816,
+      "shelf_id": "TL713.T87 J35 1992",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "flight training",
+        "history",
+        "african american air pilots",
+        "tuskegee institute",
+        "tuskegee",
+        "alabama"
+      ],
+      "timestamp": "2023-07-11T09:14:08.336Z",
+      "title": "The divided skies : establishing segregated flight training at Tuskegee, Alabama, 1934-1942",
+      "type": [
+        "text"
+      ],
+      "url": "//lccn.loc.gov/91011459"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83025483/1900-01-26/ed-1/",
+        "http://www.loc.gov/resource/sn83025483/1900-01-26/ed-1/"
+      ],
+      "batch": [
+        "dlc_jean_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1900-01-26",
+      "dates": [
+        "1900-01-26"
+      ],
+      "description": [
+        "Huntsville, Ala."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-07T20:32:31.197Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83025483/1900-01-26/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jean_ver01:data:sn83025483:00220720457:1900012601:0001/full/pct:3.125/0/default.jpg#h=282&w=187",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jean_ver01:data:sn83025483:00220720457:1900012601:0001/full/pct:6.25/0/default.jpg#h=565&w=374",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jean_ver01:data:sn83025483:00220720457:1900012601:0001/full/pct:12.5/0/default.jpg#h=1130&w=748"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "huntsville",
+        "united states",
+        "madison county",
+        "madison",
+        "alabama"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn83025483",
+        "00220720457"
+      ],
+      "numeric_shelf_id": 190001261,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Star"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "the huntsville star (huntsville, ala.) 1900-19??",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 18.68199,
+      "shelf_id": "sn83025483, 1900-01-26, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "madison county (ala.)",
+        "huntsville",
+        "united states",
+        "african americans",
+        "african american newspapers",
+        "african american",
+        "madison county",
+        "huntsville (ala.)",
+        "alabama",
+        "madison",
+        "newspapers"
+      ],
+      "timestamp": "2023-08-08T11:12:37.199Z",
+      "title": "The Huntsville star (Huntsville, Ala.), January 26, 1900",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83025483/1900-01-26/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83025484/1900-01-24/ed-1/",
+        "http://www.loc.gov/resource/sn83025484/1900-01-24/ed-1/"
+      ],
+      "batch": [
+        "dlc_jean_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1900-01-24",
+      "dates": [
+        "1900-01-24"
+      ],
+      "description": [
+        "Birmingham, Ala."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-07T20:32:31.197Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83025484/1900-01-24/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jean_ver01:data:sn83025484:00220720457:1900012401:0001/full/pct:3.125/0/default.jpg#h=280&w=181",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jean_ver01:data:sn83025484:00220720457:1900012401:0001/full/pct:6.25/0/default.jpg#h=560&w=362",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_jean_ver01:data:sn83025484:00220720457:1900012401:0001/full/pct:12.5/0/default.jpg#h=1120&w=724"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "birmingham",
+        "united states",
+        "jefferson county",
+        "alabama",
+        "jefferson"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn83025484",
+        "00220720457"
+      ],
+      "numeric_shelf_id": 190001241,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "wide-awake (birmingham, ala.) 189?-1906",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 18.68199,
+      "shelf_id": "sn83025484, 1900-01-24, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "birmingham",
+        "united states",
+        "african americans",
+        "african american newspapers",
+        "jefferson county (ala.)",
+        "african american",
+        "jefferson county",
+        "alabama",
+        "jefferson",
+        "birmingham (ala.)",
+        "newspapers"
+      ],
+      "timestamp": "2023-08-08T11:12:37.199Z",
+      "title": "Wide-awake (Birmingham, Ala.), January 24, 1900",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83025484/1900-01-24/ed-1/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "digital file from original glass neg.",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00084_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/ppmscd.00084/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from original glass neg.",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/ppmscd/00000/00084_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/ppmscd.00084/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294087694,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/ppmscd.00084/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/ppmscd.00084/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/ppmscd.00084/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/ppmscd.00084/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/ppmscd.00084/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/ppmscd.00084/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/ppmscd.00084/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/ppmscd.00084/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/ppmscd.00084/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/ppmscd.00084/?fo=json&st=text"
+  }
+}

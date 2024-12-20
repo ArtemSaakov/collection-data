@@ -1,0 +1,1808 @@
+{
+  "articles_and_essays": [
+    {
+      "score": 6.900666,
+      "title": "New Book: American Libraries",
+      "url": "https://blogs.loc.gov/loc/2017/11/new-book-american-libraries/"
+    }
+  ],
+  "cite_this": {
+    "apa": "Highsmith, C. M., photographer. (2013) <cite>Tower of the Central Library, Los Angeles, California</cite>. United States Los Angeles California, 2013. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2013631511/.",
+    "chicago": "Highsmith, Carol M, photographer. <cite>Tower of the Central Library, Los Angeles, California</cite>. United States Los Angeles California, 2013. Photograph. https://www.loc.gov/item/2013631511/.",
+    "mla": "Highsmith, Carol M, photographer. <cite>Tower of the Central Library, Los Angeles, California</cite>. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2013631511/&gt;."
+  },
+  "item": {
+    "_version_": 1730905300872986624,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2013631511/",
+      "http://www.loc.gov/item/2013631511/",
+      "http://www.loc.gov/pictures/item/2013631511/",
+      "https://www.loc.gov/pictures/collection/highsm/item/2013631511/",
+      "http://www.loc.gov/pictures/collection/highsm/item/2013631511/",
+      "http://www.loc.gov/resource/highsm.24333/",
+      "http://lccn.loc.gov/2013631511",
+      "https://hdl.loc.gov/loc.pnp/highsm.24333"
+    ],
+    "call_number": "LC-DIG-highsm- 24333 (ONLINE) [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Highsmith, Carol M., 1946-, photographer"
+    ],
+    "contributors": [
+      {
+        "highsmith, carol m.": "https://www.loc.gov/search/?fa=contributor:highsmith,+carol+m.&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2016-04-20T17:25:37Z",
+    "created_published": [
+      "2013."
+    ],
+    "created_published_date": "2013.",
+    "date": "2013-01-01",
+    "dates": [
+      {
+        "2013": "https://www.loc.gov/search/?dates=2013/2013&fo=json"
+      }
+    ],
+    "description": [
+      "1 photograph : digital, tiff file, color."
+    ],
+    "digital_id": [
+      "highsm 24333 //hdl.loc.gov/loc.pnp/highsm.24333"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-31T04:28:47.108Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/highsm/item/2013631511/#highsm",
+      "http://lccn.loc.gov/2013631511#catalog-split-07"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Digital photographs--Color--2010-2020."
+    ],
+    "genre": [
+      "Digital photographs--Color--2010-2020"
+    ],
+    "group": [
+      "highsm",
+      "catalog-split-07",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-07",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2013631511/",
+    "image_url": [
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24300:24333/full/pct:12.5/0/default.jpg#h=378&w=301",
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24300:24333/full/pct:25/0/default.jpg#h=757&w=603",
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24300:24333/full/pct:50/0/default.jpg#h=1514&w=1207"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-DIG-highsm- 24333 (ONLINE) [P&P]",
+      "contributors": [
+        "Highsmith, Carol M., 1946- photographer."
+      ],
+      "control_number": "2013631511",
+      "created": "2016-04-20T17:25:37Z",
+      "created_published": "2013.",
+      "created_published_date": "2013.",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Highsmith%2C%20Carol%20M.%2C%201946-&co=highsm",
+          "role": "photographer",
+          "title": "Highsmith, Carol M., 1946-"
+        }
+      ],
+      "date": "2013.",
+      "digital_id": [
+        "highsm 24333 //hdl.loc.gov/loc.pnp/highsm.24333"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Digital%20photographs--Color--2010-2020.&co=highsm",
+          "title": "Digital photographs--Color--2010-2020."
+        }
+      ],
+      "genre": [
+        "Digital photographs--Color--2010-2020"
+      ],
+      "id": "2013631511",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2013631511/",
+      "marc": "https://www.loc.gov/pictures/item/2013631511/marc/",
+      "medium": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "medium_brief": "1 photograph :",
+      "mediums": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "modified": "2016-04-20T17:25:37Z",
+      "notes": [
+        "Title, date, and keywords provided by the photographer.",
+        "Credit line: The Jon B. Lovelace Collection of California Photographs in Carol M. Highsmith's America Project, Library of Congress, Prints and Photographs Division.",
+        "Gift; The Capital Group Companies Charitable Foundation in memory of Jon B. Lovelace; 2012; (DLC/PP-2012:063).",
+        "Forms part of: Jon B. Lovelace Collection of California Photographs in Carol M. Highsmith's America Project in the Carol M. Highsmith Archive."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2013631511",
+        "https://www.loc.gov/item/hig2013001512"
+      ],
+      "other_control_numbers": [
+        "17766780",
+        "hig2013001512"
+      ],
+      "part_of": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=California--Los%20Angeles&co=highsm",
+          "longitude": "",
+          "title": "California--Los Angeles"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-highsm-24333 (original digital file)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/highsm.24333"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/highsm/24300/24333_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/highsm/24300/24333r.jpg",
+      "sort_date": "2013",
+      "source_collection": [
+        "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+      ],
+      "source_created": "2013-05-23T00:00:00Z",
+      "source_modified": "2013-06-06T14:17:43Z",
+      "subject_headings": [
+        "United States--California--Los Angeles.",
+        "Los Angeles Central Library.",
+        "Libraries.",
+        "America.",
+        "California--Los Angeles"
+      ],
+      "subjects": [
+        "United States--California--Los Angeles",
+        "Los Angeles Central Library",
+        "Libraries",
+        "America"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/24300/24333_150px.jpg",
+      "title": "Tower of the Central Library, Los Angeles, California"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2013631511",
+    "link": "https://www.loc.gov/pictures/item/2013631511/",
+    "location": [
+      "united states",
+      "los angeles",
+      "california"
+    ],
+    "location_city": [
+      "los angeles"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_state": [
+      "california"
+    ],
+    "locations": [
+      {
+        "california": "https://www.loc.gov/search/?fa=location:california&fo=json"
+      },
+      {
+        "los angeles": "https://www.loc.gov/search/?fa=location:los+angeles&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "los angeles": "https://www.loc.gov/search/?fa=location_city:los+angeles&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "california": "https://www.loc.gov/search/?fa=location_state:california&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2013631511/marc/",
+    "medium": [
+      "1 photograph : digital, tiff file, color."
+    ],
+    "medium_brief": "1 photograph :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2016-04-20T17:25:37Z",
+    "notes": [
+      "Title, date, and keywords provided by the photographer.",
+      "Credit line: The Jon B. Lovelace Collection of California Photographs in Carol M. Highsmith's America Project, Library of Congress, Prints and Photographs Division.",
+      "Gift; The Capital Group Companies Charitable Foundation in memory of Jon B. Lovelace; 2012; (DLC/PP-2012:063).",
+      "Forms part of: Jon B. Lovelace Collection of California Photographs in Carol M. Highsmith's America Project in the Carol M. Highsmith Archive."
+    ],
+    "number": [
+      "2013631511",
+      "http://www.loc.gov/item/hig2013001512",
+      "2013-06-06t14:17:43",
+      "http://www.loc.gov/item/17766780",
+      "http://www.loc.gov/item/2013631511"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/17766780",
+      "http://www.loc.gov/item/hig2013001512",
+      "http://www.loc.gov/item/2013631511"
+    ],
+    "number_lccn": [
+      "2013631511"
+    ],
+    "number_source_modified": [
+      "2013-06-06t14:17:43"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "17766780",
+      "hig2013001512"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2013631511/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2013631511/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2013631511/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 69132,
+        "title": "highsmith (carol m.) archive",
+        "url": "https://www.loc.gov/collections/carol-m-highsmith/?fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=California--Los%20Angeles&co=highsm",
+        "longitude": "",
+        "title": "California--Los Angeles"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2013631511&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-highsm-24333 (original digital file)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/highsm.24333"
+    ],
+    "resources": [
+      {
+        "caption": "original digital file",
+        "files": 1,
+        "image": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24300:24333/full/pct:12.5/0/default.jpg",
+        "url": "https://www.loc.gov/resource/highsm.24333/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/482_high.html\">Carol M. Highsmith - Rights and Restrictions Information</a> </p>\n \n"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "LC-DIG-highsm- 24333 (ONLINE) [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "2013",
+    "source_collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+    "source_created": "2013-05-23T00:00:00Z",
+    "source_modified": "2013-06-06T14:17:43Z",
+    "subject": [
+      "united states",
+      "america",
+      "california",
+      "los angeles",
+      "libraries",
+      "los angeles central library",
+      "digital photographs",
+      "color"
+    ],
+    "subject_headings": [
+      "United States--California--Los Angeles",
+      "Los Angeles Central Library",
+      "Libraries",
+      "America"
+    ],
+    "subjects": [
+      {
+        "america": "https://www.loc.gov/search/?fa=subject:america&fo=json"
+      },
+      {
+        "california": "https://www.loc.gov/search/?fa=subject:california&fo=json"
+      },
+      {
+        "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+      },
+      {
+        "digital photographs": "https://www.loc.gov/search/?fa=subject:digital+photographs&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "los angeles": "https://www.loc.gov/search/?fa=subject:los+angeles&fo=json"
+      },
+      {
+        "los angeles central library": "https://www.loc.gov/search/?fa=subject:los+angeles+central+library&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/24300/24333_150px.jpg",
+    "timestamp": "2022-04-23T13:18:49.144Z",
+    "title": "Tower of the Central Library, Los Angeles, California",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2013631511/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2013631643/",
+        "http://www.loc.gov/item/2013631643/",
+        "http://www.loc.gov/pictures/item/2013631643/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2013631643/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2013631643/",
+        "http://www.loc.gov/resource/highsm.24465/",
+        "https://hdl.loc.gov/loc.pnp/highsm.24465",
+        "http://lccn.loc.gov/2013631643"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2013-01-01",
+      "dates": [
+        "2013"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T04:28:47.108Z",
+      "group": [
+        "highsm",
+        "catalog-split-13",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2013631643/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24400:24465/full/pct:6.25/0/default.jpg#h=460&w=307",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24400:24465/full/pct:12.5/0/default.jpg#h=920&w=614",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24400:24465/full/pct:25/0/default.jpg#h=1840&w=1228"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "los angeles",
+        "california"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2013631643",
+        "http://www.loc.gov/item/17767991",
+        "http://www.loc.gov/item/hig2013001644",
+        "2013-06-07t10:19:12",
+        "2013631643"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 52.30125,
+      "shelf_id": "LC-DIG-highsm- 24465 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "america",
+        "california",
+        "los angeles",
+        "libraries",
+        "los angeles central library",
+        "digital photographs",
+        "color"
+      ],
+      "timestamp": "2022-04-23T13:19:16.001Z",
+      "title": "Atrium in a new wing of the Central Library in downtown Los Angeles, California",
+      "url": "https://www.loc.gov/item/2013631643/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2013631250/",
+        "http://www.loc.gov/item/2013631250/",
+        "http://www.loc.gov/pictures/item/2013631250/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2013631250/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2013631250/",
+        "http://www.loc.gov/resource/highsm.24072/",
+        "https://hdl.loc.gov/loc.pnp/highsm.24072",
+        "http://lccn.loc.gov/2013631250"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2013-01-01",
+      "dates": [
+        "2013"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T04:26:31.150Z",
+      "group": [
+        "highsm",
+        "catalog-split-07",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-07",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2013631250/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24000:24072/full/pct:6.25/0/default.jpg#h=269&w=460",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24000:24072/full/pct:12.5/0/default.jpg#h=539&w=920",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24000:24072/full/pct:25/0/default.jpg#h=1079&w=1840"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "los angeles",
+        "california"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/17763647",
+        "http://www.loc.gov/item/hig2013001251",
+        "http://www.loc.gov/item/2013631250",
+        "2015-10-28t15:43:22",
+        "2013631250"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 52.30125,
+      "shelf_id": "LC-DIG-highsm- 24072 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "statue of civilization",
+        "united states",
+        "lee lawrie",
+        "america",
+        "california",
+        "los angeles",
+        "libraries",
+        "los angeles central library",
+        "digital photographs",
+        "color"
+      ],
+      "timestamp": "2022-04-23T13:17:59.532Z",
+      "title": "\"Statue of Civilization,\" by Lee Lawrie, at the Central Library in downtown Los Angeles, California",
+      "url": "https://www.loc.gov/item/2013631250/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2013631251/",
+        "http://www.loc.gov/item/2013631251/",
+        "http://www.loc.gov/pictures/item/2013631251/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2013631251/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2013631251/",
+        "http://www.loc.gov/resource/highsm.24073/",
+        "https://hdl.loc.gov/loc.pnp/highsm.24073",
+        "http://lccn.loc.gov/2013631251"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2013-01-01",
+      "dates": [
+        "2013"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T02:02:12.731Z",
+      "group": [
+        "highsm",
+        "catalog-split-08",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2013631251/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24000:24073/full/pct:6.25/0/default.jpg#h=297&w=195",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24000:24073/full/pct:12.5/0/default.jpg#h=594&w=391",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24000:24073/full/pct:25/0/default.jpg#h=1188&w=782",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24000:24073/full/pct:50/0/default.jpg#h=2377&w=1565"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "los angeles",
+        "california"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/17763649",
+        "http://www.loc.gov/item/2013631251",
+        "http://www.loc.gov/item/hig2013001252",
+        "2013631251",
+        "2015-10-28t15:43:34"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 52.30125,
+      "shelf_id": "LC-DIG-highsm- 24073 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "statue of civilization",
+        "united states",
+        "lee lawrie",
+        "america",
+        "california",
+        "los angeles",
+        "libraries",
+        "los angeles central library",
+        "digital photographs",
+        "color"
+      ],
+      "timestamp": "2022-04-23T13:17:59.532Z",
+      "title": "\"Statue of Civilization,\" by Lee Lawrie, at the Central Library in downtown Los Angeles, California",
+      "url": "https://www.loc.gov/item/2013631251/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2013631650/",
+        "http://www.loc.gov/item/2013631650/",
+        "http://www.loc.gov/pictures/item/2013631650/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2013631650/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2013631650/",
+        "http://www.loc.gov/resource/highsm.24472/",
+        "https://hdl.loc.gov/loc.pnp/highsm.24472",
+        "http://lccn.loc.gov/2013631650"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2013-01-01",
+      "dates": [
+        "2013"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T04:28:47.108Z",
+      "group": [
+        "highsm",
+        "catalog-split-11",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-11",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2013631650/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24400:24472/full/pct:6.25/0/default.jpg#h=307&w=460",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24400:24472/full/pct:12.5/0/default.jpg#h=614&w=920",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24400:24472/full/pct:25/0/default.jpg#h=1228&w=1840"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "los angeles",
+        "california"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/17768007",
+        "2013631650",
+        "http://www.loc.gov/item/hig2013001651",
+        "2013-06-07t10:23:16",
+        "http://www.loc.gov/item/2013631650"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 52.30125,
+      "shelf_id": "LC-DIG-highsm- 24472 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "america",
+        "california",
+        "los angeles",
+        "libraries",
+        "los angeles central library",
+        "digital photographs",
+        "color"
+      ],
+      "timestamp": "2022-04-23T13:19:43.955Z",
+      "title": "Atrium in a new wing of the Central Library in downtown Los Angeles, California, completed in 1993",
+      "url": "https://www.loc.gov/item/2013631650/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2013631651/",
+        "http://www.loc.gov/item/2013631651/",
+        "http://www.loc.gov/pictures/item/2013631651/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2013631651/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2013631651/",
+        "http://www.loc.gov/resource/highsm.24473/",
+        "https://hdl.loc.gov/loc.pnp/highsm.24473",
+        "http://lccn.loc.gov/2013631651"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2013-01-01",
+      "dates": [
+        "2013"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T04:28:47.108Z",
+      "group": [
+        "highsm",
+        "catalog-split-12",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2013631651/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24400:24473/full/pct:6.25/0/default.jpg#h=204&w=437",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24400:24473/full/pct:12.5/0/default.jpg#h=409&w=875",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24400:24473/full/pct:25/0/default.jpg#h=818&w=1750"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "los angeles",
+        "california"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2013-06-07t10:23:41",
+        "http://www.loc.gov/item/2013631651",
+        "http://www.loc.gov/item/17768012",
+        "http://www.loc.gov/item/hig2013001652",
+        "2013631651"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 52.30125,
+      "shelf_id": "LC-DIG-highsm- 24473 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "america",
+        "california",
+        "los angeles",
+        "dean cornwell",
+        "libraries",
+        "los angeles central library",
+        "digital photographs",
+        "color",
+        "murals"
+      ],
+      "timestamp": "2022-04-23T13:19:43.955Z",
+      "title": "\"Mission Building,\" one of four \"great eras of California history\" murals by Dean Cornwell at the Central Library in downtown Los Angeles, California",
+      "url": "https://www.loc.gov/item/2013631651/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2013631652/",
+        "http://www.loc.gov/item/2013631652/",
+        "http://www.loc.gov/pictures/item/2013631652/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2013631652/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2013631652/",
+        "http://www.loc.gov/resource/highsm.24474/",
+        "https://hdl.loc.gov/loc.pnp/highsm.24474",
+        "http://lccn.loc.gov/2013631652"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2013-01-01",
+      "dates": [
+        "2013"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T04:28:47.108Z",
+      "group": [
+        "highsm",
+        "catalog-split-13",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2013631652/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24400:24474/full/pct:6.25/0/default.jpg#h=221&w=442",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24400:24474/full/pct:12.5/0/default.jpg#h=442&w=885",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24400:24474/full/pct:25/0/default.jpg#h=884&w=1770"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "los angeles",
+        "california"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/17768017",
+        "http://www.loc.gov/item/hig2013001653",
+        "http://www.loc.gov/item/2013631652",
+        "2013-06-07t10:24:10",
+        "2013631652"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 52.30125,
+      "shelf_id": "LC-DIG-highsm- 24474 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "america",
+        "california",
+        "los angeles",
+        "dean cornwell",
+        "libraries",
+        "los angeles central library",
+        "digital photographs",
+        "color",
+        "murals"
+      ],
+      "timestamp": "2022-04-23T13:19:43.955Z",
+      "title": "\"Americanization,\" one of four \"great eras of California history\" murals by Dean Cornwell at the Central Library in downtown Los Angeles, California",
+      "url": "https://www.loc.gov/item/2013631652/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "highsm",
+      "catalog-split-07",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-07",
+      "main-catalog",
+      "catalog-split-13",
+      "main-catalog-split-13",
+      "catalog-split-08",
+      "main-catalog-split-08",
+      "catalog-split-11",
+      "main-catalog-split-11",
+      "catalog-split-12",
+      "main-catalog-split-12",
+      "ndnp/lu",
+      "louisiana-state-university-baton-rouge-la-awardee"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "highsm.24333",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.9251303672790527,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/highsm.24333/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/highsm.24333/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294119.9091377,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 378,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24300:24333/full/pct:12.5/0/default.jpg",
+      "width": 301
+    },
+    {
+      "height": 757,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24300:24333/full/pct:25/0/default.jpg",
+      "width": 603
+    },
+    {
+      "height": 1514,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24300:24333/full/pct:50/0/default.jpg",
+      "width": 1207
+    },
+    {
+      "height": 3028,
+      "info": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24300:24333/info.json",
+      "levels": 7,
+      "mimetype": "image/jp2",
+      "size": 904929,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/24300/24333.jp2",
+      "width": 2415
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2013631511&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn93062881/1922-06-03/ed-1/",
+        "http://www.loc.gov/resource/sn93062881/1922-06-03/ed-1/"
+      ],
+      "batch": [
+        "lu_charizard_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "louisiana state university; baton rouge, la"
+      ],
+      "date": "1922-06-03",
+      "dates": [
+        "1922-06-03"
+      ],
+      "description": [
+        "Llano, Calif."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-10-12T13:29:47.554Z",
+      "group": [
+        "ndnp/lu",
+        "louisiana-state-university-baton-rouge-la-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn93062881/1922-06-03/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922060301:0092/full/pct:6.25/0/default.jpg#h=409&w=299",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922060301:0092/full/pct:12.5/0/default.jpg#h=818&w=599"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "california",
+        "llano",
+        "leesville",
+        "los angeles",
+        "vernon parish",
+        "vernon",
+        "new llano",
+        "louisiana"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00295876256",
+        "1",
+        "sn93062881"
+      ],
+      "numeric_shelf_id": 192206031,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the llano colonist (llano, calif.) 191?-1937",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 23.841084,
+      "shelf_id": "sn93062881, 1922-06-03, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "vernon",
+        "united states",
+        "newspapers",
+        "california",
+        "llano",
+        "leesville",
+        "cooperative societies",
+        "leesville (la.)",
+        "vernon parish",
+        "vernon parish (la.)",
+        "collective settlements",
+        "llano (calif.)",
+        "los angeles",
+        "new llano (la.)",
+        "llano colony (secular community)",
+        "new llano",
+        "louisiana"
+      ],
+      "timestamp": "2023-05-10T21:19:03.177Z",
+      "title": "The Llano colonist (Llano, Calif.), June 3, 1922",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn93062881/1922-06-03/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn93062881/1922-06-10/ed-1/",
+        "http://www.loc.gov/resource/sn93062881/1922-06-10/ed-1/"
+      ],
+      "batch": [
+        "lu_charizard_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "louisiana state university; baton rouge, la"
+      ],
+      "date": "1922-06-10",
+      "dates": [
+        "1922-06-10"
+      ],
+      "description": [
+        "Llano, Calif."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-10-12T13:29:47.554Z",
+      "group": [
+        "ndnp/lu",
+        "louisiana-state-university-baton-rouge-la-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn93062881/1922-06-10/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922061001:0100/full/pct:6.25/0/default.jpg#h=410&w=297",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922061001:0100/full/pct:12.5/0/default.jpg#h=821&w=595"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "california",
+        "llano",
+        "leesville",
+        "los angeles",
+        "vernon parish",
+        "vernon",
+        "new llano",
+        "louisiana"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00295876256",
+        "1",
+        "sn93062881"
+      ],
+      "numeric_shelf_id": 192206101,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the llano colonist (llano, calif.) 191?-1937",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 23.841084,
+      "shelf_id": "sn93062881, 1922-06-10, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "vernon",
+        "united states",
+        "newspapers",
+        "california",
+        "llano",
+        "leesville",
+        "cooperative societies",
+        "leesville (la.)",
+        "vernon parish",
+        "vernon parish (la.)",
+        "collective settlements",
+        "llano (calif.)",
+        "los angeles",
+        "new llano (la.)",
+        "llano colony (secular community)",
+        "new llano",
+        "louisiana"
+      ],
+      "timestamp": "2023-05-10T21:19:03.177Z",
+      "title": "The Llano colonist (Llano, Calif.), June 10, 1922",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn93062881/1922-06-10/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn93062881/1922-05-27/ed-1/",
+        "http://www.loc.gov/resource/sn93062881/1922-05-27/ed-1/"
+      ],
+      "batch": [
+        "lu_charizard_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "louisiana state university; baton rouge, la"
+      ],
+      "date": "1922-05-27",
+      "dates": [
+        "1922-05-27"
+      ],
+      "description": [
+        "Llano, Calif."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-10-12T13:29:47.554Z",
+      "group": [
+        "ndnp/lu",
+        "louisiana-state-university-baton-rouge-la-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn93062881/1922-05-27/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922052701:0084/full/pct:6.25/0/default.jpg#h=394&w=285",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922052701:0084/full/pct:12.5/0/default.jpg#h=789&w=571"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "california",
+        "llano",
+        "leesville",
+        "los angeles",
+        "vernon parish",
+        "vernon",
+        "new llano",
+        "louisiana"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00295876256",
+        "1",
+        "sn93062881"
+      ],
+      "numeric_shelf_id": 192205271,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the llano colonist (llano, calif.) 191?-1937",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 23.841084,
+      "shelf_id": "sn93062881, 1922-05-27, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "vernon",
+        "united states",
+        "newspapers",
+        "california",
+        "llano",
+        "leesville",
+        "cooperative societies",
+        "leesville (la.)",
+        "vernon parish",
+        "vernon parish (la.)",
+        "collective settlements",
+        "llano (calif.)",
+        "los angeles",
+        "new llano (la.)",
+        "llano colony (secular community)",
+        "new llano",
+        "louisiana"
+      ],
+      "timestamp": "2023-05-10T21:19:03.177Z",
+      "title": "The Llano colonist (Llano, Calif.), May 27, 1922",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn93062881/1922-05-27/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn93062881/1922-07-15/ed-1/",
+        "http://www.loc.gov/resource/sn93062881/1922-07-15/ed-1/"
+      ],
+      "batch": [
+        "lu_charizard_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "louisiana state university; baton rouge, la"
+      ],
+      "date": "1922-07-15",
+      "dates": [
+        "1922-07-15"
+      ],
+      "description": [
+        "Llano, Calif."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-10-12T13:29:47.554Z",
+      "group": [
+        "ndnp/lu",
+        "louisiana-state-university-baton-rouge-la-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn93062881/1922-07-15/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922071501:0132/full/pct:6.25/0/default.jpg#h=407&w=296",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922071501:0132/full/pct:12.5/0/default.jpg#h=815&w=593"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "california",
+        "llano",
+        "leesville",
+        "los angeles",
+        "vernon parish",
+        "vernon",
+        "new llano",
+        "louisiana"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00295876256",
+        "1",
+        "sn93062881"
+      ],
+      "numeric_shelf_id": 192207151,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the llano colonist (llano, calif.) 191?-1937",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 23.841084,
+      "shelf_id": "sn93062881, 1922-07-15, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "vernon",
+        "united states",
+        "newspapers",
+        "california",
+        "llano",
+        "leesville",
+        "cooperative societies",
+        "leesville (la.)",
+        "vernon parish",
+        "vernon parish (la.)",
+        "collective settlements",
+        "llano (calif.)",
+        "los angeles",
+        "new llano (la.)",
+        "llano colony (secular community)",
+        "new llano",
+        "louisiana"
+      ],
+      "timestamp": "2023-05-10T21:19:03.177Z",
+      "title": "The Llano colonist (Llano, Calif.), July 15, 1922",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn93062881/1922-07-15/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn93062881/1922-07-22/ed-1/",
+        "http://www.loc.gov/resource/sn93062881/1922-07-22/ed-1/"
+      ],
+      "batch": [
+        "lu_charizard_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "louisiana state university; baton rouge, la"
+      ],
+      "date": "1922-07-22",
+      "dates": [
+        "1922-07-22"
+      ],
+      "description": [
+        "Llano, Calif."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-10-12T13:29:47.554Z",
+      "group": [
+        "ndnp/lu",
+        "louisiana-state-university-baton-rouge-la-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn93062881/1922-07-22/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922072201:0140/full/pct:6.25/0/default.jpg#h=410&w=297",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922072201:0140/full/pct:12.5/0/default.jpg#h=821&w=595"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "california",
+        "llano",
+        "leesville",
+        "los angeles",
+        "vernon parish",
+        "vernon",
+        "new llano",
+        "louisiana"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00295876256",
+        "1",
+        "sn93062881"
+      ],
+      "numeric_shelf_id": 192207221,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the llano colonist (llano, calif.) 191?-1937",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 23.841084,
+      "shelf_id": "sn93062881, 1922-07-22, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "vernon",
+        "united states",
+        "newspapers",
+        "california",
+        "llano",
+        "leesville",
+        "cooperative societies",
+        "leesville (la.)",
+        "vernon parish",
+        "vernon parish (la.)",
+        "collective settlements",
+        "llano (calif.)",
+        "los angeles",
+        "new llano (la.)",
+        "llano colony (secular community)",
+        "new llano",
+        "louisiana"
+      ],
+      "timestamp": "2023-05-10T21:19:03.177Z",
+      "title": "The Llano colonist (Llano, Calif.), July 22, 1922",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn93062881/1922-07-22/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn93062881/1922-07-08/ed-1/",
+        "http://www.loc.gov/resource/sn93062881/1922-07-08/ed-1/"
+      ],
+      "batch": [
+        "lu_charizard_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "louisiana state university; baton rouge, la"
+      ],
+      "date": "1922-07-08",
+      "dates": [
+        "1922-07-08"
+      ],
+      "description": [
+        "Llano, Calif."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-10-12T13:29:47.554Z",
+      "group": [
+        "ndnp/lu",
+        "louisiana-state-university-baton-rouge-la-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn93062881/1922-07-08/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922070801:0124/full/pct:6.25/0/default.jpg#h=408&w=298",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:lu:batch_lu_charizard_ver01:data:sn93062881:00295876256:1922070801:0124/full/pct:12.5/0/default.jpg#h=817&w=597"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "california",
+        "llano",
+        "leesville",
+        "los angeles",
+        "vernon parish",
+        "vernon",
+        "new llano",
+        "louisiana"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00295876256",
+        "1",
+        "sn93062881"
+      ],
+      "numeric_shelf_id": 192207081,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the llano colonist (llano, calif.) 191?-1937",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 23.841084,
+      "shelf_id": "sn93062881, 1922-07-08, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "vernon",
+        "united states",
+        "newspapers",
+        "california",
+        "llano",
+        "leesville",
+        "cooperative societies",
+        "leesville (la.)",
+        "vernon parish",
+        "vernon parish (la.)",
+        "collective settlements",
+        "llano (calif.)",
+        "los angeles",
+        "new llano (la.)",
+        "llano colony (secular community)",
+        "new llano",
+        "louisiana"
+      ],
+      "timestamp": "2023-05-10T21:19:03.177Z",
+      "title": "The Llano colonist (Llano, Calif.), July 8, 1922",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn93062881/1922-07-08/ed-1/"
+    }
+  ],
+  "reproductions": "<p>\nSome images in this collection are described in groups; others are \ndescribed individually. In some cases, all of the images in the \ngroup display online, in other cases they do not.\n</p>\n\n<p>\nYou can download online images yourself.  Alternatively, you can \npurchase copies of various types.\n</p>\n\n<ol>\n<p>\t\n<strong><li>Determine whether the desired materials can be retrieved \nonline.</strong>\n</p>\n<ul>\n<p>\t\n<li>Look in the <strong>Medium</strong> field above to determine whether\n the description is for one photograph or more than one.</li>\n </p>\n <p>\n<li>If the description is for a single item and it is displaying, \nyou can download or purchase a print.  Cite the number that begins \nwith &quot;LC-DIG...&quot; when purchasing copies through Library of \nCongress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is \na &quot;Click for more images&quot; icon displaying, select that. \nIndividual images will display; you can download or purchase prints. \nCite the number that begins with &quot;LC-DIG...&quot; when purchasing \ncopies through Library of Congress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is no\n &quot;Click for more images&quot; icon displaying, return to the\n  &quot;About this Item&quot; tab and select the &quot;<i>Check for \n  online items from this group</i>&quot; link.  Then select the \n  \"Obtaining Copies\" tab for any retrieved items that are of interest.\n</p>\n</ul>\n</li>\n\n<p>\n<strong><li>If the images do not display online</strong> -- Select images for reproduction through one of these methods:\n</p>\n<ul>\n<p>\t\n<li>Visit the Prints &amp; Photographs Reading Room and request to view \nthe group (general information about service in the reading room is \navailable at: <a href=\"//www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>).</li>  \n</p>\n<p>\n<li>P&amp;P reading room staff can provide up to 15 photocopies of items \nper calendar year. (Color images cannot be photocopied.) For assistance,\n see our <a href=\"//www.loc.gov/rr/askalib/ask-print.html\">Ask a Librarian</a> page. OR</li>\n</p>\n<p>\n<li>Hire a freelance researcher to do further selection for you \n(a list of researchers is available at: \n<a href=\"//www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>).\n</p>\n</ul>\n</li>\n</ol>\n\n<p>\n<strong>Purchasing Copies</strong>\n</p>\n\n<p>\nLibrary of Congress Duplication Services can make copies of various \ntypes from images in Prints & Photographs Division Collections.  \nPrice lists, contact information, and order forms are available on the \n<a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.\n</p>\n\n<p>\nCarol M. Highsmith sells prints of her photographs at: <a href=\"http://photographsamerica.com/\">http://photographsamerica.com/</a> .\n</p>  \n\n\n\n\n        ",
+  "resource": {
+    "caption": "original digital file",
+    "image": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24300:24333/full/pct:12.5/0/default.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/highsm.24333/"
+  },
+  "resources": [
+    {
+      "caption": "original digital file",
+      "image": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:24300:24333/full/pct:12.5/0/default.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/highsm.24333/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294120835,
+  "type": "zoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/highsm.24333/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/highsm.24333/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/highsm.24333/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/highsm.24333/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/highsm.24333/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/highsm.24333/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/highsm.24333/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/highsm.24333/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/highsm.24333/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/highsm.24333/?fo=json&st=text"
+  }
+}

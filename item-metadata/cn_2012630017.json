@@ -1,0 +1,1788 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Highsmith, C. M., photographer. (2011) <cite>Noyes Library for Young Children, Kensington, Maryland</cite>. Maryland Kensington United States, 2011. September. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2012630017/.",
+    "chicago": "Highsmith, Carol M, photographer. <cite>Noyes Library for Young Children, Kensington, Maryland</cite>. Maryland Kensington United States, 2011. September. Photograph. https://www.loc.gov/item/2012630017/.",
+    "mla": "Highsmith, Carol M, photographer. <cite>Noyes Library for Young Children, Kensington, Maryland</cite>. September. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2012630017/&gt;."
+  },
+  "item": {
+    "_version_": 1730904208478044160,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2012630017/",
+      "http://www.loc.gov/item/2012630017/",
+      "http://www.loc.gov/pictures/item/2012630017/",
+      "https://www.loc.gov/pictures/collection/highsm/item/2012630017/",
+      "http://www.loc.gov/pictures/collection/highsm/item/2012630017/",
+      "http://www.loc.gov/resource/highsm.20336/",
+      "http://lccn.loc.gov/2012630017",
+      "https://hdl.loc.gov/loc.pnp/highsm.20336"
+    ],
+    "call_number": "LC-DIG-highsm- 20336 (ONLINE) [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Highsmith, Carol M., 1946-, photographer"
+    ],
+    "contributors": [
+      {
+        "highsmith, carol m.": "https://www.loc.gov/search/?fa=contributor:highsmith,+carol+m.&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2016-04-20T13:03:29Z",
+    "created_published": [
+      "2011 September."
+    ],
+    "created_published_date": "2011 September.",
+    "date": "2011-01-01",
+    "dates": [
+      {
+        "2011": "https://www.loc.gov/search/?dates=2011/2011&fo=json"
+      }
+    ],
+    "description": [
+      "1 photograph : digital, TIFF file, color."
+    ],
+    "digital_id": [
+      "highsm 20336 //hdl.loc.gov/loc.pnp/highsm.20336"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-31T03:58:15.862Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/highsm/item/2012630017/#highsm",
+      "http://lccn.loc.gov/2012630017#catalog-split-06"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Digital photographs--Color--2010-2020."
+    ],
+    "genre": [
+      "Digital photographs--Color--2010-2020"
+    ],
+    "group": [
+      "highsm",
+      "catalog-split-06",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-06",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2012630017/",
+    "image_url": [
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20336/full/pct:6.25/0/default.jpg#h=207&w=385",
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20336/full/pct:12.5/0/default.jpg#h=414&w=770",
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20336/full/pct:25/0/default.jpg#h=829&w=1540"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-DIG-highsm- 20336 (ONLINE) [P&P]",
+      "contributors": [
+        "Highsmith, Carol M., 1946- photographer."
+      ],
+      "control_number": "2012630017",
+      "created": "2016-04-20T13:03:29Z",
+      "created_published": "2011 September.",
+      "created_published_date": "2011 September.",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Highsmith%2C%20Carol%20M.%2C%201946-&co=highsm",
+          "role": "photographer",
+          "title": "Highsmith, Carol M., 1946-"
+        }
+      ],
+      "date": "2011 September.",
+      "digital_id": [
+        "highsm 20336 //hdl.loc.gov/loc.pnp/highsm.20336"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Digital%20photographs--Color--2010-2020.&co=highsm",
+          "title": "Digital photographs--Color--2010-2020."
+        }
+      ],
+      "genre": [
+        "Digital photographs--Color--2010-2020"
+      ],
+      "id": "2012630017",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2012630017/",
+      "marc": "https://www.loc.gov/pictures/item/2012630017/marc/",
+      "medium": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "medium_brief": "1 photograph :",
+      "mediums": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "modified": "2016-04-20T13:03:29Z",
+      "notes": [
+        "A charming one-room library, it is Montgomery County's oldest, and is now an historic landmark surrounded by old trees and turreted Victorian homes.",
+        "Title, date, subject note, and keywords provided by the photographer.",
+        "Credit line: Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.",
+        "Purchase; Carol M. Highsmith; 2011; (DLC/PP-2011:182).",
+        "Forms part of the Carol M. Highsmith Archive."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2012630017",
+        "https://www.loc.gov/item/hig2012003321"
+      ],
+      "other_control_numbers": [
+        "17275407",
+        "hig2012003321"
+      ],
+      "part_of": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Maryland--Kensington&co=highsm",
+          "longitude": "",
+          "title": "Maryland--Kensington"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-highsm-20336 (original digital file)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/highsm.20336"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/highsm/20300/20336_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/highsm/20300/20336r.jpg",
+      "sort_date": "2011",
+      "source_collection": [
+        "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+      ],
+      "source_created": "2012-04-23T00:00:00Z",
+      "source_modified": "2013-11-14T14:09:59Z",
+      "subject_headings": [
+        "United States--Maryland--Kensington.",
+        "America.",
+        "Libraries.",
+        "Maryland--Kensington"
+      ],
+      "subjects": [
+        "United States--Maryland--Kensington",
+        "America",
+        "Libraries"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/20300/20336_150px.jpg",
+      "title": "Noyes Library for Young Children, Kensington, Maryland"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2012630017",
+    "link": "https://www.loc.gov/pictures/item/2012630017/",
+    "location": [
+      "maryland",
+      "kensington",
+      "united states"
+    ],
+    "location_city": [
+      "kensington"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_state": [
+      "maryland"
+    ],
+    "locations": [
+      {
+        "kensington": "https://www.loc.gov/search/?fa=location:kensington&fo=json"
+      },
+      {
+        "maryland": "https://www.loc.gov/search/?fa=location:maryland&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "kensington": "https://www.loc.gov/search/?fa=location_city:kensington&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "maryland": "https://www.loc.gov/search/?fa=location_state:maryland&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2012630017/marc/",
+    "medium": [
+      "1 photograph : digital, TIFF file, color."
+    ],
+    "medium_brief": "1 photograph :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2016-04-20T13:03:29Z",
+    "notes": [
+      "A charming one-room library, it is Montgomery County's oldest, and is now an historic landmark surrounded by old trees and turreted Victorian homes.",
+      "Title, date, subject note, and keywords provided by the photographer.",
+      "Credit line: Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.",
+      "Purchase; Carol M. Highsmith; 2011; (DLC/PP-2011:182).",
+      "Forms part of the Carol M. Highsmith Archive."
+    ],
+    "number": [
+      "2013-11-14t14:09:59",
+      "2012630017",
+      "http://www.loc.gov/item/hig2012003321",
+      "http://www.loc.gov/item/17275407",
+      "http://www.loc.gov/item/2012630017"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/17275407",
+      "http://www.loc.gov/item/hig2012003321",
+      "http://www.loc.gov/item/2012630017"
+    ],
+    "number_lccn": [
+      "2012630017"
+    ],
+    "number_source_modified": [
+      "2013-11-14t14:09:59"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "17275407",
+      "hig2012003321"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2012630017/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2012630017/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2012630017/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 69132,
+        "title": "highsmith (carol m.) archive",
+        "url": "https://www.loc.gov/collections/carol-m-highsmith/?fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Maryland--Kensington&co=highsm",
+        "longitude": "",
+        "title": "Maryland--Kensington"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2012630017&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-highsm-20336 (original digital file)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/highsm.20336"
+    ],
+    "resources": [
+      {
+        "caption": "original digital file",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/highsm/20300/20336t.gif",
+        "url": "https://www.loc.gov/resource/highsm.20336/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/482_high.html\">Carol M. Highsmith - Rights and Restrictions Information</a> </p>\n \n"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "LC-DIG-highsm- 20336 (ONLINE) [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "2011",
+    "source_collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+    "source_created": "2012-04-23T00:00:00Z",
+    "source_modified": "2013-11-14T14:09:59Z",
+    "subject": [
+      "kensington",
+      "america",
+      "united states",
+      "digital photographs",
+      "libraries",
+      "maryland",
+      "color"
+    ],
+    "subject_headings": [
+      "United States--Maryland--Kensington",
+      "America",
+      "Libraries"
+    ],
+    "subjects": [
+      {
+        "america": "https://www.loc.gov/search/?fa=subject:america&fo=json"
+      },
+      {
+        "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+      },
+      {
+        "digital photographs": "https://www.loc.gov/search/?fa=subject:digital+photographs&fo=json"
+      },
+      {
+        "kensington": "https://www.loc.gov/search/?fa=subject:kensington&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "maryland": "https://www.loc.gov/search/?fa=subject:maryland&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/20300/20336_150px.jpg",
+    "timestamp": "2022-04-23T13:01:26.689Z",
+    "title": "Noyes Library for Young Children, Kensington, Maryland",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2012630017/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2012630016/",
+        "http://www.loc.gov/item/2012630016/",
+        "http://www.loc.gov/pictures/item/2012630016/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2012630016/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2012630016/",
+        "http://www.loc.gov/resource/highsm.20335/",
+        "http://lccn.loc.gov/2012630016",
+        "https://hdl.loc.gov/loc.pnp/highsm.20335"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2011-01-01",
+      "dates": [
+        "2011"
+      ],
+      "description": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T03:58:15.862Z",
+      "group": [
+        "highsm",
+        "catalog-split-05",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-05",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2012630016/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20335/full/pct:6.25/0/default.jpg#h=240&w=353",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20335/full/pct:12.5/0/default.jpg#h=480&w=706",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20335/full/pct:25/0/default.jpg#h=960&w=1413",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20335/full/pct:50/0/default.jpg#h=1920&w=2826"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "maryland",
+        "kensington",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2012630016",
+        "http://www.loc.gov/item/2012630016",
+        "http://www.loc.gov/item/hig2012003320",
+        "http://www.loc.gov/item/17275404",
+        "2013-11-14t14:09:26"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "catalog",
+        "highsmith (carol m.) archive"
+      ],
+      "score": 49.86497,
+      "shelf_id": "LC-DIG-highsm- 20335 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "kensington",
+        "america",
+        "united states",
+        "digital photographs",
+        "libraries",
+        "maryland",
+        "color"
+      ],
+      "timestamp": "2022-04-23T13:01:26.689Z",
+      "title": "Noyes Library for Young Children, Kensington, Maryland",
+      "url": "https://www.loc.gov/item/2012630016/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2012630018/",
+        "http://www.loc.gov/item/2012630018/",
+        "http://www.loc.gov/pictures/item/2012630018/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2012630018/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2012630018/",
+        "http://www.loc.gov/resource/highsm.20337/",
+        "https://hdl.loc.gov/loc.pnp/highsm.20337",
+        "http://lccn.loc.gov/2012630018"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2011-01-01",
+      "dates": [
+        "2011"
+      ],
+      "description": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T01:51:22.768Z",
+      "group": [
+        "highsm",
+        "catalog-split-07",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-07",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2012630018/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20337/full/pct:6.25/0/default.jpg#h=148&w=287",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20337/full/pct:12.5/0/default.jpg#h=297&w=574",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20337/full/pct:25/0/default.jpg#h=594&w=1148",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20337/full/pct:50/0/default.jpg#h=1188&w=2296"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "maryland",
+        "kensington",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/hig2012003322",
+        "2012630018",
+        "http://www.loc.gov/item/17275408",
+        "http://www.loc.gov/item/2012630018",
+        "2013-11-14t14:10:23"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "catalog",
+        "highsmith (carol m.) archive"
+      ],
+      "score": 49.86497,
+      "shelf_id": "LC-DIG-highsm- 20337 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "kensington",
+        "america",
+        "united states",
+        "digital photographs",
+        "libraries",
+        "maryland",
+        "color"
+      ],
+      "timestamp": "2022-04-23T13:01:26.689Z",
+      "title": "Noyes Library for Young Children, Kensington, Maryland",
+      "url": "https://www.loc.gov/item/2012630018/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2012630019/",
+        "http://www.loc.gov/item/2012630019/",
+        "http://www.loc.gov/pictures/item/2012630019/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2012630019/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2012630019/",
+        "http://www.loc.gov/resource/highsm.20338/",
+        "https://hdl.loc.gov/loc.pnp/highsm.20338",
+        "http://lccn.loc.gov/2012630019"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2011-01-01",
+      "dates": [
+        "2011"
+      ],
+      "description": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T01:51:22.768Z",
+      "group": [
+        "highsm",
+        "catalog-split-08",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2012630019/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20338/full/pct:6.25/0/default.jpg#h=203&w=327",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20338/full/pct:12.5/0/default.jpg#h=406&w=654",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20338/full/pct:25/0/default.jpg#h=812&w=1308",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20338/full/pct:50/0/default.jpg#h=1624&w=2616"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "maryland",
+        "kensington",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2012630019",
+        "http://www.loc.gov/item/17275409",
+        "2013-11-14t14:10:52",
+        "http://www.loc.gov/item/2012630019",
+        "http://www.loc.gov/item/hig2012003323"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "catalog",
+        "highsmith (carol m.) archive"
+      ],
+      "score": 49.86497,
+      "shelf_id": "LC-DIG-highsm- 20338 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "kensington",
+        "america",
+        "united states",
+        "digital photographs",
+        "libraries",
+        "maryland",
+        "color"
+      ],
+      "timestamp": "2022-04-23T13:01:26.689Z",
+      "title": "Noyes Library for Young Children, Kensington, Maryland",
+      "url": "https://www.loc.gov/item/2012630019/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2012630015/",
+        "http://www.loc.gov/item/2012630015/",
+        "http://www.loc.gov/pictures/item/2012630015/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2012630015/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2012630015/",
+        "http://www.loc.gov/resource/highsm.20334/",
+        "https://hdl.loc.gov/loc.pnp/highsm.20334",
+        "http://lccn.loc.gov/2012630015"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2011-01-01",
+      "dates": [
+        "2011"
+      ],
+      "description": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T01:51:22.768Z",
+      "group": [
+        "highsm",
+        "catalog-split-04",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-04",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2012630015/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20334/full/pct:6.25/0/default.jpg#h=248&w=360",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20334/full/pct:12.5/0/default.jpg#h=496&w=721",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20334/full/pct:25/0/default.jpg#h=992&w=1442",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20334/full/pct:50/0/default.jpg#h=1984&w=2884"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "maryland",
+        "kensington",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/17275401",
+        "2013-11-14t14:08:25",
+        "2012630015",
+        "http://www.loc.gov/item/hig2012003319",
+        "http://www.loc.gov/item/2012630015"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "catalog",
+        "highsmith (carol m.) archive"
+      ],
+      "score": 49.86497,
+      "shelf_id": "LC-DIG-highsm- 20334 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "kensington",
+        "america",
+        "united states",
+        "digital photographs",
+        "libraries",
+        "maryland",
+        "color"
+      ],
+      "timestamp": "2022-04-23T13:01:26.689Z",
+      "title": "Noyes Library for Young Children, Kensington, Maryland",
+      "url": "https://www.loc.gov/item/2012630015/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2012630109/",
+        "http://www.loc.gov/item/2012630109/",
+        "http://www.loc.gov/pictures/item/2012630109/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2012630109/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2012630109/",
+        "http://www.loc.gov/resource/highsm.20428/",
+        "https://hdl.loc.gov/loc.pnp/highsm.20428",
+        "http://lccn.loc.gov/2012630109"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2011-01-01",
+      "dates": [
+        "2011"
+      ],
+      "description": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T01:51:22.768Z",
+      "group": [
+        "highsm",
+        "catalog-split-08",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2012630109/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20400:20428/full/pct:6.25/0/default.jpg#h=220&w=384",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20400:20428/full/pct:12.5/0/default.jpg#h=441&w=768",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20400:20428/full/pct:25/0/default.jpg#h=882&w=1536"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "bethesda",
+        "maryland",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2012630109",
+        "http://www.loc.gov/item/2012630109",
+        "http://www.loc.gov/item/hig2012003413",
+        "http://www.loc.gov/item/17275750",
+        "2013-11-15t09:46:30"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "catalog",
+        "highsmith (carol m.) archive"
+      ],
+      "score": 34.19607,
+      "shelf_id": "LC-DIG-highsm- 20428 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "bethesda",
+        "america",
+        "united states",
+        "digital photographs",
+        "libraries",
+        "maryland",
+        "color"
+      ],
+      "timestamp": "2022-04-23T13:02:00.604Z",
+      "title": "Bethesda Library, 7400 Arlington Road, Bethesda, Maryland",
+      "url": "https://www.loc.gov/item/2012630109/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2012630110/",
+        "http://www.loc.gov/item/2012630110/",
+        "http://www.loc.gov/pictures/item/2012630110/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2012630110/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2012630110/",
+        "http://www.loc.gov/resource/highsm.20429/",
+        "https://hdl.loc.gov/loc.pnp/highsm.20429",
+        "http://lccn.loc.gov/2012630110"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2011-01-01",
+      "dates": [
+        "2011"
+      ],
+      "description": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T00:13:43.953Z",
+      "group": [
+        "highsm",
+        "catalog-split-00",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2012630110/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20400:20429/full/pct:6.25/0/default.jpg#h=328&w=249",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20400:20429/full/pct:12.5/0/default.jpg#h=657&w=498",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20400:20429/full/pct:25/0/default.jpg#h=1314&w=997",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20400:20429/full/pct:50/0/default.jpg#h=2628&w=1994"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "baltimore",
+        "maryland",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017-05-24t14:05:11",
+        "2012630110",
+        "http://www.loc.gov/item/2012630110",
+        "http://www.loc.gov/item/hig2012003414",
+        "http://www.loc.gov/item/17275753"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "catalog",
+        "highsmith (carol m.) archive"
+      ],
+      "score": 34.19607,
+      "shelf_id": "LC-DIG-highsm- 20429 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "baltimore",
+        "america",
+        "united states",
+        "digital photographs",
+        "libraries",
+        "maryland",
+        "color"
+      ],
+      "timestamp": "2022-04-23T13:02:00.604Z",
+      "title": "Library on the Go and Read Rover, part of the mobile library serivice for the Public Library System in Baltimore County, Maryland",
+      "url": "https://www.loc.gov/item/2012630110/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "highsm",
+      "catalog-split-06",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-06",
+      "main-catalog",
+      "catalog-split-05",
+      "main-catalog-split-05",
+      "catalog-split-07",
+      "main-catalog-split-07",
+      "catalog-split-08",
+      "main-catalog-split-08",
+      "catalog-split-04",
+      "main-catalog-split-04",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "rbpebib.mar",
+      "catalog-split-01",
+      "broadsides-and-printed-ephemera",
+      "main-catalog-split-01",
+      "afc/2019031",
+      "women-architects",
+      "catalog-split-09",
+      "main-catalog-split-09",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "gmd.mar",
+      "catalog-split-15",
+      "general-maps",
+      "main-catalog-split-15"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "highsm.20336",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.7341418266296387,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/highsm.20336/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/highsm.20336/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294051.7287312,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 207,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20336/full/pct:6.25/0/default.jpg",
+      "width": 385
+    },
+    {
+      "height": 414,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20336/full/pct:12.5/0/default.jpg",
+      "width": 770
+    },
+    {
+      "height": 829,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20336/full/pct:25/0/default.jpg",
+      "width": 1540
+    },
+    {
+      "height": 3316,
+      "info": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:20300:20336/info.json",
+      "levels": 7,
+      "mimetype": "image/jp2",
+      "size": 3846288,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/20300/20336.jp2",
+      "width": 6162
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2012630017&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://memory.loc.gov/cgi-bin/query/r?ammem/AMALL:@field(NUMBER+@band(rbpe+03200300))",
+        "http://www.loc.gov/item/rbpe.03200300/",
+        "http://www.loc.gov/resource/rbpe.03200300/",
+        "https://hdl.loc.gov/loc.rbc/rbpe.03200300",
+        "https://hdl.loc.gov/loc.rbc/rbpe.03200300",
+        "http://www.loc.gov/item/2020780086/",
+        "http://lccn.loc.gov/2020780086"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "printed ephemera collection (library of congress)"
+      ],
+      "date": "1907",
+      "dates": [
+        "1907"
+      ],
+      "description": [
+        "Political campaign. Available also through the Library of Congress web site in two forms: as facsimile page images and as full text in SGML. Printed Ephemera Collection; Portfolio 32, Folder 3."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-17T08:41:53.515Z",
+      "group": [
+        "rbpebib.mar",
+        "catalog-split-01",
+        "catalog",
+        "broadsides-and-printed-ephemera",
+        "main-catalog-split-01",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020780086/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe03/rbpe032/03200300/001dq.gif",
+        "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe03/rbpe032/03200300/001dt.gif#h=143&w=100",
+        "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe03/rbpe032/03200300/001dq.gif#h=860&w=600",
+        "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe03/rbpe032/03200300/001dr.jpg#h=3965&w=2766"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "kensington",
+        "maryland",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg"
+      ],
+      "number": [
+        "rbpe03200300",
+        "2020780086",
+        "2021-07-23t18:05:32"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "rare book and special collections division",
+        "printed ephemera: three centuries of broadsides and other printed ephemera"
+      ],
+      "score": 24.115759,
+      "shelf_id": "Portfolio 32, Folder 3",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "kensington",
+        "broadsides",
+        "maryland",
+        "united states"
+      ],
+      "timestamp": "2023-06-08T14:19:45.505Z",
+      "title": "Gaither at Kensington. Mr. George R. Gaither, the Republican nominee for governor of Maryland, will speak in the Town Hall at Kensington Friday, October 4, 1907 commencing at 8 P.M. Addresses will also be made by Mr. Hammond Orner candidate for",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2020780086/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/afc2019031.afc2019031_05880_ms02/",
+        "http://www.loc.gov/resource/afc2019031.afc2019031_05880_ms01/",
+        "http://lccn.loc.gov/2020785356",
+        "http://www.loc.gov/item/2020785356/",
+        "http://www.loc.gov/resource/afc2019031.afc2019031_05880_ph/",
+        "https://hdl.loc.gov/loc.afc/afc2019031.afc2019031_05880_sr01",
+        "http://www.loc.gov/resource/afc2019031.afc2019031_05880_sr01/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "filkins, sarah k.",
+        "occupational folklife project",
+        "sasser, lisa"
+      ],
+      "date": "2020-01-01",
+      "dates": [
+        "2020"
+      ],
+      "description": [
+        "Lisa Sasser talks about her experiences as a historic preservation architect working for the U.S. National Park Service (NPS). The first woman to complete the NPS Preservation Trades Training Program at Williamsport, Maryland (a three year hands-on training program in carpentry, joinery, masonry, roofing and building trades used for the preservation, stabilization and restoration of historic structures), she describes her multi-faceted work for NPS as an architect, construction crew chief, tradesperson in the field, manager, and hands-on trainer. She also discusses her involvement and leadership roles with organizations such as the Preservation Trades Network and the Timber Framers Guild that encourage collaborations between architects and tradespeople. Recently retired, she discusses how she continues to do consulting work through her company, Quid Tum-Historic Structures Consulting, as well as conduct field training for NPS employees."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-05-05T18:43:03.863Z",
+      "group": [
+        "afc/2019031",
+        "catalog-split-06",
+        "catalog",
+        "women-architects",
+        "main-catalog-split-06",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2020785356/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019031:afc2019031_05880:afc2019031_05880_ph:afc2019031_05880_ph01/full/pct:50/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019031:afc2019031_05880:afc2019031_05880_ph:afc2019031_05880_ph01/full/pct:50/0/default.jpg#h=320&w=240",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019031:afc2019031_05880:afc2019031_05880_ph:afc2019031_05880_ph01/full/pct:100/0/default.jpg#h=640&w=480"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "rock hall",
+        "maryland"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "audio/mp3",
+        "image/gif",
+        "audio/wav",
+        "application/pdf",
+        "application/x-audio"
+      ],
+      "number": [
+        "2021-05-05t09:56:28",
+        "online resource",
+        "2020785356"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "women architects: archie green fellows project, 2019-2020",
+        "occupational folklife project",
+        "catalog",
+        "american folklife center"
+      ],
+      "score": 19.040222,
+      "shelf_id": "http://lccn.loc.gov/2020785356",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "workshops",
+        "technical education",
+        "oral histories",
+        "job satisfaction",
+        "interviews",
+        "digital photographs",
+        "material culture",
+        "color",
+        "training of",
+        "sasser, lisa",
+        "professional associations",
+        "women architects",
+        "workmanship",
+        "work environment",
+        "employees",
+        "quality of products",
+        "maryland",
+        "apprenticeship programs",
+        "architecture",
+        "sound recordings",
+        "vernacular architecture",
+        "personal narratives"
+      ],
+      "timestamp": "2022-03-30T09:52:56.196Z",
+      "title": "Lisa Sasser interview conducted by Sarah Filkins, 2020-07-08.",
+      "url": "https://www.loc.gov/item/2020785356/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2020785359",
+        "http://www.loc.gov/resource/afc2019031.afc2019031_05921_ph/",
+        "http://www.loc.gov/resource/afc2019031.afc2019031_05921_sr01/",
+        "http://www.loc.gov/resource/afc2019031.afc2019031_05921_ms01/",
+        "https://hdl.loc.gov/loc.afc/afc2019031.afc2019031_05921_sr01",
+        "http://www.loc.gov/item/2020785359/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "filkins, sarah k.",
+        "occupational folklife project",
+        "bailey, barbara colleen"
+      ],
+      "date": "2019-01-01",
+      "dates": [
+        "2019"
+      ],
+      "description": [
+        "Barbara Colleen Bailey discusses her work as an architect with the U.S. General Services Administration (GSA) in the Design and Construction Office, where she oversaw government projects throughout the western United States. She talks about her interest in sustainability, \"green\" building design, and the use of Building Information Modeling (BIM) software. Now retired, she highlights some of her favorite projects, such as the Federal Center South building in Seattle that responded to its natural environment. She reflects on her childhood interest in architecture and construction; her first career as a scientist; and returning to school to study architecture. After graduating, she worked for several small architecture firms and fulfilled a lifelong goal by opening her own firm, Bluewater Architects, before joining the GSA. She discusses the challenges of being a woman architect and managing large construction projects for the government."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-05-05T18:43:03.863Z",
+      "group": [
+        "afc/2019031",
+        "catalog-split-09",
+        "catalog",
+        "women-architects",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020785359/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019031:afc2019031_05921:afc2019031_05921_ph:afc2019031_05921_ph01/full/pct:50/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019031:afc2019031_05921:afc2019031_05921_ph:afc2019031_05921_ph01/full/pct:50/0/default.jpg#h=320&w=240",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019031:afc2019031_05921:afc2019031_05921_ph:afc2019031_05921_ph01/full/pct:100/0/default.jpg#h=640&w=480"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "rockville",
+        "maryland"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "audio/mp3",
+        "image/gif",
+        "audio/wav",
+        "application/pdf",
+        "application/x-audio"
+      ],
+      "number": [
+        "2020785359",
+        "online resource",
+        "2021-05-05t09:18:23"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "women architects: archie green fellows project, 2019-2020",
+        "occupational folklife project",
+        "catalog",
+        "american folklife center"
+      ],
+      "score": 19.040222,
+      "shelf_id": "http://lccn.loc.gov/2020785359",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "women architects",
+        "architecture",
+        "bailey, barbara colleen",
+        "job security",
+        "oral histories",
+        "rockville",
+        "civil service",
+        "interviews",
+        "digital photographs",
+        "self-employed",
+        "sound recordings",
+        "art and architecture",
+        "maryland",
+        "color",
+        "career changes",
+        "personal narratives",
+        "work-life balance"
+      ],
+      "timestamp": "2022-03-30T09:52:56.196Z",
+      "title": "Barbara Colleen Bailey interview conducted by Sarah Filkins, 2019-11-20.",
+      "url": "https://www.loc.gov/item/2020785359/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2020785367",
+        "http://www.loc.gov/resource/afc2019031.afc2019031_06040_sr01/",
+        "http://www.loc.gov/resource/afc2019031.afc2019031_06040_ms01/",
+        "http://www.loc.gov/resource/afc2019031.afc2019031_06040_ph/",
+        "http://www.loc.gov/resource/afc2019031.afc2019031_06040_ms02/",
+        "http://www.loc.gov/item/2020785367/",
+        "https://hdl.loc.gov/loc.afc/afc2019031.afc2019031_06040_sr01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "filkins, sarah k.",
+        "cho, diane",
+        "occupational folklife project"
+      ],
+      "date": "2020-01-01",
+      "dates": [
+        "2020"
+      ],
+      "description": [
+        "Diane Cho discusses her current position as a principal architect Cho Benn Holback, a Quinn Evans Company in Baltimore, Maryland, that primarily focuses on work in the arts field. Cho talks about her early interest in museums and urban culture; and of being one of few women and only person of color in her architectural program at Cornell University. Following graduation, she explains how she moved to Baltimore with friend and fellow architecture student Barbara Wilks, lured by the challenge of redeveloping the city's neglected historic building stock. Initially finding work with a small architecture firm and the City of Baltimore Planning Department, she talks about learning about the city and the friends' decision to open their own architecture firm, Cho Wilks. Working with a local developer, the firm expanded rapidly and attracted notice for the rehabilitation and creative adaptation of existing historic structures into dwellings, condominiums, offices and retail shops. Cho discusses the challenges of running an architecture firm; of working with contractors and overseeing complicated projects; of being responsible for staff livelihoods, and of balancing these professional demands with being a mother. She highlights some of her favorite cultural arts projects--Center Stage, Everyman Theater, and the Baltimore School for the Arts--and explains how serving on numerous arts boards helps her to better understand her client's needs."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-05-05T18:43:03.863Z",
+      "group": [
+        "afc/2019031",
+        "catalog-split-08",
+        "catalog",
+        "women-architects",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020785367/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019031:afc2019031_06040:afc2019031_06040_ph:afc2019031_06040_ph01/full/pct:50/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019031:afc2019031_06040:afc2019031_06040_ph:afc2019031_06040_ph01/full/pct:50/0/default.jpg#h=275&w=450",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019031:afc2019031_06040:afc2019031_06040_ph:afc2019031_06040_ph01/full/pct:100/0/default.jpg#h=550&w=900"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "baltimore",
+        "stevenson",
+        "maryland"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "audio/mp3",
+        "image/gif",
+        "audio/wav",
+        "application/pdf",
+        "application/x-audio"
+      ],
+      "number": [
+        "online resource",
+        "2020785367",
+        "2021-05-05t09:16:33"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "women architects: archie green fellows project, 2019-2020",
+        "occupational folklife project",
+        "catalog",
+        "american folklife center"
+      ],
+      "score": 19.040222,
+      "shelf_id": "http://lccn.loc.gov/2020785367",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "oral histories",
+        "interviews",
+        "digital photographs",
+        "material culture",
+        "color",
+        "mentoring",
+        "women architects",
+        "work environment",
+        "baltimore",
+        "quality of work life",
+        "maryland",
+        "economic aspects",
+        "work-life balance",
+        "apprenticeship programs",
+        "architecture",
+        "organizational change",
+        "cho, diane",
+        "sound recordings",
+        "architectural practice",
+        "vernacular architecture",
+        "personal narratives",
+        "working mothers"
+      ],
+      "timestamp": "2022-03-30T09:52:56.196Z",
+      "title": "Diane Cho interview conducted by Sarah Filkins, 2020-07-31.",
+      "url": "https://www.loc.gov/item/2020785367/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2020785362",
+        "http://www.loc.gov/item/2020785362/",
+        "https://hdl.loc.gov/loc.afc/afc2019031.afc2019031_05960_sr01",
+        "http://www.loc.gov/resource/afc2019031.afc2019031_05960_sr01/",
+        "http://www.loc.gov/resource/afc2019031.afc2019031_05960_ph/",
+        "http://www.loc.gov/resource/afc2019031.afc2019031_05960_ms01/",
+        "http://www.loc.gov/resource/afc2019031.afc2019031_05960_ms02/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "filkins, sarah k.",
+        "occupational folklife project",
+        "harney, anne hicks"
+      ],
+      "date": "2020",
+      "dates": [
+        "2020"
+      ],
+      "description": [
+        "Architect Anne Hicks Harney describes her role in Long Green Specs, the successful company she founded that specializes in preparing architectural specifications for other firms by identifying, researching and pricing materials to be used in construction projects and providing data for complex architectural bid and contract documents. She discusses her education and experiences working for small firms before discovering her talents and interests in researching materials and writing specifications. She explains how her job requires knowledge of material's sustainability, performance, and environmental impacts. She talks about the challenges of raising a family while working in a demanding field; the lack of gender equity in her profession; her love of the profession; and attracting more women architects to be specification writers."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-16T08:39:58.448Z",
+      "group": [
+        "catalog-split-03",
+        "catalog",
+        "afc/2019031",
+        "main-catalog-split-03",
+        "women-architects"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020785362/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019031:afc2019031_05960:afc2019031_05960_ph:afc2019031_05960_ph01/full/pct:100/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019031:afc2019031_05960:afc2019031_05960_ph:afc2019031_05960_ph01/full/pct:100/0/default.jpg#h=267&w=267"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "baltimore county",
+        "baldwin",
+        "maryland"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "audio/mp3",
+        "image/gif",
+        "audio/wav",
+        "application/pdf",
+        "application/x-audio"
+      ],
+      "number": [
+        "2020785362",
+        "online resource",
+        "2023-11-14t08:56:14",
+        "2021-05-05t09:52:37"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "women architects: archie green fellows project, 2019-2020",
+        "occupational folklife project",
+        "catalog",
+        "american folklife center"
+      ],
+      "score": 19.040222,
+      "shelf_id": "http://lccn.loc.gov/2020785362",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "office politics",
+        "oral histories",
+        "job satisfaction",
+        "interviews",
+        "children of working parents",
+        "digital photographs",
+        "color",
+        "training of",
+        "professional associations",
+        "performance standards",
+        "women architects",
+        "harney, anne hicks",
+        "architects",
+        "work and family",
+        "job vacancies",
+        "self-employed",
+        "maryland",
+        "architecture",
+        "sound recordings",
+        "personal narratives"
+      ],
+      "timestamp": "2023-11-16T08:41:34.279Z",
+      "title": "Anne Hicks Harney interview conducted by Sarah Filkins, 2020-02-17",
+      "type": [
+        "sound recording-nonmusical"
+      ],
+      "url": "https://www.loc.gov/item/2020785362/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2018590114/",
+        "https://hdl.loc.gov/loc.gmd/g3824p.ct006065",
+        "http://www.loc.gov/resource/g3824p.ct006065/",
+        "http://lccn.loc.gov/2018590114"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "meade, george gordon"
+      ],
+      "date": "1820-01-01",
+      "dates": [
+        "1820"
+      ],
+      "description": [
+        "Selected buildings shown pictorially. Shows some landowners. Pen-and-ink and watercolor. Mounted on cloth backed paper, with an attached sheet (19 x 34 cm) with a few manuscript numbers. Purchased at the sale of George Gordon Meade's collection. Available also through the Library of Congress Web site as a raster image."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T21:27:26.790Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-15",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2018590114/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/ct006065.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd382/g3824/g3824p/ct006065.gif#h=55&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3824:g3824p:ct006065/full/pct:12.5/0/default.jpg#h=361&w=987",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3824:g3824p:ct006065/full/pct:25/0/default.jpg#h=723&w=1974"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pennsylvania",
+        "philadelphia",
+        "kensington",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2018-04-16t10:31:57",
+        "sheet",
+        "http://www.loc.gov/item/2018590114",
+        "http://www.loc.gov/item/20379992",
+        "2018590114"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "cultural landscapes",
+        "county landownership maps",
+        "geography and map division",
+        "cities and towns"
+      ],
+      "score": 17.353668,
+      "shelf_id": "G3824.P5:2K4 1820 .M3",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "manuscript maps",
+        "landowners",
+        "kensington",
+        "pennsylvania",
+        "united states",
+        "philadelphia",
+        "maps",
+        "kensington (philadelphia, pa.)"
+      ],
+      "timestamp": "2022-12-10T05:49:18.537Z",
+      "title": "[Manuscript map of Kensington in Philadelphia].",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2018590114/"
+    }
+  ],
+  "reproductions": "<p>\nSome images in this collection are described in groups; others are \ndescribed individually. In some cases, all of the images in the \ngroup display online, in other cases they do not.\n</p>\n\n<p>\nYou can download online images yourself.  Alternatively, you can \npurchase copies of various types.\n</p>\n\n<ol>\n<p>\t\n<strong><li>Determine whether the desired materials can be retrieved \nonline.</strong>\n</p>\n<ul>\n<p>\t\n<li>Look in the <strong>Medium</strong> field above to determine whether\n the description is for one photograph or more than one.</li>\n </p>\n <p>\n<li>If the description is for a single item and it is displaying, \nyou can download or purchase a print.  Cite the number that begins \nwith &quot;LC-DIG...&quot; when purchasing copies through Library of \nCongress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is \na &quot;Click for more images&quot; icon displaying, select that. \nIndividual images will display; you can download or purchase prints. \nCite the number that begins with &quot;LC-DIG...&quot; when purchasing \ncopies through Library of Congress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is no\n &quot;Click for more images&quot; icon displaying, return to the\n  &quot;About this Item&quot; tab and select the &quot;<i>Check for \n  online items from this group</i>&quot; link.  Then select the \n  \"Obtaining Copies\" tab for any retrieved items that are of interest.\n</p>\n</ul>\n</li>\n\n<p>\n<strong><li>If the images do not display online</strong> -- Select images for reproduction through one of these methods:\n</p>\n<ul>\n<p>\t\n<li>Visit the Prints &amp; Photographs Reading Room and request to view \nthe group (general information about service in the reading room is \navailable at: <a href=\"//www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>).</li>  \n</p>\n<p>\n<li>P&amp;P reading room staff can provide up to 15 photocopies of items \nper calendar year. (Color images cannot be photocopied.) For assistance,\n see our <a href=\"//www.loc.gov/rr/askalib/ask-print.html\">Ask a Librarian</a> page. OR</li>\n</p>\n<p>\n<li>Hire a freelance researcher to do further selection for you \n(a list of researchers is available at: \n<a href=\"//www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>).\n</p>\n</ul>\n</li>\n</ol>\n\n<p>\n<strong>Purchasing Copies</strong>\n</p>\n\n<p>\nLibrary of Congress Duplication Services can make copies of various \ntypes from images in Prints & Photographs Division Collections.  \nPrice lists, contact information, and order forms are available on the \n<a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.\n</p>\n\n<p>\nCarol M. Highsmith sells prints of her photographs at: <a href=\"http://photographsamerica.com/\">http://photographsamerica.com/</a> .\n</p>  \n\n\n\n\n        ",
+  "resource": {
+    "caption": "original digital file",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/highsm/20300/20336t.gif",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/highsm.20336/"
+  },
+  "resources": [
+    {
+      "caption": "original digital file",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/highsm/20300/20336t.gif",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/highsm.20336/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294052463,
+  "type": "zoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/highsm.20336/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/highsm.20336/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/highsm.20336/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/highsm.20336/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/highsm.20336/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/highsm.20336/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/highsm.20336/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/highsm.20336/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/highsm.20336/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/highsm.20336/?fo=json&st=text"
+  }
+}

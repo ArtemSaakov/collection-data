@@ -1,0 +1,1735 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Richardson, H. H. (ca. 1886) <cite>Reading Room, Billings Memorial Library, University of Vermont, Burlington, Vermont</cite>. Burlington Vermont, ca. 1886. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2007684791/.",
+    "chicago": "Richardson, H. H. , Architect. <cite>Reading Room, Billings Memorial Library, University of Vermont, Burlington, Vermont</cite>. Burlington Vermont, ca. 1886. Photograph. https://www.loc.gov/item/2007684791/.",
+    "mla": "Richardson, H. H. , Architect. <cite>Reading Room, Billings Memorial Library, University of Vermont, Burlington, Vermont</cite>. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2007684791/&gt;."
+  },
+  "item": {
+    "_version_": 1731688990067654656,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2007684791/",
+      "http://www.loc.gov/item/2007684791/",
+      "http://www.loc.gov/pictures/item/2007684791/",
+      "https://www.loc.gov/pictures/collection/cph/item/2007684791/",
+      "http://www.loc.gov/pictures/collection/cph/item/2007684791/",
+      "http://www.loc.gov/resource/ppmsca.15375/",
+      "https://hdl.loc.gov/loc.pnp/ppmsca.15375",
+      "http://lccn.loc.gov/2007684791"
+    ],
+    "call_number": "LOT 8908 [item] [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Richardson, H. H. (Henry Hobson), 1838-1886, architect"
+    ],
+    "contributors": [
+      {
+        "richardson, h. h. (henry hobson)": "https://www.loc.gov/search/?fa=contributor:richardson,+h.+h.+%28henry+hobson%29&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2017-01-31T03:48:26Z",
+    "created_published": [
+      "[ca.1886]"
+    ],
+    "created_published_date": "[ca.1886]",
+    "date": "1886-01-01",
+    "dates": [
+      {
+        "1886": "https://www.loc.gov/search/?dates=1886/1886&fo=json"
+      }
+    ],
+    "description": [
+      "1 photographic print."
+    ],
+    "digital_id": [
+      "ppmsca 15375 //hdl.loc.gov/loc.pnp/ppmsca.15375"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-25T03:21:45.441Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/cph/item/2007684791/#cph",
+      "http://lccn.loc.gov/2007684791#catalog-split-12"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Photographic prints--1880-1890."
+    ],
+    "genre": [
+      "Photographic prints--1880-1890"
+    ],
+    "group": [
+      "cph",
+      "catalog-split-12",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-12",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2007684791/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15375t.gif#h=150&w=120",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15375_150px.jpg#h=150&w=121",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15375r.jpg#h=640&w=514",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15375v.jpg#h=1024&w=823"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LOT 8908 [item] [P&P]",
+      "contributor_names": [
+        "Richardson, H. H. (Henry Hobson), 1838-1886, architect "
+      ],
+      "contributors": [
+        "Richardson, H. H. (Henry Hobson), 1838-1886, architect."
+      ],
+      "control_number": "2007684791",
+      "created": "2017-01-31T03:48:26Z",
+      "created_published": "[ca.1886]",
+      "created_published_date": "[ca.1886]",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Richardson%2C%20H.%20H.%20%28Henry%20Hobson%29%2C%201838-1886&co=cph",
+          "role": "architect",
+          "title": "Richardson, H. H. (Henry Hobson), 1838-1886"
+        }
+      ],
+      "date": "[ca.1886]",
+      "digital_id": [
+        "ppmsca 15375 //hdl.loc.gov/loc.pnp/ppmsca.15375"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1880-1890.&co=cph",
+          "title": "Photographic prints--1880-1890."
+        }
+      ],
+      "genre": [
+        "Photographic prints--1880-1890"
+      ],
+      "id": "2007684791",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2007684791/",
+      "location": [
+        "Vermont--Burlington"
+      ],
+      "marc": "https://www.loc.gov/pictures/item/2007684791/marc/",
+      "medium": [
+        "1 photographic print."
+      ],
+      "medium_brief": "1 photographic print.",
+      "mediums": [
+        "1 photographic print."
+      ],
+      "modified": "2017-01-31T03:48:26Z",
+      "notes": [
+        "Title devised by Library staff."
+      ],
+      "other_control_numbers": [
+        "15033905"
+      ],
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Vermont--Burlington&co=cph",
+          "longitude": "",
+          "title": "Vermont--Burlington"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA",
+      "reproduction_number": "LC-DIG-ppmsca-15375 (digital file from original photograph)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/ppmsca.15375"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15375_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15375r.jpg",
+      "sort_date": "1886",
+      "source_created": "2007-10-04T00:00:00Z",
+      "source_modified": "2017-01-27T10:43:25Z",
+      "subject_headings": [
+        "University of Vermont--Libraries--Facilities--1880-1890",
+        "Libraries--Vermont--Burlington--1880-1890.",
+        "Reading rooms--Vermont--Burlington--1880-1890.",
+        "Vermont--Burlington"
+      ],
+      "subjects": [
+        "University of Vermont--Libraries--Facilities--1880-1890",
+        "Libraries--Vermont--Burlington--1880-1890",
+        "Reading rooms--Vermont--Burlington--1880-1890"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15375_150px.jpg",
+      "title": "[Reading Room, Billings Memorial Library, University of Vermont, Burlington, Vermont]"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2007684791",
+    "link": "https://www.loc.gov/pictures/item/2007684791/",
+    "location": [
+      "burlington",
+      "vermont"
+    ],
+    "locations": [
+      {
+        "burlington": "https://www.loc.gov/search/?fa=location:burlington&fo=json"
+      },
+      {
+        "vermont": "https://www.loc.gov/search/?fa=location:vermont&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2007684791/marc/",
+    "medium": [
+      "1 photographic print."
+    ],
+    "medium_brief": "1 photographic print.",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2017-01-31T03:48:26Z",
+    "notes": [
+      "Title devised by Library staff."
+    ],
+    "number": [
+      "2007684791",
+      "2017-01-27t10:43:25",
+      "http://www.loc.gov/item/15033905"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/15033905"
+    ],
+    "number_lccn": [
+      "2007684791"
+    ],
+    "number_source_modified": [
+      "2017-01-27t10:43:25"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "15033905"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2007684791/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2007684791/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2007684791/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 107,
+        "title": "lot 8908",
+        "url": "https://www.loc.gov/search/?fa=partof:lot+8908&fo=json"
+      },
+      {
+        "count": 117442,
+        "title": "miscellaneous items in high demand",
+        "url": "https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Vermont--Burlington&co=cph",
+        "longitude": "",
+        "title": "Vermont--Burlington"
+      }
+    ],
+    "related": {
+      "group_record": "https://www.loc.gov/pictures/search/?q=LOT 8908&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2007684791&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA"
+    ],
+    "reproduction_number": "LC-DIG-ppmsca-15375 (digital file from original photograph)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/ppmsca.15375"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from original item",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15375_150px.jpg",
+        "url": "https://www.loc.gov/resource/ppmsca.15375/"
+      }
+    ],
+    "rights": [],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "LOT 8908 [item] [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1886",
+    "source_created": "2007-10-04T00:00:00Z",
+    "source_modified": "2017-01-27T10:43:25Z",
+    "subject": [
+      "burlington",
+      "vermont",
+      "libraries",
+      "reading rooms",
+      "photographic prints",
+      "facilities",
+      "university of vermont"
+    ],
+    "subject_headings": [
+      "University of Vermont--Libraries--Facilities--1880-1890",
+      "Libraries--Vermont--Burlington--1880-1890",
+      "Reading rooms--Vermont--Burlington--1880-1890"
+    ],
+    "subjects": [
+      {
+        "burlington": "https://www.loc.gov/search/?fa=subject:burlington&fo=json"
+      },
+      {
+        "facilities": "https://www.loc.gov/search/?fa=subject:facilities&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "photographic prints": "https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json"
+      },
+      {
+        "reading rooms": "https://www.loc.gov/search/?fa=subject:reading+rooms&fo=json"
+      },
+      {
+        "university of vermont": "https://www.loc.gov/search/?fa=subject:university+of+vermont&fo=json"
+      },
+      {
+        "vermont": "https://www.loc.gov/search/?fa=subject:vermont&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15375_150px.jpg",
+    "timestamp": "2022-05-02T04:55:13.628Z",
+    "title": "[Reading Room, Billings Memorial Library, University of Vermont, Burlington, Vermont]",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2007684791/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007684792/",
+        "http://www.loc.gov/item/2007684792/",
+        "http://www.loc.gov/pictures/item/2007684792/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007684792/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007684792/",
+        "http://www.loc.gov/resource/ppmsca.15376/",
+        "http://lccn.loc.gov/2007684792",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15376"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "richardson, h. h. (henry hobson)"
+      ],
+      "date": "1886-01-01",
+      "dates": [
+        "1886"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T03:21:45.441Z",
+      "group": [
+        "cph",
+        "catalog-split-13",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007684792/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15376_150px.jpg#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15376t.gif#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15376r.jpg#h=511&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15376v.jpg#h=818&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "burlington",
+        "vermont"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/15033916",
+        "2017-01-27t10:44:25",
+        "2007684792"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "lot 8908",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand"
+      ],
+      "score": 68.1617,
+      "shelf_id": "LOT 8908 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "burlington",
+        "vermont",
+        "libraries",
+        "photographic prints",
+        "facilities",
+        "university of vermont"
+      ],
+      "timestamp": "2022-05-02T04:55:13.628Z",
+      "title": "[Book Room, Billings Memorial Library, University of Vermont, Burlington, Vermont]",
+      "url": "https://www.loc.gov/item/2007684792/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/det/item/2016802601/",
+        "http://www.loc.gov/item/2016802601/",
+        "http://www.loc.gov/pictures/item/2016802601/",
+        "https://hdl.loc.gov/loc.pnp/det.4a10662",
+        "http://www.loc.gov/resource/det.4a10662/",
+        "http://lccn.loc.gov/2016802601"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "detroit publishing co."
+      ],
+      "date": "1902-01-01",
+      "dates": [
+        "1902"
+      ],
+      "description": [
+        "1 negative : glass ; 8 x 10 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:29:26.859Z",
+      "group": [
+        "det",
+        "catalog-split-10",
+        "catalog",
+        "detroit-publishing-company",
+        "main-catalog-split-10",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016802601/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a10000/4a10600/4a10662_150px.jpg#h=117&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a10000/4a10600/4a10662t.gif#h=117&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a10000/4a10600/4a10662r.jpg#h=501&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a10000/4a10600/4a10662v.jpg#h=801&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "burlington",
+        "vermont",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2016802601",
+        "2017-10-27t12:24:13",
+        "2016802601",
+        "http://www.loc.gov/item/det1994008560/pp",
+        "http://www.loc.gov/item/20102580"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "detroit publishing company",
+        "prints and photographs division",
+        "american memory",
+        "catalog",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 39.475353,
+      "shelf_id": "LC-D4-16111 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "burlington",
+        "vermont",
+        "libraries",
+        "united states",
+        "universities & colleges",
+        "dry plate negatives",
+        "university of vermont"
+      ],
+      "timestamp": "2022-04-25T07:57:04.495Z",
+      "title": "Billings Library, University of Vermont",
+      "url": "https://www.loc.gov/item/2016802601/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007686638/",
+        "http://www.loc.gov/item/2007686638/",
+        "http://www.loc.gov/pictures/item/2007686638/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007686638/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007686638/",
+        "http://www.loc.gov/resource/ppmsca.15407/",
+        "http://lccn.loc.gov/2007686638",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15407"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "walker & gould"
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-26T07:48:51.073Z",
+      "group": [
+        "cph",
+        "catalog-split-14",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007686638/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15407_150px.jpg#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15407t.gif#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15407r.jpg#h=496&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15407v.jpg#h=793&w=1024"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "rhode island",
+        "providence"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2007686638",
+        "http://www.loc.gov/item/15100704",
+        "2008-12-29t14:30:32"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "lot 8908",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand"
+      ],
+      "score": 37.234867,
+      "shelf_id": "LOT 8908 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "libraries",
+        "brown university",
+        "reading rooms",
+        "photographic prints",
+        "providence",
+        "rhode island",
+        "facilities"
+      ],
+      "timestamp": "2022-05-02T04:56:20.446Z",
+      "title": "[Robinson Hall reading room, Brown University Library, Providence, R.I.]",
+      "url": "https://www.loc.gov/item/2007686638/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007684787/",
+        "http://www.loc.gov/item/2007684787/",
+        "http://www.loc.gov/pictures/item/2007684787/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007684787/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007684787/",
+        "http://www.loc.gov/resource/ppmsca.15371/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15371",
+        "http://lccn.loc.gov/2007684787"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "furness, frank"
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-26T07:46:27.711Z",
+      "group": [
+        "cph",
+        "catalog-split-01",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-01",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007684787/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15371_150px.jpg#h=124&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15371t.gif#h=124&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15371r.jpg#h=527&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15371v.jpg#h=843&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "philadelphia",
+        "pennsylvania"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/15033659",
+        "2007-12-06t10:52:06",
+        "2007684787"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "lot 8908",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand"
+      ],
+      "score": 37.234867,
+      "shelf_id": "LOT 8908 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "libraries",
+        "pennsylvania",
+        "university of pennsylvania",
+        "reading rooms",
+        "philadelphia",
+        "photographic prints",
+        "library",
+        "facilities"
+      ],
+      "timestamp": "2022-05-02T04:55:13.628Z",
+      "title": "[Reading room, University of Pennsylvania Library, Philadelphia, Pennsylvania]",
+      "url": "https://www.loc.gov/item/2007684787/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007684793/",
+        "http://www.loc.gov/item/2007684793/",
+        "http://www.loc.gov/pictures/item/2007684793/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007684793/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007684793/",
+        "http://www.loc.gov/resource/ppmsca.15377/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15377",
+        "http://lccn.loc.gov/2007684793"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "van brunt and howe"
+      ],
+      "date": "1883-01-01",
+      "dates": [
+        "1883"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-26T07:46:27.711Z",
+      "group": [
+        "cph",
+        "catalog-split-14",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007684793/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15377_150px.jpg#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15377t.gif#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15377r.jpg#h=509&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15377v.jpg#h=814&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "anne arbor",
+        "michigan"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2007-12-06t10:45:51",
+        "2007684793",
+        "http://www.loc.gov/item/15033986"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "lot 8908",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand"
+      ],
+      "score": 37.234867,
+      "shelf_id": "LOT 8908 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "libraries",
+        "reading",
+        "reading rooms",
+        "photographic prints",
+        "university of michigan",
+        "michigan",
+        "anne arbor",
+        "facilities"
+      ],
+      "timestamp": "2022-05-02T04:55:13.628Z",
+      "title": "[Patrons reading in the reading room of the University of Michigan Library, Ann Arbor, Michigan]",
+      "url": "https://www.loc.gov/item/2007684793/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007684763/",
+        "http://www.loc.gov/item/2007684763/",
+        "http://www.loc.gov/pictures/item/2007684763/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007684763/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007684763/",
+        "http://www.loc.gov/resource/ppmsca.15347/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15347",
+        "http://lccn.loc.gov/2007684763"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "richardson, h. h. (henry hobson)"
+      ],
+      "date": "1890-01-01",
+      "dates": [
+        "1890"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T11:22:57.770Z",
+      "group": [
+        "cph",
+        "catalog-split-11",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-11",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007684763/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15347_150px.jpg#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15347t.gif#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15347r.jpg#h=512&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15347v.jpg#h=819&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "new york",
+        "albany"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/15016197",
+        "2007684763",
+        "2007-12-06t11:40:15"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "lot 8908",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand"
+      ],
+      "score": 37.05201,
+      "shelf_id": "LOT 8908 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "libraries",
+        "new york state library",
+        "photographic prints",
+        "new york (state)",
+        "albany",
+        "facilities",
+        "interiors"
+      ],
+      "timestamp": "2022-05-02T04:55:13.628Z",
+      "title": "[New York State Library, New York State Capitol, Albany, N.Y.]",
+      "url": "https://www.loc.gov/item/2007684763/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "cph",
+      "catalog-split-12",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-12",
+      "main-catalog",
+      "catalog-split-13",
+      "main-catalog-split-13",
+      "det",
+      "catalog-split-10",
+      "detroit-publishing-company",
+      "main-catalog-split-10",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "catalog-split-01",
+      "main-catalog-split-01",
+      "catalog-split-11",
+      "main-catalog-split-11",
+      "wdlpartner",
+      "catalog-split-07",
+      "world-digital-library-partners",
+      "main-catalog-split-07",
+      "ndnp/newspapers",
+      "united-states-newspaper-directory",
+      "gmd.mar",
+      "catalog-split-06",
+      "general-maps",
+      "main-catalog-split-06",
+      "newspaper-titles",
+      "catalog-split-00",
+      "main-catalog-split-00"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "ppmsca.15375",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.5678141117095947,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/ppmsca.15375/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/ppmsca.15375/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294072.9391353,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 53464530,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/ppmsca/15300/15375u.tif",
+      "width": 0
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 18015,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15375t.gif",
+      "width": 120
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 6773,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15375_150px.jpg",
+      "width": 121
+    },
+    {
+      "height": 640,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 67858,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15375r.jpg",
+      "width": 514
+    },
+    {
+      "height": 1024,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 171026,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15375v.jpg",
+      "width": 823
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": "https://www.loc.gov/pictures/search/?q=LOT 8908&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2007684791&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2021667582",
+        "http://www.loc.gov/resource/gdcwdl.wdl_02744/",
+        "http://www.loc.gov/item/2021667582/",
+        "https://hdl.loc.gov/loc.wdl/wdl.2744",
+        "http://www.loc.gov/resource/wdl.2744/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "district court for the district of vermont, united states"
+      ],
+      "date": "1944-01-01",
+      "dates": [
+        "1944"
+      ],
+      "description": [
+        "Maria von Trapp became a household name in the United States when her story was turned into the 1959 Broadway musical The Sound of Music. She and her family previously had immigrated to the United States from their native Austria following the takeover of the country by Nazi Germany. This Declaration of Intention to become a U.S. citizen, submitted to the U.S. District Court in Burlington, Vermont, on January 21, 1944, sheds light on the real Maria von Trapp."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-07-24T02:49:01.218Z",
+      "group": [
+        "wdlpartner",
+        "catalog-split-07",
+        "catalog",
+        "world-digital-library-partners",
+        "main-catalog-split-07",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021667582/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:74:4:wdl_02744:07357_2002_001_pr/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:74:4:wdl_02744:07357_2002_001_pr/full/pct:12.5/0/default.jpg#h=369&w=300",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:74:4:wdl_02744:07357_2002_001_pr/full/pct:25/0/default.jpg#h=739&w=600",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:74:4:wdl_02744:07357_2002_001_pr/full/pct:50/0/default.jpg#h=1479&w=1200",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:02:74:4:wdl_02744:07357_2002_001_pr/full/pct:100/0/default.jpg#h=2958&w=2400"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "burlington",
+        "vermont",
+        "united states of america"
+      ],
+      "mime_type": [
+        "application/zip",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2021667582",
+        "2021-06-01t15:55:33"
+      ],
+      "online_format": [
+        "compressed data",
+        "image"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "world digital library",
+        "u.s. national archives and records administration",
+        "catalog",
+        "world digital library - partner items"
+      ],
+      "score": 21.565493,
+      "shelf_id": "http://lccn.loc.gov/2021667582",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "burlington",
+        "vermont",
+        "united states of america",
+        "emigration and immigration",
+        "naturalization",
+        "singers",
+        "trapp, maria augusta",
+        "citizenship"
+      ],
+      "timestamp": "2022-09-11T21:32:34.335Z",
+      "title": "Declaration of Intention of Maria von Trapp.",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2021667582/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2021220095/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "clarke, d. w. c. (de witt clinton)",
+        "benedict, g. g. (george grenville)",
+        "benedict, george wyllys",
+        "foote, luman"
+      ],
+      "date": "1827",
+      "dates": [
+        "[1827 TO 1865]"
+      ],
+      "description": [
+        "Weekly Print began with v. 1, no. 21 (June 15, 1827); ceased with v. 34, number 27 (Dec. 29, 1865) = new series, v. 12. Publishers: Foote & Stacy, <1828-1832>; H.B. Stacy, <1835-1846>; D.W.C. Clarke, <1850>-1853; G.W. Benedict, 1853-<1863>; G.W. & G.G. Benedict, 1854-<1863>. Republican. Cf. Rowell, 1869-1876. Editors: Luman Foote, 1827-<1832>; D.W.C. Clarke, <1850>-1853; G.W. Benedict, 1853-<1863>; G.G. Benedict, 1854-<1863>. Issues for <July 6, 1827-> called: <volume 1, number 4-> Daily eds.: Daily free press (Burlington, Vt.), Apr. 1, 1848-July 9, 1868, and: Burlington daily free press (Burlington, Vt. : 1868), July 10-Dec. 31, 1868. Other weekly eds.: Times (Burlington, Vt. : 1858), 1858-1861, and: Burlington times (Burlington, Vt. : 1861), 1861-1865. Vol. IX, No. 45 (January 8, 1836); title from caption (Chronicling America's website, viewed Feb. 2, 2021). Vol. XXXIV, Number 27 = New Series Vol. XII (Dec. 29, 1865) (Chronicling America's website, viewed Feb. 2, 2021). Burlington weekly free press"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-09-18T12:02:28.407Z",
+      "group": [
+        "ndnp/newspapers",
+        "united-states-newspaper-directory"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021220095/",
+      "image_url": [],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "chittenden",
+        "vermont",
+        "burlington",
+        "united states"
+      ],
+      "number": [
+        "2024-09-09t08:59:08.942573",
+        "online resource",
+        "2767-259x",
+        "778030029",
+        "2021220095"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Weekly free press"
+      ],
+      "partof": [
+        "directory of u.s. newspapers in american libraries",
+        "burlington free press (burlington, vt.) 1827-1865 [online resource]",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 21.565493,
+      "shelf_id": "ISSN RECORD",
+      "site": [
+        "usnd"
+      ],
+      "subject": [
+        "burlington",
+        "vermont",
+        "united states",
+        "chittenden",
+        "burlington (vt.)",
+        "newspapers"
+      ],
+      "timestamp": "2024-09-18T12:22:38.706Z",
+      "title": "Burlington free press",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/2021220095/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2011589282/",
+        "http://www.loc.gov/resource/g3754b.ct003488/",
+        "https://hdl.loc.gov/loc.gmd/g3754b.ct003488",
+        "http://lccn.loc.gov/2011589282"
+      ],
+      "campaigns": [],
+      "date": "1850-01-01",
+      "dates": [
+        "1850"
+      ],
+      "description": [
+        "Shows water mains by blue lines, sewer mains by red lines, and hydrants by red spots. Oriented with north to the left. Pen-and-ink and watercolor. Available also through the Library of Congress Web site as a raster image. Imperfect: Soiled, stained, darkened, brittle, tears, small pieces missing along edges, cut into 2 halves, mounted on cloth backing, annotated in pencil."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-30T01:54:01.209Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-06",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-06",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2011589282/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd375/g3754/g3754b/ct003488.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd375/g3754/g3754b/ct003488.gif#h=150&w=218",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd375:g3754:g3754b:ct003488/full/pct:12.5/0/default.jpg#h=1609&w=2344",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd375:g3754:g3754b:ct003488/full/pct:25/0/default.jpg#h=3219&w=4689"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "burlington",
+        "vermont",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2011589282",
+        "2018-03-08t15:22:13",
+        "http://www.loc.gov/item/16913717",
+        "http://www.loc.gov/item/2011589282"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "cities and towns",
+        "american memory",
+        "catalog",
+        "geography and map division"
+      ],
+      "score": 21.565493,
+      "shelf_id": "G3754.B9N44 185- .P5",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "burlington",
+        "vermont",
+        "united states",
+        "water-pipes",
+        "maps",
+        "hydrants",
+        "sewerage"
+      ],
+      "timestamp": "2022-12-10T05:43:20.709Z",
+      "title": "Plan of the city of Burlington shewing [i.e. showing] water & sewer service.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2011589282/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn84023127/",
+        "http://lccn.loc.gov/sn84023127"
+      ],
+      "batch": [
+        "vtu_adamant_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "clarke, d. w. c. (de witt clinton)",
+        "benedict, g. g. (george grenville)",
+        "benedict, george wyllys",
+        "foote, luman"
+      ],
+      "date": "1827",
+      "description": [
+        "Weekly Vol. 1, no. 21 (June 15, 1827)-v. 34, number 27 (Dec. 29, 1865) = new series, vol. 12. Publishers: Foote & Stacy, <1828-1832>; H.B. Stacy, <1835-1846>; D.W.C. Clarke, <1850>-1853; G.W. Benedict, 1853-<1863>; G.W. & G.G. Benedict, 1854-<1863>. Republican. Cf. Rowell, 1869-1876. Editors: Luman Foote, 1827-<1832>; D.W.C. Clarke, <1850>-1853; G.W. Benedict, 1853-<1863>; G.G. Benedict, 1854-<1863>. Issues for <July 6, 1827-> called: <volume 1, number 4-> Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection. Daily eds.: Daily free press (Burlington, Vt.), Apr. 1, 1848-July 9, 1868, and: Burlington daily free press (Burlington, Vt. : 1868), July 10-Dec. 31, 1868. Other weekly eds.: Times (Burlington, Vt. : 1858), 1858-1861, and: Burlington times (Burlington, Vt. : 1861), 1861-1865. Burlington weekly free press 2166-2037 (DLC)sn 86072143 (OCoLC)14907707"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-05-23T13:52:19.862Z",
+      "group": [
+        "newspaper-titles",
+        "ndnp/newspapers",
+        "catalog-split-12",
+        "catalog",
+        "united-states-newspaper-directory",
+        "main-catalog-split-12"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/sn84023127/",
+      "image_url": [],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        44.4759918,
+        -73.2109954
+      ],
+      "location": [
+        "chittenden",
+        "vermont",
+        "burlington",
+        "united states"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -73.2109954,
+        44.4759918
+      ],
+      "number": [
+        "2024-09-09t08:59:08.942573",
+        "vermont newsp holdings repositories",
+        "peoria pub libr",
+        "1",
+        "sn84023127",
+        "duke univ libr",
+        "new york state libr",
+        "2166-2029",
+        "ticonderoga hist soc",
+        "microfilm service copy",
+        "http://www.loc.gov/item/sn84023127/1836-01-08/ed-1/",
+        "2023-12-17t11:04:09",
+        "brown univ",
+        "library of congress",
+        "new york hist soc, newsp proj",
+        "indiana univ",
+        "sn83025692",
+        "2023-06-02t08:52:35.534657",
+        "original",
+        "1469",
+        "california state libr",
+        "sn86071619",
+        "boston athenaeum",
+        "huntington libr art gallery & gardens",
+        "6497291",
+        "sn86071618",
+        "online resource",
+        "http://www.loc.gov/item/sn84023127/1865-12-29/ed-1/",
+        "sn95062385",
+        "vermont dept of libr",
+        "center for research libraries",
+        "american antiquarian soc, newsp proj",
+        "sn86072143",
+        "new york pub libr res libr"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Weekly free press"
+      ],
+      "partof": [
+        "directory of u.s. newspapers in american libraries",
+        "catalog",
+        "burlington free press (burlington, vt.) 1827-1865",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 21.565493,
+      "shelf_id": "Newspaper",
+      "site": [
+        "chroniclingamerica",
+        "usnd",
+        "catalog"
+      ],
+      "subject": [
+        "burlington",
+        "vermont",
+        "united states",
+        "chittenden",
+        "burlington (vt.)",
+        "newspapers",
+        "https://id.oclc.org/worldcat/entity/e39pbjmdkfvfrmymyvc83kc3wc"
+      ],
+      "timestamp": "2024-11-10T07:27:32.769Z",
+      "title": "Burlington free press",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/sn84023127/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn86072143/",
+        "http://lccn.loc.gov/sn86072143"
+      ],
+      "batch": [
+        "vtu_burlington_ver01"
+      ],
+      "campaigns": [],
+      "date": "1866",
+      "description": [
+        "Weekly Began with vol. 34, number 28 (Jan. 5, 1866) = new series vol. 12; ceased in 1928. Cf. Gregory, W. Amer. newspapers. Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection. Daily eds.: Burlington daily free press and times; and, Burlington free press & times; and, Burlington daily free press; and, Burlington free press (Burlington Vt. : 1923). Burlington times was purchased by the Free press in January 1869. Description based on: Vol. 34, number 28 (Jan. 5, 1866) = new series vol. 12; title from caption. Latest issue consulted: Vol. VC [sic: i.e. 95], number 27 (December 30, 1920) = new series vol. 67."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-05-23T13:52:19.862Z",
+      "group": [
+        "newspaper-titles",
+        "ndnp/newspapers",
+        "catalog-split-00",
+        "catalog",
+        "united-states-newspaper-directory",
+        "main-catalog-split-00"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/sn86072143/",
+      "image_url": [],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        44.4759918,
+        -73.2109954
+      ],
+      "location": [
+        "chittenden",
+        "vermont",
+        "burlington",
+        "united states"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -73.2109954,
+        44.4759918
+      ],
+      "number": [
+        "2024-09-09t08:59:08.942573",
+        "new york state - wc7",
+        "http://www.loc.gov/item/sn86072143/1920-12-30/ed-1/",
+        "1",
+        "sn84023127",
+        "sn86071554",
+        "2545",
+        "microfilm service copy",
+        "2023-12-17t13:11:10",
+        "sn95062389",
+        "library of congress",
+        "14907707",
+        "2023-06-02t08:52:35.534657",
+        "original",
+        "new york state - vx6",
+        "sn84023041",
+        "sn86071618",
+        "online resource",
+        "sn83045190",
+        "2166-2037",
+        "vermont dept of libr",
+        "center for research libraries",
+        "sn86072143",
+        "http://www.loc.gov/item/sn86072143/1866-01-05/ed-1/"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Free press",
+        "Weekly free press",
+        "Burlington free press and times"
+      ],
+      "partof": [
+        "directory of u.s. newspapers in american libraries",
+        "catalog",
+        "burlington weekly free press (burlington, vt.) 1866-1928",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 21.565493,
+      "shelf_id": "Newspaper",
+      "site": [
+        "chroniclingamerica",
+        "usnd",
+        "catalog"
+      ],
+      "subject": [
+        "https://id.oclc.org/worldcat/entity/e39pbjcc9x6hyxjjxqvpppbqmp",
+        "burlington",
+        "vermont",
+        "united states",
+        "chittenden",
+        "burlington (vt.)",
+        "newspapers",
+        "https://id.oclc.org/worldcat/entity/e39pbjmdkfvfrmymyvc83kc3wc"
+      ],
+      "timestamp": "2024-11-10T07:34:02.445Z",
+      "title": "Burlington weekly free press",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/sn86072143/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn90000507/",
+        "http://lccn.loc.gov/sn90000507"
+      ],
+      "batch": [
+        "vtu_alburg_ver02"
+      ],
+      "campaigns": [],
+      "date": "1839",
+      "description": [
+        "Weekly Vol. 1, no. 1 (7 août 1839)-v. 1, no. 27 (5 févr. 1840). Archived issues are available in digital format as part of the Library of Congress Chronicling America online collection. In French."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-05-23T13:52:19.862Z",
+      "group": [
+        "newspaper-titles",
+        "ndnp/newspapers",
+        "catalog-split-06",
+        "catalog",
+        "united-states-newspaper-directory",
+        "main-catalog-split-06"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/sn90000507/",
+      "image_url": [],
+      "index": 6,
+      "language": [
+        "french"
+      ],
+      "latlong": [
+        44.4759918,
+        -73.2109954
+      ],
+      "location": [
+        "burlington",
+        "vermont",
+        "united states",
+        "chittenden",
+        "chittenden county"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -73.2109954,
+        44.4759918
+      ],
+      "number": [
+        "2024-09-09t08:59:08.942573",
+        "microfilm service copy",
+        "institute canada-american bibliotheque",
+        "http://www.loc.gov/item/sn90000507/1839-08-07/ed-1/",
+        "1053-3214",
+        "1",
+        "online resource",
+        "sn90000507",
+        "http://www.loc.gov/item/sn90000507/1840-02-05/ed-1/",
+        "2023-12-17t14:04:39",
+        "vermont dept of libr",
+        "22517957",
+        "26",
+        "2023-06-02t08:52:35.534657"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "directory of u.s. newspapers in american libraries",
+        "catalog",
+        "chronicling america",
+        "le patriote canadien (burlington, vt. : montréal) 1839-1840",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 21.565493,
+      "shelf_id": "Newspaper",
+      "site": [
+        "chroniclingamerica",
+        "usnd",
+        "catalog"
+      ],
+      "subject": [
+        "https://id.oclc.org/worldcat/entity/e39pbjcc9x6hyxjjxqvpppbqmp",
+        "burlington",
+        "vermont",
+        "united states",
+        "chittenden",
+        "chittenden county (vt.)",
+        "burlington (vt.)",
+        "newspapers",
+        "https://id.oclc.org/worldcat/entity/e39qbtfrrfgwb9jt74qtkh7hxc",
+        "french americans",
+        "https://id.oclc.org/worldcat/entity/e39pbjmdkfvfrmymyvc83kc3wc",
+        "french-canadians",
+        "french",
+        "chittenden county",
+        "french american newspapers"
+      ],
+      "timestamp": "2024-11-10T07:40:37.849Z",
+      "title": "Le Patriote canadien",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/sn90000507/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "digital file from original item",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15375_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/ppmsca.15375/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from original item",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15300/15375_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/ppmsca.15375/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294073507,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/ppmsca.15375/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/ppmsca.15375/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/ppmsca.15375/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/ppmsca.15375/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/ppmsca.15375/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/ppmsca.15375/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/ppmsca.15375/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/ppmsca.15375/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/ppmsca.15375/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/ppmsca.15375/?fo=json&st=text"
+  }
+}

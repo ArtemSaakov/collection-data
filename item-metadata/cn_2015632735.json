@@ -1,0 +1,1759 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Highsmith, C. M., photographer. (2015) <cite>Dusk view of the Robert Hoag Rawlings Public Library, built fromto 2003 in Pueblo, Colorado</cite>. Pueblo Colorado United States, 2015. -05-23. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2015632735/.",
+    "chicago": "Highsmith, Carol M, photographer. <cite>Dusk view of the Robert Hoag Rawlings Public Library, built fromto 2003 in Pueblo, Colorado</cite>. Pueblo Colorado United States, 2015. -05-23. Photograph. https://www.loc.gov/item/2015632735/.",
+    "mla": "Highsmith, Carol M, photographer. <cite>Dusk view of the Robert Hoag Rawlings Public Library, built fromto 2003 in Pueblo, Colorado</cite>. -05-23. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2015632735/&gt;."
+  },
+  "item": {
+    "_version_": 1730908522363748352,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2015632735/",
+      "http://www.loc.gov/item/2015632735/",
+      "http://www.loc.gov/pictures/item/2015632735/",
+      "https://www.loc.gov/pictures/collection/highsm/item/2015632735/",
+      "http://www.loc.gov/pictures/collection/highsm/item/2015632735/",
+      "http://www.loc.gov/resource/highsm.32720/",
+      "https://hdl.loc.gov/loc.pnp/highsm.32720",
+      "http://lccn.loc.gov/2015632735"
+    ],
+    "call_number": "LC-DIG-highsm- 32720 (ONLINE) [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Highsmith, Carol M., 1946-, photographer"
+    ],
+    "contributors": [
+      {
+        "highsmith, carol m.": "https://www.loc.gov/search/?fa=contributor:highsmith,+carol+m.&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2019-09-17T16:50:05Z",
+    "created_published": [
+      "2015-05-23."
+    ],
+    "created_published_date": "2015-05-23.",
+    "date": "2015-01-01",
+    "dates": [
+      {
+        "2015": "https://www.loc.gov/search/?dates=2015/2015&fo=json"
+      }
+    ],
+    "description": [
+      "1 photograph : digital, tiff file, color."
+    ],
+    "digital_id": [
+      "highsm 32720 //hdl.loc.gov/loc.pnp/highsm.32720"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-30T19:21:47.704Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/highsm/item/2015632735/#highsm",
+      "http://lccn.loc.gov/2015632735#catalog-split-02"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Digital photographs--Color--2010-2020."
+    ],
+    "genre": [
+      "Digital photographs--Color--2010-2020"
+    ],
+    "group": [
+      "highsm",
+      "catalog-split-02",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-02",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2015632735/",
+    "image_url": [
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32700:32720/full/pct:6.25/0/default.jpg#h=257&w=382",
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32700:32720/full/pct:12.5/0/default.jpg#h=514&w=765",
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32700:32720/full/pct:25/0/default.jpg#h=1029&w=1530"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-DIG-highsm- 32720 (ONLINE) [P&P]",
+      "contributors": [
+        "Highsmith, Carol M., 1946- photographer."
+      ],
+      "control_number": "2015632735",
+      "created": "2019-09-17T16:50:05Z",
+      "created_published": "2015-05-23.",
+      "created_published_date": "2015-05-23.",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Highsmith%2C%20Carol%20M.%2C%201946-&co=highsm",
+          "role": "photographer",
+          "title": "Highsmith, Carol M., 1946-"
+        }
+      ],
+      "date": "2015-05-23.",
+      "digital_id": [
+        "highsm 32720 //hdl.loc.gov/loc.pnp/highsm.32720"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Digital%20photographs--Color--2010-2020.&co=highsm",
+          "title": "Digital photographs--Color--2010-2020."
+        }
+      ],
+      "genre": [
+        "Digital photographs--Color--2010-2020"
+      ],
+      "id": "2015632735",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2015632735/",
+      "marc": "https://www.loc.gov/pictures/item/2015632735/marc/",
+      "medium": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "medium_brief": "1 photograph :",
+      "mediums": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "modified": "2019-09-17T16:50:05Z",
+      "notes": [
+        "Title, date and keywords based on information provided by the photographer.",
+        "The modernistic, five-story building offers views of the Arkansas Valley and historic Pueblo to the east, distant mountains such as Pikes Peak to the north, the Wet mountains to the west and Greenhorn and the Spanish peaks to the south. THe 109,000-square-foot facility was built on the site of the original library and retained a portion of it. It was designed by Albuquerque, New Mexico, architect Antoine Predock. Robert Hoag Rawlings was the longtime publisher of the local daily newspaper, the Pueblo Chieftain.",
+        "Credit line: Gates Frontiers Fund Colorado Collection within the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.",
+        "Gift; Gates Frontiers Fund; 2015; (DLC/PP-2015:068).",
+        "Forms part of: Gates Frontiers Fund Colorado Collection within the Carol M. Highsmith Archive."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2015632735",
+        "https://www.loc.gov/item/hig2015002736"
+      ],
+      "other_control_numbers": [
+        "18911008",
+        "hig2015002736"
+      ],
+      "part_of": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Colorado--Pueblo&co=highsm",
+          "longitude": "",
+          "title": "Colorado--Pueblo"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-highsm-32720 (original digital file)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/highsm.32720"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/highsm/32700/32720_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/highsm/32700/32720r.jpg",
+      "sort_date": "2015",
+      "source_collection": [
+        "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+      ],
+      "source_created": "2015-10-14T00:00:00Z",
+      "source_modified": "2019-07-01T17:22:11Z",
+      "subject_headings": [
+        "United States--Colorado--Pueblo.",
+        "America",
+        "Robert Hoag Rawlings",
+        "Robert Hoag Rawlings Public Library",
+        "Public libraries",
+        "libraries",
+        "Antoine Predock",
+        "Dusk shots",
+        "Colorado--Pueblo"
+      ],
+      "subjects": [
+        "United States--Colorado--Pueblo",
+        "America",
+        "Robert Hoag Rawlings",
+        "Robert Hoag Rawlings Public Library",
+        "Public libraries",
+        "Libraries",
+        "Antoine Predock",
+        "Dusk shots"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/32700/32720_150px.jpg",
+      "title": "Dusk view of the Robert Hoag Rawlings Public Library, built from 2000 to 2003 in Pueblo, Colorado"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2015632735",
+    "link": "https://www.loc.gov/pictures/item/2015632735/",
+    "location": [
+      "pueblo",
+      "colorado",
+      "united states"
+    ],
+    "location_city": [
+      "pueblo"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_state": [
+      "colorado"
+    ],
+    "locations": [
+      {
+        "colorado": "https://www.loc.gov/search/?fa=location:colorado&fo=json"
+      },
+      {
+        "pueblo": "https://www.loc.gov/search/?fa=location:pueblo&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "pueblo": "https://www.loc.gov/search/?fa=location_city:pueblo&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "colorado": "https://www.loc.gov/search/?fa=location_state:colorado&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2015632735/marc/",
+    "medium": [
+      "1 photograph : digital, tiff file, color."
+    ],
+    "medium_brief": "1 photograph :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2019-09-17T16:50:05Z",
+    "notes": [
+      "Title, date and keywords based on information provided by the photographer.",
+      "The modernistic, five-story building offers views of the Arkansas Valley and historic Pueblo to the east, distant mountains such as Pikes Peak to the north, the Wet mountains to the west and Greenhorn and the Spanish peaks to the south. THe 109,000-square-foot facility was built on the site of the original library and retained a portion of it. It was designed by Albuquerque, New Mexico, architect Antoine Predock. Robert Hoag Rawlings was the longtime publisher of the local daily newspaper, the Pueblo Chieftain.",
+      "Credit line: Gates Frontiers Fund Colorado Collection within the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.",
+      "Gift; Gates Frontiers Fund; 2015; (DLC/PP-2015:068).",
+      "Forms part of: Gates Frontiers Fund Colorado Collection within the Carol M. Highsmith Archive."
+    ],
+    "number": [
+      "2019-07-01t17:22:11",
+      "http://www.loc.gov/item/2015632735",
+      "http://www.loc.gov/item/hig2015002736",
+      "online resource",
+      "http://www.loc.gov/item/18911008",
+      "2015632735"
+    ],
+    "number_carrier_type": [
+      "online resource"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/18911008",
+      "http://www.loc.gov/item/hig2015002736",
+      "http://www.loc.gov/item/2015632735"
+    ],
+    "number_lccn": [
+      "2015632735"
+    ],
+    "number_source_modified": [
+      "2019-07-01t17:22:11"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "18911008",
+      "hig2015002736"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2015632735/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2015632735/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2015632735/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 69132,
+        "title": "highsmith (carol m.) archive",
+        "url": "https://www.loc.gov/collections/carol-m-highsmith/?fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Colorado--Pueblo&co=highsm",
+        "longitude": "",
+        "title": "Colorado--Pueblo"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2015632735&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-highsm-32720 (original digital file)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/highsm.32720"
+    ],
+    "resources": [
+      {
+        "caption": "original digital file",
+        "files": 1,
+        "image": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32700:32720/full/pct:6.25/0/default.jpg",
+        "url": "https://www.loc.gov/resource/highsm.32720/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/482_high.html\">Carol M. Highsmith - Rights and Restrictions Information</a> </p>\n \n"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "LC-DIG-highsm- 32720 (ONLINE) [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "2015",
+    "source_collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+    "source_created": "2015-10-14T00:00:00Z",
+    "source_modified": "2019-07-01T17:22:11Z",
+    "subject": [
+      "robert hoag rawlings public library",
+      "colorado",
+      "pueblo",
+      "america",
+      "united states",
+      "dusk shots",
+      "antoine predock",
+      "digital photographs",
+      "libraries",
+      "color",
+      "public libraries",
+      "robert hoag rawlings"
+    ],
+    "subject_headings": [
+      "United States--Colorado--Pueblo",
+      "America",
+      "Robert Hoag Rawlings",
+      "Robert Hoag Rawlings Public Library",
+      "Public libraries",
+      "Libraries",
+      "Antoine Predock",
+      "Dusk shots"
+    ],
+    "subjects": [
+      {
+        "america": "https://www.loc.gov/search/?fa=subject:america&fo=json"
+      },
+      {
+        "antoine predock": "https://www.loc.gov/search/?fa=subject:antoine+predock&fo=json"
+      },
+      {
+        "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+      },
+      {
+        "colorado": "https://www.loc.gov/search/?fa=subject:colorado&fo=json"
+      },
+      {
+        "digital photographs": "https://www.loc.gov/search/?fa=subject:digital+photographs&fo=json"
+      },
+      {
+        "dusk shots": "https://www.loc.gov/search/?fa=subject:dusk+shots&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "public libraries": "https://www.loc.gov/search/?fa=subject:public+libraries&fo=json"
+      },
+      {
+        "pueblo": "https://www.loc.gov/search/?fa=subject:pueblo&fo=json"
+      },
+      {
+        "robert hoag rawlings": "https://www.loc.gov/search/?fa=subject:robert+hoag+rawlings&fo=json"
+      },
+      {
+        "robert hoag rawlings public library": "https://www.loc.gov/search/?fa=subject:robert+hoag+rawlings+public+library&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/32700/32720_150px.jpg",
+    "timestamp": "2022-04-23T14:10:01.552Z",
+    "title": "Dusk view of the Robert Hoag Rawlings Public Library, built from 2000 to 2003 in Pueblo, Colorado",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2015632735/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2015632736/",
+        "http://www.loc.gov/item/2015632736/",
+        "http://www.loc.gov/pictures/item/2015632736/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2015632736/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2015632736/",
+        "http://www.loc.gov/resource/highsm.32721/",
+        "http://lccn.loc.gov/2015632736",
+        "https://hdl.loc.gov/loc.pnp/highsm.32721"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2015-01-01",
+      "dates": [
+        "2015"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T19:21:47.704Z",
+      "group": [
+        "highsm",
+        "catalog-split-03",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2015632736/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32700:32721/full/pct:6.25/0/default.jpg#h=307&w=460",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32700:32721/full/pct:12.5/0/default.jpg#h=614&w=920",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32700:32721/full/pct:25/0/default.jpg#h=1228&w=1840"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pueblo",
+        "colorado",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/hig2015002737",
+        "2015632736",
+        "2019-07-01t17:22:11",
+        "online resource",
+        "http://www.loc.gov/item/2015632736",
+        "http://www.loc.gov/item/18911009"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "catalog",
+        "highsmith (carol m.) archive"
+      ],
+      "score": 96.74423,
+      "shelf_id": "LC-DIG-highsm- 32721 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "robert hoag rawlings public library",
+        "colorado",
+        "pueblo",
+        "america",
+        "united states",
+        "dusk shots",
+        "antoine predock",
+        "digital photographs",
+        "libraries",
+        "color",
+        "public libraries",
+        "robert hoag rawlings"
+      ],
+      "timestamp": "2022-04-23T14:10:01.552Z",
+      "title": "Dusk view of the Robert Hoag Rawlings Public Library, built from 2000 to 2003 in Pueblo, Colorado",
+      "url": "https://www.loc.gov/item/2015632736/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2015632737/",
+        "http://www.loc.gov/item/2015632737/",
+        "http://www.loc.gov/pictures/item/2015632737/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2015632737/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2015632737/",
+        "http://www.loc.gov/resource/highsm.32722/",
+        "http://lccn.loc.gov/2015632737",
+        "https://hdl.loc.gov/loc.pnp/highsm.32722"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2015-01-01",
+      "dates": [
+        "2015"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T19:21:47.704Z",
+      "group": [
+        "highsm",
+        "catalog-split-04",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-04",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2015632737/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32700:32722/full/pct:6.25/0/default.jpg#h=261&w=399",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32700:32722/full/pct:12.5/0/default.jpg#h=522&w=799",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32700:32722/full/pct:25/0/default.jpg#h=1044&w=1598"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pueblo",
+        "colorado",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2015632737",
+        "http://www.loc.gov/item/hig2015002738",
+        "2019-07-01t17:22:11",
+        "http://www.loc.gov/item/2015632737",
+        "online resource",
+        "http://www.loc.gov/item/18911011"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "catalog",
+        "highsmith (carol m.) archive"
+      ],
+      "score": 96.74423,
+      "shelf_id": "LC-DIG-highsm- 32722 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "robert hoag rawlings public library",
+        "colorado",
+        "pueblo",
+        "america",
+        "united states",
+        "dusk shots",
+        "antoine predock",
+        "digital photographs",
+        "libraries",
+        "color",
+        "public libraries",
+        "robert hoag rawlings"
+      ],
+      "timestamp": "2022-04-23T14:10:01.552Z",
+      "title": "Dusk view of the Robert Hoag Rawlings Public Library, built from 2000 to 2003 in Pueblo, Colorado",
+      "url": "https://www.loc.gov/item/2015632737/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2015632712/",
+        "http://www.loc.gov/item/2015632712/",
+        "http://www.loc.gov/pictures/item/2015632712/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2015632712/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2015632712/",
+        "http://www.loc.gov/resource/highsm.32697/",
+        "http://lccn.loc.gov/2015632712",
+        "https://hdl.loc.gov/loc.pnp/highsm.32697"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2015-01-01",
+      "dates": [
+        "2015"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T19:21:47.704Z",
+      "group": [
+        "highsm",
+        "catalog-split-13",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2015632712/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32600:32697/full/pct:6.25/0/default.jpg#h=262&w=460",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32600:32697/full/pct:12.5/0/default.jpg#h=525&w=920",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32600:32697/full/pct:25/0/default.jpg#h=1051&w=1840"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pueblo",
+        "colorado",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/hig2015002713",
+        "2015632712",
+        "http://www.loc.gov/item/18910984",
+        "2019-07-01t17:31:56",
+        "http://www.loc.gov/item/2015632712",
+        "online resource"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "catalog",
+        "highsmith (carol m.) archive"
+      ],
+      "score": 54.570557,
+      "shelf_id": "LC-DIG-highsm- 32697 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "tom and anna giodine pueblo city-county library",
+        "colorado",
+        "pueblo",
+        "america",
+        "united states",
+        "digital photographs",
+        "libraries",
+        "color",
+        "public libraries"
+      ],
+      "timestamp": "2022-04-23T14:10:01.552Z",
+      "title": "The Tom and Anna Giodine Pueblo City-County Library in the eastern reaches of Pueblo, Colorado",
+      "url": "https://www.loc.gov/item/2015632712/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017686365/",
+        "http://www.loc.gov/item/2017686365/",
+        "http://www.loc.gov/pictures/item/2017686365/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2017686365/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2017686365/",
+        "http://www.loc.gov/resource/highsm.35882/",
+        "https://hdl.loc.gov/loc.pnp/highsm.35882",
+        "http://lccn.loc.gov/2017686365"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2015-01-01",
+      "dates": [
+        "2015"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T19:52:14.719Z",
+      "group": [
+        "highsm",
+        "catalog-split-12",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017686365/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:35800:35882/full/pct:3.125/0/default.jpg#h=271&w=181",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:35800:35882/full/pct:6.25/0/default.jpg#h=543&w=362",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:35800:35882/full/pct:12.5/0/default.jpg#h=1086&w=724",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:35800:35882/full/pct:25/0/default.jpg#h=2172&w=1448"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pueblo",
+        "pueblo county",
+        "colorado",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/19557010",
+        "http://www.loc.gov/item/hig2017001375",
+        "2019-07-01t17:28:38",
+        "online resource",
+        "http://www.loc.gov/item/2017686365",
+        "2017686365"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "catalog",
+        "highsmith (carol m.) archive"
+      ],
+      "score": 43.425106,
+      "shelf_id": "LC-DIG-highsm- 35882 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "livestock",
+        "sheep",
+        "colorado",
+        "pueblo",
+        "fairs",
+        "america",
+        "united states",
+        "digital photographs",
+        "pueblo county",
+        "color",
+        "colorado state fair"
+      ],
+      "timestamp": "2022-04-23T14:37:23.888Z",
+      "title": "An owner shows off her sheep at the Colorado State Fair in Pueblo",
+      "url": "https://www.loc.gov/item/2017686365/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017686366/",
+        "http://www.loc.gov/item/2017686366/",
+        "http://www.loc.gov/pictures/item/2017686366/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2017686366/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2017686366/",
+        "http://www.loc.gov/resource/highsm.35883/",
+        "https://hdl.loc.gov/loc.pnp/highsm.35883",
+        "http://lccn.loc.gov/2017686366"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2015-01-01",
+      "dates": [
+        "2015"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T19:52:14.719Z",
+      "group": [
+        "highsm",
+        "catalog-split-13",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017686366/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:35800:35883/full/pct:3.125/0/default.jpg#h=181&w=271",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:35800:35883/full/pct:6.25/0/default.jpg#h=362&w=543",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:35800:35883/full/pct:12.5/0/default.jpg#h=724&w=1086",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:35800:35883/full/pct:25/0/default.jpg#h=1448&w=2172"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pueblo",
+        "pueblo county",
+        "colorado",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2017686366",
+        "http://www.loc.gov/item/19557011",
+        "http://www.loc.gov/item/hig2017001376",
+        "2017686366",
+        "2019-07-01t17:28:38",
+        "online resource"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "catalog",
+        "highsmith (carol m.) archive"
+      ],
+      "score": 43.425106,
+      "shelf_id": "LC-DIG-highsm- 35883 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "livestock",
+        "sheep",
+        "colorado",
+        "pueblo",
+        "fairs",
+        "america",
+        "united states",
+        "digital photographs",
+        "pueblo county",
+        "color",
+        "colorado state fair"
+      ],
+      "timestamp": "2022-04-23T14:37:23.888Z",
+      "title": "An owner shows off her well-shorn sheep at the Colorado State Fair in Pueblo",
+      "url": "https://www.loc.gov/item/2017686366/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017885511/",
+        "http://www.loc.gov/item/2017885511/",
+        "http://www.loc.gov/pictures/item/2017885511/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2017885511/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2017885511/",
+        "http://www.loc.gov/resource/highsm.48881/",
+        "https://hdl.loc.gov/loc.pnp/highsm.48881",
+        "http://lccn.loc.gov/2017885511"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2015-01-01",
+      "dates": [
+        "2015"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T23:10:34.248Z",
+      "group": [
+        "highsm",
+        "catalog-split-06",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-06",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017885511/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48800:48881/full/pct:3.125/0/default.jpg#h=271&w=181",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48800:48881/full/pct:6.25/0/default.jpg#h=543&w=362",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48800:48881/full/pct:12.5/0/default.jpg#h=1086&w=724",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:48800:48881/full/pct:25/0/default.jpg#h=2172&w=1448"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pueblo",
+        "colorado",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017885511",
+        "http://www.loc.gov/item/2017885511",
+        "2018-02-23t14:10:33",
+        "http://www.loc.gov/item/20374129",
+        "http://www.loc.gov/item/hig2018006558",
+        "online resource"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "catalog",
+        "highsmith (carol m.) archive"
+      ],
+      "score": 43.425106,
+      "shelf_id": "LC-DIG-highsm- 48881 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "martin luther king jr.",
+        "colorado",
+        "pueblo",
+        "america",
+        "united states",
+        "digital photographs",
+        "martin luther king jr",
+        "emmett till",
+        "color",
+        "dr. martin luther king jr. cultural museum"
+      ],
+      "timestamp": "2022-04-23T15:09:30.655Z",
+      "title": "Statue of civil-rights pioneer Martin Luther King Jr. and civil-rights martyr Emmett Till at the Dr. Martin Luther King Jr. Cultural Center and Museum in Pueblo, Colorado. The museum was closed and its artifacts placed in storage one year after this photo was taken",
+      "url": "https://www.loc.gov/item/2017885511/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "highsm",
+      "catalog-split-02",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-02",
+      "main-catalog",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "catalog-split-04",
+      "main-catalog-split-04",
+      "catalog-split-13",
+      "main-catalog-split-13",
+      "catalog-split-12",
+      "main-catalog-split-12",
+      "catalog-split-06",
+      "main-catalog-split-06",
+      "ndnp/newspapers",
+      "united-states-newspaper-directory",
+      "gmd.mar",
+      "catalog-split-05",
+      "general-maps",
+      "main-catalog-split-05",
+      "newspaper-titles",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "catalog-split-08",
+      "main-catalog-split-08"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "highsm.32720",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.7768962383270264,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/highsm.32720/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/highsm.32720/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294107.9778922,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 257,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32700:32720/full/pct:6.25/0/default.jpg",
+      "width": 382
+    },
+    {
+      "height": 514,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32700:32720/full/pct:12.5/0/default.jpg",
+      "width": 765
+    },
+    {
+      "height": 1029,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32700:32720/full/pct:25/0/default.jpg",
+      "width": 1530
+    },
+    {
+      "height": 4117,
+      "info": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32700:32720/info.json",
+      "levels": 7,
+      "mimetype": "image/jp2",
+      "size": 6709433,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/32700/32720.jp2",
+      "width": 6121
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2015632735&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2020271072/"
+      ],
+      "campaigns": [],
+      "date": "1889",
+      "dates": [
+        "[1889 TO 9999]"
+      ],
+      "description": [
+        "Daily Print began September 8, 1889. Available on microfilm from the Colorado Historical Society. Description based on: Fifty-Third Year (January 3, 1921); title from masthead (Chroniclingamerica.loc.gov, viewed August 11, 2020). Latest issue consulted: Fifty-Fourth Year (March 19, 1922) (Chroniclingamerica.loc.gov, viewed August 11, 2020)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-09-18T12:05:53.618Z",
+      "group": [
+        "ndnp/newspapers",
+        "united-states-newspaper-directory"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020271072/",
+      "image_url": [],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pueblo",
+        "colorado",
+        "united states"
+      ],
+      "number": [
+        "2020271072",
+        "2024-09-09t08:59:08.942573",
+        "808962787",
+        "2693-4825",
+        "online resource"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Pueblo daily chieftain",
+        "Published as: Pueblo chieftain and Sunday star-journal",
+        "Published on Sundays as: Pueblo star-journal and the Sunday chieftain",
+        "Published on Sundays as: Sunday chieftain and star-journal"
+      ],
+      "partof": [
+        "directory of u.s. newspapers in american libraries",
+        "pueblo chieftain (pueblo, colo.) 1889-current [online resource]",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "daily"
+      ],
+      "score": 22.239569,
+      "shelf_id": "ISSN RECORD AN",
+      "site": [
+        "usnd"
+      ],
+      "subject": [
+        "newspapers",
+        "colorado",
+        "pueblo",
+        "periodicals",
+        "united states",
+        "pueblo (colo.)"
+      ],
+      "timestamp": "2024-09-18T12:22:19.059Z",
+      "title": "Pueblo chieftain",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/2020271072/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2020271102/"
+      ],
+      "campaigns": [],
+      "date": "18??",
+      "dates": [
+        "[1800 TO 1894]"
+      ],
+      "description": [
+        "Weekly Ceased with vol. 5, no. 41 (November 17, 1894). Published in Pueblo, Colo., Apr. 7, 1894-Nov. 17, 1894. Description based on: Vol. 3, No. 48 (January 7, 1893); title from indicia (Chroniclingamerica.loc.gov, viewed September 3, 2020). Latest issue consulted: Vol. 5, No. 41 (November 17, 1894) (Chroniclingamerica.loc.gov, viewed September 3, 2020). Indicator (Pueblo, Colo. : 1894) 2693-8553 (DLC)  2020271103 (OCoLC)1192966014"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-09-18T12:02:02.803Z",
+      "group": [
+        "ndnp/newspapers",
+        "united-states-newspaper-directory"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020271102/",
+      "image_url": [],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pueblo",
+        "colorado",
+        "united states",
+        "bessemer",
+        "pueblo county"
+      ],
+      "number": [
+        "2020271102",
+        "2693-3659",
+        "1192964932",
+        "2024-09-09t08:59:08.942573",
+        "online resource",
+        "2020271103"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "directory of u.s. newspapers in american libraries",
+        "the bessemer indicator (bessemer, colorado) 18??-1894 [online resource]",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 22.239569,
+      "shelf_id": "ISSN RECORD",
+      "site": [
+        "usnd"
+      ],
+      "subject": [
+        "newspapers",
+        "colorado",
+        "pueblo",
+        "united states",
+        "bessemer",
+        "pueblo county (colo.)",
+        "pueblo county",
+        "pueblo (colo.)"
+      ],
+      "timestamp": "2024-09-18T12:22:19.059Z",
+      "title": "The Bessemer indicator",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/2020271102/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2020271103/",
+        "http://lccn.loc.gov/2020271103"
+      ],
+      "campaigns": [],
+      "date": "1894",
+      "dates": [
+        "[1894 TO 1911]"
+      ],
+      "description": [
+        "Weekly Began with vol. 5, no. 42 (November 24, 1894); ceased October 28, 1911. Description based on: Vol. 5, No. 42 (November 24, 1894); title from indicia (Chroniclingamerica.loc.gov, viewed September 3, 2020). Latest issue consulted: Fifteenth Year--Forty-Seventh Week (December 31, 1904) (Chroniclingamerica.loc.gov, viewed September 3, 2020). Pueblo indicator (Pueblo, Colo. : 1911)"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-09-18T12:06:33.594Z",
+      "group": [
+        "ndnp/newspapers",
+        "catalog-split-02",
+        "catalog",
+        "united-states-newspaper-directory",
+        "main-catalog-split-02"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020271103/",
+      "image_url": [],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pueblo",
+        "colorado",
+        "united states"
+      ],
+      "number": [
+        "2023-05-10t07:11:46",
+        "2020271102",
+        "1192966014",
+        "n1192966014",
+        "2024-09-09t08:59:08.942573",
+        "2693-8553",
+        "online resource",
+        "2020271103"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "directory of u.s. newspapers in american libraries",
+        "the indicator (pueblo, colorado) 1894-1911 [online resource]",
+        "catalog",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 22.239569,
+      "shelf_id": "Newspaper",
+      "site": [
+        "usnd",
+        "catalog"
+      ],
+      "subject": [
+        "newspapers",
+        "colorado",
+        "pueblo",
+        "united states",
+        "pueblo (colo.)"
+      ],
+      "timestamp": "2024-09-18T12:22:19.059Z",
+      "title": "The indicator",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/2020271103/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://hdl.loc.gov/loc.gmd/g4314p.pm000740",
+        "http://www.loc.gov/item/75693142/",
+        "http://www.loc.gov/resource/g4314p.pm000740/",
+        "http://lccn.loc.gov/75693142"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "american publishing co. (milwaukee, wis.)"
+      ],
+      "date": "1890-01-01",
+      "dates": [
+        "1890"
+      ],
+      "description": [
+        "Perspective map not drawn to scale. Bird's-eye-view. LC Panoramic maps (2nd ed.), 74 Available also through the Library of Congress Web site as a raster image. Includes illus., location map, and directory. AACR2"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-30T01:24:28.395Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-05",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-05",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/75693142/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd431/g4314/g4314p/pm000740.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd431/g4314/g4314p/pm000740.gif#h=204&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd431:g4314:g4314p:pm000740/full/pct:12.5/0/default.jpg#h=1430&w=1052",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd431:g4314:g4314p:pm000740/full/pct:25/0/default.jpg#h=2860&w=2104"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pueblo",
+        "colorado",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2002-12-14t18:39:32",
+        "75693142",
+        "http://www.loc.gov/item/5422589",
+        "http://www.loc.gov/item/75693142"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "panoramic maps",
+        "geography and map division",
+        "cities and towns"
+      ],
+      "score": 22.239569,
+      "shelf_id": "G4314.P8A3 1890  .A6",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "aerial views",
+        "pueblo",
+        "colorado",
+        "united states",
+        "pueblo (colo.)"
+      ],
+      "timestamp": "2022-12-10T05:53:06.557Z",
+      "title": "Pueblo, Colo. 1890.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/75693142/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn90051672/",
+        "http://lccn.loc.gov/sn90051672"
+      ],
+      "batch": [
+        "cohi_kebler_ver01"
+      ],
+      "campaigns": [],
+      "date": "1889",
+      "description": [
+        "Daily Sept. 8, 1889- Available on microfilm from the Colorado Historical Society. Archived issues are available in digital format from the Library of Congress Chronicling America online collection. Latest issue consulted: Jan. 31, 2000."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-05-23T13:52:23.309Z",
+      "group": [
+        "newspaper-titles",
+        "ndnp/newspapers",
+        "catalog-split-15",
+        "catalog",
+        "united-states-newspaper-directory",
+        "main-catalog-split-15"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/sn90051672/",
+      "image_url": [],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        38.265425,
+        -104.610415
+      ],
+      "location": [
+        "pueblo",
+        "colorado",
+        "united states"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -104.610415,
+        38.265425
+      ],
+      "number": [
+        "438",
+        "library of congress",
+        "microfilm service copy",
+        "1",
+        "2023-12-17t14:03:51",
+        "colorado col",
+        "22408216",
+        "harvard univ",
+        "sn90051672",
+        "univ of chicago",
+        "2023-12-21t08:21:43.784903",
+        "http://www.loc.gov/item/sn90051672/1921-01-03/ed-1/",
+        "sn82016459",
+        "http://www.loc.gov/item/sn90051672/1922-03-19/ed-1/",
+        "sn90051671",
+        "2693-4817",
+        "original",
+        "colorado hist soc libr",
+        "denver pub libr",
+        "2024-09-09t08:59:08.942573",
+        "online resource"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Pueblo daily chieftain",
+        "Published as: Pueblo chieftain and Sunday star-journal",
+        "Published on Sundays as: Pueblo star-journal and the Sunday chieftain",
+        "Published on Sundays as: Sunday chieftain and star-journal"
+      ],
+      "partof": [
+        "catalog",
+        "pueblo chieftain (pueblo, colo.) 1889-current",
+        "directory of u.s. newspapers in american libraries",
+        "serial and government publications division",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "daily"
+      ],
+      "score": 22.239569,
+      "shelf_id": "Newspaper AN",
+      "site": [
+        "chroniclingamerica",
+        "usnd",
+        "catalog"
+      ],
+      "subject": [
+        "newspapers",
+        "electronic journals",
+        "colorado",
+        "pueblo",
+        "https://id.oclc.org/worldcat/entity/e39pbjckvqjctpjy99cfgrmvmd",
+        "united states",
+        "pueblo (colo.)"
+      ],
+      "timestamp": "2024-11-10T07:40:37.849Z",
+      "title": "Pueblo chieftain",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/sn90051672/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn91052321/",
+        "http://lccn.loc.gov/sn91052321"
+      ],
+      "batch": [
+        "cohi_aberdeen_ver01"
+      ],
+      "campaigns": [],
+      "date": "18??",
+      "description": [
+        "Weekly -v. 5, no. 41 (Nov. 17, 1894). Published in Pueblo, Colo., Apr. 7, 1894-Nov. 17, 1894. Archived issues are available in digital format from the Library of Congress Chronicling America online collection. Description based on: Vol. 3, no. 48 (Jan. 7, 1893). Indicator (Pueblo, Colo. : 1894) 2693-8545 (DLC)sn 90051889 (OCoLC)23245382"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-05-23T13:52:23.046Z",
+      "group": [
+        "newspaper-titles",
+        "ndnp/newspapers",
+        "catalog-split-08",
+        "catalog",
+        "united-states-newspaper-directory",
+        "main-catalog-split-08"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/sn91052321/",
+      "image_url": [],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        38.2460395,
+        -104.619043
+      ],
+      "location": [
+        "pueblo",
+        "colorado",
+        "united states",
+        "bessemer",
+        "pueblo county"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -104.619043,
+        38.2460395
+      ],
+      "number": [
+        "http://www.loc.gov/item/sn91052321/1894-11-17/ed-1/",
+        "2693-3640",
+        "http://www.loc.gov/item/sn91052321/1893-01-07/ed-1/",
+        "2023-12-21t08:21:43.784903",
+        "98",
+        "sn91052321",
+        "original",
+        "colorado hist soc libr",
+        "23245382",
+        "1",
+        "2024-09-09t08:59:08.942573",
+        "sn90051889",
+        "2023-12-17t14:12:10",
+        "online resource"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "catalog",
+        "the bessemer indicator (bessemer, colo.) 18??-1894",
+        "directory of u.s. newspapers in american libraries",
+        "serial and government publications division",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 22.239569,
+      "shelf_id": "Newspaper",
+      "site": [
+        "chroniclingamerica",
+        "usnd",
+        "catalog"
+      ],
+      "subject": [
+        "newspapers",
+        "colorado",
+        "pueblo",
+        "https://id.oclc.org/worldcat/entity/e39pbjckvqjctpjy99cfgrmvmd",
+        "https://id.oclc.org/worldcat/entity/e39pbjgmbwyy47cw8ccf7bkbh3",
+        "united states",
+        "bessemer",
+        "pueblo county (colo.)",
+        "pueblo county",
+        "pueblo (colo.)"
+      ],
+      "timestamp": "2024-11-10T07:41:56.737Z",
+      "title": "The Bessemer indicator",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/sn91052321/"
+    }
+  ],
+  "reproductions": "<p>\nSome images in this collection are described in groups; others are \ndescribed individually. In some cases, all of the images in the \ngroup display online, in other cases they do not.\n</p>\n\n<p>\nYou can download online images yourself.  Alternatively, you can \npurchase copies of various types.\n</p>\n\n<ol>\n<p>\t\n<strong><li>Determine whether the desired materials can be retrieved \nonline.</strong>\n</p>\n<ul>\n<p>\t\n<li>Look in the <strong>Medium</strong> field above to determine whether\n the description is for one photograph or more than one.</li>\n </p>\n <p>\n<li>If the description is for a single item and it is displaying, \nyou can download or purchase a print.  Cite the number that begins \nwith &quot;LC-DIG...&quot; when purchasing copies through Library of \nCongress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is \na &quot;Click for more images&quot; icon displaying, select that. \nIndividual images will display; you can download or purchase prints. \nCite the number that begins with &quot;LC-DIG...&quot; when purchasing \ncopies through Library of Congress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is no\n &quot;Click for more images&quot; icon displaying, return to the\n  &quot;About this Item&quot; tab and select the &quot;<i>Check for \n  online items from this group</i>&quot; link.  Then select the \n  \"Obtaining Copies\" tab for any retrieved items that are of interest.\n</p>\n</ul>\n</li>\n\n<p>\n<strong><li>If the images do not display online</strong> -- Select images for reproduction through one of these methods:\n</p>\n<ul>\n<p>\t\n<li>Visit the Prints &amp; Photographs Reading Room and request to view \nthe group (general information about service in the reading room is \navailable at: <a href=\"//www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>).</li>  \n</p>\n<p>\n<li>P&amp;P reading room staff can provide up to 15 photocopies of items \nper calendar year. (Color images cannot be photocopied.) For assistance,\n see our <a href=\"//www.loc.gov/rr/askalib/ask-print.html\">Ask a Librarian</a> page. OR</li>\n</p>\n<p>\n<li>Hire a freelance researcher to do further selection for you \n(a list of researchers is available at: \n<a href=\"//www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>).\n</p>\n</ul>\n</li>\n</ol>\n\n<p>\n<strong>Purchasing Copies</strong>\n</p>\n\n<p>\nLibrary of Congress Duplication Services can make copies of various \ntypes from images in Prints & Photographs Division Collections.  \nPrice lists, contact information, and order forms are available on the \n<a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.\n</p>\n\n<p>\nCarol M. Highsmith sells prints of her photographs at: <a href=\"http://photographsamerica.com/\">http://photographsamerica.com/</a> .\n</p>  \n\n\n\n\n        ",
+  "resource": {
+    "caption": "original digital file",
+    "image": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32700:32720/full/pct:6.25/0/default.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/highsm.32720/"
+  },
+  "resources": [
+    {
+      "caption": "original digital file",
+      "image": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:32700:32720/full/pct:6.25/0/default.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/highsm.32720/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294108756,
+  "type": "zoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/highsm.32720/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/highsm.32720/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/highsm.32720/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/highsm.32720/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/highsm.32720/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/highsm.32720/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/highsm.32720/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/highsm.32720/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/highsm.32720/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/highsm.32720/?fo=json&st=text"
+  }
+}

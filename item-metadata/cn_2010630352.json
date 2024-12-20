@@ -1,0 +1,1897 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Highsmith, C. M., photographer. (2007) <cite>Public Library, Salt Lake City, Utah</cite>. Salt Lake City United States Utah, 2007. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2010630352/.",
+    "chicago": "Highsmith, Carol M, photographer. <cite>Public Library, Salt Lake City, Utah</cite>. Salt Lake City United States Utah, 2007. Photograph. https://www.loc.gov/item/2010630352/.",
+    "mla": "Highsmith, Carol M, photographer. <cite>Public Library, Salt Lake City, Utah</cite>. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2010630352/&gt;."
+  },
+  "item": {
+    "_version_": 1730896951986094081,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2010630352/",
+      "http://www.loc.gov/item/2010630352/",
+      "http://www.loc.gov/pictures/item/2010630352/",
+      "https://www.loc.gov/pictures/collection/highsm/item/2010630352/",
+      "http://www.loc.gov/pictures/collection/highsm/item/2010630352/",
+      "http://www.loc.gov/resource/highsm.04362/",
+      "https://hdl.loc.gov/loc.pnp/highsm.04362",
+      "http://lccn.loc.gov/2010630352"
+    ],
+    "call_number": "LC-DIG-highsm- 04362 (ONLINE) [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Highsmith, Carol M., 1946-, photographer"
+    ],
+    "contributors": [
+      {
+        "highsmith, carol m.": "https://www.loc.gov/search/?fa=contributor:highsmith,+carol+m.&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2017-05-30T04:05:08Z",
+    "created_published": [
+      "2007 June 17."
+    ],
+    "created_published_date": "2007 June 17.",
+    "date": "2007-01-01",
+    "dates": [
+      {
+        "2007": "https://www.loc.gov/search/?dates=2007/2007&fo=json"
+      }
+    ],
+    "description": [
+      "1 photograph : digital, TIFF file, color."
+    ],
+    "digital_id": [
+      "highsm 04362 //hdl.loc.gov/loc.pnp/highsm.04362"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-31T00:00:03.280Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/highsm/item/2010630352/#highsm",
+      "http://lccn.loc.gov/2010630352#catalog-split-06"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Digital photographs--Color--2000-2010."
+    ],
+    "genre": [
+      "Digital photographs--Color--2000-2010"
+    ],
+    "group": [
+      "highsm",
+      "catalog-split-06",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-06",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2010630352/",
+    "image_url": [
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04300:04362/full/pct:6.25/0/default.jpg#h=339&w=452",
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04300:04362/full/pct:12.5/0/default.jpg#h=679&w=905",
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04300:04362/full/pct:25/0/default.jpg#h=1358&w=1810"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-DIG-highsm- 04362 (ONLINE) [P&P]",
+      "contributors": [
+        "Highsmith, Carol M., 1946- photographer."
+      ],
+      "control_number": "2010630352",
+      "created": "2017-05-30T04:05:08Z",
+      "created_published": "2007 June 17.",
+      "created_published_date": "2007 June 17.",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Highsmith%2C%20Carol%20M.%2C%201946-&co=highsm",
+          "role": "photographer",
+          "title": "Highsmith, Carol M., 1946-"
+        }
+      ],
+      "date": "2007 June 17.",
+      "digital_id": [
+        "highsm 04362 //hdl.loc.gov/loc.pnp/highsm.04362"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Digital%20photographs--Color--2000-2010.&co=highsm",
+          "title": "Digital photographs--Color--2000-2010."
+        }
+      ],
+      "genre": [
+        "Digital photographs--Color--2000-2010"
+      ],
+      "id": "2010630352",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2010630352/",
+      "marc": "https://www.loc.gov/pictures/item/2010630352/marc/",
+      "medium": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "medium_brief": "1 photograph :",
+      "mediums": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "modified": "2017-05-30T04:05:08Z",
+      "notes": [
+        "The Salt Lake City Public Library system's main branch building is an architecturally unique structure in Salt Lake City, Utah. Located at 210 East 400 South across from the Salt Lake City and County Building and Washington Square, and the grounds around the building is sometimes referred to as Library Square.",
+        "Title, date, and subjects provided by the photographer.",
+        "Credit line: Carol M. Highsmith's America, Library of Congress, Prints and Photographs Division.",
+        "Gift and purchase; Carol M. Highsmith; 2009; (DLC/PP-2010:031).",
+        "Forms part of: Carol M. Highsmith's America Project in the Carol M. Highsmith Archive."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2010630352",
+        "https://www.loc.gov/item/hig2010000363"
+      ],
+      "other_control_numbers": [
+        "16077436",
+        "hig2010000363"
+      ],
+      "part_of": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Utah--Salt%20Lake%20City&co=highsm",
+          "longitude": "",
+          "title": "Utah--Salt Lake City"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-highsm-04362 (original digital file)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/highsm.04362"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/highsm/04300/04362_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/highsm/04300/04362r.jpg",
+      "sort_date": "2007",
+      "source_collection": [
+        "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+      ],
+      "source_created": "2010-01-05T00:00:00Z",
+      "source_modified": "2017-05-24T14:05:43Z",
+      "subject_headings": [
+        "United States--Utah--Salt Lake City.",
+        "libraries",
+        "Architecture",
+        "America",
+        "Utah--Salt Lake City"
+      ],
+      "subjects": [
+        "United States--Utah--Salt Lake City",
+        "Libraries",
+        "Architecture",
+        "America"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/04300/04362_150px.jpg",
+      "title": "Public Library, Salt Lake City, Utah"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2010630352",
+    "link": "https://www.loc.gov/pictures/item/2010630352/",
+    "location": [
+      "salt lake city",
+      "united states",
+      "utah"
+    ],
+    "location_city": [
+      "salt lake city"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_state": [
+      "utah"
+    ],
+    "locations": [
+      {
+        "salt lake city": "https://www.loc.gov/search/?fa=location:salt+lake+city&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      },
+      {
+        "utah": "https://www.loc.gov/search/?fa=location:utah&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "salt lake city": "https://www.loc.gov/search/?fa=location_city:salt+lake+city&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "utah": "https://www.loc.gov/search/?fa=location_state:utah&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2010630352/marc/",
+    "medium": [
+      "1 photograph : digital, TIFF file, color."
+    ],
+    "medium_brief": "1 photograph :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2017-05-30T04:05:08Z",
+    "notes": [
+      "The Salt Lake City Public Library system's main branch building is an architecturally unique structure in Salt Lake City, Utah. Located at 210 East 400 South across from the Salt Lake City and County Building and Washington Square, and the grounds around the building is sometimes referred to as Library Square.",
+      "Title, date, and subjects provided by the photographer.",
+      "Credit line: Carol M. Highsmith's America, Library of Congress, Prints and Photographs Division.",
+      "Gift and purchase; Carol M. Highsmith; 2009; (DLC/PP-2010:031).",
+      "Forms part of: Carol M. Highsmith's America Project in the Carol M. Highsmith Archive."
+    ],
+    "number": [
+      "http://www.loc.gov/item/2010630352",
+      "http://www.loc.gov/item/16077436",
+      "2017-05-24t14:05:43",
+      "2010630352",
+      "http://www.loc.gov/item/hig2010000363"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/16077436",
+      "http://www.loc.gov/item/hig2010000363",
+      "http://www.loc.gov/item/2010630352"
+    ],
+    "number_lccn": [
+      "2010630352"
+    ],
+    "number_source_modified": [
+      "2017-05-24t14:05:43"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "16077436",
+      "hig2010000363"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2010630352/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2010630352/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2010630352/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 69132,
+        "title": "highsmith (carol m.) archive",
+        "url": "https://www.loc.gov/collections/carol-m-highsmith/?fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Utah--Salt%20Lake%20City&co=highsm",
+        "longitude": "",
+        "title": "Utah--Salt Lake City"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2010630352&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-highsm-04362 (original digital file)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/highsm.04362"
+    ],
+    "resources": [
+      {
+        "caption": "original digital file",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/highsm/04300/04362t.gif",
+        "url": "https://www.loc.gov/resource/highsm.04362/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/482_high.html\">Carol M. Highsmith - Rights and Restrictions Information</a> </p>\n \n"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "LC-DIG-highsm- 04362 (ONLINE) [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "2007",
+    "source_collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+    "source_created": "2010-01-05T00:00:00Z",
+    "source_modified": "2017-05-24T14:05:43Z",
+    "subject": [
+      "united states",
+      "america",
+      "color",
+      "utah",
+      "libraries",
+      "digital photographs",
+      "salt lake city",
+      "architecture"
+    ],
+    "subject_headings": [
+      "United States--Utah--Salt Lake City",
+      "Libraries",
+      "Architecture",
+      "America"
+    ],
+    "subjects": [
+      {
+        "america": "https://www.loc.gov/search/?fa=subject:america&fo=json"
+      },
+      {
+        "architecture": "https://www.loc.gov/search/?fa=subject:architecture&fo=json"
+      },
+      {
+        "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+      },
+      {
+        "digital photographs": "https://www.loc.gov/search/?fa=subject:digital+photographs&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "salt lake city": "https://www.loc.gov/search/?fa=subject:salt+lake+city&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      },
+      {
+        "utah": "https://www.loc.gov/search/?fa=subject:utah&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/04300/04362_150px.jpg",
+    "timestamp": "2022-04-23T11:06:07.060Z",
+    "title": "Public Library, Salt Lake City, Utah",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2010630352/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2018647988/",
+        "http://www.loc.gov/item/2018647988/",
+        "http://www.loc.gov/pictures/item/2018647988/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2018647988/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2018647988/",
+        "http://www.loc.gov/resource/highsm.51384/",
+        "http://lccn.loc.gov/2018647988",
+        "https://hdl.loc.gov/loc.pnp/highsm.51384"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2017-01-01",
+      "dates": [
+        "2017"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T21:35:32.841Z",
+      "group": [
+        "highsm",
+        "catalog-split-05",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-05",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2018647988/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/51300/51384_150px.jpg#h=100&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/51300/51384r.jpg#h=427&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/51300/51384v.jpg#h=683&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "salt lake city",
+        "united states",
+        "utah"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/20648982",
+        "online resource",
+        "2018-08-28t15:23:01",
+        "2018647988"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 43.89717,
+      "shelf_id": "LC-DIG-highsm- 51384 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "america",
+        "color",
+        "utah",
+        "thomas phifer",
+        "gsa",
+        "federal buildings",
+        "borg cube",
+        "digital photographs",
+        "salt lake city",
+        "courthouses"
+      ],
+      "timestamp": "2022-04-23T15:10:27.024Z",
+      "title": "U.S. Courthouse for the District of Utah, opened in April 2014 in Salt Lake City, Utah. Exterior view",
+      "url": "https://www.loc.gov/item/2018647988/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2018647989/",
+        "http://www.loc.gov/item/2018647989/",
+        "http://www.loc.gov/pictures/item/2018647989/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2018647989/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2018647989/",
+        "http://www.loc.gov/resource/highsm.51385/",
+        "http://lccn.loc.gov/2018647989",
+        "https://hdl.loc.gov/loc.pnp/highsm.51385"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2017-01-01",
+      "dates": [
+        "2017"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T21:35:32.841Z",
+      "group": [
+        "highsm",
+        "catalog-split-06",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-06",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2018647989/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/51300/51385_150px.jpg#h=100&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/51300/51385r.jpg#h=427&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/51300/51385v.jpg#h=683&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "salt lake city",
+        "united states",
+        "utah"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "online resource",
+        "2018647989",
+        "2018-08-28t15:24:06",
+        "http://www.loc.gov/item/20648987"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 43.89717,
+      "shelf_id": "LC-DIG-highsm- 51385 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "america",
+        "color",
+        "utah",
+        "thomas phifer",
+        "gsa",
+        "federal buildings",
+        "borg cube",
+        "digital photographs",
+        "salt lake city",
+        "courthouses"
+      ],
+      "timestamp": "2022-04-23T15:10:27.024Z",
+      "title": "U.S. Courthouse for the District of Utah, opened in April 2014 in Salt Lake City, Utah",
+      "url": "https://www.loc.gov/item/2018647989/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2018647990/",
+        "http://www.loc.gov/item/2018647990/",
+        "http://www.loc.gov/pictures/item/2018647990/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2018647990/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2018647990/",
+        "http://www.loc.gov/resource/highsm.51386/",
+        "https://hdl.loc.gov/loc.pnp/highsm.51386",
+        "http://lccn.loc.gov/2018647990"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2017-01-01",
+      "dates": [
+        "2017"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T21:35:32.841Z",
+      "group": [
+        "highsm",
+        "catalog-split-14",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2018647990/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/51300/51386_150px.jpg#h=100&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/51300/51386r.jpg#h=427&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/51300/51386v.jpg#h=683&w=1024"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "salt lake city",
+        "united states",
+        "utah"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2018647990",
+        "2018-08-28t15:25:16",
+        "http://www.loc.gov/item/20648993",
+        "online resource"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 43.89717,
+      "shelf_id": "LC-DIG-highsm- 51386 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "america",
+        "color",
+        "utah",
+        "thomas phifer",
+        "gsa",
+        "federal buildings",
+        "borg cube",
+        "digital photographs",
+        "salt lake city",
+        "courthouses"
+      ],
+      "timestamp": "2022-04-23T15:10:27.024Z",
+      "title": "U.S. Courthouse for the District of Utah, opened in April 2014 in Salt Lake City, Utah",
+      "url": "https://www.loc.gov/item/2018647990/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2018647991/",
+        "http://www.loc.gov/item/2018647991/",
+        "http://www.loc.gov/pictures/item/2018647991/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2018647991/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2018647991/",
+        "http://www.loc.gov/resource/highsm.51387/",
+        "https://hdl.loc.gov/loc.pnp/highsm.51387",
+        "http://lccn.loc.gov/2018647991"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2017-01-01",
+      "dates": [
+        "2017"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T21:35:32.841Z",
+      "group": [
+        "highsm",
+        "catalog-split-15",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2018647991/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/51300/51387_150px.jpg#h=100&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/51300/51387r.jpg#h=427&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/51300/51387v.jpg#h=683&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "salt lake city",
+        "united states",
+        "utah"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/20648996",
+        "2018-08-28t15:26:36",
+        "2018647991",
+        "online resource"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 43.89717,
+      "shelf_id": "LC-DIG-highsm- 51387 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "america",
+        "color",
+        "stairways",
+        "utah",
+        "thomas phifer",
+        "gsa",
+        "federal buildings",
+        "borg cube",
+        "digital photographs",
+        "salt lake city",
+        "courthouses"
+      ],
+      "timestamp": "2022-04-23T15:10:27.024Z",
+      "title": "U.S. Courthouse for the District of Utah, opened in April 2014 in Salt Lake City, Utah. Exterior steps",
+      "url": "https://www.loc.gov/item/2018647991/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2018647992/",
+        "http://www.loc.gov/item/2018647992/",
+        "http://www.loc.gov/pictures/item/2018647992/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2018647992/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2018647992/",
+        "http://www.loc.gov/resource/highsm.51388/",
+        "https://hdl.loc.gov/loc.pnp/highsm.51388",
+        "http://lccn.loc.gov/2018647992"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2017-01-01",
+      "dates": [
+        "2017"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T21:35:32.841Z",
+      "group": [
+        "highsm",
+        "catalog-split-00",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2018647992/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/51300/51388_150px.jpg#h=134&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/51300/51388r.jpg#h=570&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/51300/51388v.jpg#h=912&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "salt lake city",
+        "united states",
+        "utah"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/20648999",
+        "2018647992",
+        "2018-08-28t15:27:48",
+        "online resource"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 43.89717,
+      "shelf_id": "LC-DIG-highsm- 51388 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "america",
+        "color",
+        "utah",
+        "thomas phifer",
+        "gsa",
+        "federal buildings",
+        "borg cube",
+        "digital photographs",
+        "salt lake city",
+        "courthouses"
+      ],
+      "timestamp": "2022-04-23T15:10:27.024Z",
+      "title": "U.S. Courthouse for the District of Utah, opened in April 2014 in Salt Lake City, Utah. Exterior view",
+      "url": "https://www.loc.gov/item/2018647992/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2018647993/",
+        "http://www.loc.gov/item/2018647993/",
+        "http://www.loc.gov/pictures/item/2018647993/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2018647993/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2018647993/",
+        "http://www.loc.gov/resource/highsm.51389/",
+        "http://lccn.loc.gov/2018647993",
+        "https://hdl.loc.gov/loc.pnp/highsm.51389"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2017-01-01",
+      "dates": [
+        "2017"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T21:35:32.841Z",
+      "group": [
+        "highsm",
+        "catalog-split-01",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-01",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2018647993/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/51300/51389_150px.jpg#h=150&w=130",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/51300/51389r.jpg#h=640&w=555",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/51300/51389v.jpg#h=1024&w=888"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "salt lake city",
+        "united states",
+        "utah"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2018647993",
+        "http://www.loc.gov/item/20649512",
+        "2018-08-29t07:54:01",
+        "online resource"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 43.89717,
+      "shelf_id": "LC-DIG-highsm- 51389 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "america",
+        "color",
+        "utah",
+        "thomas phifer",
+        "gsa",
+        "federal buildings",
+        "borg cube",
+        "digital photographs",
+        "salt lake city",
+        "courthouses"
+      ],
+      "timestamp": "2022-04-23T15:10:27.024Z",
+      "title": "U.S. Courthouse for the District of Utah, opened in April 2014 in Salt Lake City, Utah. Exterior view",
+      "url": "https://www.loc.gov/item/2018647993/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "highsm",
+      "catalog-split-06",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-06",
+      "main-catalog",
+      "catalog-split-05",
+      "main-catalog-split-05",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "catalog-split-01",
+      "main-catalog-split-01",
+      "afc/2019030",
+      "occupational-folklore-of-physicians",
+      "catalog-split-04",
+      "main-catalog-split-04",
+      "catalog-split-08",
+      "main-catalog-split-08"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "highsm.04362",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.9391374588012695,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/highsm.04362/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/highsm.04362/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294102.5667667,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 339,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04300:04362/full/pct:6.25/0/default.jpg",
+      "width": 452
+    },
+    {
+      "height": 679,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04300:04362/full/pct:12.5/0/default.jpg",
+      "width": 905
+    },
+    {
+      "height": 1358,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04300:04362/full/pct:25/0/default.jpg",
+      "width": 1810
+    },
+    {
+      "height": 5433,
+      "info": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04300:04362/info.json",
+      "levels": 7,
+      "mimetype": "image/jp2",
+      "size": 6592182,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/04300/04362.jp2",
+      "width": 7240
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2010630352&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2021655290",
+        "http://www.loc.gov/item/2021655290/",
+        "https://hdl.loc.gov/loc.afc/afc2019030.afc2019030_05180_sr01",
+        "http://www.loc.gov/resource/afc2019030.afc2019030_05180_sr01/",
+        "http://www.loc.gov/resource/afc2019030.afc2019030_05180_ph/",
+        "http://www.loc.gov/resource/afc2019030.afc2019030_05180_ms01/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "burris, mary k.",
+        "occupational folklife project",
+        "gabbert, lisa",
+        "pulley, jessica"
+      ],
+      "date": "2019-01-01",
+      "dates": [
+        "2019"
+      ],
+      "description": [
+        "Dr. Mary Burris is a child/adolescent psychiatrist. She talks about what led to her profession; her schooling; and her perceptions and thoughts on the medical profession, as well as her thoughts on the public's perceptions. Dr. Burris discusses the parts of her profession which she loves and those which she finds especially difficult."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-13T19:04:21.434Z",
+      "group": [
+        "afc/2019030",
+        "catalog-split-00",
+        "catalog",
+        "occupational-folklore-of-physicians",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2021655290/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05180:afc2019030_05180_ph:afc2019030_05180_ph01/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05180:afc2019030_05180_ph:afc2019030_05180_ph01/full/pct:12.5/0/default.jpg#h=386&w=290",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05180:afc2019030_05180_ph:afc2019030_05180_ph01/full/pct:25/0/default.jpg#h=772&w=580",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05180:afc2019030_05180_ph:afc2019030_05180_ph01/full/pct:50/0/default.jpg#h=1544&w=1160",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05180:afc2019030_05180_ph:afc2019030_05180_ph01/full/pct:100/0/default.jpg#h=3088&w=2320"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "salt lake city",
+        "utah"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "audio/mp3",
+        "image/gif",
+        "audio/wav",
+        "image/tiff",
+        "application/pdf",
+        "application/x-audio"
+      ],
+      "number": [
+        "2022-01-20t12:27:58",
+        "2021655290",
+        "2022-01-07t11:38:57",
+        "online resource"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "occupational folklife project",
+        "doctoring: the occupational folklore of physicians: archie green fellows project, 2019-2020",
+        "american folklife center",
+        "catalog"
+      ],
+      "score": 27.46776,
+      "shelf_id": "http://lccn.loc.gov/2021655290",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "work-life balance",
+        "mentoring",
+        "practice",
+        "personal narratives",
+        "digital photographs",
+        "job stress",
+        "quality of work life",
+        "women physicians",
+        "pediatrics",
+        "burris, mary k.",
+        "work ethic",
+        "physicians",
+        "interviews",
+        "sound recordings",
+        "work and family",
+        "medical care",
+        "hours of labor",
+        "work environment",
+        "job satisfaction",
+        "medicine",
+        "color",
+        "white collar workers",
+        "hospitals",
+        "overtime",
+        "oral histories",
+        "united states",
+        "medical education",
+        "utah",
+        "mental illness",
+        "psychiatrists",
+        "occupational training",
+        "working mothers"
+      ],
+      "timestamp": "2022-04-30T19:45:31.583Z",
+      "title": "Mary Burris interview conducted by Lisa Gabbert, 2019-09-07.",
+      "url": "https://www.loc.gov/item/2021655290/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2021655291",
+        "http://www.loc.gov/item/2021655291/",
+        "https://hdl.loc.gov/loc.afc/afc2019030.afc2019030_05640_sr01",
+        "http://www.loc.gov/resource/afc2019030.afc2019030_05640_sr01/",
+        "http://www.loc.gov/resource/afc2019030.afc2019030_05640_ph/",
+        "http://www.loc.gov/resource/afc2019030.afc2019030_05640_ms01/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "occupational folklife project",
+        "gabbert, lisa",
+        "rojas, adriana i.",
+        "pulley, jessica"
+      ],
+      "date": "2019-01-01",
+      "dates": [
+        "2019"
+      ],
+      "description": [
+        "Dr. Adriana Rojas works at the Veterans Administration (VA) in Salt Lake City as a primary care physician. She talks about her path to medical school and to primary care, including her training in Colombia."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-13T19:04:21.434Z",
+      "group": [
+        "afc/2019030",
+        "catalog-split-01",
+        "catalog",
+        "occupational-folklore-of-physicians",
+        "main-catalog-split-01",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2021655291/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05640:afc2019030_05640_ph:afc2019030_05640_ph01/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05640:afc2019030_05640_ph:afc2019030_05640_ph01/full/pct:12.5/0/default.jpg#h=500&w=375",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05640:afc2019030_05640_ph:afc2019030_05640_ph01/full/pct:25/0/default.jpg#h=1000&w=750",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05640:afc2019030_05640_ph:afc2019030_05640_ph01/full/pct:50/0/default.jpg#h=2001&w=1500",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05640:afc2019030_05640_ph:afc2019030_05640_ph01/full/pct:100/0/default.jpg#h=4003&w=3000"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "salt lake city",
+        "utah"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "audio/mp3",
+        "image/gif",
+        "audio/wav",
+        "image/tiff",
+        "application/pdf",
+        "application/x-audio"
+      ],
+      "number": [
+        "2021655291",
+        "2021-11-26t13:03:21",
+        "2022-01-20t12:27:10",
+        "online resource"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "occupational folklife project",
+        "doctoring: the occupational folklore of physicians: archie green fellows project, 2019-2020",
+        "american folklife center",
+        "catalog"
+      ],
+      "score": 27.46776,
+      "shelf_id": "http://lccn.loc.gov/2021655291",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "practice",
+        "personal narratives",
+        "humor in the workplace",
+        "health and hygiene",
+        "digital photographs",
+        "job stress",
+        "quality of work life",
+        "women physicians",
+        "rojas, adriana i.",
+        "physicians",
+        "interviews",
+        "sound recordings",
+        "medical care",
+        "work environment",
+        "job satisfaction",
+        "medicine",
+        "color",
+        "hospitals",
+        "substance abuse",
+        "oral histories",
+        "united states",
+        "veterans",
+        "medical education",
+        "utah"
+      ],
+      "timestamp": "2022-04-30T19:45:31.583Z",
+      "title": "Adriana Rojas interview conducted by Lisa Gabbert, 2019-11-06.",
+      "url": "https://www.loc.gov/item/2021655291/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2021655294",
+        "http://www.loc.gov/item/2021655294/",
+        "https://hdl.loc.gov/loc.afc/afc2019030.afc2019030_05700_sr01",
+        "http://www.loc.gov/resource/afc2019030.afc2019030_05700_sr01/",
+        "http://www.loc.gov/resource/afc2019030.afc2019030_05700_ph/",
+        "http://www.loc.gov/resource/afc2019030.afc2019030_05700_ms01/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "mackey, brian",
+        "occupational folklife project",
+        "gabbert, lisa",
+        "hepburn, kirsten"
+      ],
+      "date": "2019-01-01",
+      "dates": [
+        "2019"
+      ],
+      "description": [
+        "Dr. Brian Mackey is an orthopedic surgeon with a sub-specialty in hand orthopedics. He talks about his medical training and his job today. He discusses different stressors he has dealt with, both throughout training and working as a physician. He briefly touches on humor within and surrounding the medical profession."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-13T19:04:21.434Z",
+      "group": [
+        "afc/2019030",
+        "catalog-split-04",
+        "catalog",
+        "occupational-folklore-of-physicians",
+        "main-catalog-split-04",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2021655294/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05700:afc2019030_05700_ph:afc2019030_05700_ph01/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05700:afc2019030_05700_ph:afc2019030_05700_ph01/full/pct:6.25/0/default.jpg#h=252&w=378",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05700:afc2019030_05700_ph:afc2019030_05700_ph01/full/pct:12.5/0/default.jpg#h=504&w=756",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05700:afc2019030_05700_ph:afc2019030_05700_ph01/full/pct:25/0/default.jpg#h=1008&w=1512",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05700:afc2019030_05700_ph:afc2019030_05700_ph01/full/pct:50/0/default.jpg#h=2016&w=3024",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05700:afc2019030_05700_ph:afc2019030_05700_ph01/full/pct:100/0/default.jpg#h=4032&w=6048"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "salt lake city",
+        "utah"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "audio/mp3",
+        "image/gif",
+        "audio/wav",
+        "image/tiff",
+        "application/pdf",
+        "application/x-audio"
+      ],
+      "number": [
+        "2021655294",
+        "2022-01-20t15:54:10",
+        "2021-11-26t13:01:08",
+        "online resource"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "occupational folklife project",
+        "doctoring: the occupational folklore of physicians: archie green fellows project, 2019-2020",
+        "american folklife center",
+        "catalog"
+      ],
+      "score": 27.46776,
+      "shelf_id": "http://lccn.loc.gov/2021655294",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "mackey, brian",
+        "practice",
+        "personal narratives",
+        "humor in the workplace",
+        "medical personnel",
+        "digital photographs",
+        "job stress",
+        "quality of work life",
+        "work ethic",
+        "physicians",
+        "interviews",
+        "sound recordings",
+        "medical care",
+        "work environment",
+        "surgeons",
+        "job satisfaction",
+        "medicine",
+        "color",
+        "hospitals",
+        "oral histories",
+        "united states",
+        "salaries, etc",
+        "medical education",
+        "utah",
+        "occupational training"
+      ],
+      "timestamp": "2022-04-30T19:45:31.583Z",
+      "title": "Brian Mackey interview conducted by Lisa Gabbert, 2019-11-08.",
+      "url": "https://www.loc.gov/item/2021655294/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2021655295",
+        "http://www.loc.gov/item/2021655295/",
+        "https://hdl.loc.gov/loc.afc/afc2019030.afc2019030_05720_sr01",
+        "http://www.loc.gov/resource/afc2019030.afc2019030_05720_sr01/",
+        "http://www.loc.gov/resource/afc2019030.afc2019030_05720_ph/",
+        "http://www.loc.gov/resource/afc2019030.afc2019030_05720_ms01/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "occupational folklife project",
+        "gabbert, lisa",
+        "pulley, jessica",
+        "wiet, susie"
+      ],
+      "date": "2019-01-01",
+      "dates": [
+        "2019"
+      ],
+      "description": [
+        "Dr. Susie Wiet is a child and adolescent psychiatrist, specializing in addiction medicine. She is currently in private practice in Salt Lake City. She shares her experiences in medical school, residency and her past and current career ventures. She discusses her perspective on health, both mental and physical, and her belief in using integrated medicine for effective healing. She shares the joys and hardships of being a physician and talks briefly about gender discrimination in the medical field."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-13T19:04:21.434Z",
+      "group": [
+        "afc/2019030",
+        "catalog-split-05",
+        "catalog",
+        "occupational-folklore-of-physicians",
+        "main-catalog-split-05",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2021655295/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05720:afc2019030_05720_ph:afc2019030_05720_ph01/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05720:afc2019030_05720_ph:afc2019030_05720_ph01/full/pct:12.5/0/default.jpg#h=281&w=375",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05720:afc2019030_05720_ph:afc2019030_05720_ph01/full/pct:25/0/default.jpg#h=562&w=750",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05720:afc2019030_05720_ph:afc2019030_05720_ph01/full/pct:50/0/default.jpg#h=1124&w=1500",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05720:afc2019030_05720_ph:afc2019030_05720_ph01/full/pct:100/0/default.jpg#h=2249&w=3000"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "salt lake city",
+        "utah"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "audio/mp3",
+        "image/gif",
+        "audio/wav",
+        "image/tiff",
+        "application/pdf",
+        "application/x-audio"
+      ],
+      "number": [
+        "2021-11-26t13:00:29",
+        "2021655295",
+        "2022-01-20t15:56:42",
+        "online resource"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "occupational folklife project",
+        "doctoring: the occupational folklore of physicians: archie green fellows project, 2019-2020",
+        "american folklife center",
+        "catalog"
+      ],
+      "score": 27.46776,
+      "shelf_id": "http://lccn.loc.gov/2021655295",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "practice",
+        "personal narratives",
+        "humor in the workplace",
+        "digital photographs",
+        "job stress",
+        "women physicians",
+        "work ethic",
+        "wiet, susie",
+        "physicians",
+        "interviews",
+        "sound recordings",
+        "medical care",
+        "work environment",
+        "job satisfaction",
+        "medicine",
+        "color",
+        "hospitals",
+        "oral histories",
+        "united states",
+        "sex discrimination in employment",
+        "medical education",
+        "utah",
+        "mental illness",
+        "occupational training",
+        "psychiatrists"
+      ],
+      "timestamp": "2022-04-30T19:45:31.583Z",
+      "title": "Susie Wiet interview conducted by Lisa Gabbert, 2019-12-08.",
+      "url": "https://www.loc.gov/item/2021655295/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2021655296",
+        "http://www.loc.gov/item/2021655296/",
+        "https://hdl.loc.gov/loc.afc/afc2019030.afc2019030_05740_sr01",
+        "http://www.loc.gov/resource/afc2019030.afc2019030_05740_sr01/",
+        "http://www.loc.gov/resource/afc2019030.afc2019030_05740_ph/",
+        "http://www.loc.gov/resource/afc2019030.afc2019030_05740_ms01/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "hepburn, kirsten",
+        "occupational folklife project",
+        "gabbert, lisa",
+        "runnels, sean"
+      ],
+      "date": "2020-01-01",
+      "dates": [
+        "2020"
+      ],
+      "description": [
+        "Dr. Sean Runnels is an anesthesiologist and professor at the University of Utah. He is also CEO of a medical supply company. Dr. Runnels talks about his medical training, and his perspective on the medical field, EMRs, and the effect hospital administration has on physicians' ability to do their jobs. Dr. Runnels shares his views on global healthcare, having worked in foreign countries in a medical capacity. He talks about how he views the future of medicine and the medical profession."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-13T19:04:21.434Z",
+      "group": [
+        "afc/2019030",
+        "catalog-split-06",
+        "catalog",
+        "occupational-folklore-of-physicians",
+        "main-catalog-split-06",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2021655296/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05740:afc2019030_05740_ph:afc2019030_05740_ph01/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05740:afc2019030_05740_ph:afc2019030_05740_ph01/full/pct:6.25/0/default.jpg#h=252&w=378",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05740:afc2019030_05740_ph:afc2019030_05740_ph01/full/pct:12.5/0/default.jpg#h=504&w=756",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05740:afc2019030_05740_ph:afc2019030_05740_ph01/full/pct:25/0/default.jpg#h=1008&w=1512",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05740:afc2019030_05740_ph:afc2019030_05740_ph01/full/pct:50/0/default.jpg#h=2016&w=3024",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05740:afc2019030_05740_ph:afc2019030_05740_ph01/full/pct:100/0/default.jpg#h=4032&w=6048"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "salt lake city",
+        "utah"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "audio/mp3",
+        "image/gif",
+        "audio/wav",
+        "image/tiff",
+        "application/pdf",
+        "application/x-audio"
+      ],
+      "number": [
+        "2021-11-26t12:59:47",
+        "2021655296",
+        "2022-01-20t15:58:50",
+        "online resource"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "occupational folklife project",
+        "doctoring: the occupational folklore of physicians: archie green fellows project, 2019-2020",
+        "american folklife center",
+        "catalog"
+      ],
+      "score": 27.46776,
+      "shelf_id": "http://lccn.loc.gov/2021655296",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "practice",
+        "personal narratives",
+        "humor in the workplace",
+        "digital photographs",
+        "job stress",
+        "quality of work life",
+        "work ethic",
+        "physicians",
+        "interviews",
+        "sound recordings",
+        "interpersonal relations",
+        "runnels, sean",
+        "medical care",
+        "work environment",
+        "organizational change",
+        "job satisfaction",
+        "anesthesiologists",
+        "medicine",
+        "medical technology",
+        "color",
+        "hospitals",
+        "oral histories",
+        "united states",
+        "medical education",
+        "utah",
+        "occupational training"
+      ],
+      "timestamp": "2022-04-30T19:45:31.583Z",
+      "title": "Sean Runnels interview conducted by Lisa Gabbert, 2020-02-24.",
+      "url": "https://www.loc.gov/item/2021655296/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2021655298",
+        "http://www.loc.gov/item/2021655298/",
+        "https://hdl.loc.gov/loc.afc/afc2019030.afc2019030_05820_sr01",
+        "http://www.loc.gov/resource/afc2019030.afc2019030_05820_sr01/",
+        "http://www.loc.gov/resource/afc2019030.afc2019030_05820_ph/",
+        "http://www.loc.gov/resource/afc2019030.afc2019030_05820_ms01/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "occupational folklife project",
+        "gabbert, lisa",
+        "walsh, william j.",
+        "pulley, jessica"
+      ],
+      "date": "2019-01-01",
+      "dates": [
+        "2019"
+      ],
+      "description": [
+        "Dr. William \"Bill\" Walsh shares his experiences in medical school through residency, on to his current career as an addiction medicine physician. He discusses the hardships of being a physician, as well as the role humor plays in medical training and profession."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-13T19:04:21.434Z",
+      "group": [
+        "afc/2019030",
+        "catalog-split-08",
+        "catalog",
+        "occupational-folklore-of-physicians",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2021655298/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05820:afc2019030_05820_ph:afc2019030_05820_ph01/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05820:afc2019030_05820_ph:afc2019030_05820_ph01/full/pct:12.5/0/default.jpg#h=281&w=375",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05820:afc2019030_05820_ph:afc2019030_05820_ph01/full/pct:25/0/default.jpg#h=562&w=750",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05820:afc2019030_05820_ph:afc2019030_05820_ph01/full/pct:50/0/default.jpg#h=1124&w=1500",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019030:afc2019030_05820:afc2019030_05820_ph:afc2019030_05820_ph01/full/pct:100/0/default.jpg#h=2249&w=3000"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "salt lake city",
+        "utah"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "audio/mp3",
+        "image/gif",
+        "audio/wav",
+        "image/tiff",
+        "application/pdf",
+        "application/x-audio"
+      ],
+      "number": [
+        "2022-01-20t16:04:35",
+        "2021-11-26t12:58:22",
+        "2021655298",
+        "online resource"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "occupational folklife project",
+        "doctoring: the occupational folklore of physicians: archie green fellows project, 2019-2020",
+        "american folklife center",
+        "catalog"
+      ],
+      "score": 27.46776,
+      "shelf_id": "http://lccn.loc.gov/2021655298",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "work-life balance",
+        "practice",
+        "personal narratives",
+        "humor in the workplace",
+        "digital photographs",
+        "job stress",
+        "quality of work life",
+        "performance standards",
+        "walsh, william j.",
+        "work ethic",
+        "physicians",
+        "interviews",
+        "sound recordings",
+        "work and family",
+        "medical care",
+        "work environment",
+        "job satisfaction",
+        "medicine",
+        "color",
+        "hospitals",
+        "substance abuse",
+        "oral histories",
+        "united states",
+        "medical education",
+        "utah",
+        "mental illness",
+        "occupational training"
+      ],
+      "timestamp": "2022-04-30T19:45:31.583Z",
+      "title": "William J. Walsh interview conducted by Lisa Gabbert, 2019-09-20.",
+      "url": "https://www.loc.gov/item/2021655298/"
+    }
+  ],
+  "reproductions": "<p>\nSome images in this collection are described in groups; others are \ndescribed individually. In some cases, all of the images in the \ngroup display online, in other cases they do not.\n</p>\n\n<p>\nYou can download online images yourself.  Alternatively, you can \npurchase copies of various types.\n</p>\n\n<ol>\n<p>\t\n<strong><li>Determine whether the desired materials can be retrieved \nonline.</strong>\n</p>\n<ul>\n<p>\t\n<li>Look in the <strong>Medium</strong> field above to determine whether\n the description is for one photograph or more than one.</li>\n </p>\n <p>\n<li>If the description is for a single item and it is displaying, \nyou can download or purchase a print.  Cite the number that begins \nwith &quot;LC-DIG...&quot; when purchasing copies through Library of \nCongress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is \na &quot;Click for more images&quot; icon displaying, select that. \nIndividual images will display; you can download or purchase prints. \nCite the number that begins with &quot;LC-DIG...&quot; when purchasing \ncopies through Library of Congress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is no\n &quot;Click for more images&quot; icon displaying, return to the\n  &quot;About this Item&quot; tab and select the &quot;<i>Check for \n  online items from this group</i>&quot; link.  Then select the \n  \"Obtaining Copies\" tab for any retrieved items that are of interest.\n</p>\n</ul>\n</li>\n\n<p>\n<strong><li>If the images do not display online</strong> -- Select images for reproduction through one of these methods:\n</p>\n<ul>\n<p>\t\n<li>Visit the Prints &amp; Photographs Reading Room and request to view \nthe group (general information about service in the reading room is \navailable at: <a href=\"//www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>).</li>  \n</p>\n<p>\n<li>P&amp;P reading room staff can provide up to 15 photocopies of items \nper calendar year. (Color images cannot be photocopied.) For assistance,\n see our <a href=\"//www.loc.gov/rr/askalib/ask-print.html\">Ask a Librarian</a> page. OR</li>\n</p>\n<p>\n<li>Hire a freelance researcher to do further selection for you \n(a list of researchers is available at: \n<a href=\"//www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>).\n</p>\n</ul>\n</li>\n</ol>\n\n<p>\n<strong>Purchasing Copies</strong>\n</p>\n\n<p>\nLibrary of Congress Duplication Services can make copies of various \ntypes from images in Prints & Photographs Division Collections.  \nPrice lists, contact information, and order forms are available on the \n<a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.\n</p>\n\n<p>\nCarol M. Highsmith sells prints of her photographs at: <a href=\"http://photographsamerica.com/\">http://photographsamerica.com/</a> .\n</p>  \n\n\n\n\n        ",
+  "resource": {
+    "caption": "original digital file",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/highsm/04300/04362t.gif",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/highsm.04362/"
+  },
+  "resources": [
+    {
+      "caption": "original digital file",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/highsm/04300/04362t.gif",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/highsm.04362/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294103506,
+  "type": "zoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/highsm.04362/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/highsm.04362/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/highsm.04362/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/highsm.04362/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/highsm.04362/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/highsm.04362/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/highsm.04362/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/highsm.04362/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/highsm.04362/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/highsm.04362/?fo=json&st=text"
+  }
+}

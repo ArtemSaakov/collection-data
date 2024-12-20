@@ -1,0 +1,1747 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Detroit Publishing Co, C. C. &amp; Detroit Publishing Co, P. <cite>Little Rock Public Library, Little Rock, Ark</cite>. United States Arkansas Little Rock, None. [Cbetween 1905 and 1915] [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2016815290/.",
+    "chicago": "Detroit Publishing Co., Copyright Claimant, and Publisher Detroit Publishing Co. <cite>Little Rock Public Library, Little Rock, Ark</cite>. United States Arkansas Little Rock, None. [Cbetween 1905 and 1915] Photograph. https://www.loc.gov/item/2016815290/.",
+    "mla": "Detroit Publishing Co., Copyright Claimant, and Publisher Detroit Publishing Co. <cite>Little Rock Public Library, Little Rock, Ark</cite>. [Cbetween 1905 and 1915] Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2016815290/&gt;."
+  },
+  "item": {
+    "_version_": 1731069018903674880,
+    "access_restricted": false,
+    "aka": [
+      "http://www.loc.gov/pictures/collection/det/item/2016815290/",
+      "http://www.loc.gov/item/2016815290/",
+      "http://www.loc.gov/pictures/item/2016815290/",
+      "https://hdl.loc.gov/loc.pnp/det.4a23603",
+      "http://www.loc.gov/resource/det.4a23603/",
+      "http://lccn.loc.gov/2016815290"
+    ],
+    "call_number": "LC-D4-71740 [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Detroit Publishing Co., copyright claimant",
+      "Detroit Publishing Co., publisher"
+    ],
+    "contributors": [
+      {
+        "detroit publishing co.": "https://www.loc.gov/search/?fa=contributor:detroit+publishing+co.&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2017-11-21T05:06:40Z",
+    "created_published": [
+      "c[between 1905 and 1915]"
+    ],
+    "created_published_date": "c[between 1905 and 1915]",
+    "date": "1905-01-01",
+    "dates": [
+      {
+        "1905": "https://www.loc.gov/search/?dates=1905/1905&fo=json"
+      }
+    ],
+    "description": [
+      "1 negative : glass ; 8 x 10 in."
+    ],
+    "digital_id": [
+      "det 4a23603 //hdl.loc.gov/loc.pnp/det.4a23603"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-09-01T22:30:40.543Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/det/item/2016815290/#det",
+      "http://lccn.loc.gov/2016815290#catalog-split-02"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Dry plate negatives."
+    ],
+    "genre": [
+      "Dry plate negatives"
+    ],
+    "group": [
+      "det",
+      "catalog-split-02",
+      "catalog",
+      "detroit-publishing-company",
+      "main-catalog-split-02",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2016815290/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23600/4a23603_150px.jpg#h=120&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23600/4a23603t.gif#h=120&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23600/4a23603r.jpg#h=512&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23600/4a23603v.jpg#h=820&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-D4-71740 [P&P]",
+      "contributor_names": [
+        "Detroit Publishing Co., copyright claimant ",
+        "Detroit Publishing Co., publisher "
+      ],
+      "contributors": [
+        "Detroit Publishing Co., copyright claimant, publisher."
+      ],
+      "control_number": "2016815290",
+      "created": "2017-11-21T05:06:40Z",
+      "created_published": "c[between 1905 and 1915]",
+      "created_published_date": "c[between 1905 and 1915]",
+      "creators": [
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=name&q=Detroit%20Publishing%20Co.&co=det",
+          "role": "copyright claimant",
+          "title": "Detroit Publishing Co."
+        },
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=name&q=Detroit%20Publishing%20Co.&co=det",
+          "role": "publisher",
+          "title": "Detroit Publishing Co."
+        }
+      ],
+      "date": "c[between 1905 and 1915]",
+      "digital_id": [
+        "det 4a23603 //hdl.loc.gov/loc.pnp/det.4a23603"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=format&q=Dry%20plate%20negatives.&co=det",
+          "title": "Dry plate negatives."
+        }
+      ],
+      "genre": [
+        "Dry plate negatives"
+      ],
+      "id": "2016815290",
+      "language": [
+        "eng"
+      ],
+      "link": "//www.loc.gov/pictures/item/2016815290/",
+      "marc": "//www.loc.gov/pictures/item/2016815290/marc/",
+      "medium": [
+        "1 negative : glass ; 8 x 10 in."
+      ],
+      "medium_brief": "1 negative :",
+      "mediums": [
+        "1 negative : glass ; 8 x 10 in."
+      ],
+      "modified": "2017-11-21T05:06:40Z",
+      "notes": [
+        "\"G 6758\" on negative.",
+        "Detroit Publishing Co. no. 071740.",
+        "Gift; State Historical Society of Colorado; 1949."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2016815290",
+        "https://www.loc.gov/item/det1994021251/PP"
+      ],
+      "other_control_numbers": [
+        "20123138",
+        "det1994021251/PP"
+      ],
+      "part_of": "Detroit Publishing Company photograph collection (Library of Congress)",
+      "place": [
+        {
+          "latitude": "",
+          "link": "//www.loc.gov/pictures/related/?fi=place&q=Arkansas--Little%20Rock&co=det",
+          "longitude": "",
+          "title": "Arkansas--Little Rock"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-det-4a23603 (digital file from original)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/det.4a23603"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23600/4a23603_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23600/4a23603r.jpg",
+      "sort_date": "1905",
+      "source_collection": [
+        "Detroit Publishing Company photograph collection (Library of Congress)"
+      ],
+      "source_created": "1994-01-01T00:00:00Z",
+      "source_modified": "2017-11-03T10:58:31Z",
+      "subject_headings": [
+        "Libraries.",
+        "United States--Arkansas--Little Rock.",
+        "Arkansas--Little Rock"
+      ],
+      "subjects": [
+        "Libraries",
+        "United States--Arkansas--Little Rock"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23600/4a23603_150px.jpg",
+      "title": "Little Rock Public Library, Little Rock, Ark."
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2016815290",
+    "link": "//www.loc.gov/pictures/item/2016815290/",
+    "location": [
+      "united states",
+      "arkansas",
+      "little rock"
+    ],
+    "location_city": [
+      "little rock"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_state": [
+      "arkansas"
+    ],
+    "locations": [
+      {
+        "arkansas": "https://www.loc.gov/search/?fa=location:arkansas&fo=json"
+      },
+      {
+        "little rock": "https://www.loc.gov/search/?fa=location:little+rock&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "little rock": "https://www.loc.gov/search/?fa=location_city:little+rock&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "arkansas": "https://www.loc.gov/search/?fa=location_state:arkansas&fo=json"
+      }
+    ],
+    "marc": "//www.loc.gov/pictures/item/2016815290/marc/",
+    "medium": [
+      "1 negative : glass ; 8 x 10 in."
+    ],
+    "medium_brief": "1 negative :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2017-11-21T05:06:40Z",
+    "notes": [
+      "\"G 6758\" on negative.",
+      "Detroit Publishing Co. no. 071740.",
+      "Gift; State Historical Society of Colorado; 1949."
+    ],
+    "number": [
+      "http://www.loc.gov/item/det1994021251/pp",
+      "http://www.loc.gov/item/2016815290",
+      "http://www.loc.gov/item/20123138",
+      "2017-11-03t10:58:31",
+      "2016815290"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/20123138",
+      "http://www.loc.gov/item/det1994021251/pp",
+      "http://www.loc.gov/item/2016815290"
+    ],
+    "number_lccn": [
+      "2016815290"
+    ],
+    "number_source_modified": [
+      "2017-11-03t10:58:31"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "20123138",
+      "det1994021251/PP"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2016815290/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2016815290/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2016815290/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 25173,
+        "title": "detroit publishing company",
+        "url": "https://www.loc.gov/collections/detroit-publishing-company/?fo=json"
+      },
+      {
+        "count": 437336,
+        "title": "american memory",
+        "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "//www.loc.gov/pictures/related/?fi=place&q=Arkansas--Little%20Rock&co=det",
+        "longitude": "",
+        "title": "Arkansas--Little Rock"
+      }
+    ],
+    "related": {
+      "neighbors": "//www.loc.gov/pictures/related/?&co=det&pk=2016815290&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-det-4a23603 (digital file from original)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/det.4a23603"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from original",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23600/4a23603_150px.jpg",
+        "url": "https://www.loc.gov/resource/det.4a23603/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress believes that many of the papers in the Detroit Publishing Company collection are in the public domain or have no known copyright restrictions and are free to use and reuse. For example, all photos published in the U.S. more than 95 years ago are in the public domain. The Library has also obtained permission for the use of many other materials, and presents additional materials pursuant to fair use under United States copyright law. Researchers should watch for documents that may be copyrighted (for example, published in the United States less than 95 years ago, or unpublished and the author died less than 70 years ago).</p>\r\n<p> You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights.</p>\r\n<p>Credit Line: Library of Congress, Prints &amp; Photographs Division, Detroit Publishing Company Collection.<br>\r\nFor information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: <a href=\"https://www.loc.gov/rr/print/res/102_det.html\">Detroit Publishing Company - Rights and Restrictions Information</a></p>\r\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a> </p>\r\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "LC-D4-71740 [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1905",
+    "source_collection": "Detroit Publishing Company photograph collection (Library of Congress)",
+    "source_created": "1994-01-01T00:00:00Z",
+    "source_modified": "2017-11-03T10:58:31Z",
+    "subject": [
+      "arkansas",
+      "united states",
+      "dry plate negatives",
+      "little rock",
+      "libraries"
+    ],
+    "subject_headings": [
+      "Libraries",
+      "United States--Arkansas--Little Rock"
+    ],
+    "subjects": [
+      {
+        "arkansas": "https://www.loc.gov/search/?fa=subject:arkansas&fo=json"
+      },
+      {
+        "dry plate negatives": "https://www.loc.gov/search/?fa=subject:dry+plate+negatives&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "little rock": "https://www.loc.gov/search/?fa=subject:little+rock&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23600/4a23603_150px.jpg",
+    "timestamp": "2022-04-25T08:41:03.137Z",
+    "title": "Little Rock Public Library, Little Rock, Ark.",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2016815290/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/det/item/2016796034/",
+        "http://www.loc.gov/item/2016796034/",
+        "http://www.loc.gov/pictures/item/2016796034/",
+        "https://hdl.loc.gov/loc.pnp/det.4a23591",
+        "http://www.loc.gov/resource/det.4a23591/",
+        "http://lccn.loc.gov/2016796034"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "detroit publishing co."
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 negative : glass ; 8 x 10 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:28:47.966Z",
+      "group": [
+        "det",
+        "catalog-split-06",
+        "catalog",
+        "detroit-publishing-company",
+        "main-catalog-split-06",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016796034/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23500/4a23591_150px.jpg#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23500/4a23591t.gif#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23500/4a23591r.jpg#h=514&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23500/4a23591v.jpg#h=822&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "arkansas",
+        "little rock"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2016796034",
+        "http://www.loc.gov/item/det1994001985/pp",
+        "2017-10-24t15:29:45",
+        "2016796034",
+        "http://www.loc.gov/item/20092015"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "detroit publishing company",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 41.98982,
+      "shelf_id": "LC-D4-71726 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "arkansas",
+        "united states",
+        "streets",
+        "dry plate negatives",
+        "little rock"
+      ],
+      "timestamp": "2022-04-25T07:27:49.860Z",
+      "title": "Main St., Little Rock, Ark.",
+      "url": "https://www.loc.gov/item/2016796034/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/det/item/2016796035/",
+        "http://www.loc.gov/item/2016796035/",
+        "http://www.loc.gov/pictures/item/2016796035/",
+        "https://hdl.loc.gov/loc.pnp/det.4a23604",
+        "http://www.loc.gov/resource/det.4a23604/",
+        "http://lccn.loc.gov/2016796035"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "detroit publishing co."
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 negative : glass ; 8 x 10 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:28:47.966Z",
+      "group": [
+        "det",
+        "catalog-split-07",
+        "catalog",
+        "detroit-publishing-company",
+        "main-catalog-split-07",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016796035/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23600/4a23604_150px.jpg#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23600/4a23604t.gif#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23600/4a23604r.jpg#h=509&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23600/4a23604v.jpg#h=814&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "arkansas",
+        "little rock"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2016796035",
+        "2016796035",
+        "http://www.loc.gov/item/det1994001986/pp",
+        "http://www.loc.gov/item/20092017",
+        "2017-10-24t15:29:47"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "detroit publishing company",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 41.98982,
+      "shelf_id": "LC-D4-71741 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "courthouses",
+        "arkansas",
+        "united states",
+        "dry plate negatives",
+        "little rock"
+      ],
+      "timestamp": "2022-04-25T07:27:49.860Z",
+      "title": "Pulaski County Court House, Little Rock, Ark.",
+      "url": "https://www.loc.gov/item/2016796035/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/det/item/2016811076/",
+        "http://www.loc.gov/item/2016811076/",
+        "http://www.loc.gov/pictures/item/2016811076/",
+        "https://hdl.loc.gov/loc.pnp/det.4a19785",
+        "http://www.loc.gov/resource/det.4a19785/",
+        "http://lccn.loc.gov/2016811076"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "detroit publishing co."
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 negative : glass ; 8 x 10 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:30:15.527Z",
+      "group": [
+        "det",
+        "catalog-split-00",
+        "catalog",
+        "detroit-publishing-company",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016811076/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19700/4a19785_150px.jpg#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19700/4a19785t.gif#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19700/4a19785r.jpg#h=507&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19700/4a19785v.jpg#h=812&w=1024"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "arkansas",
+        "little rock"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2016811076",
+        "http://www.loc.gov/item/2016811076",
+        "http://www.loc.gov/item/20118054",
+        "2017-11-02t14:50:21",
+        "http://www.loc.gov/item/det1994017036/pp"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "detroit publishing company",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 41.98982,
+      "shelf_id": "LC-D4-39505 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "arkansas",
+        "commercial facilities",
+        "united states",
+        "streets",
+        "dry plate negatives",
+        "little rock"
+      ],
+      "timestamp": "2022-04-25T08:26:55.091Z",
+      "title": "[Main Street north from Sixth, Little Rock, Ark.]",
+      "url": "https://www.loc.gov/item/2016811076/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/det/item/2016811077/",
+        "http://www.loc.gov/item/2016811077/",
+        "http://www.loc.gov/pictures/item/2016811077/",
+        "https://hdl.loc.gov/loc.pnp/det.4a19786",
+        "http://www.loc.gov/resource/det.4a19786/",
+        "http://lccn.loc.gov/2016811077"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "detroit publishing co."
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 negative : glass ; 8 x 10 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:30:15.527Z",
+      "group": [
+        "det",
+        "catalog-split-01",
+        "catalog",
+        "detroit-publishing-company",
+        "main-catalog-split-01",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016811077/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19700/4a19786_150px.jpg#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19700/4a19786t.gif#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19700/4a19786r.jpg#h=507&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19700/4a19786v.jpg#h=811&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "arkansas",
+        "little rock"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/det1994017037/pp",
+        "2016811077",
+        "2017-11-02t14:50:23",
+        "http://www.loc.gov/item/2016811077",
+        "http://www.loc.gov/item/20118055"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "detroit publishing company",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 41.98982,
+      "shelf_id": "LC-D4-39506 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "arkansas",
+        "parks",
+        "united states",
+        "zoos",
+        "dry plate negatives",
+        "little rock"
+      ],
+      "timestamp": "2022-04-25T08:26:55.091Z",
+      "title": "[The Bear pits, Forest Park, Little Rock, Ark.]",
+      "url": "https://www.loc.gov/item/2016811077/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/det/item/2016811078/",
+        "http://www.loc.gov/item/2016811078/",
+        "http://www.loc.gov/pictures/item/2016811078/",
+        "https://hdl.loc.gov/loc.pnp/det.4a19787",
+        "http://www.loc.gov/resource/det.4a19787/",
+        "http://lccn.loc.gov/2016811078"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "detroit publishing co."
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 negative : glass ; 8 x 10 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:30:15.527Z",
+      "group": [
+        "det",
+        "catalog-split-02",
+        "catalog",
+        "detroit-publishing-company",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016811078/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19700/4a19787_150px.jpg#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19700/4a19787t.gif#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19700/4a19787r.jpg#h=508&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19700/4a19787v.jpg#h=813&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "arkansas",
+        "little rock"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2016811078",
+        "http://www.loc.gov/item/2016811078",
+        "http://www.loc.gov/item/20118056",
+        "2017-11-02t14:50:24",
+        "http://www.loc.gov/item/det1994017038/pp"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "detroit publishing company",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 41.98982,
+      "shelf_id": "LC-D4-39507 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "arkansas",
+        "parks",
+        "united states",
+        "dry plate negatives",
+        "little rock",
+        "theaters"
+      ],
+      "timestamp": "2022-04-25T08:26:55.091Z",
+      "title": "[Forest Park Theater, Little Rock, Ark.]",
+      "url": "https://www.loc.gov/item/2016811078/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/det/item/2016811079/",
+        "http://www.loc.gov/item/2016811079/",
+        "http://www.loc.gov/pictures/item/2016811079/",
+        "https://hdl.loc.gov/loc.pnp/det.4a19788",
+        "http://www.loc.gov/resource/det.4a19788/",
+        "http://lccn.loc.gov/2016811079"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "detroit publishing co."
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 negative : glass ; 8 x 10 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:30:15.527Z",
+      "group": [
+        "det",
+        "catalog-split-03",
+        "catalog",
+        "detroit-publishing-company",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016811079/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19700/4a19788_150px.jpg#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19700/4a19788t.gif#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19700/4a19788r.jpg#h=508&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19700/4a19788v.jpg#h=812&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "arkansas",
+        "little rock"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017-11-02t14:50:26",
+        "2016811079",
+        "http://www.loc.gov/item/20118057",
+        "http://www.loc.gov/item/2016811079",
+        "http://www.loc.gov/item/det1994017039/pp"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "detroit publishing company",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 41.98982,
+      "shelf_id": "LC-D4-39508 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "arkansas",
+        "post offices",
+        "united states",
+        "dry plate negatives",
+        "little rock"
+      ],
+      "timestamp": "2022-04-25T08:26:55.091Z",
+      "title": "[Post office, Little Rock, Ark.]",
+      "url": "https://www.loc.gov/item/2016811079/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "det",
+      "catalog-split-02",
+      "catalog",
+      "detroit-publishing-company",
+      "main-catalog-split-02",
+      "main-catalog",
+      "catalog-split-06",
+      "main-catalog-split-06",
+      "catalog-split-07",
+      "main-catalog-split-07",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "catalog-split-01",
+      "main-catalog-split-01",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "ndnp/dlc-2020_now",
+      "library-of-congress-washington-dc-awardee-8",
+      "rbpebib.mar",
+      "catalog-split-04",
+      "broadsides-and-printed-ephemera",
+      "main-catalog-split-04",
+      "gmd.mar",
+      "catalog-split-09",
+      "general-maps",
+      "main-catalog-split-09",
+      "catalog-split-10",
+      "main-catalog-split-10"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "det.4a23603",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.7265975475311279,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/det.4a23603/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/det.4a23603/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294101.3635187,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 20630122,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/det/4a20000/4a23000/4a23600/4a23603u.tif",
+      "width": 0
+    },
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 164784997,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/det/4a20000/4a23000/4a23600/4a23603a.tif",
+      "width": 0
+    },
+    {
+      "height": 120,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 4262,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23600/4a23603_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 120,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 10416,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23600/4a23603t.gif",
+      "width": 150
+    },
+    {
+      "height": 512,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 53656,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23600/4a23603r.jpg",
+      "width": 640
+    },
+    {
+      "height": 820,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 138331,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23600/4a23603v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "//www.loc.gov/pictures/related/?&co=det&pk=2016815290&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn84020670/1883-06-23/ed-1/",
+        "http://www.loc.gov/resource/sn84020670/1883-06-23/ed-1/"
+      ],
+      "batch": [
+        "dlc_longview_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1883-06-23",
+      "dates": [
+        "1883-06-23"
+      ],
+      "description": [
+        "Little Rock, Ark."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-07T20:32:50.011Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn84020670/1883-06-23/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_longview_ver01:data:sn84020670:00220720378:1883062301:0001/full/pct:3.125/0/default.jpg#h=283&w=206",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_longview_ver01:data:sn84020670:00220720378:1883062301:0001/full/pct:6.25/0/default.jpg#h=566&w=412",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_longview_ver01:data:sn84020670:00220720378:1883062301:0001/full/pct:12.5/0/default.jpg#h=1133&w=824"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "arkansas",
+        "pulaski",
+        "pulaski county",
+        "united states",
+        "little rock"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "00220720378",
+        "sn84020670"
+      ],
+      "numeric_shelf_id": 188306231,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Arkansas mansion",
+        "Weekly mansion",
+        "Weekly Arkansas mansion"
+      ],
+      "partof": [
+        "arkansas weekly mansion (little rock, ark.) 1880-1886",
+        "serial and government publications division",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 31.402645,
+      "shelf_id": "sn84020670, 1883-06-23, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "pulaski county (ark.)",
+        "arkansas",
+        "newspapers",
+        "african american newspapers",
+        "african americans",
+        "little rock (ark.)",
+        "pulaski county",
+        "united states",
+        "pulaski",
+        "little rock",
+        "african american"
+      ],
+      "timestamp": "2023-08-08T12:35:06.218Z",
+      "title": "Arkansas weekly mansion (Little Rock, Ark.), June 23, 1883",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn84020670/1883-06-23/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83025492/1869-10-05/ed-1/",
+        "http://www.loc.gov/resource/sn83025492/1869-10-05/ed-1/"
+      ],
+      "batch": [
+        "dlc_erie_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1869-10-05",
+      "dates": [
+        "1869-10-05"
+      ],
+      "description": [
+        "Little Rock, Ark."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-07T20:31:23.113Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83025492/1869-10-05/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_erie_ver01:data:sn83025492:00220720469:1869100501:0004/full/pct:3.125/0/default.jpg#h=267&w=182",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_erie_ver01:data:sn83025492:00220720469:1869100501:0004/full/pct:6.25/0/default.jpg#h=534&w=365",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_erie_ver01:data:sn83025492:00220720469:1869100501:0004/full/pct:12.5/0/default.jpg#h=1068&w=731"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "arkansas",
+        "pulaski",
+        "pulaski county",
+        "united states",
+        "little rock"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "00220720469",
+        "sn83025492"
+      ],
+      "numeric_shelf_id": 186910051,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Freeman"
+      ],
+      "partof": [
+        "the arkansas freeman (little rock, ark.) 1869-18??",
+        "serial and government publications division",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 31.402645,
+      "shelf_id": "sn83025492, 1869-10-05, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "pulaski county (ark.)",
+        "arkansas",
+        "newspapers",
+        "african americans",
+        "african american newspapers",
+        "little rock (ark.)",
+        "pulaski county",
+        "united states",
+        "pulaski",
+        "little rock",
+        "african american"
+      ],
+      "timestamp": "2023-08-08T05:57:57.864Z",
+      "title": "The Arkansas freeman (Little Rock, Ark.), October 5, 1869",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83025492/1869-10-05/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83025496/1900-01-27/ed-1/",
+        "http://www.loc.gov/resource/sn83025496/1900-01-27/ed-1/"
+      ],
+      "batch": [
+        "dlc_kingman_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1900-01-27",
+      "dates": [
+        "1900-01-27"
+      ],
+      "description": [
+        "Little Rock, Ark."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-07T20:32:34.516Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83025496/1900-01-27/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025496:00220720457:1900012701:0001/full/pct:3.125/0/default.jpg#h=303&w=210",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025496:00220720457:1900012701:0001/full/pct:6.25/0/default.jpg#h=606&w=420"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "arkansas",
+        "pulaski",
+        "pulaski county",
+        "united states",
+        "little rock"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn83025496",
+        "1",
+        "00220720457"
+      ],
+      "numeric_shelf_id": 190001271,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the american guide (little rock, ark.) 1889-1???",
+        "serial and government publications division",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 31.402645,
+      "shelf_id": "sn83025496, 1900-01-27, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "pulaski county (ark.)",
+        "arkansas",
+        "newspapers",
+        "african americans",
+        "african american newspapers",
+        "little rock (ark.)",
+        "pulaski county",
+        "united states",
+        "pulaski",
+        "little rock",
+        "african american"
+      ],
+      "timestamp": "2023-08-08T11:26:26.035Z",
+      "title": "The American guide (Little Rock, Ark.), January 27, 1900",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83025496/1900-01-27/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/rbpe.0010320a/",
+        "https://hdl.loc.gov/loc.rbc/rbpe.0010320a",
+        "http://www.loc.gov/item/rbpe.0010320a/",
+        "http://memory.loc.gov/cgi-bin/query/r?ammem/AMALL:@field(NUMBER+@band(rbpe+0010320a))",
+        "http://lccn.loc.gov/2020775139",
+        "http://www.loc.gov/item/2020775139/",
+        "https://hdl.loc.gov/loc.rbc/rbpe.0010320a"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "arkansas. governor ( : fulton)",
+        "printed ephemera collection (library of congress)",
+        "arkansas (ter.) governor (william s. fulton)"
+      ],
+      "date": "1830",
+      "dates": [
+        "1830",
+        "1835"
+      ],
+      "description": [
+        "Blank form filled in in mss for Bradford C. Fowler dated Feb. 26, 1836 and signed by the governor. Available also through the Library of Congress web site in two forms: as facsimile page images and as full text in SGML. Printed Ephemera Collection; Portfolio 1, Folder 32a."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-17T08:41:34.163Z",
+      "group": [
+        "rbpebib.mar",
+        "catalog-split-04",
+        "catalog",
+        "broadsides-and-printed-ephemera",
+        "main-catalog-split-04",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020775139/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe00/rbpe001/0010320a/001dq.gif",
+        "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe00/rbpe001/0010320a/001dt.gif#h=54&w=100",
+        "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe00/rbpe001/0010320a/001dq.gif#h=326&w=600",
+        "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe00/rbpe001/0010320a/001dr.jpg#h=1368&w=2521"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "arkansas",
+        "little rock"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/gif",
+        "application/xml",
+        "image/tiff",
+        "application/pdf"
+      ],
+      "number": [
+        "2020775139",
+        "2022-07-29t07:30:12",
+        "rbpe0010320a"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "rare book and special collections division",
+        "printed ephemera: three centuries of broadsides and other printed ephemera"
+      ],
+      "score": 25.644144,
+      "shelf_id": "Portfolio 1, Folder 32a",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "little rock",
+        "blank forms",
+        "arkansas",
+        "united states"
+      ],
+      "timestamp": "2023-06-08T14:16:55.209Z",
+      "title": "I, William S. Fulton, Governor of the Territory of Arkansas, do hereby certify, that [blank] was commissioned a [blank] in and for the county of [blank] and Territory of Arkansas, on the [blank] day of [blank] 183 [blank] ; and that full faith a",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2020775139/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/g4004l.pm000140/",
+        "http://www.loc.gov/item/75693083/",
+        "https://hdl.loc.gov/loc.gmd/g4004l.pm000140",
+        "http://lccn.loc.gov/75693083"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "beck & pauli",
+        "henry wellge & co"
+      ],
+      "date": "1887-01-01",
+      "dates": [
+        "1887"
+      ],
+      "description": [
+        "Perspective map not drawn to scale. Bird's-eye-view. \"Copyrighted for the 'Gazette Printing Co.' Little Rock, Ark.\" Indexed for points of interest. LC Panoramic maps (2nd ed.), 14 Available also through the Library of Congress Web site as a raster image. AACR2"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T21:23:07.137Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-09",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/75693083/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd400/g4004/g4004l/pm000140.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd400/g4004/g4004l/pm000140.gif#h=101&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd400:g4004:g4004l:pm000140/full/pct:12.5/0/default.jpg#h=803&w=1193",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd400:g4004:g4004l:pm000140/full/pct:25/0/default.jpg#h=1607&w=2387"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "arkansas",
+        "little rock"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2002-12-14t18:39:06",
+        "75693083",
+        "http://www.loc.gov/item/5422536",
+        "http://www.loc.gov/item/75693083"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "panoramic maps",
+        "geography and map division",
+        "cities and towns"
+      ],
+      "score": 24.706951,
+      "shelf_id": "G4004.L7A3 1887  .H4",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "aerial views",
+        "arkansas",
+        "little rock (ark.)",
+        "united states",
+        "little rock"
+      ],
+      "timestamp": "2022-12-10T05:52:57.800Z",
+      "title": "Perspective map of the city of Little Rock, Ark., State capital of Arkansas, county seat of Pulaski County. 1887.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/75693083/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://hdl.loc.gov/loc.gmd/g4004l.pm000130",
+        "http://www.loc.gov/item/73693338/",
+        "http://www.loc.gov/resource/g4004l.pm000130/",
+        "http://lccn.loc.gov/73693338"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ruger, a."
+      ],
+      "date": "1871-01-01",
+      "dates": [
+        "1871"
+      ],
+      "description": [
+        "Perspective map not drawn to scale. \"Looking south west.\" LC Panoramic maps (2nd ed.) 13 Available also through the Library of Congress Web site as a raster image. Includes ill. and index to points of interest. Vault AACR2: 100; 651/1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T21:23:07.137Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-10",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-10",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/73693338/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd400/g4004/g4004l/pm000130.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd400/g4004/g4004l/pm000130.gif#h=150&w=223",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd400:g4004:g4004l:pm000130/full/pct:12.5/0/default.jpg#h=884&w=1312",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd400:g4004:g4004l:pm000130/full/pct:25/0/default.jpg#h=1768&w=2624"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "arkansas",
+        "little rock"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "73693338",
+        "http://www.loc.gov/item/5411114",
+        "2022-07-14t10:54:43",
+        "2005-01-05t14:42:20",
+        "http://www.loc.gov/item/73693338"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "world digital library",
+        "panoramic maps",
+        "geography and map division",
+        "cities and towns"
+      ],
+      "score": 24.706951,
+      "shelf_id": "G4004.L7A3 1871 .R8",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "aerial views",
+        "arkansas",
+        "little rock (ark.)",
+        "united states",
+        "little rock"
+      ],
+      "timestamp": "2022-12-10T05:50:01.462Z",
+      "title": "Bird's eye view of the city of Little Rock, the capitol of Arkansas 1871.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/73693338/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "digital file from original",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23600/4a23603_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/det.4a23603/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from original",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23600/4a23603_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/det.4a23603/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294102091,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/det.4a23603/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/det.4a23603/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/det.4a23603/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/det.4a23603/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/det.4a23603/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/det.4a23603/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/det.4a23603/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/det.4a23603/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/det.4a23603/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/det.4a23603/?fo=json&st=text"
+  }
+}

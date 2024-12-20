@@ -1,0 +1,1829 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Highsmith, C. M., photographer. (2012) <cite>Interior of the Hutzler Reading room located in Gilman Hall, on the Johns Hopkins University campus in Baltimore, Maryland</cite>. United States Maryland Baltimore, 2012. September. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2013646484/.",
+    "chicago": "Highsmith, Carol M, photographer. <cite>Interior of the Hutzler Reading room located in Gilman Hall, on the Johns Hopkins University campus in Baltimore, Maryland</cite>. United States Maryland Baltimore, 2012. September. Photograph. https://www.loc.gov/item/2013646484/.",
+    "mla": "Highsmith, Carol M, photographer. <cite>Interior of the Hutzler Reading room located in Gilman Hall, on the Johns Hopkins University campus in Baltimore, Maryland</cite>. September. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2013646484/&gt;."
+  },
+  "item": {
+    "_version_": 1730906465644838912,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2013646484/",
+      "http://www.loc.gov/item/2013646484/",
+      "http://www.loc.gov/pictures/item/2013646484/",
+      "https://www.loc.gov/pictures/collection/highsm/item/2013646484/",
+      "http://www.loc.gov/pictures/collection/highsm/item/2013646484/",
+      "http://www.loc.gov/resource/highsm.18402/",
+      "http://lccn.loc.gov/2013646484",
+      "https://hdl.loc.gov/loc.pnp/highsm.18402"
+    ],
+    "call_number": "LC-DIG-highsm- 18402 (ONLINE) [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Highsmith, Carol M., 1946-, photographer"
+    ],
+    "contributors": [
+      {
+        "highsmith, carol m.": "https://www.loc.gov/search/?fa=contributor:highsmith,+carol+m.&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2016-04-20T06:57:09Z",
+    "created_published": [
+      "2012 September."
+    ],
+    "created_published_date": "2012 September.",
+    "date": "2012-01-01",
+    "dates": [
+      {
+        "2012": "https://www.loc.gov/search/?dates=2012/2012&fo=json"
+      }
+    ],
+    "description": [
+      "1 photograph : digital, TIFF file, color."
+    ],
+    "digital_id": [
+      "highsm 18402 //hdl.loc.gov/loc.pnp/highsm.18402"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-31T04:47:06.473Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/highsm/item/2013646484/#highsm",
+      "http://lccn.loc.gov/2013646484#catalog-split-06"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Digital photographs--Color--2010-2020."
+    ],
+    "genre": [
+      "Digital photographs--Color--2010-2020"
+    ],
+    "group": [
+      "highsm",
+      "catalog-split-06",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-06",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2013646484/",
+    "image_url": [
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18400:18402/full/pct:6.25/0/default.jpg#h=256&w=384",
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18400:18402/full/pct:12.5/0/default.jpg#h=512&w=768",
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18400:18402/full/pct:25/0/default.jpg#h=1024&w=1536"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-DIG-highsm- 18402 (ONLINE) [P&P]",
+      "contributors": [
+        "Highsmith, Carol M., 1946- photographer."
+      ],
+      "control_number": "2013646484",
+      "created": "2016-04-20T06:57:09Z",
+      "created_published": "2012 September.",
+      "created_published_date": "2012 September.",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Highsmith%2C%20Carol%20M.%2C%201946-&co=highsm",
+          "role": "photographer",
+          "title": "Highsmith, Carol M., 1946-"
+        }
+      ],
+      "date": "2012 September.",
+      "digital_id": [
+        "highsm 18402 //hdl.loc.gov/loc.pnp/highsm.18402"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Digital%20photographs--Color--2010-2020.&co=highsm",
+          "title": "Digital photographs--Color--2010-2020."
+        }
+      ],
+      "genre": [
+        "Digital photographs--Color--2010-2020"
+      ],
+      "id": "2013646484",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2013646484/",
+      "marc": "https://www.loc.gov/pictures/item/2013646484/marc/",
+      "medium": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "medium_brief": "1 photograph :",
+      "mediums": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "modified": "2016-04-20T06:57:09Z",
+      "notes": [
+        "Located in Gilman Hall and designed by Douglas Thomas. Construction of Gilman Hall began in 1913, and the building was dedicated on May 21, 1915, and named for Daniel Coit Gilman, the first president of the university.  Commonly referred to as \"The HUT,\" the Albert D. Hutzler Reading Room is open on a 24-hour basis during the academic year.",
+        "Title, date, subject note, and keywords based on information provided by the photographer.",
+        "Credit line: Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.",
+        "Gift and purchase; Carol M. Highsmith; 2012; (DLC/PP-2012:107).",
+        "Forms part of the Carol M. Highsmith Archive."
+      ],
+      "other_control_numbers": [
+        "17883537"
+      ],
+      "part_of": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Maryland--Baltimore&co=highsm",
+          "longitude": "",
+          "title": "Maryland--Baltimore"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-highsm-18402 (original digital file)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/highsm.18402"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/highsm/18400/18402_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/highsm/18400/18402r.jpg",
+      "sort_date": "2012",
+      "source_collection": [
+        "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+      ],
+      "source_created": "2013-09-12T00:00:00Z",
+      "source_modified": "2013-09-12T08:17:25Z",
+      "subject_headings": [
+        "United States--Maryland--Baltimore.",
+        "America.",
+        "Albert D. Hutzler Reading Room.",
+        "Gilman Hall.",
+        "Homewood Campus.",
+        "Johns Hopkins Sheridan Libraries.",
+        "Libraries.",
+        "The HUT.",
+        "Maryland--Baltimore"
+      ],
+      "subjects": [
+        "United States--Maryland--Baltimore",
+        "America",
+        "Albert D. Hutzler Reading Room",
+        "Gilman Hall",
+        "Homewood campus",
+        "Johns Hopkins Sheridan Libraries",
+        "Libraries",
+        "The HUT"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/18400/18402_150px.jpg",
+      "title": "Interior of the Hutzler Reading room located in Gilman Hall, on the Johns Hopkins University campus in Baltimore, Maryland"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2013646484",
+    "link": "https://www.loc.gov/pictures/item/2013646484/",
+    "location": [
+      "united states",
+      "maryland",
+      "baltimore"
+    ],
+    "location_city": [
+      "baltimore"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_state": [
+      "maryland"
+    ],
+    "locations": [
+      {
+        "baltimore": "https://www.loc.gov/search/?fa=location:baltimore&fo=json"
+      },
+      {
+        "maryland": "https://www.loc.gov/search/?fa=location:maryland&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "baltimore": "https://www.loc.gov/search/?fa=location_city:baltimore&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "maryland": "https://www.loc.gov/search/?fa=location_state:maryland&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2013646484/marc/",
+    "medium": [
+      "1 photograph : digital, TIFF file, color."
+    ],
+    "medium_brief": "1 photograph :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2016-04-20T06:57:09Z",
+    "notes": [
+      "Located in Gilman Hall and designed by Douglas Thomas. Construction of Gilman Hall began in 1913, and the building was dedicated on May 21, 1915, and named for Daniel Coit Gilman, the first president of the university.  Commonly referred to as \"The HUT,\" the Albert D. Hutzler Reading Room is open on a 24-hour basis during the academic year.",
+      "Title, date, subject note, and keywords based on information provided by the photographer.",
+      "Credit line: Photographs in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division.",
+      "Gift and purchase; Carol M. Highsmith; 2012; (DLC/PP-2012:107).",
+      "Forms part of the Carol M. Highsmith Archive."
+    ],
+    "number": [
+      "2013646484",
+      "2013-09-12t08:17:25",
+      "http://www.loc.gov/item/17883537"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/17883537"
+    ],
+    "number_lccn": [
+      "2013646484"
+    ],
+    "number_source_modified": [
+      "2013-09-12t08:17:25"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "17883537"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2013646484/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2013646484/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2013646484/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 69132,
+        "title": "highsmith (carol m.) archive",
+        "url": "https://www.loc.gov/collections/carol-m-highsmith/?fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Maryland--Baltimore&co=highsm",
+        "longitude": "",
+        "title": "Maryland--Baltimore"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2013646484&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-highsm-18402 (original digital file)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/highsm.18402"
+    ],
+    "resources": [
+      {
+        "caption": "original digital file",
+        "files": 1,
+        "image": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18400:18402/full/pct:6.25/0/default.jpg",
+        "url": "https://www.loc.gov/resource/highsm.18402/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/482_high.html\">Carol M. Highsmith - Rights and Restrictions Information</a> </p>\n \n"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "LC-DIG-highsm- 18402 (ONLINE) [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "2012",
+    "source_collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+    "source_created": "2013-09-12T00:00:00Z",
+    "source_modified": "2013-09-12T08:17:25Z",
+    "subject": [
+      "the hut",
+      "united states",
+      "albert d. hutzler reading room",
+      "america",
+      "johns hopkins sheridan libraries",
+      "libraries",
+      "maryland",
+      "baltimore",
+      "gilman hall",
+      "digital photographs",
+      "color",
+      "homewood campus"
+    ],
+    "subject_headings": [
+      "United States--Maryland--Baltimore",
+      "America",
+      "Albert D. Hutzler Reading Room",
+      "Gilman Hall",
+      "Homewood campus",
+      "Johns Hopkins Sheridan Libraries",
+      "Libraries",
+      "The HUT"
+    ],
+    "subjects": [
+      {
+        "albert d. hutzler reading room": "https://www.loc.gov/search/?fa=subject:albert+d.+hutzler+reading+room&fo=json"
+      },
+      {
+        "america": "https://www.loc.gov/search/?fa=subject:america&fo=json"
+      },
+      {
+        "baltimore": "https://www.loc.gov/search/?fa=subject:baltimore&fo=json"
+      },
+      {
+        "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+      },
+      {
+        "digital photographs": "https://www.loc.gov/search/?fa=subject:digital+photographs&fo=json"
+      },
+      {
+        "gilman hall": "https://www.loc.gov/search/?fa=subject:gilman+hall&fo=json"
+      },
+      {
+        "homewood campus": "https://www.loc.gov/search/?fa=subject:homewood+campus&fo=json"
+      },
+      {
+        "johns hopkins sheridan libraries": "https://www.loc.gov/search/?fa=subject:johns+hopkins+sheridan+libraries&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "maryland": "https://www.loc.gov/search/?fa=subject:maryland&fo=json"
+      },
+      {
+        "the hut": "https://www.loc.gov/search/?fa=subject:the+hut&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/18400/18402_150px.jpg",
+    "timestamp": "2022-04-23T13:37:19.127Z",
+    "title": "Interior of the Hutzler Reading room located in Gilman Hall, on the Johns Hopkins University campus in Baltimore, Maryland",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2013646484/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2013646478/",
+        "http://www.loc.gov/item/2013646478/",
+        "http://www.loc.gov/pictures/item/2013646478/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2013646478/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2013646478/",
+        "http://www.loc.gov/resource/highsm.18396/",
+        "http://lccn.loc.gov/2013646478",
+        "https://hdl.loc.gov/loc.pnp/highsm.18396"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2012-01-01",
+      "dates": [
+        "2012"
+      ],
+      "description": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T02:24:49.303Z",
+      "group": [
+        "highsm",
+        "catalog-split-09",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2013646478/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18396/full/pct:6.25/0/default.jpg#h=307&w=271",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18396/full/pct:12.5/0/default.jpg#h=614&w=542",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18396/full/pct:25/0/default.jpg#h=1228&w=1085",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18396/full/pct:50/0/default.jpg#h=2456&w=2170"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "maryland",
+        "baltimore"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/17883518",
+        "2013646478",
+        "2015-02-04t14:55:40"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 95.09972,
+      "shelf_id": "LC-DIG-highsm- 18396 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "the hut",
+        "united states",
+        "albert d. hutzler reading room",
+        "america",
+        "stained glass",
+        "windows",
+        "johns hopkins sheridan libraries",
+        "libraries",
+        "maryland",
+        "baltimore",
+        "gilman hall",
+        "digital photographs",
+        "color",
+        "homewood campus"
+      ],
+      "timestamp": "2022-04-23T13:37:19.127Z",
+      "title": "Stained-glass details in the Hutzler Reading room located in Gilman Hall, on the Johns Hopkins University campus in Baltimore, Maryland",
+      "url": "https://www.loc.gov/item/2013646478/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2013646480/",
+        "http://www.loc.gov/item/2013646480/",
+        "http://www.loc.gov/pictures/item/2013646480/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2013646480/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2013646480/",
+        "http://www.loc.gov/resource/highsm.18398/",
+        "https://hdl.loc.gov/loc.pnp/highsm.18398",
+        "http://lccn.loc.gov/2013646480"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2012-01-01",
+      "dates": [
+        "2012"
+      ],
+      "description": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T04:47:06.473Z",
+      "group": [
+        "highsm",
+        "catalog-split-02",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2013646480/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18398/full/pct:6.25/0/default.jpg#h=307&w=379",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18398/full/pct:12.5/0/default.jpg#h=614&w=758",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18398/full/pct:25/0/default.jpg#h=1228&w=1516"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "maryland",
+        "baltimore"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2013646480",
+        "2015-02-04t14:56:28",
+        "http://www.loc.gov/item/17883522"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 95.09972,
+      "shelf_id": "LC-DIG-highsm- 18398 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "the hut",
+        "united states",
+        "albert d. hutzler reading room",
+        "america",
+        "stained glass",
+        "windows",
+        "johns hopkins sheridan libraries",
+        "libraries",
+        "maryland",
+        "baltimore",
+        "gilman hall",
+        "digital photographs",
+        "color",
+        "homewood campus"
+      ],
+      "timestamp": "2022-04-23T13:37:19.127Z",
+      "title": "Stained-glass details in the Hutzler Reading room located in Gilman Hall, on the Johns Hopkins University campus in Baltimore, Maryland",
+      "url": "https://www.loc.gov/item/2013646480/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2013646477/",
+        "http://www.loc.gov/item/2013646477/",
+        "http://www.loc.gov/pictures/item/2013646477/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2013646477/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2013646477/",
+        "http://www.loc.gov/resource/highsm.18395/",
+        "http://lccn.loc.gov/2013646477",
+        "https://hdl.loc.gov/loc.pnp/highsm.18395"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2012-01-01",
+      "dates": [
+        "2012"
+      ],
+      "description": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T02:24:49.303Z",
+      "group": [
+        "highsm",
+        "catalog-split-08",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2013646477/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18395/full/pct:6.25/0/default.jpg#h=307&w=460",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18395/full/pct:12.5/0/default.jpg#h=614&w=920",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18395/full/pct:25/0/default.jpg#h=1228&w=1840"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "maryland",
+        "baltimore"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2013646477",
+        "http://www.loc.gov/item/17883517",
+        "2015-02-04t14:55:14"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 95.09972,
+      "shelf_id": "LC-DIG-highsm- 18395 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "the hut",
+        "united states",
+        "albert d. hutzler reading room",
+        "america",
+        "stained glass",
+        "windows",
+        "johns hopkins sheridan libraries",
+        "libraries",
+        "maryland",
+        "baltimore",
+        "gilman hall",
+        "digital photographs",
+        "color",
+        "homewood campus"
+      ],
+      "timestamp": "2022-04-23T13:37:19.127Z",
+      "title": "Stained-glass details in the Hutzler Reading room located in Gilman Hall, on the Johns Hopkins University campus in Baltimore, Maryland",
+      "url": "https://www.loc.gov/item/2013646477/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2013646481/",
+        "http://www.loc.gov/item/2013646481/",
+        "http://www.loc.gov/pictures/item/2013646481/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2013646481/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2013646481/",
+        "http://www.loc.gov/resource/highsm.18399/",
+        "https://hdl.loc.gov/loc.pnp/highsm.18399",
+        "http://lccn.loc.gov/2013646481"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2012-01-01",
+      "dates": [
+        "2012"
+      ],
+      "description": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T04:47:06.473Z",
+      "group": [
+        "highsm",
+        "catalog-split-03",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2013646481/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18399/full/pct:6.25/0/default.jpg#h=301&w=358",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18399/full/pct:12.5/0/default.jpg#h=603&w=716",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18399/full/pct:25/0/default.jpg#h=1207&w=1432",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18399/full/pct:50/0/default.jpg#h=2415&w=2865"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "maryland",
+        "baltimore"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2015-02-04t14:56:46",
+        "2013646481",
+        "http://www.loc.gov/item/17883523"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 95.09972,
+      "shelf_id": "LC-DIG-highsm- 18399 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "the hut",
+        "united states",
+        "albert d. hutzler reading room",
+        "america",
+        "stained glass",
+        "windows",
+        "johns hopkins sheridan libraries",
+        "libraries",
+        "maryland",
+        "baltimore",
+        "gilman hall",
+        "digital photographs",
+        "color",
+        "homewood campus"
+      ],
+      "timestamp": "2022-04-23T13:37:19.127Z",
+      "title": "Stained-glass details in the Hutzler Reading room located in Gilman Hall, on the Johns Hopkins University campus in Baltimore, Maryland",
+      "url": "https://www.loc.gov/item/2013646481/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2013646482/",
+        "http://www.loc.gov/item/2013646482/",
+        "http://www.loc.gov/pictures/item/2013646482/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2013646482/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2013646482/",
+        "http://www.loc.gov/resource/highsm.18400/",
+        "https://hdl.loc.gov/loc.pnp/highsm.18400",
+        "http://lccn.loc.gov/2013646482"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2012-01-01",
+      "dates": [
+        "2012"
+      ],
+      "description": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T04:47:06.473Z",
+      "group": [
+        "highsm",
+        "catalog-split-04",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-04",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2013646482/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18400:18400/full/pct:6.25/0/default.jpg#h=307&w=460",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18400:18400/full/pct:12.5/0/default.jpg#h=614&w=920",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18400:18400/full/pct:25/0/default.jpg#h=1228&w=1840"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "maryland",
+        "baltimore"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/17883530",
+        "2013-09-12t08:14:02",
+        "2013646482"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 95.09972,
+      "shelf_id": "LC-DIG-highsm- 18400 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "the hut",
+        "united states",
+        "albert d. hutzler reading room",
+        "america",
+        "johns hopkins sheridan libraries",
+        "libraries",
+        "maryland",
+        "baltimore",
+        "gilman hall",
+        "digital photographs",
+        "color",
+        "homewood campus"
+      ],
+      "timestamp": "2022-04-23T13:37:19.127Z",
+      "title": "Interior of the Hutzler Reading room located in Gilman Hall, on the Johns Hopkins University campus in Baltimore, Maryland",
+      "url": "https://www.loc.gov/item/2013646482/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2013646479/",
+        "http://www.loc.gov/item/2013646479/",
+        "http://www.loc.gov/pictures/item/2013646479/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2013646479/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2013646479/",
+        "http://www.loc.gov/resource/highsm.18397/",
+        "http://lccn.loc.gov/2013646479",
+        "https://hdl.loc.gov/loc.pnp/highsm.18397"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2012-01-01",
+      "dates": [
+        "2012"
+      ],
+      "description": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T04:47:06.473Z",
+      "group": [
+        "highsm",
+        "catalog-split-10",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-10",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2013646479/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18397/full/pct:6.25/0/default.jpg#h=298&w=363",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18397/full/pct:12.5/0/default.jpg#h=596&w=726",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18397/full/pct:25/0/default.jpg#h=1192&w=1452",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18300:18397/full/pct:50/0/default.jpg#h=2385&w=2904"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "maryland",
+        "baltimore"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2015-02-04t14:56:05",
+        "2013646479",
+        "http://www.loc.gov/item/17883521"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 95.09972,
+      "shelf_id": "LC-DIG-highsm- 18397 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "the hut",
+        "united states",
+        "albert d. hutzler reading room",
+        "america",
+        "stained glass",
+        "windows",
+        "johns hopkins sheridan libraries",
+        "libraries",
+        "maryland",
+        "baltimore",
+        "gilman hall",
+        "digital photographs",
+        "color",
+        "homewood campus"
+      ],
+      "timestamp": "2022-04-23T13:37:19.127Z",
+      "title": "Stained-glass details in the Hutzler Reading room located in Gilman Hall, on the Johns Hopkins University campus in Baltimore, Maryland",
+      "url": "https://www.loc.gov/item/2013646479/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "highsm",
+      "catalog-split-06",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-06",
+      "main-catalog",
+      "catalog-split-09",
+      "main-catalog-split-09",
+      "catalog-split-02",
+      "main-catalog-split-02",
+      "catalog-split-08",
+      "main-catalog-split-08",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "catalog-split-04",
+      "main-catalog-split-04",
+      "catalog-split-10",
+      "main-catalog-split-10",
+      "afc/2019031",
+      "women-architects",
+      "ndnp/iune",
+      "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "highsm.18402",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.745847225189209,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/highsm.18402",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/highsm.18402?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294134.9570832,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 256,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18400:18402/full/pct:6.25/0/default.jpg",
+      "width": 384
+    },
+    {
+      "height": 512,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18400:18402/full/pct:12.5/0/default.jpg",
+      "width": 768
+    },
+    {
+      "height": 1024,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18400:18402/full/pct:25/0/default.jpg",
+      "width": 1536
+    },
+    {
+      "height": 4096,
+      "info": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18400:18402/info.json",
+      "levels": 7,
+      "mimetype": "image/jp2",
+      "size": 6952704,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/18400/18402.jp2",
+      "width": 6144
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2013646484&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2020785367",
+        "http://www.loc.gov/resource/afc2019031.afc2019031_06040_sr01/",
+        "http://www.loc.gov/resource/afc2019031.afc2019031_06040_ms01/",
+        "http://www.loc.gov/resource/afc2019031.afc2019031_06040_ph/",
+        "http://www.loc.gov/resource/afc2019031.afc2019031_06040_ms02/",
+        "http://www.loc.gov/item/2020785367/",
+        "https://hdl.loc.gov/loc.afc/afc2019031.afc2019031_06040_sr01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "filkins, sarah k.",
+        "occupational folklife project",
+        "cho, diane"
+      ],
+      "date": "2020-01-01",
+      "dates": [
+        "2020"
+      ],
+      "description": [
+        "Diane Cho discusses her current position as a principal architect Cho Benn Holback, a Quinn Evans Company in Baltimore, Maryland, that primarily focuses on work in the arts field. Cho talks about her early interest in museums and urban culture; and of being one of few women and only person of color in her architectural program at Cornell University. Following graduation, she explains how she moved to Baltimore with friend and fellow architecture student Barbara Wilks, lured by the challenge of redeveloping the city's neglected historic building stock. Initially finding work with a small architecture firm and the City of Baltimore Planning Department, she talks about learning about the city and the friends' decision to open their own architecture firm, Cho Wilks. Working with a local developer, the firm expanded rapidly and attracted notice for the rehabilitation and creative adaptation of existing historic structures into dwellings, condominiums, offices and retail shops. Cho discusses the challenges of running an architecture firm; of working with contractors and overseeing complicated projects; of being responsible for staff livelihoods, and of balancing these professional demands with being a mother. She highlights some of her favorite cultural arts projects--Center Stage, Everyman Theater, and the Baltimore School for the Arts--and explains how serving on numerous arts boards helps her to better understand her client's needs."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-05-05T18:43:03.863Z",
+      "group": [
+        "afc/2019031",
+        "catalog-split-08",
+        "catalog",
+        "women-architects",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020785367/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019031:afc2019031_06040:afc2019031_06040_ph:afc2019031_06040_ph01/full/pct:50/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019031:afc2019031_06040:afc2019031_06040_ph:afc2019031_06040_ph01/full/pct:50/0/default.jpg#h=275&w=450",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2019031:afc2019031_06040:afc2019031_06040_ph:afc2019031_06040_ph01/full/pct:100/0/default.jpg#h=550&w=900"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "baltimore",
+        "maryland",
+        "stevenson"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "audio/mp3",
+        "image/gif",
+        "audio/wav",
+        "application/pdf",
+        "application/x-audio"
+      ],
+      "number": [
+        "2020785367",
+        "2021-05-05t09:16:33",
+        "online resource"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "occupational folklife project",
+        "women architects: archie green fellows project, 2019-2020",
+        "american folklife center",
+        "catalog"
+      ],
+      "score": 28.8874,
+      "shelf_id": "http://lccn.loc.gov/2020785367",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "work-life balance",
+        "mentoring",
+        "material culture",
+        "personal narratives",
+        "digital photographs",
+        "quality of work life",
+        "maryland",
+        "interviews",
+        "architecture",
+        "sound recordings",
+        "architectural practice",
+        "cho, diane",
+        "work environment",
+        "organizational change",
+        "women architects",
+        "apprenticeship programs",
+        "baltimore",
+        "color",
+        "oral histories",
+        "vernacular architecture",
+        "economic aspects",
+        "working mothers"
+      ],
+      "timestamp": "2022-03-30T09:52:56.196Z",
+      "title": "Diane Cho interview conducted by Sarah Filkins, 2020-07-31.",
+      "url": "https://www.loc.gov/item/2020785367/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/83642426/1839-02-26/ed-1/",
+        "http://www.loc.gov/resource/83642426/1839-02-26/ed-1/"
+      ],
+      "batch": [
+        "iune_albatross_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of illinois at urbana-champaign library, urbana, il"
+      ],
+      "date": "1839-02-26",
+      "dates": [
+        "1839-02-26"
+      ],
+      "description": [
+        "Baltimore;Hennepin, Ill."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-06T01:13:35.459Z",
+      "group": [
+        "ndnp/iune",
+        "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/83642426/1839-02-26/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839022601:0004/full/pct:6.25/0/default.jpg#h=324&w=230",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839022601:0004/full/pct:12.5/0/default.jpg#h=648&w=461"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "hennepin",
+        "illinois",
+        "putnam",
+        "putnam county",
+        "maryland",
+        "baltimore"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00514151088",
+        "1",
+        "83642426"
+      ],
+      "numeric_shelf_id": 183902261,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "serial and government publications division",
+        "genius of universal emancipation (baltimore;hennepin, ill.) 1826-1839"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 28.06241,
+      "shelf_id": "83642426, 1839-02-26, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "https://id.oclc.org/worldcat/entity/e39pbjwtkmqjxwqpym8tgym773",
+        "united states",
+        "newspapers",
+        "hennepin",
+        "antislavery movements",
+        "illinois",
+        "hennepin (ill.)",
+        "https://id.oclc.org/worldcat/entity/e39pbjppgfkyyfrk6jqmpym8g3",
+        "https://id.oclc.org/worldcat/entity/e39pbjtxgqxmwqmjmjjwxrhgrq",
+        "putnam",
+        "putnam county",
+        "maryland",
+        "putnam county (ill.)",
+        "baltimore",
+        "baltimore (md.)"
+      ],
+      "timestamp": "2024-10-06T01:33:27.298Z",
+      "title": "Genius of universal emancipation (Baltimore;Hennepin, Ill.), February 26, 1839",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/83642426/1839-02-26/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/83642426/1839-03-22/ed-1/",
+        "http://www.loc.gov/resource/83642426/1839-03-22/ed-1/"
+      ],
+      "batch": [
+        "iune_albatross_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of illinois at urbana-champaign library, urbana, il"
+      ],
+      "date": "1839-03-22",
+      "dates": [
+        "1839-03-22"
+      ],
+      "description": [
+        "Baltimore;Hennepin, Ill."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-06T01:13:35.459Z",
+      "group": [
+        "ndnp/iune",
+        "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/83642426/1839-03-22/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839032201:0008/full/pct:6.25/0/default.jpg#h=329&w=236",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839032201:0008/full/pct:12.5/0/default.jpg#h=659&w=472"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "hennepin",
+        "illinois",
+        "putnam",
+        "putnam county",
+        "maryland",
+        "baltimore"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00514151088",
+        "1",
+        "83642426"
+      ],
+      "numeric_shelf_id": 183903221,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "serial and government publications division",
+        "genius of universal emancipation (baltimore;hennepin, ill.) 1826-1839"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 28.06241,
+      "shelf_id": "83642426, 1839-03-22, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "https://id.oclc.org/worldcat/entity/e39pbjwtkmqjxwqpym8tgym773",
+        "united states",
+        "newspapers",
+        "hennepin",
+        "antislavery movements",
+        "illinois",
+        "hennepin (ill.)",
+        "https://id.oclc.org/worldcat/entity/e39pbjppgfkyyfrk6jqmpym8g3",
+        "https://id.oclc.org/worldcat/entity/e39pbjtxgqxmwqmjmjjwxrhgrq",
+        "putnam",
+        "putnam county",
+        "maryland",
+        "putnam county (ill.)",
+        "baltimore",
+        "baltimore (md.)"
+      ],
+      "timestamp": "2024-10-06T01:33:27.298Z",
+      "title": "Genius of universal emancipation (Baltimore;Hennepin, Ill.), March 22, 1839",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/83642426/1839-03-22/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/83642426/1839-06-28/ed-1/",
+        "http://www.loc.gov/resource/83642426/1839-06-28/ed-1/"
+      ],
+      "batch": [
+        "iune_albatross_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of illinois at urbana-champaign library, urbana, il"
+      ],
+      "date": "1839-06-28",
+      "dates": [
+        "1839-06-28"
+      ],
+      "description": [
+        "Baltimore;Hennepin, Ill."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-06T01:13:35.459Z",
+      "group": [
+        "ndnp/iune",
+        "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/83642426/1839-06-28/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839062801:0012/full/pct:6.25/0/default.jpg#h=326&w=231",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839062801:0012/full/pct:12.5/0/default.jpg#h=653&w=463"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "hennepin",
+        "illinois",
+        "putnam",
+        "putnam county",
+        "maryland",
+        "baltimore"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00514151088",
+        "1",
+        "83642426"
+      ],
+      "numeric_shelf_id": 183906281,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "serial and government publications division",
+        "genius of universal emancipation (baltimore;hennepin, ill.) 1826-1839"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 28.06241,
+      "shelf_id": "83642426, 1839-06-28, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "https://id.oclc.org/worldcat/entity/e39pbjwtkmqjxwqpym8tgym773",
+        "united states",
+        "newspapers",
+        "hennepin",
+        "antislavery movements",
+        "illinois",
+        "hennepin (ill.)",
+        "https://id.oclc.org/worldcat/entity/e39pbjppgfkyyfrk6jqmpym8g3",
+        "https://id.oclc.org/worldcat/entity/e39pbjtxgqxmwqmjmjjwxrhgrq",
+        "putnam",
+        "putnam county",
+        "maryland",
+        "putnam county (ill.)",
+        "baltimore",
+        "baltimore (md.)"
+      ],
+      "timestamp": "2024-10-06T01:33:27.298Z",
+      "title": "Genius of universal emancipation (Baltimore;Hennepin, Ill.), June 28, 1839",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/83642426/1839-06-28/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/83642426/1839-07-05/ed-1/",
+        "http://www.loc.gov/resource/83642426/1839-07-05/ed-1/"
+      ],
+      "batch": [
+        "iune_albatross_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of illinois at urbana-champaign library, urbana, il"
+      ],
+      "date": "1839-07-05",
+      "dates": [
+        "1839-07-05"
+      ],
+      "description": [
+        "Baltimore;Hennepin, Ill."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-06T01:13:35.459Z",
+      "group": [
+        "ndnp/iune",
+        "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/83642426/1839-07-05/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839070501:0016/full/pct:6.25/0/default.jpg#h=325&w=230",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839070501:0016/full/pct:12.5/0/default.jpg#h=650&w=460"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "hennepin",
+        "illinois",
+        "putnam",
+        "putnam county",
+        "maryland",
+        "baltimore"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00514151088",
+        "1",
+        "83642426"
+      ],
+      "numeric_shelf_id": 183907051,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "serial and government publications division",
+        "genius of universal emancipation (baltimore;hennepin, ill.) 1826-1839"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 28.06241,
+      "shelf_id": "83642426, 1839-07-05, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "https://id.oclc.org/worldcat/entity/e39pbjwtkmqjxwqpym8tgym773",
+        "united states",
+        "newspapers",
+        "hennepin",
+        "antislavery movements",
+        "illinois",
+        "hennepin (ill.)",
+        "https://id.oclc.org/worldcat/entity/e39pbjppgfkyyfrk6jqmpym8g3",
+        "https://id.oclc.org/worldcat/entity/e39pbjtxgqxmwqmjmjjwxrhgrq",
+        "putnam",
+        "putnam county",
+        "maryland",
+        "putnam county (ill.)",
+        "baltimore",
+        "baltimore (md.)"
+      ],
+      "timestamp": "2024-10-06T01:33:27.298Z",
+      "title": "Genius of universal emancipation (Baltimore;Hennepin, Ill.), July 5, 1839",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/83642426/1839-07-05/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/83642426/1839-07-12/ed-1/",
+        "http://www.loc.gov/resource/83642426/1839-07-12/ed-1/"
+      ],
+      "batch": [
+        "iune_albatross_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of illinois at urbana-champaign library, urbana, il"
+      ],
+      "date": "1839-07-12",
+      "dates": [
+        "1839-07-12"
+      ],
+      "description": [
+        "Baltimore;Hennepin, Ill."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-06T01:13:35.459Z",
+      "group": [
+        "ndnp/iune",
+        "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/83642426/1839-07-12/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839071201:0020/full/pct:6.25/0/default.jpg#h=323&w=225",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839071201:0020/full/pct:12.5/0/default.jpg#h=646&w=450"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "hennepin",
+        "illinois",
+        "putnam",
+        "putnam county",
+        "maryland",
+        "baltimore"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00514151088",
+        "1",
+        "83642426"
+      ],
+      "numeric_shelf_id": 183907121,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "serial and government publications division",
+        "genius of universal emancipation (baltimore;hennepin, ill.) 1826-1839"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 28.06241,
+      "shelf_id": "83642426, 1839-07-12, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "https://id.oclc.org/worldcat/entity/e39pbjwtkmqjxwqpym8tgym773",
+        "united states",
+        "newspapers",
+        "hennepin",
+        "antislavery movements",
+        "illinois",
+        "hennepin (ill.)",
+        "https://id.oclc.org/worldcat/entity/e39pbjppgfkyyfrk6jqmpym8g3",
+        "https://id.oclc.org/worldcat/entity/e39pbjtxgqxmwqmjmjjwxrhgrq",
+        "putnam",
+        "putnam county",
+        "maryland",
+        "putnam county (ill.)",
+        "baltimore",
+        "baltimore (md.)"
+      ],
+      "timestamp": "2024-10-06T01:33:27.298Z",
+      "title": "Genius of universal emancipation (Baltimore;Hennepin, Ill.), July 12, 1839",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/83642426/1839-07-12/ed-1/"
+    }
+  ],
+  "reproductions": "<p>\nSome images in this collection are described in groups; others are \ndescribed individually. In some cases, all of the images in the \ngroup display online, in other cases they do not.\n</p>\n\n<p>\nYou can download online images yourself.  Alternatively, you can \npurchase copies of various types.\n</p>\n\n<ol>\n<p>\t\n<strong><li>Determine whether the desired materials can be retrieved \nonline.</strong>\n</p>\n<ul>\n<p>\t\n<li>Look in the <strong>Medium</strong> field above to determine whether\n the description is for one photograph or more than one.</li>\n </p>\n <p>\n<li>If the description is for a single item and it is displaying, \nyou can download or purchase a print.  Cite the number that begins \nwith &quot;LC-DIG...&quot; when purchasing copies through Library of \nCongress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is \na &quot;Click for more images&quot; icon displaying, select that. \nIndividual images will display; you can download or purchase prints. \nCite the number that begins with &quot;LC-DIG...&quot; when purchasing \ncopies through Library of Congress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is no\n &quot;Click for more images&quot; icon displaying, return to the\n  &quot;About this Item&quot; tab and select the &quot;<i>Check for \n  online items from this group</i>&quot; link.  Then select the \n  \"Obtaining Copies\" tab for any retrieved items that are of interest.\n</p>\n</ul>\n</li>\n\n<p>\n<strong><li>If the images do not display online</strong> -- Select images for reproduction through one of these methods:\n</p>\n<ul>\n<p>\t\n<li>Visit the Prints &amp; Photographs Reading Room and request to view \nthe group (general information about service in the reading room is \navailable at: <a href=\"//www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>).</li>  \n</p>\n<p>\n<li>P&amp;P reading room staff can provide up to 15 photocopies of items \nper calendar year. (Color images cannot be photocopied.) For assistance,\n see our <a href=\"//www.loc.gov/rr/askalib/ask-print.html\">Ask a Librarian</a> page. OR</li>\n</p>\n<p>\n<li>Hire a freelance researcher to do further selection for you \n(a list of researchers is available at: \n<a href=\"//www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>).\n</p>\n</ul>\n</li>\n</ol>\n\n<p>\n<strong>Purchasing Copies</strong>\n</p>\n\n<p>\nLibrary of Congress Duplication Services can make copies of various \ntypes from images in Prints & Photographs Division Collections.  \nPrice lists, contact information, and order forms are available on the \n<a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.\n</p>\n\n<p>\nCarol M. Highsmith sells prints of her photographs at: <a href=\"http://photographsamerica.com/\">http://photographsamerica.com/</a> .\n</p>  \n\n\n\n\n        ",
+  "resource": {
+    "caption": "original digital file",
+    "image": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18400:18402/full/pct:6.25/0/default.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/highsm.18402/"
+  },
+  "resources": [
+    {
+      "caption": "original digital file",
+      "image": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:18400:18402/full/pct:6.25/0/default.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/highsm.18402/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294135703,
+  "type": "zoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/highsm.18402/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/highsm.18402/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/highsm.18402/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/highsm.18402/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/highsm.18402/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/highsm.18402/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/highsm.18402/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/highsm.18402/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/highsm.18402/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/highsm.18402/?fo=json&st=text"
+  }
+}

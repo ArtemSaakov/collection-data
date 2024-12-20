@@ -1,0 +1,1676 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "(1919) <cite>Reading room for blind, Library of Congress, Washington, D.C</cite>. Washington D.C. Washington D.C. District of Columbia United States, 1919. [or 1920] [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2016851550/.",
+    "chicago": "<cite>Reading room for blind, Library of Congress, Washington, D.C</cite>. Washington D.C. Washington D.C. District of Columbia United States, 1919. [or 1920] Photograph. https://www.loc.gov/item/2016851550/.",
+    "mla": "<cite>Reading room for blind, Library of Congress, Washington, D.C</cite>. [or 1920] Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2016851550/&gt;."
+  },
+  "item": {
+    "_version_": 1731576319342280704,
+    "access_restricted": false,
+    "aka": [
+      "http://www.loc.gov/pictures/collection/npco/item/2016851550/",
+      "http://www.loc.gov/item/2016851550/",
+      "http://www.loc.gov/pictures/item/2016851550/",
+      "https://hdl.loc.gov/loc.pnp/npcc.28724",
+      "http://www.loc.gov/resource/npcc.28724/",
+      "http://lccn.loc.gov/2016851550"
+    ],
+    "call_number": "LC-F82- 3682 [P&P]",
+    "campaigns": [],
+    "control_number": "",
+    "created": "2017-12-19T04:02:17Z",
+    "created_published": [
+      "[1919 or 1920]"
+    ],
+    "created_published_date": "[1919 or 1920]",
+    "date": "1920-01-01",
+    "dates": [
+      {
+        "1920": "https://www.loc.gov/search/?dates=1920/1920&fo=json"
+      }
+    ],
+    "description": [
+      "1 negative : glass ; 8 x 6 in."
+    ],
+    "digital_id": [
+      "npcc 28724 //hdl.loc.gov/loc.pnp/npcc.28724"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-09-01T23:22:02.900Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/npco/item/2016851550/#npco",
+      "http://lccn.loc.gov/2016851550#catalog-split-01"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Glass negatives."
+    ],
+    "genre": [
+      "Glass negatives"
+    ],
+    "group": [
+      "npco",
+      "catalog-split-01",
+      "catalog",
+      "national-photo-company",
+      "main-catalog-split-01",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2016851550/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/npcc/28700/28724_150px.jpg#h=115&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/npcc/28700/28724t.gif#h=115&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/npcc/28700/28724r.jpg#h=492&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/npcc/28700/28724v.jpg#h=788&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-F82- 3682 [P&P]",
+      "control_number": "2016851550",
+      "created": "2017-12-19T04:02:17Z",
+      "created_published": "[1919 or 1920]",
+      "created_published_date": "[1919 or 1920]",
+      "date": "[1919 or 1920]",
+      "digital_id": [
+        "npcc 28724 //hdl.loc.gov/loc.pnp/npcc.28724"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=format&q=Glass%20negatives.&co=npco",
+          "title": "Glass negatives."
+        }
+      ],
+      "genre": [
+        "Glass negatives"
+      ],
+      "id": "2016851550",
+      "language": [
+        "eng"
+      ],
+      "link": "//www.loc.gov/pictures/item/2016851550/",
+      "marc": "//www.loc.gov/pictures/item/2016851550/marc/",
+      "medium": [
+        "1 negative : glass ; 8 x 6 in."
+      ],
+      "medium_brief": "1 negative :",
+      "mediums": [
+        "1 negative : glass ; 8 x 6 in."
+      ],
+      "modified": "2017-12-19T04:02:17Z",
+      "notes": [
+        "Title from unverified data provided by the National Photo Company on the negative or negative sleeve.",
+        "Date from negatives in same range.",
+        "Gift; Herbert A. French; 1947.",
+        "General information about the National Photo Company collection is available at http://hdl.loc.gov/loc.pnp/pp.npco",
+        "This glass negative might show streaks and other blemishes resulting from a natural deterioration in the original coatings.",
+        "Temp. note: Batch six."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2016851550",
+        "https://www.loc.gov/item/npc2008009225"
+      ],
+      "other_control_numbers": [
+        "20209161",
+        "npc2008009225"
+      ],
+      "part_of": "National Photo Company Collection (Library of Congress)",
+      "place": [
+        {
+          "latitude": "",
+          "link": "//www.loc.gov/pictures/related/?fi=place&q=District%20of%20Columbia--Washington%20%28D.C.%29&co=npco",
+          "longitude": "",
+          "title": "District of Columbia--Washington (D.C.)"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-npcc-28724 (digital file from original)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/npcc.28724"
+      ],
+      "rights_advisory": "No known restrictions on publication. For more information, see National Photo Company Collection - Rights and Restrictions Information https://www.loc.gov/rr/print/res/275_npco.html",
+      "rights_information": "No known restrictions on publication. For more information, see National Photo Company Collection - Rights and Restrictions Information https://www.loc.gov/rr/print/res/275_npco.html",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/npcc/28700/28724_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/npcc/28700/28724r.jpg",
+      "sort_date": "1920",
+      "source_collection": [
+        "National Photo Company Collection (Library of Congress)"
+      ],
+      "source_created": "2008-07-02T00:00:00Z",
+      "source_modified": "2017-12-14T10:14:35Z",
+      "subject_headings": [
+        "United States--District of Columbia--Washington (D.C.)",
+        "District Of Columbia--Washington (D.C.)"
+      ],
+      "subjects": [
+        "United States--District of Columbia--Washington (D.C.)"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/npcc/28700/28724_150px.jpg",
+      "title": "Reading room for blind, Library of Congress, [Washington, D.C.]"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2016851550",
+    "link": "//www.loc.gov/pictures/item/2016851550/",
+    "location": [
+      "washington d.c.",
+      "washington (d.c.)",
+      "district of columbia",
+      "united states"
+    ],
+    "location_city": [
+      "washington (d.c.)"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_state": [
+      "district of columbia"
+    ],
+    "locations": [
+      {
+        "district of columbia": "https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      },
+      {
+        "washington (d.c.)": "https://www.loc.gov/search/?fa=location:washington+%28d.c.%29&fo=json"
+      },
+      {
+        "washington d.c.": "https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "washington (d.c.)": "https://www.loc.gov/search/?fa=location_city:washington+%28d.c.%29&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "district of columbia": "https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json"
+      }
+    ],
+    "marc": "//www.loc.gov/pictures/item/2016851550/marc/",
+    "medium": [
+      "1 negative : glass ; 8 x 6 in."
+    ],
+    "medium_brief": "1 negative :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2017-12-19T04:02:17Z",
+    "notes": [
+      "Title from unverified data provided by the National Photo Company on the negative or negative sleeve.",
+      "Date from negatives in same range.",
+      "Gift; Herbert A. French; 1947.",
+      "General information about the National Photo Company collection is available at http://hdl.loc.gov/loc.pnp/pp.npco",
+      "This glass negative might show streaks and other blemishes resulting from a natural deterioration in the original coatings.",
+      "Temp. note: Batch six."
+    ],
+    "number": [
+      "2017-12-14t10:14:35",
+      "http://www.loc.gov/item/20209161",
+      "http://www.loc.gov/item/npc2008009225",
+      "2016851550",
+      "http://www.loc.gov/item/2016851550"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/20209161",
+      "http://www.loc.gov/item/npc2008009225",
+      "http://www.loc.gov/item/2016851550"
+    ],
+    "number_lccn": [
+      "2016851550"
+    ],
+    "number_source_modified": [
+      "2017-12-14t10:14:35"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "20209161",
+      "npc2008009225"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2016851550/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2016851550/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2016851550/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 35613,
+        "title": "national photo company collection",
+        "url": "https://www.loc.gov/collections/national-photo-company/?fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "//www.loc.gov/pictures/related/?fi=place&q=District%20of%20Columbia--Washington%20%28D.C.%29&co=npco",
+        "longitude": "",
+        "title": "District of Columbia--Washington (D.C.)"
+      }
+    ],
+    "related": {
+      "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2016851550&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-npcc-28724 (digital file from original)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/npcc.28724"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from original",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/npcc/28700/28724_150px.jpg",
+        "url": "https://www.loc.gov/resource/npcc.28724/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/275_npco.html\">National Photo Company Collection - Rights and Restrictions Information</a> </p>\n \n"
+    ],
+    "rights_advisory": "No known restrictions on publication. For more information, see National Photo Company Collection - Rights and Restrictions Information https://www.loc.gov/rr/print/res/275_npco.html",
+    "rights_information": "No known restrictions on publication. For more information, see National Photo Company Collection - Rights and Restrictions Information https://www.loc.gov/rr/print/res/275_npco.html",
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "LC-F82- 3682 [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1920",
+    "source_collection": "National Photo Company Collection (Library of Congress)",
+    "source_created": "2008-07-02T00:00:00Z",
+    "source_modified": "2017-12-14T10:14:35Z",
+    "subject": [
+      "glass negatives",
+      "washington (d.c.)",
+      "district of columbia",
+      "united states"
+    ],
+    "subject_headings": [
+      "United States--District of Columbia--Washington (D.C.)"
+    ],
+    "subjects": [
+      {
+        "district of columbia": "https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json"
+      },
+      {
+        "glass negatives": "https://www.loc.gov/search/?fa=subject:glass+negatives&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      },
+      {
+        "washington (d.c.)": "https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/npcc/28700/28724_150px.jpg",
+    "timestamp": "2022-04-30T23:04:22.184Z",
+    "title": "Reading room for blind, Library of Congress, [Washington, D.C.]",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2016851550/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2016828007/",
+        "http://www.loc.gov/item/2016828007/",
+        "http://www.loc.gov/pictures/item/2016828007/",
+        "https://www.loc.gov/pictures/collection/npco/item/2016828007/",
+        "http://www.loc.gov/pictures/collection/npco/item/2016828007/",
+        "https://hdl.loc.gov/loc.pnp/npcc.01654",
+        "https://hdl.loc.gov/loc.pnp/npcc.01654",
+        "http://www.loc.gov/resource/npcc.01654/",
+        "http://lccn.loc.gov/2016828007"
+      ],
+      "campaigns": [],
+      "date": "1920-01-01",
+      "dates": [
+        "1920"
+      ],
+      "description": [
+        "1 negative : glass ; 4 x 5 in. or smaller"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-02-25T13:29:35.738Z",
+      "group": [
+        "npco",
+        "catalog-split-02",
+        "catalog",
+        "national-photo-company",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016828007/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/01600/01654_150px.jpg#h=122&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/01600/01654t.gif#h=122&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/01600/01654r.jpg#h=519&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/01600/01654v.jpg#h=831&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington (d.c.)",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2023-02-08t14:27:57",
+        "http://www.loc.gov/item/npc2007001653",
+        "http://www.loc.gov/item/20177185",
+        "http://www.loc.gov/item/2016828007",
+        "2016828007"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "national photo company collection",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 28.21717,
+      "shelf_id": "LC-F8- 8075 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "bromwell, mildred",
+        "women",
+        "united states",
+        "glass negatives",
+        "chileans",
+        "horse shows",
+        "spectators",
+        "district of columbia"
+      ],
+      "timestamp": "2023-02-25T13:30:23.123Z",
+      "title": "Mrs. Mildred Bromwell, Madam DeGana, Sophia & Eline DeGana",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2016828007/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2016838491/",
+        "http://www.loc.gov/item/2016838491/",
+        "http://www.loc.gov/pictures/item/2016838491/",
+        "https://www.loc.gov/pictures/collection/npco/item/2016838491/",
+        "http://www.loc.gov/pictures/collection/npco/item/2016838491/",
+        "http://www.loc.gov/resource/npcc.12222/",
+        "http://lccn.loc.gov/2016838491",
+        "https://hdl.loc.gov/loc.pnp/npcc.12222"
+      ],
+      "campaigns": [],
+      "date": "1924-01-01",
+      "dates": [
+        "1924"
+      ],
+      "description": [
+        "1 negative : glass ; 4 x 5 in. or smaller"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-11-05T12:23:13.460Z",
+      "group": [
+        "npco",
+        "catalog-split-10",
+        "catalog",
+        "national-photo-company",
+        "main-catalog-split-10",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016838491/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/12200/12222_150px.jpg#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/12200/12222t.gif#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/12200/12222r.jpg#h=515&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/12200/12222v.jpg#h=824&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington (d.c.)",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2022-10-25t09:37:13",
+        "http://www.loc.gov/item/npc2007012221",
+        "http://www.loc.gov/item/2016838491",
+        "http://www.loc.gov/item/20194220",
+        "2016838491"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "national photo company collection",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 28.21717,
+      "shelf_id": "LC-F8- 32343 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "glass negatives",
+        "washington (d.c.)",
+        "district of columbia",
+        "united states"
+      ],
+      "timestamp": "2022-11-05T12:26:16.831Z",
+      "title": "[Calvin Coolidge with Washington Senators baseball team at White House, Washington, D.C.]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2016838491/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2016838645/",
+        "http://www.loc.gov/item/2016838645/",
+        "http://www.loc.gov/pictures/item/2016838645/",
+        "https://www.loc.gov/pictures/collection/npco/item/2016838645/",
+        "http://www.loc.gov/pictures/collection/npco/item/2016838645/",
+        "http://www.loc.gov/resource/npcc.12376/",
+        "http://lccn.loc.gov/2016838645",
+        "https://hdl.loc.gov/loc.pnp/npcc.12376"
+      ],
+      "campaigns": [],
+      "date": "1924-01-01",
+      "dates": [
+        "1924"
+      ],
+      "description": [
+        "1 negative : glass ; 4 x 5 in. or smaller"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-11-05T12:23:13.460Z",
+      "group": [
+        "npco",
+        "catalog-split-11",
+        "catalog",
+        "national-photo-company",
+        "main-catalog-split-11",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016838645/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/12300/12376_150px.jpg#h=123&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/12300/12376t.gif#h=123&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/12300/12376r.jpg#h=526&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/12300/12376v.jpg#h=842&w=1024"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington (d.c.)",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/npc2007012375",
+        "http://www.loc.gov/item/2016838645",
+        "2022-10-25t09:46:08",
+        "http://www.loc.gov/item/20194376",
+        "2016838645"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "national photo company collection",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 28.21717,
+      "shelf_id": "LC-F8- 32631 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "glass negatives",
+        "washington (d.c.)",
+        "district of columbia",
+        "united states"
+      ],
+      "timestamp": "2022-11-05T12:26:16.831Z",
+      "title": "[Calvin Coolidge and Ezra Meeker at the White House, Washington, D.C. 10/7/24",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2016838645/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2016827683/",
+        "http://www.loc.gov/item/2016827683/",
+        "http://www.loc.gov/pictures/item/2016827683/",
+        "https://www.loc.gov/pictures/collection/npco/item/2016827683/",
+        "http://www.loc.gov/pictures/collection/npco/item/2016827683/",
+        "https://hdl.loc.gov/loc.pnp/npcc.01328",
+        "https://hdl.loc.gov/loc.pnp/npcc.01328",
+        "http://www.loc.gov/resource/npcc.01328/",
+        "http://lccn.loc.gov/2016827683"
+      ],
+      "campaigns": [],
+      "date": "1920",
+      "dates": [
+        "1920"
+      ],
+      "description": [
+        "1 negative : glass ; 4 x 5 in. or smaller"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-04-22T12:24:38.508Z",
+      "group": [
+        "npco",
+        "catalog-split-11",
+        "catalog",
+        "national-photo-company",
+        "main-catalog-split-11",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016827683/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/01300/01328_150px.jpg#h=150&w=122",
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/01300/01328t.gif#h=150&w=122",
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/01300/01328r.jpg#h=640&w=519",
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/01300/01328v.jpg#h=1024&w=831"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington (d.c.)",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2023-04-17t13:56:55",
+        "http://www.loc.gov/item/2016827683",
+        "2016827683",
+        "http://www.loc.gov/item/20176854",
+        "http://www.loc.gov/item/npc2007001328"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "national photo company collection",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 28.21717,
+      "shelf_id": "LC-F8- 7309 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "chinese",
+        "united states",
+        "glass negatives",
+        "yung, kwai",
+        "district of columbia",
+        "diplomats"
+      ],
+      "timestamp": "2023-04-22T12:25:12.986Z",
+      "title": "Yung Kwai",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2016827683/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/npco/item/2016825553/",
+        "http://www.loc.gov/item/2016825553/",
+        "http://www.loc.gov/pictures/item/2016825553/",
+        "https://hdl.loc.gov/loc.pnp/npcc.32154",
+        "http://www.loc.gov/resource/npcc.32154/",
+        "http://lccn.loc.gov/2016825553"
+      ],
+      "campaigns": [],
+      "date": "1910-01-01",
+      "dates": [
+        "1910"
+      ],
+      "description": [
+        "1 negative : glass ; 8 x 10 in. or smaller"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T23:20:03.026Z",
+      "group": [
+        "npco",
+        "catalog-split-05",
+        "catalog",
+        "national-photo-company",
+        "main-catalog-split-05",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016825553/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/32100/32154_150px.jpg#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/32100/32154t.gif#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/32100/32154r.jpg#h=514&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/32100/32154v.jpg#h=822&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington (d.c.)",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017-12-08t11:02:11",
+        "2016825553",
+        "http://www.loc.gov/item/20174548",
+        "http://www.loc.gov/item/2016825553",
+        "http://www.loc.gov/item/npc2008012655"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "national photo company collection",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 28.21717,
+      "shelf_id": "LC-F82- 1142 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "glass negatives",
+        "washington (d.c.)",
+        "district of columbia",
+        "united states"
+      ],
+      "timestamp": "2022-04-30T19:32:30.425Z",
+      "title": "Catholic University, [Washington, D.C.], St. Paul's College",
+      "url": "https://www.loc.gov/item/2016825553/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/npco/item/2016825578/",
+        "http://www.loc.gov/item/2016825578/",
+        "http://www.loc.gov/pictures/item/2016825578/",
+        "https://hdl.loc.gov/loc.pnp/npcc.32183",
+        "http://www.loc.gov/resource/npcc.32183/",
+        "http://lccn.loc.gov/2016825578"
+      ],
+      "campaigns": [],
+      "date": "1910-01-01",
+      "dates": [
+        "1910"
+      ],
+      "description": [
+        "1 negative : glass ; 8 x 10 in. or smaller"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T23:20:03.486Z",
+      "group": [
+        "npco",
+        "catalog-split-12",
+        "catalog",
+        "national-photo-company",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016825578/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/32100/32183_150px.jpg#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/32100/32183t.gif#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/32100/32183r.jpg#h=512&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/npcc/32100/32183v.jpg#h=819&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington (d.c.)",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017-12-08t11:02:50",
+        "http://www.loc.gov/item/20174575",
+        "http://www.loc.gov/item/2016825578",
+        "http://www.loc.gov/item/npc2008012684",
+        "2016825578"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "national photo company collection",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 28.21717,
+      "shelf_id": "LC-F82- 1175 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "glass negatives",
+        "washington (d.c.)",
+        "district of columbia",
+        "united states"
+      ],
+      "timestamp": "2022-04-30T19:32:30.425Z",
+      "title": "Cathedral Ave., [Washington, D.C.]",
+      "url": "https://www.loc.gov/item/2016825578/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "npco",
+      "catalog-split-01",
+      "catalog",
+      "national-photo-company",
+      "main-catalog-split-01",
+      "main-catalog",
+      "catalog-split-02",
+      "main-catalog-split-02",
+      "catalog-split-10",
+      "main-catalog-split-10",
+      "catalog-split-11",
+      "main-catalog-split-11",
+      "catalog-split-05",
+      "main-catalog-split-05",
+      "catalog-split-12",
+      "main-catalog-split-12",
+      "ndnp/ncu",
+      "university-of-north-carolina-chapel-hill-library-awardee",
+      "sgpearlypress/dlc",
+      "early-press-of-the-nations-capitals"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "npcc.28724",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.7455313205718994,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/npcc.28724/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/npcc.28724/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294067.783711,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 36919146,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/npcc/28700/28724u.tif",
+      "width": 0
+    },
+    {
+      "height": 115,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 6190,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/npcc/28700/28724_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 115,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 12448,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/npcc/28700/28724t.gif",
+      "width": 150
+    },
+    {
+      "height": 492,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 63723,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/npcc/28700/28724r.jpg",
+      "width": 640
+    },
+    {
+      "height": 788,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 156882,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/npcc/28700/28724v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "//www.loc.gov/pictures/related/?&co=npco&pk=2016851550&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn96027351/1868-01-01/ed-1/",
+        "http://www.loc.gov/resource/sn96027351/1868-01-01/ed-1/"
+      ],
+      "batch": [
+        "ncu_appling_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of north carolina at chapel hill library, chapel hill, nc"
+      ],
+      "date": "1868-01-01",
+      "dates": [
+        "1868-01-01"
+      ],
+      "description": [
+        "Washington, D.C."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-12T17:31:13.321Z",
+      "group": [
+        "ndnp/ncu",
+        "university-of-north-carolina-chapel-hill-library-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn96027351/1868-01-01/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_appling_ver02:data:sn96027351:00332891613:1868010101:0001/full/pct:3.125/0/default.jpg#h=298&w=203",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_appling_ver02:data:sn96027351:00332891613:1868010101:0001/full/pct:6.25/0/default.jpg#h=597&w=407",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_appling_ver02:data:sn96027351:00332891613:1868010101:0001/full/pct:12.5/0/default.jpg#h=1194&w=815"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00332891613",
+        "1",
+        "sn96027351"
+      ],
+      "numeric_shelf_id": 186801011,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "national savings bank (washington, d.c.) 1868-18?? [online resource]",
+        "serial and government publications division",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "monthly"
+      ],
+      "score": 28.598774,
+      "shelf_id": "sn96027351, 1868-01-01, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "united states",
+        "african americans",
+        "african american",
+        "washington",
+        "african american banks",
+        "district of columbia",
+        "newspapers"
+      ],
+      "timestamp": "2023-08-12T19:43:38.893Z",
+      "title": "National savings bank (Washington, D.C.), January 1, 1868",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn96027351/1868-01-01/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83045242/1806-08-27/ed-1/",
+        "http://www.loc.gov/resource/sn83045242/1806-08-27/ed-1/"
+      ],
+      "batch": [
+        "dlc_domestic_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1806-08-27",
+      "dates": [
+        "1806-08-27"
+      ],
+      "description": [
+        "Washington City [D.C.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T00:33:54.197Z",
+      "group": [
+        "sgpearlypress/dlc",
+        "early-press-of-the-nations-capitals"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83045242/1806-08-27/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806082701:0001/full/pct:6.25/0/default.jpg#h=461&w=289",
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806082701:0001/full/pct:12.5/0/default.jpg#h=923&w=579"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn83045242"
+      ],
+      "numeric_shelf_id": 180608271,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "National intelligencer & Washington advertiser",
+        "National intelligencer, Washington advertiser"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "the national intelligencer and washington advertiser (washington city [d.c.]) 1800-1810",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "triweekly"
+      ],
+      "score": 17.563074,
+      "shelf_id": "sn83045242, 1806-08-27, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "united states",
+        "washington",
+        "district of columbia",
+        "newspapers"
+      ],
+      "timestamp": "2022-11-09T15:33:16.582Z",
+      "title": "The national intelligencer and Washington advertiser (Washington City [D.C.]), August 27, 1806",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83045242/1806-08-27/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83045242/1806-08-29/ed-1/",
+        "http://www.loc.gov/resource/sn83045242/1806-08-29/ed-1/"
+      ],
+      "batch": [
+        "dlc_domestic_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1806-08-29",
+      "dates": [
+        "1806-08-29"
+      ],
+      "description": [
+        "Washington City [D.C.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T00:33:54.197Z",
+      "group": [
+        "sgpearlypress/dlc",
+        "early-press-of-the-nations-capitals"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83045242/1806-08-29/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806082901:0001/full/pct:6.25/0/default.jpg#h=458&w=283",
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806082901:0001/full/pct:12.5/0/default.jpg#h=917&w=567"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn83045242"
+      ],
+      "numeric_shelf_id": 180608291,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "National intelligencer & Washington advertiser",
+        "National intelligencer, Washington advertiser"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "the national intelligencer and washington advertiser (washington city [d.c.]) 1800-1810",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "triweekly"
+      ],
+      "score": 17.563074,
+      "shelf_id": "sn83045242, 1806-08-29, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "united states",
+        "washington",
+        "district of columbia",
+        "newspapers"
+      ],
+      "timestamp": "2022-11-09T15:33:16.582Z",
+      "title": "The national intelligencer and Washington advertiser (Washington City [D.C.]), August 29, 1806",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83045242/1806-08-29/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83045242/1806-09-01/ed-1/",
+        "http://www.loc.gov/resource/sn83045242/1806-09-01/ed-1/"
+      ],
+      "batch": [
+        "dlc_domestic_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1806-09-01",
+      "dates": [
+        "1806-09-01"
+      ],
+      "description": [
+        "Washington City [D.C.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T00:33:54.197Z",
+      "group": [
+        "sgpearlypress/dlc",
+        "early-press-of-the-nations-capitals"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83045242/1806-09-01/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806090101:0001/full/pct:6.25/0/default.jpg#h=459&w=289",
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806090101:0001/full/pct:12.5/0/default.jpg#h=919&w=579"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn83045242"
+      ],
+      "numeric_shelf_id": 180609011,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "National intelligencer & Washington advertiser",
+        "National intelligencer, Washington advertiser"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "the national intelligencer and washington advertiser (washington city [d.c.]) 1800-1810",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "triweekly"
+      ],
+      "score": 17.563074,
+      "shelf_id": "sn83045242, 1806-09-01, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "united states",
+        "washington",
+        "district of columbia",
+        "newspapers"
+      ],
+      "timestamp": "2022-11-09T15:33:16.582Z",
+      "title": "The national intelligencer and Washington advertiser (Washington City [D.C.]), September 1, 1806",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83045242/1806-09-01/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83045242/1806-08-18/ed-1/",
+        "http://www.loc.gov/resource/sn83045242/1806-08-18/ed-1/"
+      ],
+      "batch": [
+        "dlc_domestic_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1806-08-18",
+      "dates": [
+        "1806-08-18"
+      ],
+      "description": [
+        "Washington City [D.C.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T00:33:54.197Z",
+      "group": [
+        "sgpearlypress/dlc",
+        "early-press-of-the-nations-capitals"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83045242/1806-08-18/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806081801:0001/full/pct:6.25/0/default.jpg#h=456&w=289",
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806081801:0001/full/pct:12.5/0/default.jpg#h=913&w=578"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn83045242"
+      ],
+      "numeric_shelf_id": 180608181,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "National intelligencer & Washington advertiser",
+        "National intelligencer, Washington advertiser"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "the national intelligencer and washington advertiser (washington city [d.c.]) 1800-1810",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "triweekly"
+      ],
+      "score": 17.563074,
+      "shelf_id": "sn83045242, 1806-08-18, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "united states",
+        "washington",
+        "district of columbia",
+        "newspapers"
+      ],
+      "timestamp": "2022-11-09T15:33:16.582Z",
+      "title": "The national intelligencer and Washington advertiser (Washington City [D.C.]), August 18, 1806",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83045242/1806-08-18/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83045242/1806-08-20/ed-1/",
+        "http://www.loc.gov/resource/sn83045242/1806-08-20/ed-1/"
+      ],
+      "batch": [
+        "dlc_domestic_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1806-08-20",
+      "dates": [
+        "1806-08-20"
+      ],
+      "description": [
+        "Washington City [D.C.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T00:33:54.197Z",
+      "group": [
+        "sgpearlypress/dlc",
+        "early-press-of-the-nations-capitals"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83045242/1806-08-20/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806082001:0001/full/pct:6.25/0/default.jpg#h=456&w=290",
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806082001:0001/full/pct:12.5/0/default.jpg#h=913&w=581"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington",
+        "district of columbia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn83045242"
+      ],
+      "numeric_shelf_id": 180608201,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "National intelligencer & Washington advertiser",
+        "National intelligencer, Washington advertiser"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "the national intelligencer and washington advertiser (washington city [d.c.]) 1800-1810",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "triweekly"
+      ],
+      "score": 17.563074,
+      "shelf_id": "sn83045242, 1806-08-20, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "united states",
+        "washington",
+        "district of columbia",
+        "newspapers"
+      ],
+      "timestamp": "2022-11-09T15:33:16.582Z",
+      "title": "The national intelligencer and Washington advertiser (Washington City [D.C.]), August 20, 1806",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83045242/1806-08-20/ed-1/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "digital file from original",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/npcc/28700/28724_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/npcc.28724/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from original",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/npcc/28700/28724_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/npcc.28724/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294068529,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/npcc.28724/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/npcc.28724/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/npcc.28724/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/npcc.28724/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/npcc.28724/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/npcc.28724/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/npcc.28724/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/npcc.28724/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/npcc.28724/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/npcc.28724/?fo=json&st=text"
+  }
+}

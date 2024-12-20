@@ -1,0 +1,1722 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Highsmith, C. M., photographer. (2014) <cite>The easily identifiable thanks to its huge artistic sign downtown J. Erik Jonsson Central Library, across from City Hall</cite>. Dallas United States Texas, 2014. -05-25. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2014633407/.",
+    "chicago": "Highsmith, Carol M, photographer. <cite>The easily identifiable thanks to its huge artistic sign downtown J. Erik Jonsson Central Library, across from City Hall</cite>. Dallas United States Texas, 2014. -05-25. Photograph. https://www.loc.gov/item/2014633407/.",
+    "mla": "Highsmith, Carol M, photographer. <cite>The easily identifiable thanks to its huge artistic sign downtown J. Erik Jonsson Central Library, across from City Hall</cite>. -05-25. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2014633407/&gt;."
+  },
+  "item": {
+    "_version_": 1730907476603174912,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2014633407/",
+      "http://www.loc.gov/item/2014633407/",
+      "http://www.loc.gov/pictures/item/2014633407/",
+      "https://www.loc.gov/pictures/collection/highsm/item/2014633407/",
+      "http://www.loc.gov/pictures/collection/highsm/item/2014633407/",
+      "http://www.loc.gov/resource/highsm.29207/",
+      "http://lccn.loc.gov/2014633407",
+      "https://hdl.loc.gov/loc.pnp/highsm.29207"
+    ],
+    "call_number": "LC-DIG-highsm- 29207 (ONLINE) [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Highsmith, Carol M., 1946-, photographer"
+    ],
+    "contributors": [
+      {
+        "highsmith, carol m.": "https://www.loc.gov/search/?fa=contributor:highsmith,+carol+m.&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2016-04-21T01:41:16Z",
+    "created_published": [
+      "2014-05-25."
+    ],
+    "created_published_date": "2014-05-25.",
+    "date": "2014-01-01",
+    "dates": [
+      {
+        "2014": "https://www.loc.gov/search/?dates=2014/2014&fo=json"
+      }
+    ],
+    "description": [
+      "1 photograph : digital, tiff file, color."
+    ],
+    "digital_id": [
+      "highsm 29207 //hdl.loc.gov/loc.pnp/highsm.29207"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-31T02:33:39.994Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/highsm/item/2014633407/#highsm",
+      "http://lccn.loc.gov/2014633407#catalog-split-14"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Digital photographs--Color--2010-2020."
+    ],
+    "genre": [
+      "Digital photographs--Color--2010-2020"
+    ],
+    "group": [
+      "highsm",
+      "catalog-split-14",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-14",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2014633407/",
+    "image_url": [
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:29200:29207/full/pct:6.25/0/default.jpg#h=460&w=307",
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:29200:29207/full/pct:12.5/0/default.jpg#h=920&w=614",
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:29200:29207/full/pct:25/0/default.jpg#h=1840&w=1228"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-DIG-highsm- 29207 (ONLINE) [P&P]",
+      "contributors": [
+        "Highsmith, Carol M., 1946- photographer."
+      ],
+      "control_number": "2014633407",
+      "created": "2016-04-21T01:41:16Z",
+      "created_published": "2014-05-25.",
+      "created_published_date": "2014-05-25.",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Highsmith%2C%20Carol%20M.%2C%201946-&co=highsm",
+          "role": "photographer",
+          "title": "Highsmith, Carol M., 1946-"
+        }
+      ],
+      "date": "2014-05-25.",
+      "digital_id": [
+        "highsm 29207 //hdl.loc.gov/loc.pnp/highsm.29207"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Digital%20photographs--Color--2010-2020.&co=highsm",
+          "title": "Digital photographs--Color--2010-2020."
+        }
+      ],
+      "genre": [
+        "Digital photographs--Color--2010-2020"
+      ],
+      "id": "2014633407",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2014633407/",
+      "marc": "https://www.loc.gov/pictures/item/2014633407/marc/",
+      "medium": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "medium_brief": "1 photograph :",
+      "mediums": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "modified": "2016-04-21T01:41:16Z",
+      "notes": [
+        "Title, date, and keywords based on information provided by the photographer.",
+        "Having outgrown its central library, the city library system built this one and opened it in 1982. It was one of the first libraries in the country to have an on-line catalog system and state-of-the-art audiovisual capabilities. The Library was renamed in 1986 in honor of J. Erik Jonsson, a former mayor who played a key role in its development.",
+        "Credit line: The Lyda Hill Texas Collection of Photographs in Carol M. Highsmith's America Project, Library of Congress, Prints and Photographs Division.",
+        "Gift; The Lyda Hill Foundation; 2014; (DLC/PP-2014:054).",
+        "Forms part of: Lyda Hill Texas Collection of Photographs in Carol M. Highsmith's America Project in the Carol M. Highsmith Archive."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2014633407",
+        "https://www.loc.gov/item/hig2014003207"
+      ],
+      "other_control_numbers": [
+        "18379580",
+        "hig2014003207"
+      ],
+      "part_of": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Texas--Dallas&co=highsm",
+          "longitude": "",
+          "title": "Texas--Dallas"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-highsm-29207 (original digital file)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/highsm.29207"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/highsm/29200/29207_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/highsm/29200/29207r.jpg",
+      "sort_date": "2014",
+      "source_collection": [
+        "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+      ],
+      "source_created": "2014-10-22T00:00:00Z",
+      "source_modified": "2014-11-20T13:16:52Z",
+      "subject_headings": [
+        "United States--Texas--Dallas.",
+        "J. Erik Jonsson Central Library.",
+        "Libraries.",
+        "Dallas Central Library.",
+        "America.",
+        "Texas--Dallas"
+      ],
+      "subjects": [
+        "United States--Texas--Dallas",
+        "J. Erik Jonsson Central Library",
+        "Libraries",
+        "Dallas Central Library",
+        "America"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/29200/29207_150px.jpg",
+      "title": "The easily identifiable (thanks to its huge artistic sign) downtown J. Erik Jonsson Central Library, across from City Hall"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2014633407",
+    "link": "https://www.loc.gov/pictures/item/2014633407/",
+    "location": [
+      "dallas",
+      "united states",
+      "texas"
+    ],
+    "location_city": [
+      "dallas"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_state": [
+      "texas"
+    ],
+    "locations": [
+      {
+        "dallas": "https://www.loc.gov/search/?fa=location:dallas&fo=json"
+      },
+      {
+        "texas": "https://www.loc.gov/search/?fa=location:texas&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "dallas": "https://www.loc.gov/search/?fa=location_city:dallas&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "texas": "https://www.loc.gov/search/?fa=location_state:texas&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2014633407/marc/",
+    "medium": [
+      "1 photograph : digital, tiff file, color."
+    ],
+    "medium_brief": "1 photograph :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2016-04-21T01:41:16Z",
+    "notes": [
+      "Title, date, and keywords based on information provided by the photographer.",
+      "Having outgrown its central library, the city library system built this one and opened it in 1982. It was one of the first libraries in the country to have an on-line catalog system and state-of-the-art audiovisual capabilities. The Library was renamed in 1986 in honor of J. Erik Jonsson, a former mayor who played a key role in its development.",
+      "Credit line: The Lyda Hill Texas Collection of Photographs in Carol M. Highsmith's America Project, Library of Congress, Prints and Photographs Division.",
+      "Gift; The Lyda Hill Foundation; 2014; (DLC/PP-2014:054).",
+      "Forms part of: Lyda Hill Texas Collection of Photographs in Carol M. Highsmith's America Project in the Carol M. Highsmith Archive."
+    ],
+    "number": [
+      "2014633407",
+      "http://www.loc.gov/item/hig2014003207",
+      "online resource",
+      "http://www.loc.gov/item/2014633407",
+      "http://www.loc.gov/item/18379580",
+      "2014-11-20t13:16:52"
+    ],
+    "number_carrier_type": [
+      "online resource"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/18379580",
+      "http://www.loc.gov/item/hig2014003207",
+      "http://www.loc.gov/item/2014633407"
+    ],
+    "number_lccn": [
+      "2014633407"
+    ],
+    "number_source_modified": [
+      "2014-11-20t13:16:52"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "18379580",
+      "hig2014003207"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2014633407/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2014633407/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2014633407/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 69132,
+        "title": "highsmith (carol m.) archive",
+        "url": "https://www.loc.gov/collections/carol-m-highsmith/?fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Texas--Dallas&co=highsm",
+        "longitude": "",
+        "title": "Texas--Dallas"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2014633407&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-highsm-29207 (original digital file)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/highsm.29207"
+    ],
+    "resources": [
+      {
+        "caption": "original digital file",
+        "files": 1,
+        "image": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:29200:29207/full/pct:6.25/0/default.jpg",
+        "url": "https://www.loc.gov/resource/highsm.29207/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/482_high.html\">Carol M. Highsmith - Rights and Restrictions Information</a> </p>\n \n"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "LC-DIG-highsm- 29207 (ONLINE) [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "2014",
+    "source_collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+    "source_created": "2014-10-22T00:00:00Z",
+    "source_modified": "2014-11-20T13:16:52Z",
+    "subject": [
+      "libraries",
+      "j. erik jonsson central library",
+      "dallas central library",
+      "united states",
+      "texas",
+      "america",
+      "digital photographs",
+      "color",
+      "dallas"
+    ],
+    "subject_headings": [
+      "United States--Texas--Dallas",
+      "J. Erik Jonsson Central Library",
+      "Libraries",
+      "Dallas Central Library",
+      "America"
+    ],
+    "subjects": [
+      {
+        "america": "https://www.loc.gov/search/?fa=subject:america&fo=json"
+      },
+      {
+        "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+      },
+      {
+        "dallas": "https://www.loc.gov/search/?fa=subject:dallas&fo=json"
+      },
+      {
+        "dallas central library": "https://www.loc.gov/search/?fa=subject:dallas+central+library&fo=json"
+      },
+      {
+        "digital photographs": "https://www.loc.gov/search/?fa=subject:digital+photographs&fo=json"
+      },
+      {
+        "j. erik jonsson central library": "https://www.loc.gov/search/?fa=subject:j.+erik+jonsson+central+library&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "texas": "https://www.loc.gov/search/?fa=subject:texas&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/29200/29207_150px.jpg",
+    "timestamp": "2022-04-23T13:53:23.800Z",
+    "title": "The easily identifiable (thanks to its huge artistic sign) downtown J. Erik Jonsson Central Library, across from City Hall",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2014633407/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014633408/",
+        "http://www.loc.gov/item/2014633408/",
+        "http://www.loc.gov/pictures/item/2014633408/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2014633408/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2014633408/",
+        "http://www.loc.gov/resource/highsm.29208/",
+        "https://hdl.loc.gov/loc.pnp/highsm.29208",
+        "http://lccn.loc.gov/2014633408"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2014-01-01",
+      "dates": [
+        "2014"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T05:04:05.934Z",
+      "group": [
+        "highsm",
+        "catalog-split-15",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014633408/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:29200:29208/full/pct:6.25/0/default.jpg#h=254&w=460",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:29200:29208/full/pct:12.5/0/default.jpg#h=509&w=920",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:29200:29208/full/pct:25/0/default.jpg#h=1019&w=1840"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "dallas",
+        "united states",
+        "texas"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2014-11-20t13:17:12",
+        "http://www.loc.gov/item/18379581",
+        "online resource",
+        "2014633408",
+        "http://www.loc.gov/item/2014633408",
+        "http://www.loc.gov/item/hig2014003208"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "highsmith (carol m.) archive",
+        "catalog",
+        "prints and photographs division"
+      ],
+      "score": 68.4924,
+      "shelf_id": "LC-DIG-highsm- 29208 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "libraries",
+        "j. erik jonsson central library",
+        "dallas central library",
+        "united states",
+        "texas",
+        "america",
+        "digital photographs",
+        "color",
+        "dallas"
+      ],
+      "timestamp": "2022-04-23T13:53:23.800Z",
+      "title": "The easily identifiable (thanks to its huge artistic sign) downtown J. Erik Jonsson Central Library, across from City Hall",
+      "url": "https://www.loc.gov/item/2014633408/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2021755627",
+        "http://www.loc.gov/item/2021755627/",
+        "https://hdl.loc.gov/loc.pnp/highsm.67406",
+        "http://www.loc.gov/resource/highsm.67406/",
+        "https://www.loc.gov/pictures/item/2021755627/",
+        "http://www.loc.gov/pictures/item/2021755627/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2021755627/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2021755627/",
+        "https://hdl.loc.gov/loc.pnp/highsm.67406"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2021-01-01",
+      "dates": [
+        "2021"
+      ],
+      "description": [
+        "Title, date, and keywords based on information provided by the photographer. Photographed as part of an assignment for the General Services Administration. Purchase; Carol M. Highsmith Photography, Inc.; 2021 (DLC/PP-2021:108). Forms part of Carol M. Highsmith's America Project in the Carol M. Highsmith Archive. Credit Line: Photographs in Carol M. Highsmith's America Project in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-08-02T18:21:21.846Z",
+      "group": [
+        "catalog",
+        "highsm",
+        "catalog-split-05",
+        "main-catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-05"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021755627/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/67400/67406_150px.jpg#h=91&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/67400/67406r.jpg#h=386&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/67400/67406v.jpg#h=618&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "dallas",
+        "united states",
+        "texas"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/22635139",
+        "online resource",
+        "2021755627",
+        "2022-06-09t14:45:44"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "highsmith (carol m.) archive",
+        "catalog",
+        "prints and photographs division"
+      ],
+      "score": 40.396812,
+      "shelf_id": "LC-DIG-highsm- 67406",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "art deco",
+        "lobbies",
+        "america",
+        "united states",
+        "texas",
+        "digital photographs",
+        "earle cabell building",
+        "federal buildings",
+        "gsa",
+        "color",
+        "dallas"
+      ],
+      "timestamp": "2022-08-02T18:29:40.769Z",
+      "title": "The Earle Cabell building and U.S. Courthouse, built in 1971 shares a wall with the Art Deco-style Federal Building, previously known as the Santa Fe Building",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2021755627/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2021755628",
+        "http://www.loc.gov/item/2021755628/",
+        "https://hdl.loc.gov/loc.pnp/highsm.67407",
+        "http://www.loc.gov/resource/highsm.67407/",
+        "https://www.loc.gov/pictures/item/2021755628/",
+        "http://www.loc.gov/pictures/item/2021755628/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2021755628/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2021755628/",
+        "https://hdl.loc.gov/loc.pnp/highsm.67407"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2021-01-01",
+      "dates": [
+        "2021"
+      ],
+      "description": [
+        "Title, date, and keywords based on information provided by the photographer. Photographed as part of an assignment for the General Services Administration. Purchase; Carol M. Highsmith Photography, Inc.; 2021 (DLC/PP-2021:108). Forms part of Carol M. Highsmith's America Project in the Carol M. Highsmith Archive. Credit Line: Photographs in Carol M. Highsmith's America Project in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-08-02T18:21:21.846Z",
+      "group": [
+        "catalog",
+        "highsm",
+        "catalog-split-06",
+        "main-catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-06"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021755628/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/67400/67407_150px.jpg#h=100&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/67400/67407r.jpg#h=427&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/67400/67407v.jpg#h=683&w=1024"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "dallas",
+        "united states",
+        "texas"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2021755628",
+        "http://www.loc.gov/item/22635140",
+        "online resource",
+        "2022-06-09t14:45:44"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "highsmith (carol m.) archive",
+        "catalog",
+        "prints and photographs division"
+      ],
+      "score": 40.396812,
+      "shelf_id": "LC-DIG-highsm- 67407",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "art deco",
+        "america",
+        "united states",
+        "texas",
+        "digital photographs",
+        "earle cabell building",
+        "courtrooms",
+        "federal buildings",
+        "gsa",
+        "color",
+        "dallas"
+      ],
+      "timestamp": "2022-08-02T18:29:40.769Z",
+      "title": "The Earle Cabell building and U.S. Courthouse, built in 1971 shares a wall with the Art Deco-style Federal Building, previously known as the Santa Fe Building",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2021755628/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2021755629",
+        "http://www.loc.gov/item/2021755629/",
+        "https://hdl.loc.gov/loc.pnp/highsm.67408",
+        "http://www.loc.gov/resource/highsm.67408/",
+        "https://www.loc.gov/pictures/item/2021755629/",
+        "http://www.loc.gov/pictures/item/2021755629/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2021755629/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2021755629/",
+        "https://hdl.loc.gov/loc.pnp/highsm.67408"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2021-01-01",
+      "dates": [
+        "2021"
+      ],
+      "description": [
+        "Title, date, and keywords based on information provided by the photographer. Photographed as part of an assignment for the General Services Administration. Purchase; Carol M. Highsmith Photography, Inc.; 2021 (DLC/PP-2021:108). Forms part of Carol M. Highsmith's America Project in the Carol M. Highsmith Archive. Credit Line: Photographs in Carol M. Highsmith's America Project in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-08-02T18:21:21.846Z",
+      "group": [
+        "catalog",
+        "highsm",
+        "catalog-split-07",
+        "main-catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-07"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021755629/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/67400/67408_150px.jpg#h=100&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/67400/67408r.jpg#h=427&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/67400/67408v.jpg#h=683&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "dallas",
+        "united states",
+        "texas"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "online resource",
+        "http://www.loc.gov/item/22635141",
+        "2021755629",
+        "2022-06-09t14:45:44"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "highsmith (carol m.) archive",
+        "catalog",
+        "prints and photographs division"
+      ],
+      "score": 40.396812,
+      "shelf_id": "LC-DIG-highsm- 67408",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "art deco",
+        "america",
+        "united states",
+        "texas",
+        "corridors",
+        "digital photographs",
+        "earle cabell building",
+        "federal buildings",
+        "gsa",
+        "color",
+        "dallas"
+      ],
+      "timestamp": "2022-08-02T18:29:40.769Z",
+      "title": "The Earle Cabell building and U.S. Courthouse, built in 1971 shares a wall with the Art Deco-style Federal Building, previously known as the Santa Fe Building",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2021755629/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2021755630",
+        "http://www.loc.gov/item/2021755630/",
+        "https://hdl.loc.gov/loc.pnp/highsm.67409",
+        "http://www.loc.gov/resource/highsm.67409/",
+        "https://www.loc.gov/pictures/item/2021755630/",
+        "http://www.loc.gov/pictures/item/2021755630/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2021755630/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2021755630/",
+        "https://hdl.loc.gov/loc.pnp/highsm.67409"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2021-01-01",
+      "dates": [
+        "2021"
+      ],
+      "description": [
+        "Title, date, and keywords based on information provided by the photographer. Photographed as part of an assignment for the General Services Administration. Purchase; Carol M. Highsmith Photography, Inc.; 2021 (DLC/PP-2021:108). Forms part of Carol M. Highsmith's America Project in the Carol M. Highsmith Archive. Credit Line: Photographs in Carol M. Highsmith's America Project in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-08-02T18:21:21.846Z",
+      "group": [
+        "catalog",
+        "highsm",
+        "main-catalog",
+        "carol-m-highsmith"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021755630/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/67400/67409_150px.jpg#h=100&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/67400/67409r.jpg#h=427&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/67400/67409v.jpg#h=683&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "dallas",
+        "united states",
+        "texas"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "online resource",
+        "http://www.loc.gov/item/22635142",
+        "2022-06-09t14:45:44",
+        "2021755630"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "highsmith (carol m.) archive",
+        "catalog",
+        "prints and photographs division"
+      ],
+      "score": 40.396812,
+      "shelf_id": "LC-DIG-highsm- 67409",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "art deco",
+        "america",
+        "united states",
+        "texas",
+        "digital photographs",
+        "earle cabell building",
+        "courtrooms",
+        "federal buildings",
+        "gsa",
+        "color",
+        "dallas"
+      ],
+      "timestamp": "2022-08-02T18:29:40.769Z",
+      "title": "The Earle Cabell building and U.S. Courthouse, built in 1971 shares a wall with the Art Deco-style Federal Building, previously known as the Santa Fe Building",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2021755630/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2021755631",
+        "http://www.loc.gov/item/2021755631/",
+        "https://hdl.loc.gov/loc.pnp/highsm.67410",
+        "http://www.loc.gov/resource/highsm.67410/",
+        "https://www.loc.gov/pictures/item/2021755631/",
+        "http://www.loc.gov/pictures/item/2021755631/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2021755631/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2021755631/",
+        "https://hdl.loc.gov/loc.pnp/highsm.67410"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2021-01-01",
+      "dates": [
+        "2021"
+      ],
+      "description": [
+        "Title, date, and keywords based on information provided by the photographer. Photographed as part of an assignment for the General Services Administration. Purchase; Carol M. Highsmith Photography, Inc.; 2021 (DLC/PP-2021:108). Forms part of Carol M. Highsmith's America Project in the Carol M. Highsmith Archive. Credit Line: Photographs in Carol M. Highsmith's America Project in the Carol M. Highsmith Archive, Library of Congress, Prints and Photographs Division."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-08-02T18:21:21.846Z",
+      "group": [
+        "catalog",
+        "highsm",
+        "catalog-split-00",
+        "main-catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-00"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021755631/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/67400/67410_150px.jpg#h=100&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/67400/67410r.jpg#h=427&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/67400/67410v.jpg#h=683&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "dallas",
+        "united states",
+        "texas"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/22635143",
+        "online resource",
+        "2021755631",
+        "2022-06-09t14:45:44"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "highsmith (carol m.) archive",
+        "catalog",
+        "prints and photographs division"
+      ],
+      "score": 40.396812,
+      "shelf_id": "LC-DIG-highsm- 67410",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "art deco",
+        "america",
+        "united states",
+        "texas",
+        "elevator lobbies",
+        "digital photographs",
+        "earle cabell building",
+        "federal buildings",
+        "gsa",
+        "color",
+        "dallas"
+      ],
+      "timestamp": "2022-08-02T18:29:40.769Z",
+      "title": "The Earle Cabell building and U.S. Courthouse, built in 1971 shares a wall with the Art Deco-style Federal Building, previously known as the Santa Fe Building",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2021755631/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "highsm",
+      "catalog-split-14",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-14",
+      "main-catalog",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "catalog-split-05",
+      "main-catalog-split-05",
+      "catalog-split-06",
+      "main-catalog-split-06",
+      "catalog-split-07",
+      "main-catalog-split-07",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "ndnp/dlc-2020_now",
+      "library-of-congress-washington-dc-awardee-8",
+      "ndnp/newspapers",
+      "united-states-newspaper-directory"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "highsm.29207",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.8480944633483887,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/highsm.29207/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/highsm.29207/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294059.5431092,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 460,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:29200:29207/full/pct:6.25/0/default.jpg",
+      "width": 307
+    },
+    {
+      "height": 920,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:29200:29207/full/pct:12.5/0/default.jpg",
+      "width": 614
+    },
+    {
+      "height": 1840,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:29200:29207/full/pct:25/0/default.jpg",
+      "width": 1228
+    },
+    {
+      "height": 7360,
+      "info": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:29200:29207/info.json",
+      "levels": 7,
+      "mimetype": "image/jp2",
+      "size": 8750888,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/29200/29207.jp2",
+      "width": 4912
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2014633407&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83025779/1900-01-13/ed-1/",
+        "http://www.loc.gov/resource/sn83025779/1900-01-13/ed-1/"
+      ],
+      "batch": [
+        "dlc_kingman_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1900-01-13",
+      "dates": [
+        "1900-01-13"
+      ],
+      "description": [
+        "Dallas, Tex."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-07T20:32:34.516Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83025779/1900-01-13/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025779:00220720457:1900011301:0001/full/pct:3.125/0/default.jpg#h=287&w=208",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025779:00220720457:1900011301:0001/full/pct:6.25/0/default.jpg#h=575&w=416",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025779:00220720457:1900011301:0001/full/pct:12.5/0/default.jpg#h=1150&w=833"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "harris",
+        "united states",
+        "texas",
+        "houston",
+        "dallas county",
+        "harris county",
+        "dallas"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00220720457",
+        "sn83025779",
+        "1"
+      ],
+      "numeric_shelf_id": 190001131,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the dallas express (dallas, tex.) 1893-1970",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 29.8349,
+      "shelf_id": "sn83025779, 1900-01-13, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "harris",
+        "united states",
+        "texas",
+        "dallas county (tex.)",
+        "african american",
+        "african americans",
+        "dallas (tex.)",
+        "newspapers",
+        "african american newspapers",
+        "houston (tex.)",
+        "harris county",
+        "dallas county",
+        "houston",
+        "dallas",
+        "harris county (tex.)"
+      ],
+      "timestamp": "2023-08-08T11:26:26.035Z",
+      "title": "The Dallas express (Dallas, Tex.), January 13, 1900",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83025779/1900-01-13/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83025788/1900-01-27/ed-1/",
+        "http://www.loc.gov/resource/sn83025788/1900-01-27/ed-1/"
+      ],
+      "batch": [
+        "dlc_kingman_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1900-01-27",
+      "dates": [
+        "1900-01-27"
+      ],
+      "description": [
+        "Dallas, Tex."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-07T20:32:34.516Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83025788/1900-01-27/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025788:00220720457:1900012701:0001/full/pct:3.125/0/default.jpg#h=275&w=181",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025788:00220720457:1900012701:0001/full/pct:6.25/0/default.jpg#h=550&w=363",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025788:00220720457:1900012701:0001/full/pct:12.5/0/default.jpg#h=1100&w=727"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "texas",
+        "dallas",
+        "united states",
+        "dallas county"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00220720457",
+        "1",
+        "sn83025788"
+      ],
+      "numeric_shelf_id": 190001271,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the item (dallas, tex.) 1891-1900",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 29.8349,
+      "shelf_id": "sn83025788, 1900-01-27, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "united states",
+        "texas",
+        "dallas county (tex.)",
+        "african american",
+        "african americans",
+        "dallas (tex.)",
+        "newspapers",
+        "african american newspapers",
+        "dallas county",
+        "dallas"
+      ],
+      "timestamp": "2023-08-08T11:26:26.035Z",
+      "title": "The item (Dallas, Tex.), January 27, 1900",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83025788/1900-01-27/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2004216240/",
+        "http://lccn.loc.gov/2004216240"
+      ],
+      "campaigns": [],
+      "date": "1885",
+      "dates": [
+        "[1885 TO 9999]"
+      ],
+      "description": [
+        "Presents the online edition of the \"Dallas Morning News,\" a daily Texas newspaper. Includes national, international, state, and local news articles, business news, and sports information. Contains features and religion articles, arts reviews, and weather forecasts. Offers a classified section and a FAQ. Provides subscription information and posts contact information via street address, telephone and fax numbers, and e-mail"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-09-18T12:05:26.973Z",
+      "group": [
+        "ndnp/newspapers",
+        "catalog-split-05",
+        "catalog",
+        "united-states-newspaper-directory",
+        "main-catalog-split-05"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2004216240/",
+      "image_url": [],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "texas",
+        "dallas",
+        "united states",
+        "dallas county"
+      ],
+      "number": [
+        "2024-09-09t08:59:08.942573",
+        "online resource",
+        "1553-846x",
+        "2004216240",
+        "44336180",
+        "2024-04-24t06:56:55"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "directory of u.s. newspapers in american libraries",
+        "catalog",
+        "the dallas morning news (dallas, tex.) 1885-current [online resource]",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "daily"
+      ],
+      "score": 20.0398,
+      "shelf_id": "Newspaper",
+      "site": [
+        "usnd",
+        "catalog"
+      ],
+      "subject": [
+        "https://id.oclc.org/worldcat/entity/e39pbjcgqh6bht3w7whg3xmkh3",
+        "united states",
+        "texas",
+        "dallas county (tex.)",
+        "https://id.oclc.org/worldcat/entity/e39pbjmdrwf9xxgthh9xx7tyfq",
+        "periodical",
+        "periodicals",
+        "dallas (tex.)",
+        "newspapers",
+        "electronic journals",
+        "journaux",
+        "dallas county",
+        "dallas"
+      ],
+      "timestamp": "2024-09-18T12:15:04.226Z",
+      "title": "The Dallas morning news",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/2004216240/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2023270508/"
+      ],
+      "campaigns": [],
+      "date": "1891",
+      "dates": [
+        "[1891 TO 1900]"
+      ],
+      "description": [
+        "Weekly Began in 1891; ceased in 1900. Also issued on microfilm from the Library of Congress Photoduplication Service. Vol. X, No. 31 (January 27, 1900); title from masthead (Chroniclingamerica.loc.gov, viewed January 11, 2023). Vol. X, No. 31 (January 27, 1900) (Chroniclingamerica.loc.gov, viewed January 11, 2023)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-09-18T12:06:14.381Z",
+      "group": [
+        "ndnp/newspapers",
+        "united-states-newspaper-directory"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2023270508/",
+      "image_url": [],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "texas",
+        "dallas",
+        "united states",
+        "dallas county"
+      ],
+      "number": [
+        "2024-09-09t08:59:08.942573",
+        "online resource",
+        "1357551032",
+        "2023270508",
+        "2835-8627"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "directory of u.s. newspapers in american libraries",
+        "the item (dallas, texas) 1891-1900 [online resource]",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 20.0398,
+      "shelf_id": "ISSN RECORD",
+      "site": [
+        "usnd"
+      ],
+      "subject": [
+        "united states",
+        "texas",
+        "dallas county (tex.)",
+        "african american",
+        "african americans",
+        "dallas (tex.)",
+        "newspapers",
+        "african american newspapers",
+        "dallas county",
+        "dallas"
+      ],
+      "timestamp": "2024-09-18T12:25:10.046Z",
+      "title": "The item",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/2023270508/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2011254359/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "king, w. e. (william e.)"
+      ],
+      "date": "1893",
+      "dates": [
+        "[1893 TO 1970]"
+      ],
+      "description": [
+        "Weekly Began in 1893; ceased in 1970. \"The South's Oldest and Largest Negro Newspaper.\" Editor: W. E. King, <January 11>-August 16, 1919. Description based on: Vol. 7, no. 14 (Jan. 13, 1900); title from PDF masthead (Readex America's Historical Newspapers Web site, viewed Aug. 25, 2011). Latest issue consulted: Vol. XXX, no. 10 (December 30, 1922) (Chroniclingamerica.loc.gov, viewed September 25, 2013)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-09-18T12:06:27.030Z",
+      "group": [
+        "ndnp/newspapers",
+        "united-states-newspaper-directory"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2011254359/",
+      "image_url": [],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "harris",
+        "united states",
+        "texas",
+        "houston",
+        "dallas county",
+        "harris county",
+        "dallas"
+      ],
+      "number": [
+        "2024-09-09t08:59:08.942573",
+        "online resource",
+        "2011254359",
+        "747836163",
+        "2331-3358"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the dallas express (dallas, tex.;[dallas, tex.];houston, tex.) 1893-1970 [online resource]",
+        "directory of u.s. newspapers in american libraries",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 20.0398,
+      "shelf_id": "ISSN RECORD AN",
+      "site": [
+        "usnd"
+      ],
+      "subject": [
+        "https://id.oclc.org/worldcat/entity/e39pbjcwwhg6ftwjrtd4b43g73",
+        "newspapers",
+        "dallas",
+        "harris county (tex.)",
+        "https://id.oclc.org/worldcat/entity/e39pbjvhctmbyxfd7pgydf8hmd",
+        "https://id.oclc.org/worldcat/entity/e39pbjcgqh6bht3w7whg3xmkh3",
+        "harris",
+        "https://id.oclc.org/worldcat/entity/e39pbjmdrwf9xxgthh9xx7tyfq",
+        "african americans",
+        "dallas (tex.)",
+        "dallas county",
+        "united states",
+        "texas",
+        "dallas county (tex.)",
+        "houston (tex.)",
+        "african american newspapers",
+        "harris county",
+        "https://id.oclc.org/worldcat/entity/e39pbjj8xjvr9hp7dpxwvtrqcp",
+        "african american",
+        "houston"
+      ],
+      "timestamp": "2024-09-18T12:17:14.201Z",
+      "title": "The Dallas express",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/2011254359/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2013218989/"
+      ],
+      "campaigns": [],
+      "date": "1873",
+      "dates": [
+        "[1873 TO 1887]"
+      ],
+      "description": [
+        "Daily (except Sun.) Began February 11, 1873; ceased in 1887. Publishers: J.L. Bartow; C. E. Gilbert, <1887>. Merged with: Daily times (Dallas, Tex.), to form: Dallas daily times-herald. Description based on: Vol. 1, no. 2 (April 12, 1873); title from masthead (Chroniclingamerica.loc.gov, viewed September 25, 2013). Latest issue consulted: New series, vol. 2, no. 264 (December 29, 1887) (Chroniclingamerica.loc.gov, viewed September 25, 2013). Daily times (Dallas, Tex. : 1878 : Online) Dallas daily times-herald (Online)"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-09-18T12:04:17.932Z",
+      "group": [
+        "ndnp/newspapers",
+        "united-states-newspaper-directory"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2013218989/",
+      "image_url": [],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "dallas",
+        "united states",
+        "texas"
+      ],
+      "number": [
+        "858923174",
+        "2024-09-09t08:59:08.942573",
+        "2013218989",
+        "2331-3307",
+        "online resource"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Issues for Sept. 1, 1881, and Sept. 1, 1882, are called: Dallas Herald",
+        "Daily herald"
+      ],
+      "partof": [
+        "directory of u.s. newspapers in american libraries",
+        "the dallas daily herald (dallas, texas) 1873-1887 [online resource]",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "daily"
+      ],
+      "score": 20.0398,
+      "shelf_id": "ISSN RECORD",
+      "site": [
+        "usnd"
+      ],
+      "subject": [
+        "united states",
+        "texas",
+        "dallas (tex.)",
+        "newspapers",
+        "dallas"
+      ],
+      "timestamp": "2024-09-18T12:17:56.152Z",
+      "title": "The Dallas daily herald",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/2013218989/"
+    }
+  ],
+  "reproductions": "<p>\nSome images in this collection are described in groups; others are \ndescribed individually. In some cases, all of the images in the \ngroup display online, in other cases they do not.\n</p>\n\n<p>\nYou can download online images yourself.  Alternatively, you can \npurchase copies of various types.\n</p>\n\n<ol>\n<p>\t\n<strong><li>Determine whether the desired materials can be retrieved \nonline.</strong>\n</p>\n<ul>\n<p>\t\n<li>Look in the <strong>Medium</strong> field above to determine whether\n the description is for one photograph or more than one.</li>\n </p>\n <p>\n<li>If the description is for a single item and it is displaying, \nyou can download or purchase a print.  Cite the number that begins \nwith &quot;LC-DIG...&quot; when purchasing copies through Library of \nCongress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is \na &quot;Click for more images&quot; icon displaying, select that. \nIndividual images will display; you can download or purchase prints. \nCite the number that begins with &quot;LC-DIG...&quot; when purchasing \ncopies through Library of Congress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is no\n &quot;Click for more images&quot; icon displaying, return to the\n  &quot;About this Item&quot; tab and select the &quot;<i>Check for \n  online items from this group</i>&quot; link.  Then select the \n  \"Obtaining Copies\" tab for any retrieved items that are of interest.\n</p>\n</ul>\n</li>\n\n<p>\n<strong><li>If the images do not display online</strong> -- Select images for reproduction through one of these methods:\n</p>\n<ul>\n<p>\t\n<li>Visit the Prints &amp; Photographs Reading Room and request to view \nthe group (general information about service in the reading room is \navailable at: <a href=\"//www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>).</li>  \n</p>\n<p>\n<li>P&amp;P reading room staff can provide up to 15 photocopies of items \nper calendar year. (Color images cannot be photocopied.) For assistance,\n see our <a href=\"//www.loc.gov/rr/askalib/ask-print.html\">Ask a Librarian</a> page. OR</li>\n</p>\n<p>\n<li>Hire a freelance researcher to do further selection for you \n(a list of researchers is available at: \n<a href=\"//www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>).\n</p>\n</ul>\n</li>\n</ol>\n\n<p>\n<strong>Purchasing Copies</strong>\n</p>\n\n<p>\nLibrary of Congress Duplication Services can make copies of various \ntypes from images in Prints & Photographs Division Collections.  \nPrice lists, contact information, and order forms are available on the \n<a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.\n</p>\n\n<p>\nCarol M. Highsmith sells prints of her photographs at: <a href=\"http://photographsamerica.com/\">http://photographsamerica.com/</a> .\n</p>  \n\n\n\n\n        ",
+  "resource": {
+    "caption": "original digital file",
+    "image": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:29200:29207/full/pct:6.25/0/default.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/highsm.29207/"
+  },
+  "resources": [
+    {
+      "caption": "original digital file",
+      "image": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:29200:29207/full/pct:6.25/0/default.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/highsm.29207/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294060391,
+  "type": "zoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/highsm.29207/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/highsm.29207/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/highsm.29207/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/highsm.29207/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/highsm.29207/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/highsm.29207/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/highsm.29207/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/highsm.29207/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/highsm.29207/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/highsm.29207/?fo=json&st=text"
+  }
+}

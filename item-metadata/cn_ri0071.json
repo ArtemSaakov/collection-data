@@ -1,0 +1,2060 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Historic American Buildings Survey, C., Harrison, P., Snell, G., Mason, G. C., Dufais, J., Slade, T. M. [...] Rhode Island Historical Preservation Commission, S., Robinson, C., Leboeuf, A. W. &amp; Unknown, photographer. (1933) <cite>Redwood Library, 50 Bellevue Avenue, Newport, Newport County, RI</cite>. Newport Rhode Island Newport County, 1933. Documentation Compiled After. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/ri0071/.",
+    "chicago": "Historic American Buildings Survey, Creator, Peter Harrison, George Snell, George C Mason, John Dufais, Thomas M Slade, Susan R Slade, et al., Robinson, Cervin, Arthur W Leboeuf, and  Unknown, photographer. <cite>Redwood Library, 50 Bellevue Avenue, Newport, Newport County, RI</cite>. Newport Rhode Island Newport County, 1933. Documentation Compiled After. Photograph. https://www.loc.gov/item/ri0071/.",
+    "mla": "Historic American Buildings Survey, Creator, et al., photographers by Robinson, Cervin, Arthur W Leboeuf, and  Unknown. <cite>Redwood Library, 50 Bellevue Avenue, Newport, Newport County, RI</cite>. Documentation Compiled After. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/ri0071/&gt;."
+  },
+  "item": {
+    "_version_": 1782476835217473536,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/ri0071/",
+      "http://www.loc.gov/item/ri0071/",
+      "http://www.loc.gov/pictures/item/ri0071/",
+      "https://www.loc.gov/pictures/collection/hh/item/ri0071/",
+      "http://www.loc.gov/pictures/collection/hh/item/ri0071/",
+      "https://cdn.loc.gov/master/pnp/habshaer/ri/ri0000/ri0071/data/ri0071data.pdf",
+      "http://cdn.loc.gov/master/pnp/habshaer/ri/ri0000/ri0071/data/ri0071data.pdf",
+      "https://stage.loc.gov/pictures/search/?q=photograph: ri0071&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+      "http://stage.loc.gov/pictures/search/?q=photograph: ri0071&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+      "https://stage.loc.gov/pictures/search/?q=drawing: ri0071&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+      "http://stage.loc.gov/pictures/search/?q=drawing: ri0071&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+      "http://www.loc.gov/resource/hhh.ri0071data/",
+      "http://www.loc.gov/resource/hhh.ri0071.sheet/",
+      "http://www.loc.gov/resource/hhh.ri0071.photos/",
+      "http://www.loc.gov/resource/hhh.ri0071.photos",
+      "http://www.loc.gov/resource/hhh.ri0071.photos.144412p",
+      "http://www.loc.gov/resource/hhh.ri0071.photos.144413p",
+      "http://www.loc.gov/resource/hhh.ri0071.photos.144414p",
+      "http://www.loc.gov/resource/hhh.ri0071.photos.144415p",
+      "http://www.loc.gov/resource/hhh.ri0071.photos.144416p",
+      "http://www.loc.gov/resource/hhh.ri0071.photos.144417p",
+      "http://www.loc.gov/resource/hhh.ri0071.photos.144418p",
+      "http://www.loc.gov/resource/hhh.ri0071.photos.144419p",
+      "http://www.loc.gov/resource/hhh.ri0071.photos.144420p",
+      "http://www.loc.gov/resource/hhh.ri0071.photos.144421p",
+      "http://www.loc.gov/resource/hhh.ri0071.photos.144422p",
+      "http://www.loc.gov/resource/hhh.ri0071.photos.144423p",
+      "http://www.loc.gov/resource/hhh.ri0071.photos.144424p",
+      "http://www.loc.gov/resource/hhh.ri0071.photos.144425p",
+      "http://www.loc.gov/resource/hhh.ri0071.photos.144426p",
+      "http://www.loc.gov/resource/hhh.ri0071.photos.144427p",
+      "http://www.loc.gov/resource/hhh.ri0071.photos.144428p",
+      "http://www.loc.gov/resource/hhh.ri0071.sheet",
+      "http://www.loc.gov/resource/hhh.ri0071.sheet.00001a",
+      "http://www.loc.gov/resource/hhh.ri0071.sheet.00002a",
+      "http://www.loc.gov/resource/hhh.ri0071.sheet.00003a",
+      "http://www.loc.gov/resource/hhh.ri0071.sheet.00004a",
+      "http://www.loc.gov/resource/hhh.ri0071.sheet.00005a"
+    ],
+    "call_number": "HABS RI,3-NEWP,15-",
+    "campaigns": [],
+    "contributor_names": [
+      "Historic American Buildings Survey, creator",
+      "Harrison, Peter",
+      "Snell, George",
+      "Mason, George C",
+      "Dufais, John",
+      "Slade, Thomas M, historian",
+      "Slade, Susan R, historian",
+      "Overby, Osmund R, project manager",
+      "Robinson, Cervin, photographer",
+      "LeBoeuf, Arthur W, photographer",
+      "Unknown, photographer",
+      "Hite, Gerron S, delineator",
+      "Sanford, Thomas J, delineator",
+      "Divoll, Leslie, delineator",
+      "Rhode Island Historical Preservation Commission, sponsor"
+    ],
+    "contributors": [
+      {
+        "divoll, leslie": "https://www.loc.gov/search/?fa=contributor:divoll,+leslie&fo=json"
+      },
+      {
+        "dufais, john": "https://www.loc.gov/search/?fa=contributor:dufais,+john&fo=json"
+      },
+      {
+        "harrison, peter": "https://www.loc.gov/search/?fa=contributor:harrison,+peter&fo=json"
+      },
+      {
+        "historic american buildings survey": "https://www.loc.gov/search/?fa=contributor:historic+american+buildings+survey&fo=json"
+      },
+      {
+        "hite, gerron s": "https://www.loc.gov/search/?fa=contributor:hite,+gerron+s&fo=json"
+      },
+      {
+        "leboeuf, arthur w": "https://www.loc.gov/search/?fa=contributor:leboeuf,+arthur+w&fo=json"
+      },
+      {
+        "mason, george c": "https://www.loc.gov/search/?fa=contributor:mason,+george+c&fo=json"
+      },
+      {
+        "overby, osmund r": "https://www.loc.gov/search/?fa=contributor:overby,+osmund+r&fo=json"
+      },
+      {
+        "rhode island historical preservation commission": "https://www.loc.gov/search/?fa=contributor:rhode+island+historical+preservation+commission&fo=json"
+      },
+      {
+        "robinson, cervin": "https://www.loc.gov/search/?fa=contributor:robinson,+cervin&fo=json"
+      },
+      {
+        "sanford, thomas j": "https://www.loc.gov/search/?fa=contributor:sanford,+thomas+j&fo=json"
+      },
+      {
+        "slade, susan r": "https://www.loc.gov/search/?fa=contributor:slade,+susan+r&fo=json"
+      },
+      {
+        "slade, thomas m": "https://www.loc.gov/search/?fa=contributor:slade,+thomas+m&fo=json"
+      },
+      {
+        "snell, george": "https://www.loc.gov/search/?fa=contributor:snell,+george&fo=json"
+      },
+      {
+        "unknown": "https://www.loc.gov/search/?fa=contributor:unknown&fo=json"
+      }
+    ],
+    "control_number": "ri0071",
+    "created": "2021-12-08T04:05:54Z",
+    "created_published": [
+      "Documentation compiled after 1933"
+    ],
+    "created_published_date": "Documentation compiled after 1933",
+    "description": [
+      "Photo(s): 17 | Measured Drawing(s): 5 | Data Page(s): 19"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2023-11-13T18:49:22.877Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/hh/item/ri0071/#hh-5"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "group": [
+      "hh-5",
+      "habshaer-group-5"
+    ],
+    "hassegments": true,
+    "id": "http://www.loc.gov/item/ri0071/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0071/photos/144412p_150px.jpg#h=107&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0071/photos/144412pr.jpg#h=458&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0071/photos/144412pv.jpg#h=732&w=1024"
+    ],
+    "index": 8,
+    "item": {
+      "call_number": "HABS RI,3-NEWP,15-",
+      "contributor_names": [
+        "Harrison, Peter,  ",
+        "Snell, George,  ",
+        "Mason, George C,  ",
+        "Dufais, John,  ",
+        "Slade, Thomas M, historian ",
+        "Slade, Susan R, historian ",
+        "Overby, Osmund R, project manager ",
+        "Robinson, Cervin, photographer ",
+        "LeBoeuf, Arthur W, photographer ",
+        "Unknown, photographer ",
+        "Hite, Gerron S, delineator ",
+        "Sanford, Thomas J, delineator ",
+        "Divoll, Leslie, delineator ",
+        "Rhode Island Historical Preservation Commission, sponsor "
+      ],
+      "control_number": "ri0071",
+      "created": "2021-12-08T04:05:54Z",
+      "created_published": "Documentation compiled after 1933",
+      "created_published_date": "Documentation compiled after 1933",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Historic%20American%20Buildings%20Survey&co=hh",
+          "role": "creator",
+          "title": "Historic American Buildings Survey"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Harrison%2C%20Peter&co=hh",
+          "role": "",
+          "title": "Harrison, Peter"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Snell%2C%20George&co=hh",
+          "role": "",
+          "title": "Snell, George"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Mason%2C%20George%20C&co=hh",
+          "role": "",
+          "title": "Mason, George C"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Dufais%2C%20John&co=hh",
+          "role": "",
+          "title": "Dufais, John"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Slade%2C%20Thomas%20M&co=hh",
+          "role": "historian",
+          "title": "Slade, Thomas M"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Slade%2C%20Susan%20R&co=hh",
+          "role": "historian",
+          "title": "Slade, Susan R"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Overby%2C%20Osmund%20R&co=hh",
+          "role": "project manager",
+          "title": "Overby, Osmund R"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Robinson%2C%20Cervin&co=hh",
+          "role": "photographer",
+          "title": "Robinson, Cervin"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=LeBoeuf%2C%20Arthur%20W&co=hh",
+          "role": "photographer",
+          "title": "LeBoeuf, Arthur W"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Unknown&co=hh",
+          "role": "photographer",
+          "title": "Unknown"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Hite%2C%20Gerron%20S&co=hh",
+          "role": "delineator",
+          "title": "Hite, Gerron S"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Sanford%2C%20Thomas%20J&co=hh",
+          "role": "delineator",
+          "title": "Sanford, Thomas J"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Divoll%2C%20Leslie&co=hh",
+          "role": "delineator",
+          "title": "Divoll, Leslie"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Rhode%20Island%20Historical%20Preservation%20Commission&co=hh",
+          "role": "sponsor",
+          "title": "Rhode Island Historical Preservation Commission"
+        }
+      ],
+      "display_offsite": true,
+      "id": "ri0071",
+      "link": "https://www.loc.gov/pictures/item/ri0071/",
+      "medium_brief": "Photo(s): 17, Measured Drawing(s): 5, Data Page(s): 19",
+      "mediums": [
+        "Photo(s): 17 ",
+        "Measured Drawing(s): 5 ",
+        "Data Page(s): 19 "
+      ],
+      "modified": "2023-10-21T03:56:11Z",
+      "notes": [
+        "Significance: The Redwood Library is a notable specimen of the architectural taste of the early 18th century.  As an important work of the architect Peter Harrison, it is a key building in the introduction of English Georgian architecture in America. ",
+        "Unprocessed Field note material exists for this structure: FN-42 ",
+        "Survey number: HABS RI-100 ",
+        "Building/structure dates: 1749 Initial Construction ",
+        "Building/structure dates: 1859 Subsequent Work ",
+        "Building/structure dates: 1875 Subsequent Work ",
+        "Building/structure dates: 1912 Subsequent Work ",
+        "National Register of Historic Places NRIS Number: 66000015 "
+      ],
+      "part_of": "Historic American Buildings Survey (Library of Congress)",
+      "part_of_group": "Survey Number ri0071",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Rhode%20Island--Newport%20County--Newport&co=hh",
+          "longitude": "",
+          "title": "Rhode Island--Newport County--Newport"
+        }
+      ],
+      "raw_collections": [
+        "diof",
+        "hh",
+        "survey"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "resource_links": [
+        "https://tile.loc.gov/storage-services/master/pnp/habshaer/ri/ri0000/ri0071/data/ri0071data.pdf",
+        "https://stage.loc.gov/pictures/search/?q=Photograph: ri0071&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true",
+        "https://stage.loc.gov/pictures/search/?q=Drawing: ri0071&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+      ],
+      "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+      "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0071/photos/144412p_150px.jpg?q=ri0071.photos.144412p&c=17&st=gallery",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0071/photos/144412pr.jpg?q=ri0071.photos.144412p&c=17&st=gallery",
+      "source_created": "1970-01-01T00:00:00Z",
+      "source_modified": "2021-12-08T04:05:00Z",
+      "subject_headings": [
+        "libraries",
+        "Doric order",
+        "porticoes (porches)",
+        "wood structural frames",
+        "shed roofs",
+        "sash windows",
+        "paneled doors",
+        "Georgian architectural elements",
+        "Rhode Island--Newport County--Newport"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0071/photos/144412p_150px.jpg?q=ri0071.photos.144412p&c=17&st=gallery",
+      "title": "Redwood Library, 50 Bellevue Avenue, Newport, Newport County, RI"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "link": "https://www.loc.gov/pictures/item/ri0071/",
+    "location": [
+      "newport",
+      "rhode island",
+      "newport county"
+    ],
+    "locations": [
+      {
+        "newport": "https://www.loc.gov/search/?fa=location:newport&fo=json"
+      },
+      {
+        "newport county": "https://www.loc.gov/search/?fa=location:newport+county&fo=json"
+      },
+      {
+        "rhode island": "https://www.loc.gov/search/?fa=location:rhode+island&fo=json"
+      }
+    ],
+    "medium": [
+      "Photo(s): 17 ",
+      "Measured Drawing(s): 5 ",
+      "Data Page(s): 19 "
+    ],
+    "medium_brief": "Photo(s): 17, Measured Drawing(s): 5, Data Page(s): 19",
+    "mime_type": [
+      "image/gif",
+      "application/pdf"
+    ],
+    "modified": "2023-10-21T03:56:11Z",
+    "notes": [
+      "Significance: The Redwood Library is a notable specimen of the architectural taste of the early 18th century.  As an important work of the architect Peter Harrison, it is a key building in the introduction of English Georgian architecture in America. ",
+      "Unprocessed Field note material exists for this structure: FN-42 ",
+      "Survey number: HABS RI-100 ",
+      "Building/structure dates: 1749 Initial Construction ",
+      "Building/structure dates: 1859 Subsequent Work ",
+      "Building/structure dates: 1875 Subsequent Work ",
+      "Building/structure dates: 1912 Subsequent Work ",
+      "National Register of Historic Places NRIS Number: 66000015 "
+    ],
+    "online_format": [
+      "image",
+      "pdf"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_formats": [],
+    "part_of_group": "Survey Number ri0071",
+    "partof": [
+      {
+        "count": 45519,
+        "title": "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+        "url": "https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/?fo=json"
+      },
+      {
+        "count": 437336,
+        "title": "american memory",
+        "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Rhode%20Island--Newport%20County--Newport&co=hh",
+        "longitude": "",
+        "title": "Rhode Island--Newport County--Newport"
+      }
+    ],
+    "raw_collections": [
+      "diof",
+      "hh",
+      "survey"
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=hh&pk=ri0071&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproductions": [],
+    "resource_links": [
+      "https://tile.loc.gov/storage-services/master/pnp/habshaer/ri/ri0000/ri0071/data/ri0071data.pdf",
+      "https://stage.loc.gov/pictures/search/?q=Photograph: ri0071&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true",
+      "https://stage.loc.gov/pictures/search/?q=Drawing: ri0071&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+    ],
+    "resources": [
+      {
+        "caption": "Photos from Survey HABS RI-100 ",
+        "files": 17,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0071/photos/144412p_150px.jpg",
+        "url": "https://www.loc.gov/resource/hhh.ri0071.photos"
+      },
+      {
+        "caption": "Drawings from Survey HABS RI-100 ",
+        "files": 5,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0071/sheet/00001_150px.jpg",
+        "url": "https://www.loc.gov/resource/hhh.ri0071.sheet"
+      },
+      {
+        "caption": "Data Pages from Survey HABS RI-100 ",
+        "files": 1,
+        "image": "/static/images/original-format/manuscript-mixed-material.svg"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/114_habs.html\">Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscape Survey (HABS/HAER/HALS) Collection - Rights and Restrictions Information</a> </p>\n \n"
+    ],
+    "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "score": 38.392532,
+    "shard": "00",
+    "shelf_id": "HABS RI,3-NEWP,15-",
+    "site": [
+      "pictures"
+    ],
+    "source_collection": "Historic American Buildings Survey (Library of Congress)",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2000-01-01T12:00:00Z",
+    "subject": [
+      "sash windows",
+      "georgian architectural elements",
+      "doric order",
+      "shed roofs",
+      "libraries",
+      "paneled doors",
+      "wood structural frames",
+      "porticoes (porches)"
+    ],
+    "subject_headings": [
+      "libraries",
+      "Doric order",
+      "porticoes (porches)",
+      "wood structural frames",
+      "shed roofs",
+      "sash windows",
+      "paneled doors",
+      "Georgian architectural elements",
+      "Rhode Island--Newport County--Newport"
+    ],
+    "subjects": [
+      {
+        "doric order": "https://www.loc.gov/search/?fa=subject:doric+order&fo=json"
+      },
+      {
+        "georgian architectural elements": "https://www.loc.gov/search/?fa=subject:georgian+architectural+elements&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "paneled doors": "https://www.loc.gov/search/?fa=subject:paneled+doors&fo=json"
+      },
+      {
+        "porticoes (porches)": "https://www.loc.gov/search/?fa=subject:porticoes+%28porches%29&fo=json"
+      },
+      {
+        "sash windows": "https://www.loc.gov/search/?fa=subject:sash+windows&fo=json"
+      },
+      {
+        "shed roofs": "https://www.loc.gov/search/?fa=subject:shed+roofs&fo=json"
+      },
+      {
+        "wood structural frames": "https://www.loc.gov/search/?fa=subject:wood+structural+frames&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0071/photos/144412p_150px.jpg?q=ri0071.photos.144412p&c=17&st=gallery",
+    "timestamp": "2023-11-13T19:06:16.643Z",
+    "title": "Redwood Library, 50 Bellevue Avenue, Newport, Newport County, RI",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/ri0071/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/ri0091/",
+        "http://www.loc.gov/item/ri0091/",
+        "http://www.loc.gov/pictures/item/ri0091/",
+        "https://www.loc.gov/pictures/collection/hh/item/ri0091/",
+        "http://www.loc.gov/pictures/collection/hh/item/ri0091/",
+        "https://cdn.loc.gov/master/pnp/habshaer/ri/ri0000/ri0091/data/ri0091data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ri/ri0000/ri0091/data/ri0091data.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: ri0091&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: ri0091&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "https://stage.loc.gov/pictures/search/?q=drawing: ri0091&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=drawing: ri0091&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.ri0091data/",
+        "http://www.loc.gov/resource/hhh.ri0091.sheet/",
+        "http://www.loc.gov/resource/hhh.ri0091.photos/",
+        "http://www.loc.gov/resource/hhh.ri0091.photos",
+        "http://www.loc.gov/resource/hhh.ri0091.photos.144623p",
+        "http://www.loc.gov/resource/hhh.ri0091.photos.144624p",
+        "http://www.loc.gov/resource/hhh.ri0091.photos.144625p",
+        "http://www.loc.gov/resource/hhh.ri0091.photos.144626p",
+        "http://www.loc.gov/resource/hhh.ri0091.photos.144627p",
+        "http://www.loc.gov/resource/hhh.ri0091.photos.144628p",
+        "http://www.loc.gov/resource/hhh.ri0091.photos.144629p",
+        "http://www.loc.gov/resource/hhh.ri0091.photos.144630p",
+        "http://www.loc.gov/resource/hhh.ri0091.photos.144631p",
+        "http://www.loc.gov/resource/hhh.ri0091.sheet",
+        "http://www.loc.gov/resource/hhh.ri0091.sheet.00001a",
+        "http://www.loc.gov/resource/hhh.ri0091.sheet.00002a",
+        "http://www.loc.gov/resource/hhh.ri0091.sheet.00003a",
+        "http://www.loc.gov/resource/hhh.ri0091.sheet.00004a",
+        "http://www.loc.gov/resource/hhh.ri0091.sheet.00005a",
+        "http://www.loc.gov/resource/hhh.ri0091.sheet.00006a",
+        "http://www.loc.gov/resource/hhh.ri0091.sheet.00007a",
+        "http://www.loc.gov/resource/hhh.ri0091.sheet.00008a",
+        "http://www.loc.gov/resource/hhh.ri0091.sheet.00009a",
+        "http://www.loc.gov/resource/hhh.ri0091.sheet.00010a",
+        "http://www.loc.gov/resource/hhh.ri0091.sheet.00011a",
+        "http://www.loc.gov/resource/hhh.ri0091.sheet.00012a"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "hite, gerron s",
+        "divoll, leslie",
+        "historic american buildings survey",
+        "robinson, cervin",
+        "newport restoration foundation",
+        "rhode island historical preservation commission",
+        "slade, thomas m",
+        "sanford, thomas j",
+        "overby, osmund r"
+      ],
+      "description": [
+        "Photo(s): 9 | Measured Drawing(s): 12 | Data Page(s): 20"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T18:49:23.749Z",
+      "group": [
+        "hh-5",
+        "habshaer-group-5"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/ri0091/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0091/photos/144623p_150px.jpg#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0091/photos/144623pr.jpg#h=511&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0091/photos/144623pv.jpg#h=818&w=1024"
+      ],
+      "index": 8,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "newport",
+        "rhode island",
+        "newport county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american memory",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 70.93481,
+      "shelf_id": "HABS RI,3-NEWP,50-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "sash windows",
+        "brick buildings",
+        "fanlights",
+        "cupolas",
+        "stone foundations",
+        "round windows",
+        "merchant builders",
+        "paneling",
+        "shutters",
+        "cupboards",
+        "chimneys",
+        "houses",
+        "low hip roofs",
+        "historic house museums"
+      ],
+      "timestamp": "2023-11-13T19:06:49.297Z",
+      "title": "Samuel Whitehorne House, 414 Thames Street, Newport, Newport County, RI",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/ri0091/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/ri0066/",
+        "http://www.loc.gov/item/ri0066/",
+        "http://www.loc.gov/pictures/item/ri0066/",
+        "https://www.loc.gov/pictures/collection/hh/item/ri0066/",
+        "http://www.loc.gov/pictures/collection/hh/item/ri0066/",
+        "https://cdn.loc.gov/master/pnp/habshaer/ri/ri0000/ri0066/data/ri0066data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ri/ri0000/ri0066/data/ri0066data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/ri/ri0000/ri0066/data/ri0066cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ri/ri0000/ri0066/data/ri0066cap.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: ri0066&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: ri0066&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "https://stage.loc.gov/pictures/search/?q=drawing: ri0066&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=drawing: ri0066&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.ri0066data/",
+        "http://www.loc.gov/resource/hhh.ri0066cap/",
+        "http://www.loc.gov/resource/hhh.ri0066.sheet/",
+        "http://www.loc.gov/resource/hhh.ri0066.photos/",
+        "http://www.loc.gov/resource/hhh.ri0066.photos",
+        "http://www.loc.gov/resource/hhh.ri0066.photos.144981p",
+        "http://www.loc.gov/resource/hhh.ri0066.photos.144982p",
+        "http://www.loc.gov/resource/hhh.ri0066.photos.144983p",
+        "http://www.loc.gov/resource/hhh.ri0066.photos.144984p",
+        "http://www.loc.gov/resource/hhh.ri0066.photos.144985p",
+        "http://www.loc.gov/resource/hhh.ri0066.photos.144986p",
+        "http://www.loc.gov/resource/hhh.ri0066.photos.144987p",
+        "http://www.loc.gov/resource/hhh.ri0066.photos.144988p",
+        "http://www.loc.gov/resource/hhh.ri0066.sheet",
+        "http://www.loc.gov/resource/hhh.ri0066.sheet.00001a",
+        "http://www.loc.gov/resource/hhh.ri0066.sheet.00002a",
+        "http://www.loc.gov/resource/hhh.ri0066.sheet.00003a",
+        "http://www.loc.gov/resource/hhh.ri0066.sheet.00004a"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "hite, gerron s",
+        "divoll, leslie",
+        "international yacht restoration school (iyrs)",
+        "historic american buildings survey",
+        "robinson, cervin",
+        "boucher, jack e",
+        "sanford, thomas j",
+        "slade, thomas m",
+        "rhode island historical preservation commission",
+        "overby, osmund r",
+        "aquidneck mill"
+      ],
+      "description": [
+        "Photo(s): 8 | Measured Drawing(s): 4 | Data Page(s): 11 | Photo Caption Page(s): 1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T18:49:22.877Z",
+      "group": [
+        "hh-5",
+        "habshaer-group-5"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/ri0066/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0066/photos/144981p_150px.jpg#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0066/photos/144981pr.jpg#h=509&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0066/photos/144981pv.jpg#h=815&w=1024"
+      ],
+      "index": 9,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "newport",
+        "rhode island",
+        "newport county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american memory",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 64.26387,
+      "shelf_id": "HABS RI,3-NEWP,75-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "stair towers",
+        "gable roofs",
+        "manufacturing",
+        "granite",
+        "textile mills"
+      ],
+      "timestamp": "2023-11-13T19:06:16.643Z",
+      "title": "Newport Steam Factory, 449 Thames Street, Newport, Newport County, RI",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/ri0066/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/ri0341/",
+        "http://www.loc.gov/item/ri0341/",
+        "http://www.loc.gov/pictures/item/ri0341/",
+        "https://www.loc.gov/pictures/collection/hh/item/ri0341/",
+        "http://www.loc.gov/pictures/collection/hh/item/ri0341/",
+        "https://cdn.loc.gov/master/pnp/habshaer/ri/ri0300/ri0341/data/ri0341data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ri/ri0300/ri0341/data/ri0341data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/ri/ri0300/ri0341/data/ri0341cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ri/ri0300/ri0341/data/ri0341cap.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: ri0341&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: ri0341&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "https://stage.loc.gov/pictures/search/?q=drawing: ri0341&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=drawing: ri0341&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.ri0341data/",
+        "http://www.loc.gov/resource/hhh.ri0341cap/",
+        "http://www.loc.gov/resource/hhh.ri0341.sheet/",
+        "http://www.loc.gov/resource/hhh.ri0341.photos/",
+        "http://www.loc.gov/resource/hhh.ri0341.photos",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144766p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144767p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144768p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144769p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144770p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144771p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144772p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144773p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144774p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144775p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144776p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144777p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144778p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144779p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144780p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144781p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144782p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144783p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144784p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144785p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144786p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144787p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144788p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144789p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144790p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144791p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144792p",
+        "http://www.loc.gov/resource/hhh.ri0341.photos.144793p",
+        "http://www.loc.gov/resource/hhh.ri0341.sheet",
+        "http://www.loc.gov/resource/hhh.ri0341.sheet.00001a",
+        "http://www.loc.gov/resource/hhh.ri0341.sheet.00002a",
+        "http://www.loc.gov/resource/hhh.ri0341.sheet.00003a",
+        "http://www.loc.gov/resource/hhh.ri0341.sheet.00004a",
+        "http://www.loc.gov/resource/hhh.ri0341.sheet.00005a",
+        "http://www.loc.gov/resource/hhh.ri0341.sheet.00006a",
+        "http://www.loc.gov/resource/hhh.ri0341.sheet.00007a",
+        "http://www.loc.gov/resource/hhh.ri0341.sheet.00008a",
+        "http://www.loc.gov/resource/hhh.ri0341.sheet.00009a",
+        "http://www.loc.gov/resource/hhh.ri0341.sheet.00010a",
+        "http://www.loc.gov/resource/hhh.ri0341.sheet.00011a",
+        "http://www.loc.gov/resource/hhh.ri0341.sheet.00012a"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "frullili, luigi",
+        "pope, john russell",
+        "historic american buildings survey",
+        "sanford, thomas j",
+        "overby, osmund r",
+        "rhode island historical preservation commission",
+        "hite, gerron s",
+        "divoll, leslie",
+        "wetmore, william shepard",
+        "veeder, paul l, ii",
+        "codman, ogden",
+        "preservation society of newport county",
+        "boucher, jack e",
+        "wetmore, maude",
+        "wetmore, edith",
+        "wetmore, george peabody",
+        "slade, thomas m",
+        "bradford, seth",
+        "king, frederic rhinelander",
+        "hunt, richard morris"
+      ],
+      "description": [
+        "Photo(s): 34 | Measured Drawing(s): 12 | Data Page(s): 17 | Photo Caption Page(s): 2"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T18:49:24.406Z",
+      "group": [
+        "hh-5",
+        "habshaer-group-5"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/ri0341/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0300/ri0341/photos/144766p_150px.jpg#h=108&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0300/ri0341/photos/144766pr.jpg#h=462&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0300/ri0341/photos/144766pv.jpg#h=739&w=1024"
+      ],
+      "index": 10,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "newport",
+        "rhode island",
+        "newport county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american memory",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 59.350803,
+      "shelf_id": "HABS RI,3-NEWP,59-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "towers",
+        "mansard roofs",
+        "stone carving",
+        "second empire architectural elements",
+        "historic house museums",
+        "domestic life",
+        "houses",
+        "porches"
+      ],
+      "timestamp": "2023-11-13T19:07:54.937Z",
+      "title": "Chateau-sur-Mer, Bellevue Avenue, Newport, Newport County, RI",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/ri0341/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/ri0042/",
+        "http://www.loc.gov/item/ri0042/",
+        "http://www.loc.gov/pictures/item/ri0042/",
+        "https://www.loc.gov/pictures/collection/hh/item/ri0042/",
+        "http://www.loc.gov/pictures/collection/hh/item/ri0042/",
+        "https://cdn.loc.gov/master/pnp/habshaer/ri/ri0000/ri0042/data/ri0042data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ri/ri0000/ri0042/data/ri0042data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/ri/ri0000/ri0042/data/ri0042cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ri/ri0000/ri0042/data/ri0042cap.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: ri0042&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: ri0042&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "https://stage.loc.gov/pictures/search/?q=drawing: ri0042&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=drawing: ri0042&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.ri0042data/",
+        "http://www.loc.gov/resource/hhh.ri0042cap/",
+        "http://www.loc.gov/resource/hhh.ri0042.sheet/",
+        "http://www.loc.gov/resource/hhh.ri0042.photos/",
+        "http://www.loc.gov/resource/hhh.ri0042.photos",
+        "http://www.loc.gov/resource/hhh.ri0042.photos.144989p",
+        "http://www.loc.gov/resource/hhh.ri0042.photos.144990p",
+        "http://www.loc.gov/resource/hhh.ri0042.photos.144991p",
+        "http://www.loc.gov/resource/hhh.ri0042.sheet",
+        "http://www.loc.gov/resource/hhh.ri0042.sheet.00001a",
+        "http://www.loc.gov/resource/hhh.ri0042.sheet.00002a",
+        "http://www.loc.gov/resource/hhh.ri0042.sheet.00003a",
+        "http://www.loc.gov/resource/hhh.ri0042.sheet.00004a",
+        "http://www.loc.gov/resource/hhh.ri0042.sheet.00005a"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "hite, gerron s",
+        "divoll, leslie",
+        "historic american buildings survey",
+        "boucher, jack e",
+        "rhode island historical preservation commission",
+        "slade, thomas m",
+        "sanford, thomas j",
+        "overby, osmund r"
+      ],
+      "description": [
+        "Photo(s): 3 | Measured Drawing(s): 5 | Photo Caption Page(s): 1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T18:49:22.877Z",
+      "group": [
+        "hh-5",
+        "habshaer-group-5"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/ri0042/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0042/photos/144989p_150px.jpg#h=150&w=107",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0042/photos/144989pr.jpg#h=640&w=457",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0042/photos/144989pv.jpg#h=1024&w=732"
+      ],
+      "index": 11,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "newport",
+        "rhode island",
+        "newport county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american memory",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 59.350803,
+      "shelf_id": "HABS RI,3-NEWP,76-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "clapboard siding",
+        "gable roofs",
+        "hip roofs",
+        "ells",
+        "double houses",
+        "wharves",
+        "paneling",
+        "boat & ship industry",
+        "houses"
+      ],
+      "timestamp": "2023-11-13T19:06:16.643Z",
+      "title": "Robert Stevens House, 261-265 Thames Street, Newport, Newport County, RI",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/ri0042/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/ri0083/",
+        "http://www.loc.gov/item/ri0083/",
+        "http://www.loc.gov/pictures/item/ri0083/",
+        "https://www.loc.gov/pictures/collection/hh/item/ri0083/",
+        "http://www.loc.gov/pictures/collection/hh/item/ri0083/",
+        "https://cdn.loc.gov/master/pnp/habshaer/ri/ri0000/ri0083/data/ri0083data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ri/ri0000/ri0083/data/ri0083data.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: ri0083&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: ri0083&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "https://stage.loc.gov/pictures/search/?q=drawing: ri0083&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=drawing: ri0083&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.ri0083data/",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet/",
+        "http://www.loc.gov/resource/hhh.ri0083.photos/",
+        "http://www.loc.gov/resource/hhh.ri0083.photos",
+        "http://www.loc.gov/resource/hhh.ri0083.photos.144467p",
+        "http://www.loc.gov/resource/hhh.ri0083.photos.144468p",
+        "http://www.loc.gov/resource/hhh.ri0083.photos.144469p",
+        "http://www.loc.gov/resource/hhh.ri0083.photos.144470p",
+        "http://www.loc.gov/resource/hhh.ri0083.photos.144471p",
+        "http://www.loc.gov/resource/hhh.ri0083.photos.144472p",
+        "http://www.loc.gov/resource/hhh.ri0083.photos.144474p",
+        "http://www.loc.gov/resource/hhh.ri0083.photos.144475p",
+        "http://www.loc.gov/resource/hhh.ri0083.photos.144476p",
+        "http://www.loc.gov/resource/hhh.ri0083.photos.144477p",
+        "http://www.loc.gov/resource/hhh.ri0083.photos.144478p",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00001a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00002a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00003a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00004a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00005a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00006a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00007a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00008a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00009a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00010a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00011a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00012a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00013a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00014a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00015a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00016a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00017a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00018a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00019a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00020a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00021a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00022a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00023a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00024a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00025a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00026a",
+        "http://www.loc.gov/resource/hhh.ri0083.sheet.00027a"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "hammond, joseph, jr",
+        "historic american buildings survey",
+        "harrison, peter",
+        "rivera, jacob rodriguez",
+        "rhode island historical preservation commission",
+        "slade, susan r",
+        "seixas, moses",
+        "touro, judah",
+        "allen, ebenezer",
+        "nagle, j",
+        "medeiros, j",
+        "washington, george",
+        "boucher, jack e",
+        "allen, sarah",
+        "touro, isaac de abraham",
+        "levy, moses",
+        "stiles, ezra",
+        "touro, abraham",
+        "newport restoration foundation",
+        "congregation shearith israel",
+        "leboeuf, arthur w",
+        "hart, isaac",
+        "rhode island general assembly",
+        "supreme court of rhode island",
+        "watland, gerald r. w."
+      ],
+      "description": [
+        "Photo(s): 12 | Measured Drawing(s): 27 | Data Page(s): 12"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T18:49:22.877Z",
+      "group": [
+        "hh-5",
+        "habshaer-group-5"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/ri0083/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0083/photos/144467p_150px.jpg#h=108&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0083/photos/144467pr.jpg#h=460&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0083/photos/144467pv.jpg#h=735&w=1024"
+      ],
+      "index": 12,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        41.489189,
+        -71.312149
+      ],
+      "location": [
+        "newport",
+        "rhode island",
+        "newport county"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -71.312149,
+        41.489189
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american memory",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 53.680405,
+      "shelf_id": "HABS RI,3-NEWP,29-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "synagogues",
+        "round-topped windows",
+        "ionic order",
+        "georgian architectural elements",
+        "brick buildings",
+        "cemeteries",
+        "columns",
+        "woodwork",
+        "jewish americans",
+        "war (revolutionary war)",
+        "balconies",
+        "2 stories",
+        "parapets",
+        "judaism",
+        "corinthian order",
+        "low hip roofs",
+        "porches"
+      ],
+      "timestamp": "2023-11-13T19:06:16.643Z",
+      "title": "Touro Synagogue, Congregation Jeshuat Israel, 85 Touro Street, Newport, Newport County, RI",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/ri0083/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/ri0052/",
+        "http://www.loc.gov/item/ri0052/",
+        "http://www.loc.gov/pictures/item/ri0052/",
+        "https://www.loc.gov/pictures/collection/hh/item/ri0052/",
+        "http://www.loc.gov/pictures/collection/hh/item/ri0052/",
+        "https://cdn.loc.gov/master/pnp/habshaer/ri/ri0000/ri0052/data/ri0052data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ri/ri0000/ri0052/data/ri0052data.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: ri0052&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: ri0052&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.ri0052data/",
+        "http://www.loc.gov/resource/hhh.ri0052.photos/",
+        "http://www.loc.gov/resource/hhh.ri0052.photos",
+        "http://www.loc.gov/resource/hhh.ri0052.photos.144634p",
+        "http://www.loc.gov/resource/hhh.ri0052.photos.144635p",
+        "http://www.loc.gov/resource/hhh.ri0052.photos.144636p",
+        "http://www.loc.gov/resource/hhh.ri0052.photos.144637p",
+        "http://www.loc.gov/resource/hhh.ri0052.photos.144638p",
+        "http://www.loc.gov/resource/hhh.ri0052.photos.144639p"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "historic american buildings survey",
+        "robinson, cervin",
+        "rhode island historical preservation commission",
+        "slade, thomas m",
+        "warren, russell",
+        "overby, osmund r"
+      ],
+      "description": [
+        "Photo(s): 6 | Data Page(s): 9"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T18:49:23.749Z",
+      "group": [
+        "hh-5",
+        "habshaer-group-5"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/ri0052/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0052/photos/144634p_150px.jpg#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0052/photos/144634pr.jpg#h=511&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0052/photos/144634pv.jpg#h=817&w=1024"
+      ],
+      "index": 13,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "newport",
+        "rhode island",
+        "newport county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american memory",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 50.800953,
+      "shelf_id": "HABS RI,3-NEWP,52-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "clapboard siding",
+        "raised basements",
+        "sash windows",
+        "brick chimneys",
+        "community centers",
+        "corinthian order",
+        "pilasters",
+        "jewish americans",
+        "houses",
+        "entablatures",
+        "porches"
+      ],
+      "timestamp": "2023-11-13T19:06:16.643Z",
+      "title": "Levi Gale House, 89 Touro Street (moved from Washington Square), Newport, Newport County, RI",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/ri0052/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "hh-5",
+      "habshaer-group-5",
+      "sanborn"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "hhh.ri0071.photos",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.841991662979126,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/hhh.ri0071.photos/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json&sp=8",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ],
+      "sp": [
+        "8"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=8",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": 8,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294098.6815457,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 19969756,
+      "type": "bw_photos",
+      "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/ri/ri0000/ri0071/photos/144419pu.tif",
+      "width": 0
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/jpg",
+      "size": 5168,
+      "type": "bw_photos",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0071/photos/144419p_150px.jpg",
+      "width": 120
+    },
+    {
+      "height": 640,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 48873,
+      "type": "bw_photos",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0071/photos/144419pr.jpg",
+      "width": 514
+    },
+    {
+      "height": 1024,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 111405,
+      "type": "bw_photos",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0071/photos/144419pv.jpg",
+      "width": 822
+    },
+    {
+      "aka": "https://www.loc.gov/resource/hhh.ri0071.photos.144419p",
+      "mimetype": "application/json",
+      "title": "8.  Historic American Buildings Survey, Cervin Robinson, Photographer, July 14, 1970 VIEW OF CENTER ROOM INTERIOR FROM NORTH. - Redwood Library, 50 Bellevue Avenue, Newport, Newport County, RI",
+      "use": "caption"
+    }
+  ],
+  "pagination": {
+    "current": 8,
+    "first": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=1",
+    "from": 8,
+    "last": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=11",
+    "next": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=9",
+    "of": 17,
+    "page_list": [
+      {
+        "number": 1,
+        "url": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=1"
+      },
+      {
+        "number": "...",
+        "url": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=5"
+      },
+      {
+        "number": 6,
+        "url": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=6"
+      },
+      {
+        "number": 7,
+        "url": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=7"
+      },
+      {
+        "number": 8,
+        "url": null
+      },
+      {
+        "number": 9,
+        "url": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=9"
+      },
+      {
+        "number": 10,
+        "url": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=10"
+      },
+      {
+        "number": "...",
+        "url": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=11"
+      }
+    ],
+    "perpage": 1,
+    "perpage_options": [
+      25,
+      50,
+      100,
+      150
+    ],
+    "previous": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=7",
+    "results": "8 - 8",
+    "to": 8,
+    "total": 17
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=hh&pk=ri0071&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sanborn08092_001/",
+        "https://hdl.loc.gov/loc.gmd/g3774nm.g3774nm_g080921884",
+        "http://www.loc.gov/resource/g3774nm.g3774nm_g080921884/"
+      ],
+      "campaigns": [],
+      "date": "1884-10",
+      "dates": [
+        "1884-10"
+      ],
+      "description": [
+        "Oct 1884. 15 sheet(s)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-08T18:06:23.690Z",
+      "group": [
+        "sanborn"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sanborn08092_001/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd377m/g3774m/g3774nm/g3774nm_g080921884/08092_1884-0000.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd377m/g3774m/g3774nm/g3774nm_g080921884/08092_1884-0000.gif#h=150&w=126",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd377m:g3774m:g3774nm:g3774nm_g080921884:08092_1884-0000/full/pct:12.5/0/default.jpg#h=956&w=806",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd377m:g3774m:g3774nm:g3774nm_g080921884:08092_1884-0000/full/pct:25/0/default.jpg#h=1912&w=1612"
+      ],
+      "index": 8,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "rhode island",
+        "newport",
+        "newport county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/jp2"
+      ],
+      "number": [
+        "2018-04-24t09:37:54"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "sanborn maps",
+        "american memory",
+        "geography and map division"
+      ],
+      "score": 17.01781,
+      "shelf_id": "http://www.loc.gov/item/sanborn08092_001/",
+      "site": [
+        "ammem"
+      ],
+      "timestamp": "2024-10-08T20:09:50.408Z",
+      "title": "Sanborn Fire Insurance Map from Newport, Newport County, Rhode Island.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/sanborn08092_001/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sanborn08092_002/",
+        "https://hdl.loc.gov/loc.gmd/g3774nm.g3774nm_g080921891",
+        "http://www.loc.gov/resource/g3774nm.g3774nm_g080921891/"
+      ],
+      "campaigns": [],
+      "date": "1891-05",
+      "dates": [
+        "1891-05"
+      ],
+      "description": [
+        "May 1891. 19 sheet(s)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-08T18:06:23.690Z",
+      "group": [
+        "sanborn"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sanborn08092_002/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd377m/g3774m/g3774nm/g3774nm_g080921891/08092_1891-0000.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd377m/g3774m/g3774nm/g3774nm_g080921891/08092_1891-0000.gif#h=150&w=126",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd377m:g3774m:g3774nm:g3774nm_g080921891:08092_1891-0000/full/pct:12.5/0/default.jpg#h=956&w=806",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd377m:g3774m:g3774nm:g3774nm_g080921891:08092_1891-0000/full/pct:25/0/default.jpg#h=1912&w=1612"
+      ],
+      "index": 9,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "rhode island",
+        "newport",
+        "newport county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/jp2"
+      ],
+      "number": [
+        "2018-04-24t09:37:54"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "sanborn maps",
+        "american memory",
+        "geography and map division"
+      ],
+      "score": 17.01781,
+      "shelf_id": "http://www.loc.gov/item/sanborn08092_002/",
+      "site": [
+        "ammem"
+      ],
+      "timestamp": "2024-10-08T20:09:50.408Z",
+      "title": "Sanborn Fire Insurance Map from Newport, Newport County, Rhode Island.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/sanborn08092_002/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sanborn08092_003/",
+        "https://hdl.loc.gov/loc.gmd/g3774nm.g3774nm_g080921896",
+        "http://www.loc.gov/resource/g3774nm.g3774nm_g080921896/"
+      ],
+      "campaigns": [],
+      "date": "1896-07",
+      "dates": [
+        "1896-07"
+      ],
+      "description": [
+        "Jul 1896. 25 sheet(s)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-08T18:06:23.690Z",
+      "group": [
+        "sanborn"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sanborn08092_003/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd377m/g3774m/g3774nm/g3774nm_g080921896/08092_1896-0000.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd377m/g3774m/g3774nm/g3774nm_g080921896/08092_1896-0000.gif#h=150&w=126",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd377m:g3774m:g3774nm:g3774nm_g080921896:08092_1896-0000/full/pct:12.5/0/default.jpg#h=956&w=806",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd377m:g3774m:g3774nm:g3774nm_g080921896:08092_1896-0000/full/pct:25/0/default.jpg#h=1912&w=1612"
+      ],
+      "index": 10,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "rhode island",
+        "newport",
+        "newport county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/jp2"
+      ],
+      "number": [
+        "2018-04-24t09:37:54"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "sanborn maps",
+        "american memory",
+        "geography and map division"
+      ],
+      "score": 17.01781,
+      "shelf_id": "http://www.loc.gov/item/sanborn08092_003/",
+      "site": [
+        "ammem"
+      ],
+      "timestamp": "2024-10-08T20:09:50.408Z",
+      "title": "Sanborn Fire Insurance Map from Newport, Newport County, Rhode Island.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/sanborn08092_003/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sanborn08092_004/",
+        "https://hdl.loc.gov/loc.gmd/g3774nm.g3774nm_g080921903",
+        "http://www.loc.gov/resource/g3774nm.g3774nm_g080921903/"
+      ],
+      "campaigns": [],
+      "date": "1903",
+      "dates": [
+        "1903"
+      ],
+      "description": [
+        "1903. 62 sheet(s). 4 skeleton maps. Bound."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-08T18:06:23.690Z",
+      "group": [
+        "sanborn"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sanborn08092_004/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd377m/g3774m/g3774nm/g3774nm_g080921903/08092_1903-0000.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd377m/g3774m/g3774nm/g3774nm_g080921903/08092_1903-titl.gif#h=150&w=126",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd377m:g3774m:g3774nm:g3774nm_g080921903:08092_1903-titl/full/pct:12.5/0/default.jpg#h=989&w=833",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd377m:g3774m:g3774nm:g3774nm_g080921903:08092_1903-titl/full/pct:25/0/default.jpg#h=1978&w=1667"
+      ],
+      "index": 11,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "rhode island",
+        "newport",
+        "newport county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/jp2"
+      ],
+      "number": [
+        "2020-04-21t15:10:40"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "sanborn maps",
+        "american memory",
+        "geography and map division"
+      ],
+      "score": 17.01781,
+      "shelf_id": "http://www.loc.gov/item/sanborn08092_004/",
+      "site": [
+        "ammem"
+      ],
+      "timestamp": "2024-10-08T20:09:50.408Z",
+      "title": "Sanborn Fire Insurance Map from Newport, Newport County, Rhode Island.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/sanborn08092_004/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sanborn08092_005/",
+        "https://hdl.loc.gov/loc.gmd/g3774nm.g3774nm_g080921921",
+        "http://www.loc.gov/resource/g3774nm.g3774nm_g080921921/"
+      ],
+      "campaigns": [],
+      "date": "1921",
+      "dates": [
+        "1921"
+      ],
+      "description": [
+        "1921. 69 sheet(s). Double-paged plates numbered 1-32. Bound. Other places as they appear on original: Jamestown, Middleton, Portsmourth."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-08T18:06:23.690Z",
+      "group": [
+        "sanborn"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sanborn08092_005/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd377m/g3774m/g3774nm/g3774nm_g080921921/08092_1921-0000L.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd377m/g3774m/g3774nm/g3774nm_g080921921/08092_1921-titl.gif#h=150&w=110",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd377m:g3774m:g3774nm:g3774nm_g080921921:08092_1921-titl/full/pct:12.5/0/default.jpg#h=930&w=679",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd377m:g3774m:g3774nm:g3774nm_g080921921:08092_1921-titl/full/pct:25/0/default.jpg#h=1860&w=1358"
+      ],
+      "index": 12,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "newport county",
+        "portsmourth",
+        "middleton",
+        "jamestown",
+        "rhode island",
+        "newport"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/jp2"
+      ],
+      "number": [
+        "2024-01-04t13:15:58"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "sanborn maps",
+        "american memory",
+        "geography and map division"
+      ],
+      "score": 17.01781,
+      "shelf_id": "http://www.loc.gov/item/sanborn08092_005/",
+      "site": [
+        "ammem"
+      ],
+      "timestamp": "2024-10-08T20:09:50.408Z",
+      "title": "Sanborn Fire Insurance Map from Newport, Newport County, Rhode Island.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/sanborn08092_005/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sanborn08092_006/",
+        "https://hdl.loc.gov/loc.gmd/g3774nm.g3774nm_g080921950",
+        "http://www.loc.gov/resource/g3774nm.g3774nm_g080921950/"
+      ],
+      "campaigns": [],
+      "date": "1950",
+      "dates": [
+        "1950"
+      ],
+      "description": [
+        "1903 - Aug 1950. 71 sheet(s). 001. 4 skeleton maps. Other places as they appear on original: Middletown."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-08T18:06:23.690Z",
+      "group": [
+        "sanborn"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sanborn08092_006/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd377m/g3774m/g3774nm/g3774nm_g080921950/08092_1950-0000.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd377m/g3774m/g3774nm/g3774nm_g080921950/08092_1950-covr.gif#h=150&w=134",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd377m:g3774m:g3774nm:g3774nm_g080921950:08092_1950-covr/full/pct:12.5/0/default.jpg#h=974&w=870",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd377m:g3774m:g3774nm:g3774nm_g080921950:08092_1950-covr/full/pct:25/0/default.jpg#h=1948&w=1741"
+      ],
+      "index": 13,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "newport county",
+        "middletown",
+        "rhode island",
+        "newport"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/jp2"
+      ],
+      "number": [
+        "2024-01-04t13:15:44"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "sanborn maps",
+        "american memory",
+        "geography and map division"
+      ],
+      "score": 17.01781,
+      "shelf_id": "http://www.loc.gov/item/sanborn08092_006/",
+      "site": [
+        "ammem"
+      ],
+      "timestamp": "2024-10-08T20:09:50.408Z",
+      "title": "Sanborn Fire Insurance Map from Newport, Newport County, Rhode Island.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/sanborn08092_006/"
+    }
+  ],
+  "reproductions": "<h3>If Digital Images Are Displaying</h3>\n\n<p>You can download online images yourself.  Alternatively, you can purchase copies of various types through Library of Congress Duplication Services.</p>\n\n<p>HABS/HAER/HALS materials have generally been scanned at high resolution that is suitable for most publication purposes (see <a href=\"/ppoc/hh/resources/digitizing.html\">Digitizing the Collection</a> for further details about the digital images).</p>\n\n<ul>\n<p>\n<li><strong>Photographs--</strong>All photographs are printed from digital files to preserve the fragile originals.\n</li>\n<ul>\n<li>Make note of the Call Number and Item Number that appear under the photograph in the multiple-image display (e.g., HAER, NY,52-BRIG,4-2).\n</li>\n<li>If possible, include a printout of the photograph.\n</li>\n</ul>\n</p>\n\n<p>\n<li><strong>Drawings--</strong>All drawings are printed from digital files to preserve the fragile originals.\n</li>\n<ul>\n<li>Make note of the Survey Number (e.g., HAER NY - 143) and Sheet Number (e.g., &quot;Sheet 1 of 4&quot;), which appear on the edge of the drawing. (NOTE: These numbers are visible in the Tiff &quot;Reference Image&quot; display.)\n</li>\n<li>If possible, include a printout of the drawing. \n</li>\n</ul>\n</p>\n\n<p>\n<li><strong>Data Pages</strong>\n</li>\n<ul>\n<li>Make note of the Call Number in the catalog record.\n</li>\n</ul>\n</p>\n</ul>\n\n<h3>If Digital Images Are Not Displaying</h3>\n\n<p>In the rare case that a digital image for HABS/HAER/HALS documentation is not displaying online, select images for reproduction through one of these methods:</p>\n<ul>\n<p>\n<li>Visit the Prints & Photographs Reading Room and request to view the group (general information about service in the reading room is available at: <a href=\"https://www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>). It is best to contact reference staff in advance (see: <a href=\"https://www.loc.gov/rr/print/address.html\">https://www.loc.gov/rr/print/address.html</a>) to make sure the material is on site.  OR\n</li>\n</p>\n\n<p>\n<li>P&amp;P reading room staff can provide up to 15 quick copies of items per calendar year (many original items in the holdings are too old or fragile to make such copies, but generally HABS/HAER/HALS materials are in good enough condition to be placed on photocopy machines). For assistance, see our <a href=\"https://www.loc.gov/rr/askalib/ask-print.html\">Ask a Librarian</a> page OR\n</li>\n</p>\n\n<p>\n<li>Hire a freelance researcher to do further selection for you (a list of researchers in available at: <a href=\"https://www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>).\n</li>\n</p>\n\n<p>\n<li>You can purchase copies of various types, including quick copies, through Library of Congress Duplication Services (price lists, contact information, and order forms for Library of Congress Duplication Services are available on the <a href=\"https://www.loc.gov/duplicationservices/\">Duplication Services Web site</a>):\n</li>\n</p>\n\n<ul>\n<li>Make note of the Call Number listed above. \n</li>\n<li>Look at the Medium field above. If it lists more than one item: \n</li>\n<ul>\n<li>The entire group can be ordered as photocopies or high-quality copies. \n</li>\n<li>All the items in a particular medium (e.g., all drawings, all photographs) can be ordered as photocopies or high-quality copies.   \n</li>\n</ul>\n</ul>\n</ul>",
+  "resource": {
+    "caption": "Photos from Survey HABS RI-100 ",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0071/photos/144412p_150px.jpg",
+    "segment_count": 17,
+    "url": "https://www.loc.gov/resource/hhh.ri0071.photos"
+  },
+  "resources": [
+    {
+      "caption": "Photos from Survey HABS RI-100 ",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0071/photos/144412p_150px.jpg",
+      "segment_count": 17,
+      "url": "https://www.loc.gov/resource/hhh.ri0071.photos"
+    }
+  ],
+  "segments": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/hhh.ri0071.photos/?sp=8",
+        "http://www.loc.gov/resource/hhh.ri0071.photos.144419p"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "unknown",
+        "hite, gerron s",
+        "divoll, leslie",
+        "dufais, john",
+        "historic american buildings survey",
+        "harrison, peter",
+        "robinson, cervin",
+        "rhode island historical preservation commission",
+        "mason, george c",
+        "snell, george",
+        "sanford, thomas j",
+        "slade, thomas m",
+        "overby, osmund r",
+        "slade, susan r",
+        "leboeuf, arthur w"
+      ],
+      "description": [
+        ""
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T18:49:22.877Z",
+      "group": [
+        "hh-5",
+        "habshaer-group-5"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/resource/hhh.ri0071.photos/?sp=8",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0071/photos/144419p_150px.jpg#h=150&w=120",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0071/photos/144419pr.jpg#h=640&w=514",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ri/ri0000/ri0071/photos/144419pv.jpg#h=1024&w=822"
+      ],
+      "index": 8,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "newport",
+        "rhode island",
+        "newport county"
+      ],
+      "mime_type": [
+        "image/tiff",
+        "image/jpg",
+        "image/jpeg",
+        "image/jpeg",
+        "application/json"
+      ],
+      "number": [
+        "0000000008"
+      ],
+      "number_page": [
+        "0000000008"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american memory",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "resources": [
+        {
+          "files": 1,
+          "url": "https://www.loc.gov/resource/hhh.ri0071.photos/?sp=8"
+        }
+      ],
+      "segmentof": [
+        "http://www.loc.gov/resource/hhh.ri0071.photos/"
+      ],
+      "shelf_id": "08",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "sash windows",
+        "georgian architectural elements",
+        "doric order",
+        "shed roofs",
+        "libraries",
+        "paneled doors",
+        "wood structural frames",
+        "porticoes (porches)"
+      ],
+      "timestamp": "2023-11-13T19:06:10.356Z",
+      "title": "8.  Historic American Buildings Survey, Cervin Robinson, Photographer, July 14, 1970 VIEW OF CENTER ROOM INTERIOR FROM NORTH. - Redwood Library, 50 Bellevue Avenue, Newport, Newport County, RI",
+      "type": [
+        "segment"
+      ],
+      "url": "https://www.loc.gov/resource/hhh.ri0071.photos/?sp=8"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294099523,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "viewer_pagination": {
+    "current": 8,
+    "first": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=1",
+    "from": 8,
+    "last": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=11",
+    "next": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=9",
+    "of": 17,
+    "page_list": [
+      {
+        "number": 1,
+        "url": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=1"
+      },
+      {
+        "number": "...",
+        "url": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=5"
+      },
+      {
+        "number": 6,
+        "url": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=6"
+      },
+      {
+        "number": 7,
+        "url": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=7"
+      },
+      {
+        "number": 8,
+        "url": null
+      },
+      {
+        "number": 9,
+        "url": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=9"
+      },
+      {
+        "number": 10,
+        "url": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=10"
+      },
+      {
+        "number": "...",
+        "url": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=11"
+      }
+    ],
+    "perpage": 1,
+    "perpage_options": [
+      25,
+      50,
+      100,
+      150
+    ],
+    "previous": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=7",
+    "results": "8 - 8",
+    "to": 8,
+    "total": 17
+  },
+  "views": {
+    "brief": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=1&st=gallery",
+    "grid": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=1&st=grid",
+    "image": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=1&st=list",
+    "pdf": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=8",
+    "slideshow": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=1&st=slideshow",
+    "text": "https://www.loc.gov/resource/hhh.ri0071.photos/?fo=json&sp=8&st=text"
+  }
+}

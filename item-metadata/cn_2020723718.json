@@ -1,0 +1,1810 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Highsmith, C. M., photographer. (2019) <cite>The public library, with a creative book-themed facade, in the small city of Houston, Minnesota</cite>. United States Houston Minnesota, 2019. -10-28. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2020723718/.",
+    "chicago": "Highsmith, Carol M, photographer. <cite>The public library, with a creative book-themed facade, in the small city of Houston, Minnesota</cite>. United States Houston Minnesota, 2019. -10-28. Photograph. https://www.loc.gov/item/2020723718/.",
+    "mla": "Highsmith, Carol M, photographer. <cite>The public library, with a creative book-themed facade, in the small city of Houston, Minnesota</cite>. -10-28. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2020723718/&gt;."
+  },
+  "item": {
+    "_version_": 1730915158775037952,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2020723718/",
+      "http://www.loc.gov/item/2020723718/",
+      "http://www.loc.gov/pictures/item/2020723718/",
+      "https://www.loc.gov/pictures/collection/highsm/item/2020723718/",
+      "http://www.loc.gov/pictures/collection/highsm/item/2020723718/",
+      "https://hdl.loc.gov/loc.pnp/highsm.60215",
+      "https://hdl.loc.gov/loc.pnp/highsm.60215",
+      "http://www.loc.gov/resource/highsm.60215/",
+      "http://lccn.loc.gov/2020723718"
+    ],
+    "call_number": "LC-DIG-highsm- 60215 (ONLINE) [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Highsmith, Carol M., 1946-, photographer"
+    ],
+    "contributors": [
+      {
+        "highsmith, carol m.": "https://www.loc.gov/search/?fa=contributor:highsmith,+carol+m.&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2020-12-01T08:30:54Z",
+    "created_published": [
+      "2019-10-28."
+    ],
+    "created_published_date": "2019-10-28.",
+    "date": "2019-01-01",
+    "dates": [
+      {
+        "2019": "https://www.loc.gov/search/?dates=2019/2019&fo=json"
+      }
+    ],
+    "description": [
+      "1 photograph : digital, tiff file, color."
+    ],
+    "digital_id": [
+      "highsm 60215 https://hdl.loc.gov/loc.pnp/highsm.60215"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-31T04:13:05.226Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/highsm/item/2020723718/#highsm",
+      "http://lccn.loc.gov/2020723718#catalog-split-00"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Digital photographs--Color--2010-2020."
+    ],
+    "genre": [
+      "Digital photographs--Color--2010-2020"
+    ],
+    "group": [
+      "highsm",
+      "catalog-split-00",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-00",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2020723718/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60215_150px.jpg#h=109&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60215r.jpg#h=463&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60215v.jpg#h=741&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-DIG-highsm- 60215 (ONLINE) [P&P]",
+      "contributors": [
+        "Highsmith, Carol M., 1946- photographer."
+      ],
+      "control_number": "2020723718",
+      "created": "2020-12-01T08:30:54Z",
+      "created_published": "2019-10-28.",
+      "created_published_date": "2019-10-28.",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Highsmith%2C%20Carol%20M.%2C%201946-&co=highsm",
+          "role": "photographer",
+          "title": "Highsmith, Carol M., 1946-"
+        }
+      ],
+      "date": "2019-10-28.",
+      "digital_id": [
+        "highsm 60215 https://hdl.loc.gov/loc.pnp/highsm.60215"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Digital%20photographs--Color--2010-2020.&co=highsm",
+          "title": "Digital photographs--Color--2010-2020."
+        }
+      ],
+      "genre": [
+        "Digital photographs--Color--2010-2020"
+      ],
+      "id": "2020723718",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2020723718/",
+      "marc": "https://www.loc.gov/pictures/item/2020723718/marc/",
+      "medium": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "medium_brief": "1 photograph :",
+      "mediums": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "modified": "2020-12-01T08:30:56Z",
+      "notes": [
+        "Title, date, and keywords based on information provided by the photographer.",
+        "Purchase; Carol M. Highsmith Photography, Inc.; 2019; (DLC/PP-2019:069).",
+        "Forms part of Carol M. Highsmith's America Project in the Carol M. Highsmith Archive."
+      ],
+      "other_control_numbers": [
+        "21813796"
+      ],
+      "part_of": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Minnesota%20--Houston&co=highsm",
+          "longitude": "",
+          "title": "Minnesota --Houston"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA https://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-highsm-60215 (original digital file)",
+      "resource_links": [
+        "https://hdl.loc.gov/loc.pnp/highsm.60215"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60215_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60215r.jpg",
+      "sort_date": "2019",
+      "source_collection": [
+        "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+      ],
+      "source_created": "2020-11-10T00:00:00Z",
+      "source_modified": "2020-11-24T09:02:45Z",
+      "subject_headings": [
+        "United States--Minnesota --Houston.",
+        "America",
+        "Houston Minnesota Public library",
+        "Public libraries",
+        "Minnesota --Houston"
+      ],
+      "subjects": [
+        "United States--Minnesota --Houston",
+        "America",
+        "Houston Minnesota Public library",
+        "Public libraries"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60215_150px.jpg",
+      "title": "The public library, with a creative book-themed facade, in the small city of Houston, Minnesota"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2020723718",
+    "link": "https://www.loc.gov/pictures/item/2020723718/",
+    "location": [
+      "united states",
+      "houston",
+      "minnesota"
+    ],
+    "location_city": [
+      "houston"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_state": [
+      "minnesota"
+    ],
+    "locations": [
+      {
+        "houston": "https://www.loc.gov/search/?fa=location:houston&fo=json"
+      },
+      {
+        "minnesota": "https://www.loc.gov/search/?fa=location:minnesota&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "houston": "https://www.loc.gov/search/?fa=location_city:houston&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "minnesota": "https://www.loc.gov/search/?fa=location_state:minnesota&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2020723718/marc/",
+    "medium": [
+      "1 photograph : digital, tiff file, color."
+    ],
+    "medium_brief": "1 photograph :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2020-12-01T08:30:56Z",
+    "notes": [
+      "Title, date, and keywords based on information provided by the photographer.",
+      "Purchase; Carol M. Highsmith Photography, Inc.; 2019; (DLC/PP-2019:069).",
+      "Forms part of Carol M. Highsmith's America Project in the Carol M. Highsmith Archive."
+    ],
+    "number": [
+      "2020723718",
+      "http://www.loc.gov/item/21813796",
+      "2020-11-24t09:02:45",
+      "online resource"
+    ],
+    "number_carrier_type": [
+      "online resource"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/21813796"
+    ],
+    "number_lccn": [
+      "2020723718"
+    ],
+    "number_source_modified": [
+      "2020-11-24t09:02:45"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "21813796"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2020723718/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2020723718/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2020723718/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 69132,
+        "title": "highsmith (carol m.) archive",
+        "url": "https://www.loc.gov/collections/carol-m-highsmith/?fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Minnesota%20--Houston&co=highsm",
+        "longitude": "",
+        "title": "Minnesota --Houston"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2020723718&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA https://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-highsm-60215 (original digital file)",
+    "reproductions": [],
+    "resource_links": [
+      "https://hdl.loc.gov/loc.pnp/highsm.60215"
+    ],
+    "resources": [
+      {
+        "caption": "original digital file",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60215_150px.jpg",
+        "url": "https://www.loc.gov/resource/highsm.60215/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/482_high.html\">Carol M. Highsmith - Rights and Restrictions Information</a> </p>\n \n"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "LC-DIG-highsm- 60215 (ONLINE) [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "2019",
+    "source_collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+    "source_created": "2020-11-10T00:00:00Z",
+    "source_modified": "2020-11-24T09:02:45Z",
+    "subject": [
+      "united states",
+      "america",
+      "houston minnesota public library",
+      "houston",
+      "minnesota",
+      "public libraries",
+      "digital photographs",
+      "color"
+    ],
+    "subject_headings": [
+      "United States--Minnesota --Houston",
+      "America",
+      "Houston Minnesota Public library",
+      "Public libraries"
+    ],
+    "subjects": [
+      {
+        "america": "https://www.loc.gov/search/?fa=subject:america&fo=json"
+      },
+      {
+        "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+      },
+      {
+        "digital photographs": "https://www.loc.gov/search/?fa=subject:digital+photographs&fo=json"
+      },
+      {
+        "houston": "https://www.loc.gov/search/?fa=subject:houston&fo=json"
+      },
+      {
+        "houston minnesota public library": "https://www.loc.gov/search/?fa=subject:houston+minnesota+public+library&fo=json"
+      },
+      {
+        "minnesota": "https://www.loc.gov/search/?fa=subject:minnesota&fo=json"
+      },
+      {
+        "public libraries": "https://www.loc.gov/search/?fa=subject:public+libraries&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60215_150px.jpg",
+    "timestamp": "2022-04-23T15:55:30.570Z",
+    "title": "The public library, with a creative book-themed facade, in the small city of Houston, Minnesota",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2020723718/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2020723715/",
+        "http://www.loc.gov/item/2020723715/",
+        "http://www.loc.gov/pictures/item/2020723715/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2020723715/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2020723715/",
+        "https://hdl.loc.gov/loc.pnp/highsm.60212",
+        "https://hdl.loc.gov/loc.pnp/highsm.60212",
+        "http://www.loc.gov/resource/highsm.60212/",
+        "http://lccn.loc.gov/2020723715"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2019-01-01",
+      "dates": [
+        "2019"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T05:36:18.280Z",
+      "group": [
+        "highsm",
+        "catalog-split-13",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020723715/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60212_150px.jpg#h=107&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60212r.jpg#h=458&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60212v.jpg#h=732&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "houston",
+        "minnesota"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/21813793",
+        "2020723715",
+        "2020-11-24t09:02:44",
+        "online resource"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 42.106495,
+      "shelf_id": "LC-DIG-highsm- 60212 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "america",
+        "houston",
+        "minnesota",
+        "digital photographs",
+        "color",
+        "town halls",
+        "town hall houston twp"
+      ],
+      "timestamp": "2022-04-23T15:55:30.570Z",
+      "title": "The tiny 1915 township hall in Houston, Minnesota. In Minnesota, townships are jurisdictions larger than towns or cities but smaller than counties",
+      "url": "https://www.loc.gov/item/2020723715/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2020723716/",
+        "http://www.loc.gov/item/2020723716/",
+        "http://www.loc.gov/pictures/item/2020723716/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2020723716/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2020723716/",
+        "https://hdl.loc.gov/loc.pnp/highsm.60213",
+        "https://hdl.loc.gov/loc.pnp/highsm.60213",
+        "http://www.loc.gov/resource/highsm.60213/",
+        "http://lccn.loc.gov/2020723716"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2019-01-01",
+      "dates": [
+        "2019"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T02:05:34.320Z",
+      "group": [
+        "highsm",
+        "catalog-split-14",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020723716/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60213_150px.jpg#h=101&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60213r.jpg#h=430&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60213v.jpg#h=688&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "houston",
+        "minnesota"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/21813794",
+        "2020723716",
+        "2020-11-24t09:02:44",
+        "online resource"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 42.106495,
+      "shelf_id": "LC-DIG-highsm- 60213 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "america",
+        "houston",
+        "halloween decorations",
+        "minnesota",
+        "digital photographs",
+        "color",
+        "houses"
+      ],
+      "timestamp": "2022-04-23T15:55:30.570Z",
+      "title": "An elaborate Halloween display outside a home in the small city of Houston, Minnesota",
+      "url": "https://www.loc.gov/item/2020723716/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2020723717/",
+        "http://www.loc.gov/item/2020723717/",
+        "http://www.loc.gov/pictures/item/2020723717/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2020723717/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2020723717/",
+        "https://hdl.loc.gov/loc.pnp/highsm.60214",
+        "https://hdl.loc.gov/loc.pnp/highsm.60214",
+        "http://www.loc.gov/resource/highsm.60214/",
+        "http://lccn.loc.gov/2020723717"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2019-01-01",
+      "dates": [
+        "2019"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T05:32:59.658Z",
+      "group": [
+        "highsm",
+        "catalog-split-15",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020723717/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60214_150px.jpg#h=150&w=132",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60214r.jpg#h=640&w=564",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60214v.jpg#h=1024&w=903"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "houston",
+        "minnesota"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/21813795",
+        "2020723717",
+        "2020-11-24t09:02:44",
+        "online resource"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 42.106495,
+      "shelf_id": "LC-DIG-highsm- 60214 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "america",
+        "owls",
+        "houston",
+        "karla bloem",
+        "minnesota",
+        "digital photographs",
+        "color",
+        "international owl center"
+      ],
+      "timestamp": "2022-04-23T15:55:30.570Z",
+      "title": "The International Owl Center headquarters in the small city of Houston in southeastern Minnesota. The wildlife center, created in 1996, is dedicated to the study and promotion of the species of birds that proliferate along the nearby Root River Trail. City employee Karla Bloem founded the organization with an eye to the success of the National Eagle Center just one hour north in Wabasha, Minnesota",
+      "url": "https://www.loc.gov/item/2020723717/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2020723719/",
+        "http://www.loc.gov/item/2020723719/",
+        "http://www.loc.gov/pictures/item/2020723719/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2020723719/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2020723719/",
+        "https://hdl.loc.gov/loc.pnp/highsm.60216",
+        "https://hdl.loc.gov/loc.pnp/highsm.60216",
+        "http://www.loc.gov/resource/highsm.60216/",
+        "http://lccn.loc.gov/2020723719"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2019-01-01",
+      "dates": [
+        "2019"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T02:05:34.320Z",
+      "group": [
+        "highsm",
+        "catalog-split-01",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-01",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020723719/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60216_150px.jpg#h=113&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60216r.jpg#h=480&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60216v.jpg#h=768&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "houston",
+        "minnesota"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2020723719",
+        "online resource",
+        "http://www.loc.gov/item/21813797",
+        "2020-11-24t09:02:46"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 42.106495,
+      "shelf_id": "LC-DIG-highsm- 60216 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "america",
+        "barns",
+        "houston",
+        "minnesota",
+        "farms",
+        "janell kae barn",
+        "digital photographs",
+        "color"
+      ],
+      "timestamp": "2022-04-23T15:55:30.570Z",
+      "title": "The Janell Kae farm barn outside the small city of Houston, Minnesota",
+      "url": "https://www.loc.gov/item/2020723719/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2020723245/",
+        "http://www.loc.gov/item/2020723245/",
+        "http://www.loc.gov/pictures/item/2020723245/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2020723245/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2020723245/",
+        "https://hdl.loc.gov/loc.pnp/highsm.59742",
+        "https://hdl.loc.gov/loc.pnp/highsm.59742",
+        "http://www.loc.gov/resource/highsm.59742/",
+        "http://lccn.loc.gov/2020723245"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2019-01-01",
+      "dates": [
+        "2019"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-30T22:11:24.817Z",
+      "group": [
+        "highsm",
+        "catalog-split-11",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-11",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020723245/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/59700/59742_150px.jpg#h=113&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/59700/59742r.jpg#h=480&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/59700/59742v.jpg#h=768&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "mankato",
+        "united states",
+        "minnesota",
+        "blue earth county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2020723245",
+        "2020-12-03t15:53:51",
+        "http://www.loc.gov/item/21813321",
+        "online resource"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 36.85572,
+      "shelf_id": "LC-DIG-highsm- 59742 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "america",
+        "thomas miller",
+        "dakota indian executions",
+        "reconciliation memorial",
+        "u.s.-dakota conflict of 1862",
+        "minnesota",
+        "blue earth county",
+        "public libraries",
+        "mankato",
+        "digital photographs",
+        "color",
+        "blue earth county library",
+        "winter warrior statue"
+      ],
+      "timestamp": "2022-04-23T15:53:58.531Z",
+      "title": "Thomas Miller's 1987 \"Winter Warrior\" sculpture outside the Blue Earth County Library in Mankato, Minnesota. It, and the county's Reconciliation Memorial across the street, keep before the public the story of the largest mass execution in U.S. history when 38 Dakota Indians were hanged here by the government during the U.S.-Dakota Conflict of 1862",
+      "url": "https://www.loc.gov/item/2020723245/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2020723246/",
+        "http://www.loc.gov/item/2020723246/",
+        "http://www.loc.gov/pictures/item/2020723246/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2020723246/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2020723246/",
+        "https://hdl.loc.gov/loc.pnp/highsm.59743",
+        "https://hdl.loc.gov/loc.pnp/highsm.59743",
+        "http://www.loc.gov/resource/highsm.59743/",
+        "http://lccn.loc.gov/2020723246"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2019-01-01",
+      "dates": [
+        "2019"
+      ],
+      "description": [
+        "1 photograph : digital, tiff file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T02:12:58.001Z",
+      "group": [
+        "highsm",
+        "catalog-split-12",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020723246/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/59700/59743_150px.jpg#h=113&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/59700/59743r.jpg#h=480&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/highsm/59700/59743v.jpg#h=768&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "mankato",
+        "united states",
+        "minnesota",
+        "blue earth county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2020-11-24t08:59:23",
+        "2020723246",
+        "http://www.loc.gov/item/21813322",
+        "online resource"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "highsmith (carol m.) archive",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 36.85572,
+      "shelf_id": "LC-DIG-highsm- 59743 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "america",
+        "minnesota",
+        "blue earth county",
+        "public libraries",
+        "mankato",
+        "digital photographs",
+        "color",
+        "blue earth county library"
+      ],
+      "timestamp": "2022-04-23T15:53:58.531Z",
+      "title": "A portion of the Blue Earth County Library in Mankato, Minnesota",
+      "url": "https://www.loc.gov/item/2020723246/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "highsm",
+      "catalog-split-00",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-00",
+      "main-catalog",
+      "catalog-split-13",
+      "main-catalog-split-13",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "catalog-split-01",
+      "main-catalog-split-01",
+      "catalog-split-11",
+      "main-catalog-split-11",
+      "catalog-split-12",
+      "main-catalog-split-12",
+      "afc/2012006",
+      "catalog-split-04",
+      "working-the-port-of-houston",
+      "main-catalog-split-04",
+      "catalog-split-02",
+      "main-catalog-split-02",
+      "afc/ofp/2020012",
+      "nursing-americas-veterans",
+      "catalog-split-10",
+      "main-catalog-split-10",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "ndnp/dlc-2020_now",
+      "library-of-congress-washington-dc-awardee-8"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "highsm.60215",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.864840030670166,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/highsm.60215/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/highsm.60215/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294129.3074172,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 360720314,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/highsm/60200/60215u.tif",
+      "width": 0
+    },
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 721424008,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/highsm/60200/60215a.tif",
+      "width": 0
+    },
+    {
+      "height": 109,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 86049,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60215_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 463,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 135726,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60215r.jpg",
+      "width": 640
+    },
+    {
+      "height": 741,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 475504,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60215v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2020723718&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/afc2012006.afc2012006_00334_sr01/",
+        "http://www.loc.gov/item/2016655461/",
+        "http://www.loc.gov/resource/afc2012006.afc2012006_00334/",
+        "http://www.loc.gov/resource/afc2012006.afc2012006_00334_ms01/",
+        "http://lccn.loc.gov/2016655461",
+        "http://www.loc.gov/resource/afc2012006.afc2012006_00334_ph02/",
+        "http://www.loc.gov/resource/afc2012006.afc2012006_00334_ph01/",
+        "https://hdl.loc.gov/loc.afc/afc2012006.afc2012006_00334"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "occupational folklife project",
+        "keenan, gordie",
+        "potoczniak, anthony"
+      ],
+      "date": "2012-01-01",
+      "dates": [
+        "2012"
+      ],
+      "description": [
+        "Gordie Keenan was born in 1954, in Norfolk, Virginia. He was educated in Rochester, New York, and later attended the State University of New York Maritime College. He moved to Houston in 1991 and has worked for Higman Marine Services, Inc. since 2005, where he was asked to run the personnel side of the business. Keenan describes his maritime career working different roles at Exxon and in several privately-owned towboat companies. He provides insight into ways the towboat industry has reformed itself to become more professional over the last few decades. This interview was accompanied by two photographs of employees: Douglas Dunn, pilot (with Gordie Keenan); Randall Spann, steersman; and Sean McDonald, steersman, of Higman Marine Services, Inc."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-20T09:54:16.251Z",
+      "group": [
+        "afc/2012006",
+        "catalog-split-04",
+        "catalog",
+        "working-the-port-of-houston",
+        "main-catalog-split-04",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016655461/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/afc/afc2012006/afc2012006_00334/afc2012006_00334_ms01.gif",
+        "https://tile.loc.gov/storage-services/service/afc/afc2012006/afc2012006_00334/afc2012006_00334_ms01.gif#h=150&w=116"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "channelview",
+        "houston ship channel",
+        "texas",
+        "houston"
+      ],
+      "mime_type": [
+        "image/gif",
+        "audio/wav",
+        "image/jpeg",
+        "application/pdf",
+        "image/jp2",
+        "application/x-audio"
+      ],
+      "number": [
+        "2017-07-06t18:52:43",
+        "2016655461",
+        "online resource"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "other_title": [
+        "Gordie Keenan, Higman Marine Services, interview conducted by Anthony G. Potoczniak, 2012-08-29"
+      ],
+      "partof": [
+        "occupational folklife project",
+        "catalog",
+        "american folklife center",
+        "working the port of houston: archie green fellows project, 2011-2012"
+      ],
+      "score": 24.359985,
+      "shelf_id": "http://lccn.loc.gov/2016655461",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "houston yacht club",
+        "teams in the workplace",
+        "employees",
+        "digital photographs",
+        "channelview (tex.)",
+        "keenan, gordie",
+        "occupations",
+        "towboats",
+        "marine accidents",
+        "training of",
+        "interviews",
+        "event place",
+        "houston ship channel (tex.)",
+        "texas",
+        "houston",
+        "marine engineering",
+        "color",
+        "recruiting",
+        "oral histories",
+        "marine engineers",
+        "interviews (sound recordings)",
+        "houston ship channel"
+      ],
+      "timestamp": "2022-03-30T12:22:41.166Z",
+      "title": "Gordie Keenan interview conducted by Anthony G. Potoczniak, 2012-08-29.",
+      "url": "https://www.loc.gov/item/2016655461/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023655254",
+        "http://www.loc.gov/item/2023655254/",
+        "https://hdl.loc.gov/loc.afc/collafc.afc2022009"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "andrew w. mellon foundation",
+        "american folklife center"
+      ],
+      "date": "2022",
+      "dates": [
+        "2022"
+      ],
+      "description": [
+        "A team of musicians and community scholars from the Chicano music community created documentation of the contemporary scene in Houston. This scene is influenced by a mix of gulf coast African American and Cajun-inflected blues and R&B musical traditions as well as the country, Orquesta and Conjunto music often associated with more prominent Chicano music scenes in South and Central Texas. The team conducted interviews with musicians, dance hall owners, producers, fans and others, culminating with a street party community documentation/archives event featuring group discussions, story booths, photo sharing and duplication opportunities and music performance."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-11T06:08:49.493Z",
+      "group": [
+        "catalog-split-02",
+        "catalog",
+        "main-catalog-split-02"
+      ],
+      "hassegments": false,
+      "id": "http://lccn.loc.gov/2023655254",
+      "image_url": [],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "texas",
+        "houston"
+      ],
+      "number": [
+        "2023655254",
+        "2024-10-09t14:24:26"
+      ],
+      "original_format": [
+        "manuscript/mixed material",
+        "collection"
+      ],
+      "partof": [
+        "american folklife center",
+        "catalog"
+      ],
+      "score": 18.660156,
+      "shelf_id": "http://lccn.loc.gov/2023655254",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "color",
+        "texas",
+        "video recordings",
+        "chicano music",
+        "interviews",
+        "tejano musicians",
+        "music",
+        "conjunto music",
+        "concerts",
+        "houston",
+        "tejano music",
+        "houston (tex.)",
+        "social life and customs",
+        "conjunto musicians",
+        "digital photographs",
+        "mexican americans",
+        "sound recordings",
+        "oral histories"
+      ],
+      "timestamp": "2024-10-11T06:12:13.233Z",
+      "title": "Sonidos de Houston : Documenting the City's Chicano Music Scene : Community Collections Grant Project, 2022-2023",
+      "type": [
+        "manuscript"
+      ],
+      "url": "//lccn.loc.gov/2023655254"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023655316",
+        "http://www.loc.gov/item/2023655316/",
+        "https://hdl.loc.gov/loc.afc/afc2020012.afc2020012_003_sr01",
+        "http://www.loc.gov/resource/afc2020012.afc2020012_003_sr01/",
+        "http://www.loc.gov/resource/afc2020012.afc2020012_003_ph/",
+        "http://www.loc.gov/resource/afc2020012.afc2020012_003_ms01/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "paxton, b. a.",
+        "occupational folklife project",
+        "glaser, alana l.",
+        "nduku, franklin"
+      ],
+      "date": "2021",
+      "dates": [
+        "2021"
+      ],
+      "description": [
+        "Franklin Nduku, RN/MSN (Registered Nurse/Master of Science in Nursing), discusses his role as the Magnet Program Director for the Houston Veterans Administration, one of only three Veteran Administration hospitals in the United States to earn this prestigious accreditation."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-06-05T06:53:08.978Z",
+      "group": [
+        "catalog-split-01",
+        "catalog",
+        "afc/ofp/2020012",
+        "main-catalog-split-01",
+        "nursing-americas-veterans"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2023655316/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2020012:afc2020012_003:afc2020012_003_ph:afc2020012_003_ph01/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2020012:afc2020012_003:afc2020012_003_ph:afc2020012_003_ph01/full/pct:6.25/0/default.jpg#h=222&w=333",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2020012:afc2020012_003:afc2020012_003_ph:afc2020012_003_ph01/full/pct:12.5/0/default.jpg#h=444&w=666",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2020012:afc2020012_003:afc2020012_003_ph:afc2020012_003_ph01/full/pct:25/0/default.jpg#h=889&w=1333",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2020012:afc2020012_003:afc2020012_003_ph:afc2020012_003_ph01/full/pct:50/0/default.jpg#h=1778&w=2666",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2020012:afc2020012_003:afc2020012_003_ph:afc2020012_003_ph01/full/pct:100/0/default.jpg#h=3556&w=5333"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "texas",
+        "houston"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "audio/mp3",
+        "image/gif",
+        "audio/wav",
+        "application/pdf"
+      ],
+      "number": [
+        "2024-06-03t09:53:24",
+        "2023-11-13t07:46:10",
+        "2023655316",
+        "online resource"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "occupational folklife project",
+        "nursing america's veterans, 2020-2021",
+        "american folklife center",
+        "catalog"
+      ],
+      "score": 17.953094,
+      "shelf_id": "http://lccn.loc.gov/2023655316",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "color",
+        "veterans",
+        "medical care",
+        "male nurses",
+        "veterans' hospitals",
+        "personal narratives",
+        "nursing",
+        "nurses",
+        "nduku, franklin",
+        "sound recordings",
+        "interviews",
+        "digital photographs",
+        "medical staff",
+        "study and teaching",
+        "oral histories"
+      ],
+      "timestamp": "2024-06-05T06:54:53.242Z",
+      "title": "Franklin Nduku, RN/MSN, interview conducted by Alana Glaser and B Paxton, 2021-05-04",
+      "type": [
+        "sound recording-nonmusical"
+      ],
+      "url": "https://www.loc.gov/item/2023655316/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2016655458",
+        "http://www.loc.gov/resource/afc2012006.afc2012006_00331/",
+        "http://www.loc.gov/item/2016655458/",
+        "http://www.loc.gov/resource/afc2012006.afc2012006_00331_ms01/",
+        "http://www.loc.gov/resource/afc2012006.afc2012006_00331_ph01/",
+        "http://www.loc.gov/resource/afc2012006.afc2012006_00331_ph02/",
+        "http://www.loc.gov/resource/afc2012006.afc2012006_00331_sr01/",
+        "https://hdl.loc.gov/loc.afc/afc2012006.afc2012006_00331"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "larrimer, george",
+        "occupational folklife project",
+        "potoczniak, anthony"
+      ],
+      "date": "2012-01-01",
+      "dates": [
+        "2012"
+      ],
+      "description": [
+        "George Larrimer worked the port of Houston for almost 40 years. He started his career in the U.S. Coast Guard. In the mid-1970s he joined the Marine Fire Dept (MFD). He describes the evolution of fire fighting practices at the Port of Houston, the day-to-day operations of the MFD, the first fire and accidents at the Port of Houston, his career trajectory in the MFD, as well as personal hobbies including woodworking inspired by his childhood experiences and work in the maritime industry."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-20T09:54:16.251Z",
+      "group": [
+        "afc/2012006",
+        "catalog-split-10",
+        "catalog",
+        "working-the-port-of-houston",
+        "main-catalog-split-10",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016655458/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/afc/afc2012006/afc2012006_00331/afc2012006_00331_ms01.gif",
+        "https://tile.loc.gov/storage-services/service/afc/afc2012006/afc2012006_00331/afc2012006_00331_ms01.gif#h=150&w=116"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "houston ship channel",
+        "texas",
+        "houston"
+      ],
+      "mime_type": [
+        "image/gif",
+        "audio/wav",
+        "image/jpeg",
+        "application/pdf",
+        "image/jp2",
+        "application/x-audio"
+      ],
+      "number": [
+        "2016655458",
+        "2017-05-15t10:04:15",
+        "online resource"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "occupational folklife project",
+        "catalog",
+        "american folklife center",
+        "working the port of houston: archie green fellows project, 2011-2012"
+      ],
+      "score": 16.908878,
+      "shelf_id": "http://lccn.loc.gov/2016655458",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "fire fighters",
+        "fires and fire prevention",
+        "digital photographs",
+        "ships",
+        "occupations",
+        "houston (tex.)",
+        "interviews",
+        "larrimer, george",
+        "fire departments",
+        "event place",
+        "houston ship channel (tex.)",
+        "texas",
+        "fire extinction",
+        "woodwork",
+        "color",
+        "fireboats",
+        "oral histories",
+        "coastal surveillance",
+        "interviews (sound recordings)",
+        "fire stations",
+        "houston ship channel"
+      ],
+      "timestamp": "2022-03-30T12:22:41.166Z",
+      "title": "George Larrimer interview conducted by Anthony G. Potoczniak, 2012-08-01.",
+      "url": "https://www.loc.gov/item/2016655458/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2016655460/",
+        "http://www.loc.gov/resource/afc2012006.afc2012006_00333/",
+        "http://www.loc.gov/resource/afc2012006.afc2012006_00333_ms01/",
+        "http://lccn.loc.gov/2016655460",
+        "https://hdl.loc.gov/loc.afc/afc2012006.afc2012006_00333",
+        "http://www.loc.gov/resource/afc2012006.afc2012006_00333_sr01/",
+        "http://www.loc.gov/resource/afc2012006.afc2012006_00333_ph01/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "occupational folklife project",
+        "mims, doug",
+        "potoczniak, anthony"
+      ],
+      "date": "2012-01-01",
+      "dates": [
+        "2012"
+      ],
+      "description": [
+        "Doug Mims was born in 1960, in Vicenza, Italy. He travelled extensively in Europe while his father served in the military. After the Vietnam War, his family moved to Hitchcock, Texas, where he attended school. The interviewee describes how growing up near the water influenced his decision to work in the maritime industry, and, ultimately, at the Port of Houston. He became a pilot and then captain of the M/V Sam Houston. Several facets of the Sam Houston boat tour are described including the types of participants, the sites it tours, and how the channel has changed over time."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-20T09:54:16.251Z",
+      "group": [
+        "afc/2012006",
+        "catalog-split-03",
+        "catalog",
+        "working-the-port-of-houston",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016655460/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/afc/afc2012006/afc2012006_00333/afc2012006_00333_ms01.gif",
+        "https://tile.loc.gov/storage-services/service/afc/afc2012006/afc2012006_00333/afc2012006_00333_ms01.gif#h=150&w=116"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "houston ship channel",
+        "texas",
+        "houston"
+      ],
+      "mime_type": [
+        "image/gif",
+        "audio/wav",
+        "image/jpeg",
+        "application/pdf",
+        "image/jp2",
+        "application/x-audio"
+      ],
+      "number": [
+        "2017-09-12t18:32:57",
+        "2016655460",
+        "online resource"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "occupational folklife project",
+        "catalog",
+        "american folklife center",
+        "working the port of houston: archie green fellows project, 2011-2012"
+      ],
+      "score": 16.908878,
+      "shelf_id": "http://lccn.loc.gov/2016655460",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "ship captains",
+        "digital photographs",
+        "pilots and pilotage",
+        "ships",
+        "occupations",
+        "mims, doug",
+        "maintenance and repair",
+        "houston (tex.)",
+        "training of",
+        "interviews",
+        "event place",
+        "houston ship channel (tex.)",
+        "sightseeing business",
+        "texas",
+        "color",
+        "oral histories",
+        "interviews (sound recordings)",
+        "occupational training",
+        "houston ship channel"
+      ],
+      "timestamp": "2022-03-30T12:22:41.166Z",
+      "title": "Doug Mims interview conducted by Anthony G. Potoczniak, 2012-09-13.",
+      "url": "https://www.loc.gov/item/2016655460/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83025779/1900-01-13/ed-1/",
+        "http://www.loc.gov/resource/sn83025779/1900-01-13/ed-1/"
+      ],
+      "batch": [
+        "dlc_kingman_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1900-01-13",
+      "dates": [
+        "1900-01-13"
+      ],
+      "description": [
+        "Dallas, Tex."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-07T20:32:34.516Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83025779/1900-01-13/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025779:00220720457:1900011301:0001/full/pct:3.125/0/default.jpg#h=287&w=208",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025779:00220720457:1900011301:0001/full/pct:6.25/0/default.jpg#h=575&w=416",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025779:00220720457:1900011301:0001/full/pct:12.5/0/default.jpg#h=1150&w=833"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "harris county",
+        "united states",
+        "harris",
+        "dallas county",
+        "texas",
+        "dallas",
+        "houston"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn83025779",
+        "1",
+        "00220720457"
+      ],
+      "numeric_shelf_id": 190001131,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "serial and government publications division",
+        "the dallas express (dallas, tex.) 1893-1970"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 16.433771,
+      "shelf_id": "sn83025779, 1900-01-13, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "harris county",
+        "dallas county",
+        "texas",
+        "newspapers",
+        "united states",
+        "harris county (tex.)",
+        "harris",
+        "african american",
+        "dallas",
+        "houston",
+        "houston (tex.)",
+        "dallas (tex.)",
+        "dallas county (tex.)",
+        "african american newspapers",
+        "african americans"
+      ],
+      "timestamp": "2023-08-08T11:26:26.035Z",
+      "title": "The Dallas express (Dallas, Tex.), January 13, 1900",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83025779/1900-01-13/ed-1/"
+    }
+  ],
+  "reproductions": "<p>\nSome images in this collection are described in groups; others are \ndescribed individually. In some cases, all of the images in the \ngroup display online, in other cases they do not.\n</p>\n\n<p>\nYou can download online images yourself.  Alternatively, you can \npurchase copies of various types.\n</p>\n\n<ol>\n<p>\t\n<strong><li>Determine whether the desired materials can be retrieved \nonline.</strong>\n</p>\n<ul>\n<p>\t\n<li>Look in the <strong>Medium</strong> field above to determine whether\n the description is for one photograph or more than one.</li>\n </p>\n <p>\n<li>If the description is for a single item and it is displaying, \nyou can download or purchase a print.  Cite the number that begins \nwith &quot;LC-DIG...&quot; when purchasing copies through Library of \nCongress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is \na &quot;Click for more images&quot; icon displaying, select that. \nIndividual images will display; you can download or purchase prints. \nCite the number that begins with &quot;LC-DIG...&quot; when purchasing \ncopies through Library of Congress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is no\n &quot;Click for more images&quot; icon displaying, return to the\n  &quot;About this Item&quot; tab and select the &quot;<i>Check for \n  online items from this group</i>&quot; link.  Then select the \n  \"Obtaining Copies\" tab for any retrieved items that are of interest.\n</p>\n</ul>\n</li>\n\n<p>\n<strong><li>If the images do not display online</strong> -- Select images for reproduction through one of these methods:\n</p>\n<ul>\n<p>\t\n<li>Visit the Prints &amp; Photographs Reading Room and request to view \nthe group (general information about service in the reading room is \navailable at: <a href=\"//www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>).</li>  \n</p>\n<p>\n<li>P&amp;P reading room staff can provide up to 15 photocopies of items \nper calendar year. (Color images cannot be photocopied.) For assistance,\n see our <a href=\"//www.loc.gov/rr/askalib/ask-print.html\">Ask a Librarian</a> page. OR</li>\n</p>\n<p>\n<li>Hire a freelance researcher to do further selection for you \n(a list of researchers is available at: \n<a href=\"//www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>).\n</p>\n</ul>\n</li>\n</ol>\n\n<p>\n<strong>Purchasing Copies</strong>\n</p>\n\n<p>\nLibrary of Congress Duplication Services can make copies of various \ntypes from images in Prints & Photographs Division Collections.  \nPrice lists, contact information, and order forms are available on the \n<a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.\n</p>\n\n<p>\nCarol M. Highsmith sells prints of her photographs at: <a href=\"http://photographsamerica.com/\">http://photographsamerica.com/</a> .\n</p>  \n\n\n\n\n        ",
+  "resource": {
+    "caption": "original digital file",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60215_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/highsm.60215/"
+  },
+  "resources": [
+    {
+      "caption": "original digital file",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/highsm/60200/60215_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/highsm.60215/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294130172,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/highsm.60215/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/highsm.60215/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/highsm.60215/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/highsm.60215/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/highsm.60215/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/highsm.60215/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/highsm.60215/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/highsm.60215/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/highsm.60215/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/highsm.60215/?fo=json&st=text"
+  }
+}

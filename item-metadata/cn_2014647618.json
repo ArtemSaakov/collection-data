@@ -1,0 +1,1925 @@
+{
+  "articles_and_essays": [
+    {
+      "score": 6.813345,
+      "title": "Postcards: Greetings from the Prints & Photographs Division",
+      "url": "https://guides.loc.gov/postcards"
+    }
+  ],
+  "cite_this": {
+    "apa": "Gilbert, C. <cite>Main public library building - Detroit</cite>. Detroit Michigan, None. [Brooklyn, n.y.: the albertype co., between 1921 and 1930?] [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2014647618/.",
+    "chicago": "Gilbert, Cass, Architect. <cite>Main public library building - Detroit</cite>. Detroit Michigan, None. [Brooklyn, n.y.: the albertype co., between 1921 and 1930?] Photograph. https://www.loc.gov/item/2014647618/.",
+    "mla": "Gilbert, Cass, Architect. <cite>Main public library building - Detroit</cite>. [Brooklyn, n.y.: the albertype co., between 1921 and 1930?] Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2014647618/&gt;."
+  },
+  "item": {
+    "_version_": 1768319195339030528,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2014647618/",
+      "http://www.loc.gov/item/2014647618/",
+      "http://www.loc.gov/pictures/item/2014647618/",
+      "https://www.loc.gov/pictures/collection/cph/item/2014647618/",
+      "http://www.loc.gov/pictures/collection/cph/item/2014647618/",
+      "https://hdl.loc.gov/loc.pnp/ds.06560",
+      "https://hdl.loc.gov/loc.pnp/ds.06560",
+      "http://www.loc.gov/resource/ds.06560/",
+      "http://lccn.loc.gov/2014647618"
+    ],
+    "call_number": "PCRD14, no. 171 [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Gilbert, Cass, 1859-1934, architect"
+    ],
+    "contributors": [
+      {
+        "gilbert, cass": "https://www.loc.gov/search/?fa=contributor:gilbert,+cass&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2023-06-06T06:30:58Z",
+    "created_published": [
+      "[Brooklyn, N.Y.] : [The Albertype Co.], [between 1921 and 1930?]"
+    ],
+    "created_published_date": "[between 1921 and 1930?]",
+    "date": "1921",
+    "dates": [
+      {
+        "1921": "https://www.loc.gov/search/?dates=1921/1921&fo=json"
+      }
+    ],
+    "description": [
+      "1 photograph : hand-colored collotype ; sheet 14 x 21 cm. | Photograph shows view of Carnegie library in Detroit, Michigan."
+    ],
+    "digital_id": [
+      "ds 06560 https://hdl.loc.gov/loc.pnp/ds.06560"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2023-06-10T12:35:59.658Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/cph/item/2014647618/#cph",
+      "http://lccn.loc.gov/2014647618#catalog-split-07"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Advertisements--1920-1930.",
+      "Architectural photographs--1920-1930.",
+      "Collotypes--Hand-colored--1920-1930.",
+      "Postcards--1920-1930."
+    ],
+    "genre": [
+      "Advertisements--1920-1930",
+      "Postcards--1920-1930",
+      "Architectural photographs--1920-1930",
+      "Collotypes--Hand-colored--1920-1930"
+    ],
+    "group": [
+      "cph",
+      "catalog-split-07",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-07",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2014647618/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560_150px.jpg#h=107&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560r.jpg#h=454&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560v.jpg#h=727&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "PCRD14, no. 171 [P&P]",
+      "contributor_names": [
+        "Gilbert, Cass, 1859-1934, architect "
+      ],
+      "contributors": [
+        "Gilbert, Cass, 1859-1934, architect"
+      ],
+      "control_number": "2014647618",
+      "created": "2023-06-06T06:30:58Z",
+      "created_published": "[Brooklyn, N.Y.] : [The Albertype Co.], [between 1921 and 1930?]",
+      "created_published_date": "[between 1921 and 1930?]",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Gilbert%2C%20Cass%2C%201859-1934&co=cph",
+          "role": "architect",
+          "title": "Gilbert, Cass, 1859-1934"
+        }
+      ],
+      "date": "[between 1921 and 1930?]",
+      "digital_id": [
+        "ds 06560 https://hdl.loc.gov/loc.pnp/ds.06560"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Advertisements--1920-1930.&co=cph",
+          "title": "Advertisements--1920-1930."
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Architectural%20photographs--1920-1930.&co=cph",
+          "title": "Architectural photographs--1920-1930."
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Collotypes--Hand-colored--1920-1930.&co=cph",
+          "title": "Collotypes--Hand-colored--1920-1930."
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Postcards--1920-1930.&co=cph",
+          "title": "Postcards--1920-1930."
+        }
+      ],
+      "genre": [
+        "Advertisements--1920-1930",
+        "Postcards--1920-1930",
+        "Architectural photographs--1920-1930",
+        "Collotypes--Hand-colored--1920-1930"
+      ],
+      "id": "2014647618",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2014647618/",
+      "location": [
+        "Michigan--Detroit"
+      ],
+      "marc": "https://www.loc.gov/pictures/item/2014647618/marc/",
+      "medium": [
+        "1 photograph : hand-colored collotype ; sheet 14 x 21 cm."
+      ],
+      "medium_brief": "1 photograph :",
+      "mediums": [
+        "1 photograph : hand-colored collotype ; sheet 14 x 21 cm."
+      ],
+      "modified": "2023-06-06T06:31:02Z",
+      "notes": [
+        "Title from item.",
+        "Includes advertisement for Berry Brothers, varnishes and paint specialties.",
+        "Library designed by Cass Gilbert.",
+        "(PR 06 CN 037)."
+      ],
+      "other_control_numbers": [
+        "18367073"
+      ],
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Michigan--Detroit&co=cph",
+          "longitude": "",
+          "title": "Michigan--Detroit"
+        }
+      ],
+      "raw_collections": [
+        "cph",
+        "diof",
+        "pp"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-ds-06560 (digital file from original item)",
+      "resource_links": [
+        "https://hdl.loc.gov/loc.pnp/ds.06560"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560r.jpg",
+      "sort_date": "1921",
+      "source_created": "2014-11-10T00:00:00Z",
+      "source_modified": "2023-05-31T07:54:19Z",
+      "subject_headings": [
+        "Detroit Public Library--Buildings--1920-1930.",
+        "Berry Brothers--Public relations--1920-1930.",
+        "Carnegie libraries--Michigan--Detroit--1920-1930.",
+        "Public libraries--Michigan--Detroit--1920-1930.",
+        "Michigan--Detroit"
+      ],
+      "subjects": [
+        "Detroit Public Library--Buildings--1920-1930",
+        "Berry Brothers--Public relations--1920-1930",
+        "Carnegie libraries--Michigan--Detroit--1920-1930",
+        "Public libraries--Michigan--Detroit--1920-1930"
+      ],
+      "summary": "Photograph shows view of Carnegie library in Detroit, Michigan.",
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560_150px.jpg",
+      "title": "Main public library building - Detroit"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2014647618",
+    "link": "https://www.loc.gov/pictures/item/2014647618/",
+    "location": [
+      "detroit",
+      "michigan"
+    ],
+    "locations": [
+      {
+        "detroit": "https://www.loc.gov/search/?fa=location:detroit&fo=json"
+      },
+      {
+        "michigan": "https://www.loc.gov/search/?fa=location:michigan&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2014647618/marc/",
+    "medium": [
+      "1 photograph : hand-colored collotype ; sheet 14 x 21 cm."
+    ],
+    "medium_brief": "1 photograph :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2023-06-06T06:31:02Z",
+    "notes": [
+      "Title from item.",
+      "Includes advertisement for Berry Brothers, varnishes and paint specialties.",
+      "Library designed by Cass Gilbert.",
+      "(PR 06 CN 037)."
+    ],
+    "number": [
+      "2023-05-31t07:54:19",
+      "sheet",
+      "http://www.loc.gov/item/18367073",
+      "2014647618"
+    ],
+    "number_carrier_type": [
+      "sheet"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/18367073"
+    ],
+    "number_lccn": [
+      "2014647618"
+    ],
+    "number_source_modified": [
+      "2023-05-31t07:54:19"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "18367073"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2014647618/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2014647618/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2014647618/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 117442,
+        "title": "miscellaneous items in high demand",
+        "url": "https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Michigan--Detroit&co=cph",
+        "longitude": "",
+        "title": "Michigan--Detroit"
+      }
+    ],
+    "raw_collections": [
+      "cph",
+      "diof",
+      "pp"
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2014647618&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-ds-06560 (digital file from original item)",
+    "reproductions": [],
+    "resource_links": [
+      "https://hdl.loc.gov/loc.pnp/ds.06560"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from original item",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560_150px.jpg",
+        "url": "https://www.loc.gov/resource/ds.06560/"
+      }
+    ],
+    "rights": [],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "PCRD14, no. 171 [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1921",
+    "source_created": "2014-11-10T00:00:00Z",
+    "source_modified": "2000-01-01T12:00:00Z",
+    "subject": [
+      "advertisements",
+      "collotypes",
+      "berry brothers",
+      "postcards",
+      "detroit",
+      "architectural photographs",
+      "public relations",
+      "detroit public library",
+      "public libraries",
+      "hand-colored",
+      "michigan",
+      "carnegie libraries",
+      "buildings"
+    ],
+    "subject_headings": [
+      "Detroit Public Library--Buildings--1920-1930",
+      "Berry Brothers--Public relations--1920-1930",
+      "Carnegie libraries--Michigan--Detroit--1920-1930",
+      "Public libraries--Michigan--Detroit--1920-1930"
+    ],
+    "subjects": [
+      {
+        "advertisements": "https://www.loc.gov/search/?fa=subject:advertisements&fo=json"
+      },
+      {
+        "architectural photographs": "https://www.loc.gov/search/?fa=subject:architectural+photographs&fo=json"
+      },
+      {
+        "berry brothers": "https://www.loc.gov/search/?fa=subject:berry+brothers&fo=json"
+      },
+      {
+        "buildings": "https://www.loc.gov/search/?fa=subject:buildings&fo=json"
+      },
+      {
+        "carnegie libraries": "https://www.loc.gov/search/?fa=subject:carnegie+libraries&fo=json"
+      },
+      {
+        "collotypes": "https://www.loc.gov/search/?fa=subject:collotypes&fo=json"
+      },
+      {
+        "detroit": "https://www.loc.gov/search/?fa=subject:detroit&fo=json"
+      },
+      {
+        "detroit public library": "https://www.loc.gov/search/?fa=subject:detroit+public+library&fo=json"
+      },
+      {
+        "hand-colored": "https://www.loc.gov/search/?fa=subject:hand-colored&fo=json"
+      },
+      {
+        "michigan": "https://www.loc.gov/search/?fa=subject:michigan&fo=json"
+      },
+      {
+        "postcards": "https://www.loc.gov/search/?fa=subject:postcards&fo=json"
+      },
+      {
+        "public libraries": "https://www.loc.gov/search/?fa=subject:public+libraries&fo=json"
+      },
+      {
+        "public relations": "https://www.loc.gov/search/?fa=subject:public+relations&fo=json"
+      }
+    ],
+    "summary": "Photograph shows view of Carnegie library in Detroit, Michigan.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560_150px.jpg",
+    "timestamp": "2023-06-10T12:36:39.712Z",
+    "title": "Main public library building - Detroit",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2014647618/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014647617/",
+        "http://www.loc.gov/item/2014647617/",
+        "http://www.loc.gov/pictures/item/2014647617/",
+        "https://www.loc.gov/pictures/collection/cph/item/2014647617/",
+        "http://www.loc.gov/pictures/collection/cph/item/2014647617/",
+        "https://hdl.loc.gov/loc.pnp/ds.06561",
+        "https://hdl.loc.gov/loc.pnp/ds.06561",
+        "http://www.loc.gov/resource/ds.06561/",
+        "http://lccn.loc.gov/2014647617"
+      ],
+      "campaigns": [],
+      "date": "1909",
+      "dates": [
+        "1909"
+      ],
+      "description": [
+        "1 photograph : hand-colored collotype ; sheet 15 x 21 cm. | Photograph shows view of Carnegie library in El Paso, Texas."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-06-10T12:35:59.658Z",
+      "group": [
+        "cph",
+        "catalog-split-06",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-06",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014647617/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06561_150px.jpg#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06561r.jpg#h=494&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06561v.jpg#h=791&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "el paso",
+        "texas"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2014647617",
+        "sheet",
+        "2023-05-31t07:50:42",
+        "http://www.loc.gov/item/18366965"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand",
+        "catalog",
+        "prints and photographs division"
+      ],
+      "score": 52.029545,
+      "shelf_id": "PCRD14, no. 495 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "collotypes",
+        "postcards",
+        "texas",
+        "el paso",
+        "architectural photographs",
+        "el paso public library (el paso, tex.)",
+        "hand-colored",
+        "public libraries",
+        "carnegie libraries",
+        "buildings"
+      ],
+      "timestamp": "2023-06-10T12:36:39.712Z",
+      "title": "Public Library. El Paso, Texas",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2014647617/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014650188/",
+        "http://www.loc.gov/item/2014650188/",
+        "http://www.loc.gov/pictures/item/2014650188/",
+        "https://www.loc.gov/pictures/collection/cph/item/2014650188/",
+        "http://www.loc.gov/pictures/collection/cph/item/2014650188/",
+        "http://www.loc.gov/resource/ds.06614/",
+        "http://lccn.loc.gov/2014650188",
+        "https://hdl.loc.gov/loc.pnp/ds.06614"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "gilbert, cass"
+      ],
+      "date": "1913-01-01",
+      "dates": [
+        "1913"
+      ],
+      "description": [
+        "1 drawing : photographic print ; sheet 34 x 41 cm. | Photograph of competition drawing shows library as elevation."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T13:36:24.577Z",
+      "group": [
+        "cph",
+        "catalog-split-03",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014650188/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06600/06614_150px.jpg#h=123&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06600/06614r.jpg#h=524&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06600/06614v.jpg#h=838&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "detroit",
+        "michigan"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2014-12-17t16:29:04",
+        "sheet",
+        "http://www.loc.gov/item/18409524",
+        "2014650188"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 4484",
+        "prints and photographs division",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand"
+      ],
+      "score": 49.241985,
+      "shelf_id": "LOT 4484 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "detroit",
+        "photographic prints",
+        "public libraries",
+        "detroit public library",
+        "michigan",
+        "competition drawings",
+        "architectural drawings",
+        "buildings"
+      ],
+      "timestamp": "2022-05-02T06:47:42.802Z",
+      "title": "The Detroit Public Library competition Front elevation.",
+      "url": "https://www.loc.gov/item/2014650188/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014650189/",
+        "http://www.loc.gov/item/2014650189/",
+        "http://www.loc.gov/pictures/item/2014650189/",
+        "https://www.loc.gov/pictures/collection/cph/item/2014650189/",
+        "http://www.loc.gov/pictures/collection/cph/item/2014650189/",
+        "http://www.loc.gov/resource/ds.06613/",
+        "https://hdl.loc.gov/loc.pnp/ds.06613",
+        "http://lccn.loc.gov/2014650189"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "gilbert, cass"
+      ],
+      "date": "1913-01-01",
+      "dates": [
+        "1913"
+      ],
+      "description": [
+        "1 drawing : photographic print ; sheet 34 x 41 cm. | Photograph of competition drawing shows library as plan."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-24T20:36:36.758Z",
+      "group": [
+        "cph",
+        "catalog-split-04",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-04",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014650189/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06600/06613_150px.jpg#h=150&w=131",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06600/06613r.jpg#h=640&w=560",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06600/06613v.jpg#h=1024&w=896"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "detroit",
+        "michigan"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "sheet",
+        "2014650189",
+        "2014-12-17t16:46:33",
+        "http://www.loc.gov/item/18409530"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 4484",
+        "prints and photographs division",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand"
+      ],
+      "score": 49.241985,
+      "shelf_id": "LOT 4484 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "detroit",
+        "photographic prints",
+        "public libraries",
+        "detroit public library",
+        "michigan",
+        "competition drawings",
+        "architectural drawings",
+        "buildings"
+      ],
+      "timestamp": "2022-05-02T06:47:42.802Z",
+      "title": "The Detroit Public Library competition Second floor plan.",
+      "url": "https://www.loc.gov/item/2014650189/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014650174/",
+        "http://www.loc.gov/item/2014650174/",
+        "http://www.loc.gov/pictures/item/2014650174/",
+        "https://www.loc.gov/pictures/collection/cph/item/2014650174/",
+        "http://www.loc.gov/pictures/collection/cph/item/2014650174/",
+        "http://www.loc.gov/resource/ds.06568/",
+        "http://lccn.loc.gov/2014650174",
+        "https://hdl.loc.gov/loc.pnp/ds.06568"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "clark, kenneth"
+      ],
+      "date": "1921-01-01",
+      "dates": [
+        "1921"
+      ],
+      "description": [
+        "1 photograph : gelatin silver print ; sheet 19 x 24 cm."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-24T20:36:36.758Z",
+      "group": [
+        "cph",
+        "catalog-split-14",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014650174/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06568_150px.jpg#h=118&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06568r.jpg#h=501&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06568v.jpg#h=802&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "detroit",
+        "michigan"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2014650174",
+        "sheet",
+        "http://www.loc.gov/item/18403976",
+        "2015-06-11t16:41:17"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand",
+        "catalog",
+        "prints and photographs division"
+      ],
+      "score": 43.864662,
+      "shelf_id": "Unprocessed in PR 13 CN 2012:111, leaf 25 verso [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "libraries",
+        "gelatin silver prints",
+        "detroit",
+        "fireplaces",
+        "architectural photographs",
+        "detroit public library",
+        "michigan",
+        "buildings"
+      ],
+      "timestamp": "2022-05-02T06:47:42.802Z",
+      "title": "[Fireplace in children's room of the Detroit Public Library]",
+      "url": "https://www.loc.gov/item/2014650174/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014650175/",
+        "http://www.loc.gov/item/2014650175/",
+        "http://www.loc.gov/pictures/item/2014650175/",
+        "https://www.loc.gov/pictures/collection/cph/item/2014650175/",
+        "http://www.loc.gov/pictures/collection/cph/item/2014650175/",
+        "http://www.loc.gov/resource/ds.06567/",
+        "http://lccn.loc.gov/2014650175",
+        "https://hdl.loc.gov/loc.pnp/ds.06567"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "clark, kenneth"
+      ],
+      "date": "1921-01-01",
+      "dates": [
+        "1921"
+      ],
+      "description": [
+        "1 photograph : gelatin silver print ; sheet 19 x 24 cm."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-24T20:36:36.758Z",
+      "group": [
+        "cph",
+        "catalog-split-15",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014650175/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06567_150px.jpg#h=118&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06567r.jpg#h=502&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06567v.jpg#h=803&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "detroit",
+        "michigan"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "sheet",
+        "2015-06-11t16:41:24",
+        "http://www.loc.gov/item/18403985",
+        "2014650175"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand",
+        "catalog",
+        "prints and photographs division"
+      ],
+      "score": 43.864662,
+      "shelf_id": "Unprocessed in PR 13 CN 2012:111, leaf 25 verso [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "libraries",
+        "gelatin silver prints",
+        "detroit",
+        "rooms & spaces",
+        "architectural photographs",
+        "detroit public library",
+        "michigan",
+        "buildings"
+      ],
+      "timestamp": "2022-05-02T06:47:42.802Z",
+      "title": "[Children's room of the Detroit Public Library]",
+      "url": "https://www.loc.gov/item/2014650175/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014650176/",
+        "http://www.loc.gov/item/2014650176/",
+        "http://www.loc.gov/pictures/item/2014650176/",
+        "https://www.loc.gov/pictures/collection/cph/item/2014650176/",
+        "http://www.loc.gov/pictures/collection/cph/item/2014650176/",
+        "http://www.loc.gov/resource/ds.06569/",
+        "http://lccn.loc.gov/2014650176",
+        "https://hdl.loc.gov/loc.pnp/ds.06569"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "clark, kenneth"
+      ],
+      "date": "1921-01-01",
+      "dates": [
+        "1921"
+      ],
+      "description": [
+        "1 photograph : gelatin silver print ; sheet 19 x 24 cm."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-24T20:36:36.758Z",
+      "group": [
+        "cph",
+        "catalog-split-00",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014650176/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06569_150px.jpg#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06569r.jpg#h=493&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06569v.jpg#h=790&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "detroit",
+        "michigan"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/18403992",
+        "sheet",
+        "2015-06-11t16:41:11",
+        "2014650176"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand",
+        "catalog",
+        "prints and photographs division"
+      ],
+      "score": 43.864662,
+      "shelf_id": "Unprocessed in PR 13 CN 2012:111, leaf 23 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "libraries",
+        "gelatin silver prints",
+        "reading rooms",
+        "detroit",
+        "architectural photographs",
+        "detroit public library",
+        "michigan",
+        "buildings"
+      ],
+      "timestamp": "2022-05-02T06:47:42.802Z",
+      "title": "[Main reading room of the Detroit Public Library]",
+      "url": "https://www.loc.gov/item/2014650176/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "cph",
+      "catalog-split-07",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-07",
+      "main-catalog",
+      "catalog-split-06",
+      "main-catalog-split-06",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "catalog-split-04",
+      "main-catalog-split-04",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "ndnp/iune",
+      "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "ds.06560",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.5755183696746826,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/ds.06560/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/ds.06560/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294069.0881848,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 91776234,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/ds/06500/06560u.tif",
+      "width": 0
+    },
+    {
+      "height": 107,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 15740,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 454,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 85373,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560r.jpg",
+      "width": 640
+    },
+    {
+      "height": 727,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 529763,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2014647618&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn89077510/1873-01-11/ed-1/",
+        "http://www.loc.gov/resource/sn89077510/1873-01-11/ed-1/"
+      ],
+      "batch": [
+        "iune_amethyst_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of illinois at urbana-champaign library, urbana, il"
+      ],
+      "date": "1873-01-11",
+      "dates": [
+        "1873-01-11"
+      ],
+      "description": [
+        "Chicago [Ill.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-01-03T21:47:10.323Z",
+      "group": [
+        "ndnp/iune",
+        "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn89077510/1873-01-11/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1873011101:0285/full/pct:6.25/0/default.jpg#h=489&w=374",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1873011101:0285/full/pct:12.5/0/default.jpg#h=979&w=748"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pennsylvania",
+        "united states",
+        "detroit",
+        "philadelphia",
+        "ohio",
+        "wayne",
+        "chicago",
+        "hamilton",
+        "illinois",
+        "hamilton county",
+        "cincinnati",
+        "philadelphia county",
+        "wayne county",
+        "cook county",
+        "michigan",
+        "cook"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn89077510",
+        "00332897895"
+      ],
+      "numeric_shelf_id": 187301111,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Workingman's advocate and anti-monopolist"
+      ],
+      "partof": [
+        "the workingman's advocate (chicago [ill.]) 1864-1877",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 20.090397,
+      "shelf_id": "sn89077510, 1873-01-11, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "ohio",
+        "philadelphia",
+        "wayne",
+        "cincinnati",
+        "newspapers",
+        "detroit",
+        "wayne county (mich.)",
+        "philadelphia (pa.)",
+        "labor unions",
+        "cook county",
+        "hamilton county (ohio)",
+        "pennsylvania",
+        "united states",
+        "cook county (ill.)",
+        "hamilton county",
+        "hamilton",
+        "philadelphia county",
+        "wayne county",
+        "detroit (mich.)",
+        "cook",
+        "chicago (ill.)",
+        "chicago",
+        "illinois",
+        "philadelphia county (pa.)",
+        "michigan"
+      ],
+      "timestamp": "2024-01-04T01:17:23.696Z",
+      "title": "The workingman's advocate (Chicago [Ill.]), January 11, 1873",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn89077510/1873-01-11/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn89077510/1873-01-18/ed-1/",
+        "http://www.loc.gov/resource/sn89077510/1873-01-18/ed-1/"
+      ],
+      "batch": [
+        "iune_amethyst_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of illinois at urbana-champaign library, urbana, il"
+      ],
+      "date": "1873-01-18",
+      "dates": [
+        "1873-01-18"
+      ],
+      "description": [
+        "Chicago [Ill.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-01-03T21:47:10.323Z",
+      "group": [
+        "ndnp/iune",
+        "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn89077510/1873-01-18/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1873011801:0289/full/pct:6.25/0/default.jpg#h=486&w=372",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1873011801:0289/full/pct:12.5/0/default.jpg#h=972&w=744"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pennsylvania",
+        "united states",
+        "detroit",
+        "philadelphia",
+        "ohio",
+        "wayne",
+        "chicago",
+        "hamilton",
+        "illinois",
+        "hamilton county",
+        "cincinnati",
+        "philadelphia county",
+        "wayne county",
+        "cook county",
+        "michigan",
+        "cook"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn89077510",
+        "00332897895"
+      ],
+      "numeric_shelf_id": 187301181,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Workingman's advocate and anti-monopolist"
+      ],
+      "partof": [
+        "the workingman's advocate (chicago [ill.]) 1864-1877",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 20.090397,
+      "shelf_id": "sn89077510, 1873-01-18, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "ohio",
+        "philadelphia",
+        "wayne",
+        "cincinnati",
+        "newspapers",
+        "detroit",
+        "wayne county (mich.)",
+        "philadelphia (pa.)",
+        "labor unions",
+        "cook county",
+        "hamilton county (ohio)",
+        "pennsylvania",
+        "united states",
+        "cook county (ill.)",
+        "hamilton county",
+        "hamilton",
+        "philadelphia county",
+        "wayne county",
+        "detroit (mich.)",
+        "cook",
+        "chicago (ill.)",
+        "chicago",
+        "illinois",
+        "philadelphia county (pa.)",
+        "michigan"
+      ],
+      "timestamp": "2024-01-04T01:17:23.696Z",
+      "title": "The workingman's advocate (Chicago [Ill.]), January 18, 1873",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn89077510/1873-01-18/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn89077510/1873-01-25/ed-1/",
+        "http://www.loc.gov/resource/sn89077510/1873-01-25/ed-1/"
+      ],
+      "batch": [
+        "iune_amethyst_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of illinois at urbana-champaign library, urbana, il"
+      ],
+      "date": "1873-01-25",
+      "dates": [
+        "1873-01-25"
+      ],
+      "description": [
+        "Chicago [Ill.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-01-03T21:47:10.323Z",
+      "group": [
+        "ndnp/iune",
+        "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn89077510/1873-01-25/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1873012501:0293/full/pct:6.25/0/default.jpg#h=486&w=370",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1873012501:0293/full/pct:12.5/0/default.jpg#h=973&w=740"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pennsylvania",
+        "united states",
+        "detroit",
+        "philadelphia",
+        "ohio",
+        "wayne",
+        "chicago",
+        "hamilton",
+        "illinois",
+        "hamilton county",
+        "cincinnati",
+        "philadelphia county",
+        "wayne county",
+        "cook county",
+        "michigan",
+        "cook"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn89077510",
+        "00332897895"
+      ],
+      "numeric_shelf_id": 187301251,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Workingman's advocate and anti-monopolist"
+      ],
+      "partof": [
+        "the workingman's advocate (chicago [ill.]) 1864-1877",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 20.090397,
+      "shelf_id": "sn89077510, 1873-01-25, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "ohio",
+        "philadelphia",
+        "wayne",
+        "cincinnati",
+        "newspapers",
+        "detroit",
+        "wayne county (mich.)",
+        "philadelphia (pa.)",
+        "labor unions",
+        "cook county",
+        "hamilton county (ohio)",
+        "pennsylvania",
+        "united states",
+        "cook county (ill.)",
+        "hamilton county",
+        "hamilton",
+        "philadelphia county",
+        "wayne county",
+        "detroit (mich.)",
+        "cook",
+        "chicago (ill.)",
+        "chicago",
+        "illinois",
+        "philadelphia county (pa.)",
+        "michigan"
+      ],
+      "timestamp": "2024-01-04T01:17:23.696Z",
+      "title": "The workingman's advocate (Chicago [Ill.]), January 25, 1873",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn89077510/1873-01-25/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn89077510/1873-02-01/ed-1/",
+        "http://www.loc.gov/resource/sn89077510/1873-02-01/ed-1/"
+      ],
+      "batch": [
+        "iune_amethyst_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of illinois at urbana-champaign library, urbana, il"
+      ],
+      "date": "1873-02-01",
+      "dates": [
+        "1873-02-01"
+      ],
+      "description": [
+        "Chicago [Ill.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-01-03T21:47:10.323Z",
+      "group": [
+        "ndnp/iune",
+        "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn89077510/1873-02-01/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1873020101:0297/full/pct:6.25/0/default.jpg#h=486&w=375",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1873020101:0297/full/pct:12.5/0/default.jpg#h=972&w=751"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pennsylvania",
+        "united states",
+        "detroit",
+        "philadelphia",
+        "ohio",
+        "wayne",
+        "chicago",
+        "hamilton",
+        "illinois",
+        "hamilton county",
+        "cincinnati",
+        "philadelphia county",
+        "wayne county",
+        "cook county",
+        "michigan",
+        "cook"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn89077510",
+        "00332897895"
+      ],
+      "numeric_shelf_id": 187302011,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Workingman's advocate and anti-monopolist"
+      ],
+      "partof": [
+        "the workingman's advocate (chicago [ill.]) 1864-1877",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 20.090397,
+      "shelf_id": "sn89077510, 1873-02-01, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "ohio",
+        "philadelphia",
+        "wayne",
+        "cincinnati",
+        "newspapers",
+        "detroit",
+        "wayne county (mich.)",
+        "philadelphia (pa.)",
+        "labor unions",
+        "cook county",
+        "hamilton county (ohio)",
+        "pennsylvania",
+        "united states",
+        "cook county (ill.)",
+        "hamilton county",
+        "hamilton",
+        "philadelphia county",
+        "wayne county",
+        "detroit (mich.)",
+        "cook",
+        "chicago (ill.)",
+        "chicago",
+        "illinois",
+        "philadelphia county (pa.)",
+        "michigan"
+      ],
+      "timestamp": "2024-01-04T01:17:23.696Z",
+      "title": "The workingman's advocate (Chicago [Ill.]), February 1, 1873",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn89077510/1873-02-01/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn89077510/1873-02-15/ed-1/",
+        "http://www.loc.gov/resource/sn89077510/1873-02-15/ed-1/"
+      ],
+      "batch": [
+        "iune_amethyst_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of illinois at urbana-champaign library, urbana, il"
+      ],
+      "date": "1873-02-15",
+      "dates": [
+        "1873-02-15"
+      ],
+      "description": [
+        "Chicago [Ill.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-01-03T21:47:10.323Z",
+      "group": [
+        "ndnp/iune",
+        "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn89077510/1873-02-15/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1873021501:0305/full/pct:6.25/0/default.jpg#h=488&w=372",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1873021501:0305/full/pct:12.5/0/default.jpg#h=977&w=744"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pennsylvania",
+        "united states",
+        "detroit",
+        "philadelphia",
+        "ohio",
+        "wayne",
+        "chicago",
+        "hamilton",
+        "illinois",
+        "hamilton county",
+        "cincinnati",
+        "philadelphia county",
+        "wayne county",
+        "cook county",
+        "michigan",
+        "cook"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn89077510",
+        "00332897895"
+      ],
+      "numeric_shelf_id": 187302151,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Workingman's advocate and anti-monopolist"
+      ],
+      "partof": [
+        "the workingman's advocate (chicago [ill.]) 1864-1877",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 20.090397,
+      "shelf_id": "sn89077510, 1873-02-15, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "ohio",
+        "philadelphia",
+        "wayne",
+        "cincinnati",
+        "newspapers",
+        "detroit",
+        "wayne county (mich.)",
+        "philadelphia (pa.)",
+        "labor unions",
+        "cook county",
+        "hamilton county (ohio)",
+        "pennsylvania",
+        "united states",
+        "cook county (ill.)",
+        "hamilton county",
+        "hamilton",
+        "philadelphia county",
+        "wayne county",
+        "detroit (mich.)",
+        "cook",
+        "chicago (ill.)",
+        "chicago",
+        "illinois",
+        "philadelphia county (pa.)",
+        "michigan"
+      ],
+      "timestamp": "2024-01-04T01:17:23.696Z",
+      "title": "The workingman's advocate (Chicago [Ill.]), February 15, 1873",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn89077510/1873-02-15/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn89077510/1873-02-22/ed-1/",
+        "http://www.loc.gov/resource/sn89077510/1873-02-22/ed-1/"
+      ],
+      "batch": [
+        "iune_amethyst_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of illinois at urbana-champaign library, urbana, il"
+      ],
+      "date": "1873-02-22",
+      "dates": [
+        "1873-02-22"
+      ],
+      "description": [
+        "Chicago [Ill.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-01-03T21:47:10.323Z",
+      "group": [
+        "ndnp/iune",
+        "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn89077510/1873-02-22/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1873022201:0309/full/pct:6.25/0/default.jpg#h=489&w=376",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_amethyst_ver01:data:sn89077510:00332897895:1873022201:0309/full/pct:12.5/0/default.jpg#h=978&w=753"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pennsylvania",
+        "united states",
+        "detroit",
+        "philadelphia",
+        "ohio",
+        "wayne",
+        "chicago",
+        "hamilton",
+        "illinois",
+        "hamilton county",
+        "cincinnati",
+        "philadelphia county",
+        "wayne county",
+        "cook county",
+        "michigan",
+        "cook"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn89077510",
+        "00332897895"
+      ],
+      "numeric_shelf_id": 187302221,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Workingman's advocate and anti-monopolist"
+      ],
+      "partof": [
+        "the workingman's advocate (chicago [ill.]) 1864-1877",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 20.090397,
+      "shelf_id": "sn89077510, 1873-02-22, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "ohio",
+        "philadelphia",
+        "wayne",
+        "cincinnati",
+        "newspapers",
+        "detroit",
+        "wayne county (mich.)",
+        "philadelphia (pa.)",
+        "labor unions",
+        "cook county",
+        "hamilton county (ohio)",
+        "pennsylvania",
+        "united states",
+        "cook county (ill.)",
+        "hamilton county",
+        "hamilton",
+        "philadelphia county",
+        "wayne county",
+        "detroit (mich.)",
+        "cook",
+        "chicago (ill.)",
+        "chicago",
+        "illinois",
+        "philadelphia county (pa.)",
+        "michigan"
+      ],
+      "timestamp": "2024-01-04T01:17:23.696Z",
+      "title": "The workingman's advocate (Chicago [Ill.]), February 22, 1873",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn89077510/1873-02-22/ed-1/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"https://www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "digital file from original item",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/ds.06560/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from original item",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/ds/06500/06560_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/ds.06560/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294069664,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/ds.06560/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/ds.06560/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/ds.06560/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/ds.06560/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/ds.06560/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/ds.06560/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/ds.06560/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/ds.06560/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/ds.06560/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/ds.06560/?fo=json&st=text"
+  }
+}

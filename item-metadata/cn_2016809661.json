@@ -1,0 +1,1760 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Detroit Publishing Co, P. (1906) <cite>Cossitt Library, Memphis, Tenn</cite>. Tennessee Memphis United States, 1906. [?] [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2016809661/.",
+    "chicago": "Detroit Publishing Co., Publisher. <cite>Cossitt Library, Memphis, Tenn</cite>. Tennessee Memphis United States, 1906. [?] Photograph. https://www.loc.gov/item/2016809661/.",
+    "mla": "Detroit Publishing Co., Publisher. <cite>Cossitt Library, Memphis, Tenn</cite>. [?] Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2016809661/&gt;."
+  },
+  "item": {
+    "_version_": 1731067810396766208,
+    "access_restricted": false,
+    "aka": [
+      "http://www.loc.gov/pictures/collection/det/item/2016809661/",
+      "http://www.loc.gov/item/2016809661/",
+      "http://www.loc.gov/pictures/item/2016809661/",
+      "https://hdl.loc.gov/loc.pnp/det.4a17925",
+      "http://www.loc.gov/resource/det.4a17925/",
+      "http://lccn.loc.gov/2016809661"
+    ],
+    "call_number": "LC-D4-34336 [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Detroit Publishing Co., publisher"
+    ],
+    "contributors": [
+      {
+        "detroit publishing co.": "https://www.loc.gov/search/?fa=contributor:detroit+publishing+co.&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2017-11-21T04:03:14Z",
+    "created_published": [
+      "[1906?]"
+    ],
+    "created_published_date": "[1906?]",
+    "date": "1906-01-01",
+    "dates": [
+      {
+        "1906": "https://www.loc.gov/search/?dates=1906/1906&fo=json"
+      }
+    ],
+    "description": [
+      "1 negative : glass ; 8 x 10 in."
+    ],
+    "digital_id": [
+      "det 4a17925 //hdl.loc.gov/loc.pnp/det.4a17925"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-09-01T22:30:07.221Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/det/item/2016809661/#det",
+      "http://lccn.loc.gov/2016809661#catalog-split-07"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Dry plate negatives."
+    ],
+    "genre": [
+      "Dry plate negatives"
+    ],
+    "group": [
+      "det",
+      "catalog-split-07",
+      "catalog",
+      "detroit-publishing-company",
+      "main-catalog-split-07",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2016809661/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a17000/4a17900/4a17925_150px.jpg#h=119&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a17000/4a17900/4a17925t.gif#h=119&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a17000/4a17900/4a17925r.jpg#h=509&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a17000/4a17900/4a17925v.jpg#h=814&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-D4-34336 [P&P]",
+      "contributor_names": [
+        "Detroit Publishing Co., publisher "
+      ],
+      "contributors": [
+        "Detroit Publishing Co., publisher."
+      ],
+      "control_number": "2016809661",
+      "created": "2017-11-21T04:03:14Z",
+      "created_published": "[1906?]",
+      "created_published_date": "[1906?]",
+      "creators": [
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=name&q=Detroit%20Publishing%20Co.&co=det",
+          "role": "publisher",
+          "title": "Detroit Publishing Co."
+        }
+      ],
+      "date": "[1906?]",
+      "digital_id": [
+        "det 4a17925 //hdl.loc.gov/loc.pnp/det.4a17925"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=format&q=Dry%20plate%20negatives.&co=det",
+          "title": "Dry plate negatives."
+        }
+      ],
+      "genre": [
+        "Dry plate negatives"
+      ],
+      "id": "2016809661",
+      "language": [
+        "eng"
+      ],
+      "link": "//www.loc.gov/pictures/item/2016809661/",
+      "marc": "//www.loc.gov/pictures/item/2016809661/marc/",
+      "medium": [
+        "1 negative : glass ; 8 x 10 in."
+      ],
+      "medium_brief": "1 negative :",
+      "mediums": [
+        "1 negative : glass ; 8 x 10 in."
+      ],
+      "modified": "2017-11-21T04:03:14Z",
+      "notes": [
+        "Title from jacket.",
+        "\"G 3834\" on negative.",
+        "Detroit Publishing Co. no. 034336.",
+        "Gift; State Historical Society of Colorado; 1949."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2016809661",
+        "https://www.loc.gov/item/det1994015621/PP"
+      ],
+      "other_control_numbers": [
+        "20116521",
+        "det1994015621/PP"
+      ],
+      "part_of": "Detroit Publishing Company photograph collection (Library of Congress)",
+      "place": [
+        {
+          "latitude": "",
+          "link": "//www.loc.gov/pictures/related/?fi=place&q=Tennessee--Memphis&co=det",
+          "longitude": "",
+          "title": "Tennessee--Memphis"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-det-4a17925 (digital file from original)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/det.4a17925"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a17000/4a17900/4a17925_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a17000/4a17900/4a17925r.jpg",
+      "sort_date": "1906",
+      "source_collection": [
+        "Detroit Publishing Company photograph collection (Library of Congress)"
+      ],
+      "source_created": "1994-01-01T00:00:00Z",
+      "source_modified": "2017-11-02T14:10:39Z",
+      "subject_headings": [
+        "Libraries.",
+        "United States--Tennessee--Memphis.",
+        "Tennessee--Memphis"
+      ],
+      "subjects": [
+        "Libraries",
+        "United States--Tennessee--Memphis"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a17000/4a17900/4a17925_150px.jpg",
+      "title": "[Cossitt Library, Memphis, Tenn.]"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2016809661",
+    "link": "//www.loc.gov/pictures/item/2016809661/",
+    "location": [
+      "tennessee",
+      "memphis",
+      "united states"
+    ],
+    "location_city": [
+      "memphis"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_state": [
+      "tennessee"
+    ],
+    "locations": [
+      {
+        "memphis": "https://www.loc.gov/search/?fa=location:memphis&fo=json"
+      },
+      {
+        "tennessee": "https://www.loc.gov/search/?fa=location:tennessee&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "memphis": "https://www.loc.gov/search/?fa=location_city:memphis&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "tennessee": "https://www.loc.gov/search/?fa=location_state:tennessee&fo=json"
+      }
+    ],
+    "marc": "//www.loc.gov/pictures/item/2016809661/marc/",
+    "medium": [
+      "1 negative : glass ; 8 x 10 in."
+    ],
+    "medium_brief": "1 negative :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2017-11-21T04:03:14Z",
+    "notes": [
+      "Title from jacket.",
+      "\"G 3834\" on negative.",
+      "Detroit Publishing Co. no. 034336.",
+      "Gift; State Historical Society of Colorado; 1949."
+    ],
+    "number": [
+      "http://www.loc.gov/item/20116521",
+      "http://www.loc.gov/item/2016809661",
+      "2016809661",
+      "http://www.loc.gov/item/det1994015621/pp",
+      "2017-11-02t14:10:39"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/20116521",
+      "http://www.loc.gov/item/det1994015621/pp",
+      "http://www.loc.gov/item/2016809661"
+    ],
+    "number_lccn": [
+      "2016809661"
+    ],
+    "number_source_modified": [
+      "2017-11-02t14:10:39"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "20116521",
+      "det1994015621/PP"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2016809661/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2016809661/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2016809661/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 25173,
+        "title": "detroit publishing company",
+        "url": "https://www.loc.gov/collections/detroit-publishing-company/?fo=json"
+      },
+      {
+        "count": 437336,
+        "title": "american memory",
+        "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "//www.loc.gov/pictures/related/?fi=place&q=Tennessee--Memphis&co=det",
+        "longitude": "",
+        "title": "Tennessee--Memphis"
+      }
+    ],
+    "related": {
+      "neighbors": "//www.loc.gov/pictures/related/?&co=det&pk=2016809661&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-det-4a17925 (digital file from original)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/det.4a17925"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from original",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a17000/4a17900/4a17925_150px.jpg",
+        "url": "https://www.loc.gov/resource/det.4a17925/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress believes that many of the papers in the Detroit Publishing Company collection are in the public domain or have no known copyright restrictions and are free to use and reuse. For example, all photos published in the U.S. more than 95 years ago are in the public domain. The Library has also obtained permission for the use of many other materials, and presents additional materials pursuant to fair use under United States copyright law. Researchers should watch for documents that may be copyrighted (for example, published in the United States less than 95 years ago, or unpublished and the author died less than 70 years ago).</p>\r\n<p> You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights.</p>\r\n<p>Credit Line: Library of Congress, Prints &amp; Photographs Division, Detroit Publishing Company Collection.<br>\r\nFor information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: <a href=\"https://www.loc.gov/rr/print/res/102_det.html\">Detroit Publishing Company - Rights and Restrictions Information</a></p>\r\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a> </p>\r\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "LC-D4-34336 [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1906",
+    "source_collection": "Detroit Publishing Company photograph collection (Library of Congress)",
+    "source_created": "1994-01-01T00:00:00Z",
+    "source_modified": "2017-11-02T14:10:39Z",
+    "subject": [
+      "libraries",
+      "memphis",
+      "united states",
+      "dry plate negatives",
+      "tennessee"
+    ],
+    "subject_headings": [
+      "Libraries",
+      "United States--Tennessee--Memphis"
+    ],
+    "subjects": [
+      {
+        "dry plate negatives": "https://www.loc.gov/search/?fa=subject:dry+plate+negatives&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "memphis": "https://www.loc.gov/search/?fa=subject:memphis&fo=json"
+      },
+      {
+        "tennessee": "https://www.loc.gov/search/?fa=subject:tennessee&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a17000/4a17900/4a17925_150px.jpg",
+    "timestamp": "2022-04-25T08:21:50.699Z",
+    "title": "[Cossitt Library, Memphis, Tenn.]",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2016809661/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/det/item/2016806034/",
+        "http://www.loc.gov/item/2016806034/",
+        "http://www.loc.gov/pictures/item/2016806034/",
+        "https://hdl.loc.gov/loc.pnp/det.4a13362",
+        "http://www.loc.gov/resource/det.4a13362/",
+        "http://lccn.loc.gov/2016806034"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "detroit publishing co."
+      ],
+      "date": "1906-01-01",
+      "dates": [
+        "1906"
+      ],
+      "description": [
+        "1 negative : glass ; 8 x 10 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:29:45.394Z",
+      "group": [
+        "det",
+        "catalog-split-14",
+        "catalog",
+        "detroit-publishing-company",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016806034/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a13000/4a13300/4a13362_150px.jpg#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a13000/4a13300/4a13362t.gif#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a13000/4a13300/4a13362r.jpg#h=516&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a13000/4a13300/4a13362v.jpg#h=825&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "tennessee",
+        "memphis",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/20107611",
+        "http://www.loc.gov/item/det1994011993/pp",
+        "2016806034",
+        "2017-10-30t11:51:05",
+        "http://www.loc.gov/item/2016806034"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american memory",
+        "catalog",
+        "detroit publishing company",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 42.433212,
+      "shelf_id": "LC-D4-19381 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "libraries",
+        "memphis",
+        "united states",
+        "dry plate negatives",
+        "post offices",
+        "tennessee"
+      ],
+      "timestamp": "2022-04-25T08:09:26.543Z",
+      "title": "Cossitt Library and Post Office, Memphis, Tenn.",
+      "url": "https://www.loc.gov/item/2016806034/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/det/item/2016795011/",
+        "http://www.loc.gov/item/2016795011/",
+        "http://www.loc.gov/pictures/item/2016795011/",
+        "https://hdl.loc.gov/loc.pnp/det.4a13363",
+        "http://www.loc.gov/resource/det.4a13363/",
+        "http://lccn.loc.gov/2016795011"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "detroit publishing co."
+      ],
+      "date": "1906-01-01",
+      "dates": [
+        "1906"
+      ],
+      "description": [
+        "1 negative : glass ; 8 x 10 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:28:42.341Z",
+      "group": [
+        "det",
+        "catalog-split-00",
+        "catalog",
+        "detroit-publishing-company",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016795011/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a13000/4a13300/4a13363_150px.jpg#h=150&w=121",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a13000/4a13300/4a13363t.gif#h=150&w=121",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a13000/4a13300/4a13363r.jpg#h=640&w=515",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a13000/4a13300/4a13363v.jpg#h=1024&w=824"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "tennessee",
+        "memphis",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017-10-24t14:56:42",
+        "http://www.loc.gov/item/2016795011",
+        "http://www.loc.gov/item/20090901",
+        "http://www.loc.gov/item/det1994000961/pp",
+        "2016795011"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american memory",
+        "catalog",
+        "detroit publishing company",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 37.49504,
+      "shelf_id": "LC-D4-19382 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "memphis",
+        "united states",
+        "customhouses",
+        "dry plate negatives",
+        "post offices",
+        "tennessee"
+      ],
+      "timestamp": "2022-04-25T07:23:50.751Z",
+      "title": "Custom House and Post Office, Memphis, Tenn.",
+      "url": "https://www.loc.gov/item/2016795011/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/det/item/2016795013/",
+        "http://www.loc.gov/item/2016795013/",
+        "http://www.loc.gov/pictures/item/2016795013/",
+        "https://hdl.loc.gov/loc.pnp/det.4a13370",
+        "http://www.loc.gov/resource/det.4a13370/",
+        "http://lccn.loc.gov/2016795013"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "detroit publishing co."
+      ],
+      "date": "1906-01-01",
+      "dates": [
+        "1906"
+      ],
+      "description": [
+        "1 negative : glass ; 8 x 10 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:28:42.341Z",
+      "group": [
+        "det",
+        "catalog-split-02",
+        "catalog",
+        "detroit-publishing-company",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016795013/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a13000/4a13300/4a13370_150px.jpg#h=150&w=122",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a13000/4a13300/4a13370t.gif#h=150&w=122",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a13000/4a13300/4a13370r.jpg#h=640&w=519",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a13000/4a13300/4a13370v.jpg#h=1024&w=831"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "tennessee",
+        "memphis",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/det1994000963/pp",
+        "2016795013",
+        "http://www.loc.gov/item/2016795013",
+        "2017-10-24t14:56:46",
+        "http://www.loc.gov/item/20090903"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american memory",
+        "catalog",
+        "detroit publishing company",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 37.49504,
+      "shelf_id": "LC-D4-19389 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "memphis",
+        "tennessee club",
+        "united states",
+        "dry plate negatives",
+        "clubs",
+        "tennessee",
+        "clubhouses"
+      ],
+      "timestamp": "2022-04-25T07:23:50.751Z",
+      "title": "Tennessee Club, Memphis, Tennessee",
+      "url": "https://www.loc.gov/item/2016795013/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/det/item/2016796033/",
+        "http://www.loc.gov/item/2016796033/",
+        "http://www.loc.gov/pictures/item/2016796033/",
+        "https://hdl.loc.gov/loc.pnp/det.4a23581",
+        "http://www.loc.gov/resource/det.4a23581/",
+        "http://lccn.loc.gov/2016796033"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "detroit publishing co."
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 negative : glass ; 8 x 10 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:28:47.966Z",
+      "group": [
+        "det",
+        "catalog-split-05",
+        "catalog",
+        "detroit-publishing-company",
+        "main-catalog-split-05",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016796033/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23500/4a23581_150px.jpg#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23500/4a23581t.gif#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23500/4a23581r.jpg#h=510&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a20000/4a23000/4a23500/4a23581v.jpg#h=816&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "tennessee",
+        "memphis",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/20092014",
+        "http://www.loc.gov/item/det1994001984/pp",
+        "http://www.loc.gov/item/2016796033",
+        "2017-10-24t15:29:43",
+        "2016796033"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american memory",
+        "catalog",
+        "detroit publishing company",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 37.49504,
+      "shelf_id": "LC-D4-71716 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "memphis",
+        "united states",
+        "zoos",
+        "bears",
+        "dry plate negatives",
+        "tennessee"
+      ],
+      "timestamp": "2022-04-25T07:27:49.860Z",
+      "title": "Bear pits, Memphis, Tenn., The",
+      "url": "https://www.loc.gov/item/2016796033/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2016795641/",
+        "http://www.loc.gov/item/2016795641/",
+        "http://www.loc.gov/pictures/item/2016795641/",
+        "https://www.loc.gov/pictures/collection/det/item/2016795641/",
+        "http://www.loc.gov/pictures/collection/det/item/2016795641/",
+        "https://hdl.loc.gov/loc.pnp/det.4a19800",
+        "http://www.loc.gov/resource/det.4a19800/",
+        "http://lccn.loc.gov/2016795641"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "detroit publishing co."
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 negative : glass ; 8 x 10 in. | Photo shows several steamboats: (first on the left) the Graham; inboard of her is the City St. Joseph; astern of those is the Harry Lee, and astern of Harry is a steamboat name beginning with James. (Source: C. Seavey, 2019)"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:31:01.799Z",
+      "group": [
+        "det",
+        "catalog-split-09",
+        "catalog",
+        "detroit-publishing-company",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016795641/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19800/4a19800_150px.jpg#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19800/4a19800t.gif#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19800/4a19800r.jpg#h=506&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19800/4a19800v.jpg#h=810&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "tennessee",
+        "memphis",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2019-07-05t20:52:43",
+        "http://www.loc.gov/item/det1994001592/pp",
+        "http://www.loc.gov/item/20091587",
+        "2016795641",
+        "http://www.loc.gov/item/2016795641"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american memory",
+        "catalog",
+        "detroit publishing company",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 37.49504,
+      "shelf_id": "LC-D4-39521 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "piers & wharves",
+        "rivers",
+        "memphis",
+        "united states",
+        "steamboats",
+        "dry plate negatives",
+        "tennessee"
+      ],
+      "timestamp": "2022-04-25T07:26:38.886Z",
+      "title": "[Memphis, Tenn., the levee from the ferry]",
+      "url": "https://www.loc.gov/item/2016795641/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/det/item/2016795642/",
+        "http://www.loc.gov/item/2016795642/",
+        "http://www.loc.gov/pictures/item/2016795642/",
+        "https://hdl.loc.gov/loc.pnp/det.4a19810",
+        "http://www.loc.gov/resource/det.4a19810/",
+        "http://lccn.loc.gov/2016795642"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "detroit publishing co."
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 negative : glass ; 8 x 10 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:28:45.752Z",
+      "group": [
+        "det",
+        "catalog-split-10",
+        "catalog",
+        "detroit-publishing-company",
+        "main-catalog-split-10",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016795642/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19800/4a19810_150px.jpg#h=118&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19800/4a19810t.gif#h=118&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19800/4a19810r.jpg#h=505&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a19000/4a19800/4a19810v.jpg#h=808&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "tennessee",
+        "memphis",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/20091588",
+        "http://www.loc.gov/item/det1994001593/pp",
+        "2016795642",
+        "http://www.loc.gov/item/2016795642",
+        "2017-10-24t15:16:34"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american memory",
+        "catalog",
+        "detroit publishing company",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 37.49504,
+      "shelf_id": "LC-D4-39531 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "memphis",
+        "united states",
+        "zoos",
+        "dry plate negatives",
+        "parks",
+        "carriages & coaches",
+        "tennessee"
+      ],
+      "timestamp": "2022-04-25T07:26:38.886Z",
+      "title": "[Memphis, Tenn., Overton Park]",
+      "url": "https://www.loc.gov/item/2016795642/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "det",
+      "catalog-split-07",
+      "catalog",
+      "detroit-publishing-company",
+      "main-catalog-split-07",
+      "main-catalog",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "catalog-split-02",
+      "main-catalog-split-02",
+      "catalog-split-05",
+      "main-catalog-split-05",
+      "catalog-split-09",
+      "main-catalog-split-09",
+      "catalog-split-10",
+      "main-catalog-split-10",
+      "gmd.mar",
+      "general-maps",
+      "catalog-split-04",
+      "main-catalog-split-04",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "ndnp/newspapers",
+      "united-states-newspaper-directory"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "det.4a17925",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.9340002536773682,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/det.4a17925/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/det.4a17925/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294084.622071,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 20903936,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/det/4a10000/4a17000/4a17900/4a17925u.tif",
+      "width": 0
+    },
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 166974689,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/det/4a10000/4a17000/4a17900/4a17925a.tif",
+      "width": 0
+    },
+    {
+      "height": 119,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 4286,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a17000/4a17900/4a17925_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 119,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 9998,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a17000/4a17900/4a17925t.gif",
+      "width": 150
+    },
+    {
+      "height": 509,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 51971,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a17000/4a17900/4a17925r.jpg",
+      "width": 640
+    },
+    {
+      "height": 814,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 134063,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a17000/4a17900/4a17925v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "//www.loc.gov/pictures/related/?&co=det&pk=2016809661&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://hdl.loc.gov/loc.gmd/g3964m.pm009010",
+        "http://www.loc.gov/item/73694530/",
+        "http://www.loc.gov/resource/g3964m.pm009010/",
+        "http://lccn.loc.gov/73694530"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ruger, a."
+      ],
+      "date": "1870-01-01",
+      "dates": [
+        "1870"
+      ],
+      "description": [
+        "Perspective map not drawn to scale. LC Panoramic maps (2nd ed.), 901 Available also through the Library of Congress Web site as a raster image. Indexed for points of interest. Vault AACR2: 100; 651/1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-30T01:23:56.113Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-05",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-05",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/73694530/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd396/g3964/g3964m/pm009010.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd396/g3964/g3964m/pm009010.gif#h=150&w=228",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd396:g3964:g3964m:pm009010/full/pct:12.5/0/default.jpg#h=854&w=1300",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd396:g3964:g3964m:pm009010/full/pct:25/0/default.jpg#h=1708&w=2600"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "tennessee",
+        "memphis",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2005-01-05t14:58:08",
+        "http://www.loc.gov/item/5412157",
+        "73694530",
+        "http://www.loc.gov/item/73694530"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "panoramic maps",
+        "american memory",
+        "cities and towns",
+        "catalog",
+        "geography and map division"
+      ],
+      "score": 24.653378,
+      "shelf_id": "G3964.M5A3 1870 .R8",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "memphis",
+        "united states",
+        "aerial views",
+        "memphis (tenn.)",
+        "tennessee"
+      ],
+      "timestamp": "2022-12-10T05:50:21.547Z",
+      "title": "Bird's eye view of the city of Memphis, Tennessee 1870.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/73694530/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://hdl.loc.gov/loc.gmd/g3964m.pm009020",
+        "http://www.loc.gov/item/75696582/",
+        "http://www.loc.gov/resource/g3964m.pm009020/",
+        "http://lccn.loc.gov/75696582"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "henry wellge & co"
+      ],
+      "date": "1887-01-01",
+      "dates": [
+        "1887"
+      ],
+      "description": [
+        "Perspective map not drawn to scale. Bird's-eye-view. LC Panoramic maps (2nd ed.), 902 Available also through the Library of Congress Web site as a raster image. Includes illus. and index to points of interest. AACR2"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-30T01:24:28.395Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-00",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/75696582/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd396/g3964/g3964m/pm009020.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd396/g3964/g3964m/pm009020.gif#h=150&w=219",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd396:g3964:g3964m:pm009020/full/pct:12.5/0/default.jpg#h=1110&w=1620",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd396:g3964:g3964m:pm009020/full/pct:25/0/default.jpg#h=2220&w=3240"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "tennessee",
+        "memphis",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "75696582",
+        "http://www.loc.gov/item/75696582",
+        "2002-12-14t18:43:40",
+        "http://www.loc.gov/item/5425535"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "panoramic maps",
+        "american memory",
+        "cities and towns",
+        "catalog",
+        "geography and map division"
+      ],
+      "score": 24.653378,
+      "shelf_id": "G3964.M5A3 1887  .H4",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "memphis",
+        "united states",
+        "aerial views",
+        "memphis (tenn.)",
+        "tennessee"
+      ],
+      "timestamp": "2022-12-10T05:54:19.054Z",
+      "title": "Perspective map of the city of Memphis, Tenn. 1887.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/75696582/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2012586237/",
+        "https://hdl.loc.gov/loc.gmd/g3964m.la002025",
+        "http://www.loc.gov/resource/g3964m.la002025/",
+        "http://lccn.loc.gov/2012586237"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "rucker, w. e.",
+        "klauprech & menzel"
+      ],
+      "date": "1858-01-01",
+      "dates": [
+        "1858"
+      ],
+      "description": [
+        "Cadastral map showing lot numbers and dimensions, block numbers, subdivision names, and some landowners' names. Relief shown by hachures. Oriented with north to the left. \"Entered according to act of Congress in the year 1858, by E.W. Rucker in Clerks Office in the District Court og the U.S. for the Western District of Tennessee.\" Pen-and-ink and watercolors pasted together from 4 sheets, taped and sectioned in 2 and mounted on cloth backing. In inked script on verso: Memphis, Tenn. &c &c, 1858 E.W. Rucker. Available also through the Library of Congress Web site as a raster image. Copy imperfect: Brittle, soiled, torn, missing small edge sections, taped on recto, discoloration and spotting, taped along fold lines on verso. Includes indexed list of references and decorated border."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T23:45:27.107Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-04",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-04",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2012586237/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd396/g3964/g3964m/la002025.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd396/g3964/g3964m/la002025.gif#h=150&w=232",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd396:g3964:g3964m:la002025/full/pct:12.5/0/default.jpg#h=1898&w=2933",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd396:g3964:g3964m:la002025/full/pct:25/0/default.jpg#h=3797&w=5867"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "tennessee",
+        "memphis",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/item/17218892",
+        "2012586237",
+        "http://www.loc.gov/item/2012586237",
+        "2012-04-09t09:42:59"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "cultural landscapes",
+        "county landownership maps",
+        "american memory",
+        "catalog",
+        "geography and map division"
+      ],
+      "score": 24.653378,
+      "shelf_id": "G3964.M5G46 1858 .R8",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "landowners",
+        "memphis",
+        "united states",
+        "maps",
+        "memphis (tenn.)",
+        "tennessee",
+        "cadastral maps",
+        "real property"
+      ],
+      "timestamp": "2022-12-10T05:43:56.548Z",
+      "title": "Map of the city of Memphis : including Fort Pickering and Hopefield, Ark. : together with the original grants and their subdivisions",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2012586237/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2006636341/",
+        "http://www.loc.gov/resource/g3964m.cws00168/",
+        "https://hdl.loc.gov/loc.gmd/g3964m.cws00168",
+        "http://lccn.loc.gov/2006636341"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "pitzman, julius",
+        "frick"
+      ],
+      "date": "1860-01-01",
+      "dates": [
+        "1860"
+      ],
+      "description": [
+        "LC Civil War maps (2nd ed.), S168, 429 Finished pen and ink map drawn on tracing cloth. \"For General Sherman, General of the Army.\" Indicates fortifications at Fort Pickering and Fort Harris, roads and streets, railroads, vegetation, drainage, relief by hachures, houses, fences, and the names of a few residents in the outlying areas. Date from Stephenson's Civil War maps, 1989. Available also through the Library of Congress web site as raster image."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T21:36:40.739Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-15",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2006636341/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd396/g3964/g3964m/cws00168.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd396/g3964/g3964m/cws00168.gif#h=150&w=183",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd396:g3964:g3964m:cws00168/full/pct:12.5/0/default.jpg#h=860&w=1052",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd396:g3964:g3964m:cws00168/full/pct:25/0/default.jpg#h=1721&w=2104"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "tennessee",
+        "memphis",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2006636341",
+        "2006636341",
+        "2013-05-31t13:27:59",
+        "http://www.loc.gov/item/14648805"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "civil war maps",
+        "american memory",
+        "catalog",
+        "military battles and campaigns",
+        "geography and map division"
+      ],
+      "score": 24.653378,
+      "shelf_id": "G3964.M5S5 186- .P5",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "landowners",
+        "civil war",
+        "history",
+        "memphis",
+        "united states",
+        "maps",
+        "maps, manuscript",
+        "memphis (tenn.)",
+        "tennessee"
+      ],
+      "timestamp": "2022-12-10T05:34:20.149Z",
+      "title": "Memphis and vicinity",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2006636341/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2019271249/"
+      ],
+      "campaigns": [],
+      "date": "1910",
+      "dates": [
+        "[1910 TO 1920]"
+      ],
+      "description": [
+        "Weekly, -1920 Began with volume XV, no. 1 (January 8, 1910); ceased in October 1920. \"A farm and home weekly for the states of Mississippi, Alabama, Louisiana, Arkansas, and Tennessee\" 1910- ; \"A farm and home weekly for Alabama, Mississippi, Tennessee and Arkansas\"--1920. Published at Birmingham, Ala. and Memphis, Tenn., -1920. Called \"Central ed.\"--1920. Description based on: Volume XV, No. 1 (January 8, 1910); title from masthead (Chroniclingamerica.loc.gov, viewed September 17, 2019). Latest issue consulted: Vol. XXVIII, No. 13 (March 29, 1913) (Chroniclingamerica.loc.gov, viewed September 17, 2019). Progressive farmer (Birmingham, Ala. : 1920)"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-09-18T12:08:44.126Z",
+      "group": [
+        "ndnp/newspapers",
+        "united-states-newspaper-directory"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2019271249/",
+      "image_url": [],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "birmingham",
+        "starkville",
+        "memphis",
+        "united states",
+        "shelby county",
+        "mississippi",
+        "jefferson county",
+        "southern states",
+        "oktibbeha",
+        "tennessee",
+        "jefferson",
+        "shelby",
+        "alabama"
+      ],
+      "number": [
+        "online resource",
+        "1119724206",
+        "2019271168",
+        "2019271249",
+        "2688-9927",
+        "2024-09-09t08:59:08.942573"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Progressive farmer",
+        "Southern farm gazette"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "the progressive farmer and southern farm gazette (starkville, miss.) 1910-1920 [online resource]",
+        "directory of u.s. newspapers in american libraries"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 22.244076,
+      "shelf_id": "ISSN RECORD",
+      "site": [
+        "usnd"
+      ],
+      "subject": [
+        "mississippi",
+        "tennessee",
+        "jefferson",
+        "birmingham (ala.)",
+        "birmingham",
+        "united states",
+        "memphis (tenn.)",
+        "newspapers",
+        "shelby county",
+        "jefferson county (ala.)",
+        "jefferson county",
+        "southern states",
+        "agriculture",
+        "shelby",
+        "starkville",
+        "memphis",
+        "alabama",
+        "shelby county (tenn.)",
+        "oktibbeha",
+        "starkville (miss.)"
+      ],
+      "timestamp": "2024-09-18T12:21:38.725Z",
+      "title": "The progressive farmer and southern farm gazette",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/2019271249/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2021220289/"
+      ],
+      "campaigns": [],
+      "date": "1847",
+      "dates": [
+        "[1847 TO 1886]"
+      ],
+      "description": [
+        "Daily (except Monday), Apr. 7, 1874-Jan. 27, 1886 Print began July 1847. Print ceased with v. 46, no. 23 (Jan. 27, 1886). Published irregularly June 6, 1862-Nov. 5, 1865 at Hernando, Grenada, Jackson, and Vicksburg, Miss.; Atlanta, Griffin, and Macon, Ga.; Montgomery and Selma, Ala. Sun. & Mon. editions published on front/back same sheet <1864>. Suspended: July 5-14, 1848; Dec. 1-12, 1862; & Apr. 11-17, 1864. Also issued in print. Mode of access: World Wide Web. Vol. VII, No. 246 (January 1, 1857); title from caption (Chronicling America's website, viewed Apr. 19, 2021). Vol. XLVI, No. 23 (January 27, 1886) (Chronicling America's website, viewed Apr. 19, 2021). Memphis appeal"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-09-18T12:02:56.962Z",
+      "group": [
+        "ndnp/newspapers",
+        "united-states-newspaper-directory"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021220289/",
+      "image_url": [],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "mississippi",
+        "atlanta",
+        "jackson",
+        "griffin",
+        "tennessee",
+        "fulton",
+        "warren",
+        "united states",
+        "bibb",
+        "macon",
+        "hernando",
+        "montgomery",
+        "fulton county",
+        "spalding",
+        "alabama",
+        "grenada",
+        "shelby county",
+        "shelby",
+        "hinds",
+        "memphis",
+        "selma",
+        "de soto",
+        "dallas",
+        "georgia",
+        "vicksburg"
+      ],
+      "number": [
+        "online resource",
+        "2021220289",
+        "2768-0355",
+        "778032516",
+        "2024-09-09t08:59:08.942573"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Sunday issues for <June 7, 1868>-Oct. 17, 1869 have title: Sunday appeal",
+        "Sunday issues for Oct. 24, 1869-Apr. 5, 1874 have title: Memphis Sunday appeal",
+        "Issues for June 20-21, 1882, Jan. 2-Apr. 8, 1877 & July 15-31, 1885 have title: Daily Memphis appeal",
+        "Colophon title: Daily appeal",
+        "Memphis appeal"
+      ],
+      "partof": [
+        "memphis daily appeal (memphis, tenn.) 1847-1886 [online resource]",
+        "serial and government publications division",
+        "directory of u.s. newspapers in american libraries"
+      ],
+      "publication_frequency": [
+        "daily"
+      ],
+      "score": 22.244076,
+      "shelf_id": "ISSN RECORD",
+      "site": [
+        "usnd"
+      ],
+      "subject": [
+        "mississippi",
+        "atlanta",
+        "jackson",
+        "griffin",
+        "tennessee",
+        "fulton",
+        "fulton county (ga.)",
+        "united states",
+        "warren",
+        "bibb",
+        "macon",
+        "hernando",
+        "memphis (tenn.)",
+        "montgomery",
+        "fulton county",
+        "newspapers",
+        "spalding",
+        "grenada",
+        "shelby county",
+        "shelby",
+        "hinds",
+        "memphis",
+        "selma",
+        "de soto",
+        "dallas",
+        "alabama",
+        "shelby county (tenn.)",
+        "georgia",
+        "atlanta (ga.)",
+        "vicksburg"
+      ],
+      "timestamp": "2024-09-18T12:22:44.133Z",
+      "title": "Memphis daily appeal",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/2021220289/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "digital file from original",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a17000/4a17900/4a17925_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/det.4a17925/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from original",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/det/4a10000/4a17000/4a17900/4a17925_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/det.4a17925/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294085556,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/det.4a17925/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/det.4a17925/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/det.4a17925/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/det.4a17925/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/det.4a17925/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/det.4a17925/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/det.4a17925/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/det.4a17925/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/det.4a17925/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/det.4a17925/?fo=json&st=text"
+  }
+}

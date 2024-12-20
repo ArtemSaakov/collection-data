@@ -1,0 +1,1806 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Library Of Congress. Map Division. (1926) <cite>Libraries, Washington D.C</cite>. [Map] Retrieved from the Library of Congress, https://www.loc.gov/item/87694100/.",
+    "chicago": "Library Of Congress. Map Division. <cite>Libraries, Washington D.C</cite>. [1926] Map. https://www.loc.gov/item/87694100/.",
+    "mla": "Library Of Congress. Map Division. <cite>Libraries, Washington D.C</cite>. [1926] Map. Retrieved from the Library of Congress, &lt;www.loc.gov/item/87694100/&gt;."
+  },
+  "item": {
+    "_version_": 1751805592274468864,
+    "access_restricted": false,
+    "aka": [
+      "http://www.loc.gov/resource/g3851e.ct006252/",
+      "http://www.loc.gov/item/87694100/",
+      "https://hdl.loc.gov/loc.gmd/g3851e.ct006252",
+      "http://lccn.loc.gov/87694100"
+    ],
+    "call_number": [
+      "G3851.E67 1926 .L5"
+    ],
+    "campaigns": [],
+    "contributor_names": [
+      "Library of Congress. Map Division."
+    ],
+    "contributors": [
+      {
+        "library of congress. map division": "https://www.loc.gov/search/?fa=contributor:library+of+congress.+map+division&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created_published": [
+      "[1926]"
+    ],
+    "date": "1926-01-01",
+    "dates": [
+      {
+        "1926": "https://www.loc.gov/search/?dates=1926/1926&fo=json"
+      }
+    ],
+    "description": [
+      "Ms. (india ink and typescript) on photocopy base map. Shows no. of vols. per library. Assemblage of several sheets mounted together on cloth backing. Internal portions excised from base map. Indexed. Available also through the Library of Congress Web site as a raster image. Vault DCP"
+    ],
+    "digital_id": [
+      "http://hdl.loc.gov/loc.gmd/g3851e.ct006252"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-10-30T01:44:51.743Z",
+    "extract_urls": [
+      "http://www.loc.gov/item/87694100#gmd.mar",
+      "http://lccn.loc.gov/87694100#catalog-split-03"
+    ],
+    "format": [
+      {
+        "map": "https://www.loc.gov/search/?fa=original_format:map&fo=json"
+      }
+    ],
+    "group": [
+      "gmd.mar",
+      "catalog-split-03",
+      "catalog",
+      "general-maps",
+      "main-catalog-split-03",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/87694100/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct006252.gif",
+      "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct006252.gif#h=107&w=150",
+      "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851e:ct006252/full/pct:12.5/0/default.jpg#h=602&w=842",
+      "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851e:ct006252/full/pct:25/0/default.jpg#h=1205&w=1684"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": [
+        "G3851.E67 1926 .L5"
+      ],
+      "contributors": [
+        "Library of Congress. Map Division."
+      ],
+      "created_published": [
+        "[1926]"
+      ],
+      "date": "1926",
+      "digital_id": [
+        "http://hdl.loc.gov/loc.gmd/g3851e.ct006252"
+      ],
+      "format": [
+        "cartographic"
+      ],
+      "language": [
+        "eng"
+      ],
+      "location": [
+        "Washington (D.C.)"
+      ],
+      "medium": [
+        "1 map : ms., mounted on cloth ; 37 x 41 cm., on sheet 40 x 56 cm."
+      ],
+      "notes": [
+        "Ms. (india ink and typescript) on photocopy base map.",
+        "Shows no. of vols. per library.",
+        "Assemblage of several sheets mounted together on cloth backing.",
+        "Internal portions excised from base map.",
+        "Indexed.",
+        "Available also through the Library of Congress Web site as a raster image.",
+        "Vault",
+        "DCP"
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/87694100",
+        "https://www.loc.gov/item/5497836"
+      ],
+      "repository": [
+        "Library of Congress Geography and Map Division Washington, D.C. 20540-4650 USA dcu"
+      ],
+      "subjects": [
+        "Libraries--Washington (D.C.)--Maps",
+        "Libraries--Washington (D.C.)--Statistics",
+        "Manuscript maps",
+        "United States--District of Columbia--Washington"
+      ],
+      "title": "Libraries, Washington D.C."
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "87694100",
+    "location": [
+      "district of columbia",
+      "washington d.c.",
+      "washington",
+      "united states"
+    ],
+    "location_city": [
+      "washington"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_state": [
+      "district of columbia"
+    ],
+    "locations": [
+      {
+        "district of columbia": "https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      },
+      {
+        "washington": "https://www.loc.gov/search/?fa=location:washington&fo=json"
+      },
+      {
+        "washington d.c.": "https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "washington": "https://www.loc.gov/search/?fa=location_city:washington&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "district of columbia": "https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json"
+      }
+    ],
+    "medium": [
+      "1 map : ms., mounted on cloth ; 37 x 41 cm., on sheet 40 x 56 cm."
+    ],
+    "mime_type": [
+      "image/gif",
+      "image/tiff",
+      "image/jpeg",
+      "image/jp2"
+    ],
+    "notes": [
+      "Ms. (india ink and typescript) on photocopy base map.",
+      "Shows no. of vols. per library.",
+      "Assemblage of several sheets mounted together on cloth backing.",
+      "Internal portions excised from base map.",
+      "Indexed.",
+      "Vault",
+      "DCP"
+    ],
+    "number": [
+      "87694100",
+      "http://www.loc.gov/item/87694100",
+      "2017-01-24t12:02:43",
+      "http://www.loc.gov/item/5497836"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/87694100",
+      "http://www.loc.gov/item/5497836"
+    ],
+    "number_lccn": [
+      "87694100"
+    ],
+    "number_source_modified": [
+      "2017-01-24t12:02:43"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "map"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/87694100/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/87694100/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/87694100/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 3798,
+        "title": "cities and towns",
+        "url": "https://www.loc.gov/collections/cities-and-towns/?fo=json"
+      },
+      {
+        "count": 6771,
+        "title": "general maps",
+        "url": "https://www.loc.gov/collections/general-maps/?fo=json"
+      },
+      {
+        "count": 56761,
+        "title": "geography and map division",
+        "url": "https://www.loc.gov/search/?fa=partof:geography+and+map+division&fo=json"
+      },
+      {
+        "count": 437336,
+        "title": "american memory",
+        "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "repository": [
+      "Library of Congress Geography and Map Division Washington, D.C. 20540-4650 USA dcu"
+    ],
+    "resources": [
+      {
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct006252.gif",
+        "url": "https://www.loc.gov/resource/g3851e.ct006252/"
+      }
+    ],
+    "rights": [
+      "<p>The maps in the Map Collections materials were either published prior to \r1922, produced by the United States government, or both (see catalogue \rrecords that accompany each map for information regarding date of \rpublication and source). The Library of Congress is providing access to \rthese materials for educational and research purposes and is not aware of \rany U.S. copyright protection (see Title 17 of the United States Code) or any \rother restrictions in the Map Collection materials.\r</p>\r<p>Note that the written permission of the copyright owners and/or other rights \rholders (such as publicity and/or privacy rights) is required for distribution, \rreproduction, or other use of protected items beyond that allowed by fair use \ror other statutory exemptions.  Responsibility for making an independent \rlegal assessment of an item and securing any necessary permissions \rultimately rests with persons desiring to use the item.\r</p>\r<p>Credit Line: Library of Congress, Geography and Map Division. </p>"
+    ],
+    "score": 16.863373,
+    "shard": "01",
+    "shelf_id": "G3851.E67 1926 .L5",
+    "site": [
+      "ammem",
+      "catalog"
+    ],
+    "subject": [
+      "libraries",
+      "manuscript maps",
+      "washington (d.c.)",
+      "united states",
+      "washington",
+      "maps",
+      "statistics",
+      "district of columbia"
+    ],
+    "subject_headings": [
+      "Libraries--Washington (D.C.)--Maps",
+      "Libraries--Washington (D.C.)--Statistics",
+      "Manuscript maps",
+      "United States--District of Columbia--Washington"
+    ],
+    "subjects": [
+      {
+        "district of columbia": "https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "manuscript maps": "https://www.loc.gov/search/?fa=subject:manuscript+maps&fo=json"
+      },
+      {
+        "maps": "https://www.loc.gov/search/?fa=subject:maps&fo=json"
+      },
+      {
+        "statistics": "https://www.loc.gov/search/?fa=subject:statistics&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      },
+      {
+        "washington": "https://www.loc.gov/search/?fa=subject:washington&fo=json"
+      },
+      {
+        "washington (d.c.)": "https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json"
+      }
+    ],
+    "timestamp": "2022-12-10T06:00:00.118Z",
+    "title": "Libraries, Washington D.C.",
+    "type": [
+      "map"
+    ],
+    "url": "https://www.loc.gov/item/87694100/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://hdl.loc.gov/loc.gmd/g3851e.ct006253",
+        "http://www.loc.gov/item/87694101/",
+        "http://www.loc.gov/resource/g3851e.ct006253/",
+        "http://lccn.loc.gov/87694101"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "united states. board of surveys and maps of the federal government. committee on information",
+        "martin, lawrence"
+      ],
+      "date": "1930-01-01",
+      "dates": [
+        "1930"
+      ],
+      "description": [
+        "Partial ms. (ink, pencil, and typescript) on col. base map. \"Red seals show where to go in January 1930 for 2,500,000 of the maps in the District of Columbia.\" Assemblage of several sheets and adhesive seals mounted on cloth backing. Includes index indicating collection size. Available also through the Library of Congress Web site as a raster image. Vault DCP"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-30T00:10:23.230Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-04",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-04",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/87694101/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct006253.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct006253.gif#h=150&w=111",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851e:ct006253/full/pct:12.5/0/default.jpg#h=897&w=663",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851e:ct006253/full/pct:25/0/default.jpg#h=1795&w=1327"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "district of columbia",
+        "washington d.c.",
+        "washington",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/item/87694101",
+        "http://www.loc.gov/item/5497837",
+        "87694101",
+        "2016-08-25t10:11:50"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "cities and towns",
+        "american memory",
+        "catalog",
+        "geography and map division"
+      ],
+      "score": 48.720825,
+      "shelf_id": "G3851.E67 1930 .M3",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "district of columbia",
+        "manuscript maps",
+        "washington (d.c.)",
+        "united states",
+        "washington",
+        "maps",
+        "statistics",
+        "map collections"
+      ],
+      "timestamp": "2022-12-10T06:00:00.118Z",
+      "title": "Map collections in the District of Columbia",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/87694101/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/g3852t.ct006230r/",
+        "http://www.loc.gov/resource/g3852t.ct006230v/",
+        "https://hdl.loc.gov/loc.gmd/g3852t.ct006230v",
+        "http://www.loc.gov/item/88693133/",
+        "https://hdl.loc.gov/loc.gmd/g3852t.ct006230r",
+        "http://lccn.loc.gov/88693133"
+      ],
+      "campaigns": [],
+      "date": "1879-01-01",
+      "dates": [
+        "1879"
+      ],
+      "description": [
+        "Cadastral survey map. Title from cloth backing. Pen-and-ink and lead pencil. Foxed, fold-lined, trimmed, and mounted on cloth backing. Title and notes in ink on cloth backing. Available also through the Library of Congress Web site as a raster image. Vault DCP"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T21:41:21.415Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-09",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/88693133/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852t/ct006230r.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852t/ct006230r.gif#h=150&w=108",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3852:g3852t:ct006230r/full/pct:12.5/0/default.jpg#h=530&w=383",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3852:g3852t:ct006230r/full/pct:25/0/default.jpg#h=1061&w=766"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "united states",
+        "washington",
+        "district of columbia",
+        "tenleytown"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2016-08-04t10:41:54",
+        "http://www.loc.gov/item/5502078",
+        "http://www.loc.gov/item/88693133",
+        "88693133"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "general maps",
+        "geography and map division",
+        "cities and towns"
+      ],
+      "score": 47.94338,
+      "shelf_id": "G3852.T4G46 1879 .T7",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "maps, manuscript",
+        "district of columbia",
+        "manuscript maps",
+        "washington (d.c.)",
+        "united states",
+        "surveys",
+        "washington",
+        "maps",
+        "real property",
+        "tenleytown (washington, d.c.)",
+        "tenleytown"
+      ],
+      "timestamp": "2022-12-10T06:00:56.583Z",
+      "title": "Tract of land, conveyed by deed of Chas. Paine & wife, Catherine, to George W. Hurdle, Jr. (deed 592 J.), near Tennallytown : about 1879? : [Washington D.C.].",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/88693133/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://hdl.loc.gov/loc.gmd/g3852t.ct006223r",
+        "http://www.loc.gov/item/88693134/",
+        "http://www.loc.gov/resource/g3852t.ct006223r/",
+        "http://lccn.loc.gov/88693134"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "latimer, wm. j. (william j.)"
+      ],
+      "date": "1888-01-01",
+      "dates": [
+        "1888"
+      ],
+      "description": [
+        "Cadastral survey map showing landowners' names. \"June 1888.\" Pen-and-ink, col. pencils, and lead pencil. Soiled and mounted on cloth backing. Includes text mentioning \"Tennally Town.\" Available also through the Library of Congress Web site as a raster image. Vault DCP"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T21:41:21.415Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-10",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-10",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/88693134/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852t/ct006223r.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852t/ct006223r.gif#h=150&w=108",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3852:g3852t:ct006223r/full/pct:12.5/0/default.jpg#h=645&w=464",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3852:g3852t:ct006223r/full/pct:25/0/default.jpg#h=1290&w=929"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "united states",
+        "washington",
+        "district of columbia",
+        "tenleytown"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/item/88693134",
+        "88693134",
+        "http://www.loc.gov/item/5502079",
+        "2016-08-04t10:25:47"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "general maps",
+        "geography and map division",
+        "cities and towns"
+      ],
+      "score": 47.94338,
+      "shelf_id": "G3852.T4G46 1888 .L3",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "maps, manuscript",
+        "district of columbia",
+        "manuscript maps",
+        "washington (d.c.)",
+        "united states",
+        "surveys",
+        "washington",
+        "maps",
+        "real property",
+        "tenleytown (washington, d.c.)",
+        "tenleytown"
+      ],
+      "timestamp": "2022-12-10T06:00:56.583Z",
+      "title": "\"The Rest\" : [part of Tenleytown, Washington D.C.]",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/88693134/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/g3852t.ct006224/",
+        "https://hdl.loc.gov/loc.gmd/g3852t.ct006224",
+        "http://www.loc.gov/item/88693169/",
+        "http://lccn.loc.gov/88693169"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "benton, wm. h. (william h.)"
+      ],
+      "date": "1891-01-01",
+      "dates": [
+        "1891"
+      ],
+      "description": [
+        "In lead pencil: Aug. 91. Title devised by cataloger. India ink and lead pencil. Soiled and mounted on cloth backing. Available also through the Library of Congress Web site as a raster image. Vault DCP"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T21:41:21.415Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-02",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/88693169/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852t/ct006224.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852t/ct006224.gif#h=105&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3852:g3852t:ct006224/full/pct:12.5/0/default.jpg#h=369&w=525",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3852:g3852t:ct006224/full/pct:25/0/default.jpg#h=739&w=1051"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "united states",
+        "washington",
+        "district of columbia",
+        "tenleytown"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/item/88693169",
+        "2016-08-04t10:27:44",
+        "88693169",
+        "http://www.loc.gov/item/5502114"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "general maps",
+        "geography and map division",
+        "cities and towns"
+      ],
+      "score": 47.94338,
+      "shelf_id": "G3852.T4G46 1891 .B4",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "maps, manuscript",
+        "district of columbia",
+        "manuscript maps",
+        "washington (d.c.)",
+        "united states",
+        "surveys",
+        "washington",
+        "maps",
+        "real property",
+        "tenleytown (washington, d.c.)",
+        "tenleytown"
+      ],
+      "timestamp": "2022-12-10T06:00:56.583Z",
+      "title": "[Cadastral survey map of a land tract fronting Tennallytown Road north of Pierce's Mill Road, Tenleytown, Washington D.C.]",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/88693169/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/g3852t.ct006238/",
+        "http://www.loc.gov/item/88693172/",
+        "https://hdl.loc.gov/loc.gmd/g3852t.ct006238",
+        "http://lccn.loc.gov/88693172"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "brewer, h. w. (henry w.)"
+      ],
+      "date": "1893-01-01",
+      "dates": [
+        "1893"
+      ],
+      "description": [
+        "Cadastral map. \"Jan. 18th 1893.\" Black, brown, and red inks. Brittle, torn, and missing sections along edges. Includes note. On verso in ink: 3 Sisters. Available also through the Library of Congress Web site as a raster image. Phillips. Washington 777 Vault DCP"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-30T01:48:34.399Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-12",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/88693172/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852t/ct006238.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852t/ct006238.gif#h=98&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3852:g3852t:ct006238/full/pct:12.5/0/default.jpg#h=444&w=681",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3852:g3852t:ct006238/full/pct:25/0/default.jpg#h=889&w=1363"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "united states",
+        "three sisters islands",
+        "washington",
+        "district of columbia"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "88693172",
+        "http://www.loc.gov/item/5502117",
+        "http://www.loc.gov/item/88693172",
+        "2018-06-19t10:43:37"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "general maps",
+        "geography and map division",
+        "cities and towns"
+      ],
+      "score": 47.94338,
+      "shelf_id": "G3852.T47 1893 .B7",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "maps, manuscript",
+        "manuscript maps",
+        "washington (d.c.)",
+        "united states",
+        "surveys",
+        "three sisters islands",
+        "washington",
+        "maps",
+        "three sisters islands (washington, d.c.)",
+        "real property",
+        "district of columbia"
+      ],
+      "timestamp": "2022-12-10T06:00:56.583Z",
+      "title": "Survey of the rocks in the Potomac River above Georgetown known as the \"Three Sisters\" : showing the surveys of Wm. Deakins and John Threlkeld, pattented to J. Hoy & Wm. D. Cassin, also the pattent of John Moore",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/88693172/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/88693174/",
+        "https://hdl.loc.gov/loc.gmd/g3852t.ct006227r",
+        "http://www.loc.gov/resource/g3852t.ct006227r/",
+        "http://lccn.loc.gov/88693174"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "henry"
+      ],
+      "date": "1790-01-01",
+      "dates": [
+        "1790"
+      ],
+      "description": [
+        "Covers Tiber Creek estuary in the area now occupied by the Mall. Shows proposed Washington D.C. street alignments. Pen-and-ink and brown wash. Originally drawn on 2 sheets. Watermark: J Whatman (with fleur-de-lis under crown). Oriented with north to the bottom. Stained, missing section at lower right corner, and mounted on cloth backing. Available also through the Library of Congress Web site as a raster image. Phillips. Washington, 943 Vault DCP"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T22:21:47.677Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-14",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/88693174/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852t/ct006227r.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3852/g3852t/ct006227r.gif#h=111&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3852:g3852t:ct006227r/full/pct:12.5/0/default.jpg#h=811&w=1098",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3852:g3852t:ct006227r/full/pct:25/0/default.jpg#h=1623&w=2197"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "the mall",
+        "washington d.c.",
+        "united states",
+        "tiber creek estuary",
+        "washington",
+        "district of columbia"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "88693174",
+        "http://www.loc.gov/item/5502119",
+        "2016-08-04t10:39:17",
+        "http://www.loc.gov/item/88693174"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "general maps",
+        "geography and map division",
+        "cities and towns"
+      ],
+      "score": 47.94338,
+      "shelf_id": "G3852.T48 179- .H4",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "tiber creek estuary (washington, d.c.)",
+        "maps, manuscript",
+        "manuscript maps",
+        "washington (d.c.)",
+        "united states",
+        "early works to 1800",
+        "tiber creek estuary",
+        "washington",
+        "maps",
+        "planning",
+        "mall, the (washington, d.c.)",
+        "streets",
+        "district of columbia"
+      ],
+      "timestamp": "2022-12-10T06:00:56.583Z",
+      "title": "Goose Creek : [Washington D.C.]",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/88693174/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "gmd.mar",
+      "catalog-split-03",
+      "catalog",
+      "general-maps",
+      "main-catalog-split-03",
+      "main-catalog",
+      "catalog-split-04",
+      "main-catalog-split-04",
+      "catalog-split-09",
+      "main-catalog-split-09",
+      "catalog-split-10",
+      "main-catalog-split-10",
+      "catalog-split-02",
+      "main-catalog-split-02",
+      "catalog-split-12",
+      "main-catalog-split-12",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "pga",
+      "popular-graphic-arts",
+      "catalog-split-06",
+      "main-catalog-split-06",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "catalog-split-11",
+      "main-catalog-split-11",
+      "catalog-split-13",
+      "main-catalog-split-13"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "g3851e.ct006252",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.5569767951965332,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/g3851e.ct006252/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/g3851e.ct006252/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294089.7812214,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 602,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851e:ct006252/full/pct:12.5/0/default.jpg",
+      "width": 842
+    },
+    {
+      "height": 1205,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851e:ct006252/full/pct:25/0/default.jpg",
+      "width": 1684
+    },
+    {
+      "height": 4823,
+      "info": "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851e:ct006252/info.json",
+      "levels": 7,
+      "mimetype": "image/jp2",
+      "size": 5530164,
+      "url": "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct006252.jp2",
+      "width": 6738
+    },
+    {
+      "height": 107,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 24240,
+      "url": "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct006252.gif",
+      "width": 150
+    },
+    {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 97519212,
+      "url": "https://tile.loc.gov/storage-services/master/gmd/gmd385/g3851/g3851e/ct006252.tif",
+      "width": null
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://hdl.loc.gov/loc.pnp/cph.3a07918",
+        "https://hdl.loc.gov/loc.pnp/pga.00668",
+        "https://hdl.loc.gov/loc.pnp/cph.3b51240",
+        "https://hdl.loc.gov/loc.pnp/cph.3b52982",
+        "http://www.loc.gov/resource/pga.00668/",
+        "http://www.loc.gov/item/90716011/",
+        "http://www.loc.gov/resource/cph.3b51240/",
+        "http://www.loc.gov/resource/g3851a.pm001071/",
+        "http://www.loc.gov/resource/cph.3a07918/",
+        "http://www.loc.gov/resource/cph.3b52982/",
+        "https://hdl.loc.gov/loc.gmd/g3851a.pm001071",
+        "http://lccn.loc.gov/90716011",
+        "https://www.loc.gov/pictures/item/90716011/",
+        "http://www.loc.gov/pictures/item/90716011/",
+        "https://www.loc.gov/pictures/collection/pga/item/90716011/",
+        "http://www.loc.gov/pictures/collection/pga/item/90716011/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "currier & ives",
+        "parsons, charles r. (charles richard)"
+      ],
+      "date": "1880-01-01",
+      "dates": [
+        "1880"
+      ],
+      "description": [
+        "Bird's-eye view of Washington, D.C. from above the Potomac River, looking north; prominent features listed below image."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-30T01:53:11.013Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-09",
+        "catalog",
+        "pga",
+        "general-maps",
+        "main-catalog-split-09",
+        "main-catalog",
+        "popular-graphic-arts"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/90716011/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851a/pm001071.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851a/pm001071.gif#h=150&w=213",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851a:pm001071/full/pct:12.5/0/default.jpg#h=1020&w=1449",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851a:pm001071/full/pct:25/0/default.jpg#h=2041&w=2898"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "district of columbia",
+        "washington d.c.",
+        "washington",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/11540425",
+        "http://www.loc.gov/item/90716011",
+        "2014-06-16t06:57:36",
+        "90716011"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "panoramic maps",
+        "prints and photographs division",
+        "popular graphic arts",
+        "american memory",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "geography and map division",
+        "cities and towns"
+      ],
+      "score": 34.800762,
+      "shelf_id": "PGA - Currier & Ives--City of Washington ...",
+      "site": [
+        "ammem",
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "united states capitol (washington, d.c.)",
+        "cityscape prints",
+        "bird's-eye view prints",
+        "united states",
+        "washington (d.c.)",
+        "washington",
+        "lithographs",
+        "color",
+        "district of columbia"
+      ],
+      "timestamp": "2022-12-10T06:02:42.863Z",
+      "title": "The City of Washington birds-eye view from the Potomac-looking north",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/90716011/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/cph.3a05071/",
+        "https://hdl.loc.gov/loc.pnp/cph.3b52352",
+        "http://www.loc.gov/item/90716012/",
+        "http://www.loc.gov/resource/cph.3b51384/",
+        "https://hdl.loc.gov/loc.gmd/g3851a.pm001073",
+        "http://www.loc.gov/resource/cph.3j00154/",
+        "https://hdl.loc.gov/loc.pnp/cph.3b51384",
+        "https://hdl.loc.gov/loc.pnp/cph.3a05071",
+        "https://hdl.loc.gov/loc.pnp/cph.3j00154",
+        "http://www.loc.gov/resource/cph.3b52352/",
+        "http://www.loc.gov/resource/g3851a.pm001073/",
+        "http://lccn.loc.gov/90716012",
+        "https://www.loc.gov/pictures/item/90716012/",
+        "http://www.loc.gov/pictures/item/90716012/",
+        "https://www.loc.gov/pictures/collection/pga/item/90716012/",
+        "http://www.loc.gov/pictures/collection/pga/item/90716012/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "currier & ives"
+      ],
+      "date": "1892-01-01",
+      "dates": [
+        "1892"
+      ],
+      "description": [
+        "Bird's-eye view of Washington, D.C. looking north from the Potomac River with the Washington Monument in the foreground; prominent building and place names are listed below the image."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T23:38:05.347Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-10",
+        "catalog",
+        "pga",
+        "general-maps",
+        "main-catalog-split-10",
+        "main-catalog",
+        "popular-graphic-arts"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/90716012/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851a/pm001073.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851a/pm001073.gif#h=150&w=228",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851a:pm001073/full/pct:12.5/0/default.jpg#h=887&w=1350",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851a:pm001073/full/pct:25/0/default.jpg#h=1775&w=2700"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "district of columbia",
+        "washington d.c.",
+        "washington",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "90716012",
+        "http://www.loc.gov/item/11540426",
+        "http://www.loc.gov/item/90716012",
+        "2013-05-25t10:14:20"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "panoramic maps",
+        "prints and photographs division",
+        "popular graphic arts",
+        "american memory",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "geography and map division",
+        "cities and towns"
+      ],
+      "score": 34.800762,
+      "shelf_id": "PGA - Currier & Ives--City of Washington ...",
+      "site": [
+        "ammem",
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "cityscape prints",
+        "bird's-eye view prints",
+        "united states",
+        "washington (d.c.)",
+        "washington monument (washington, d.c.)",
+        "washington",
+        "lithographs",
+        "color",
+        "district of columbia"
+      ],
+      "timestamp": "2022-12-10T06:02:42.863Z",
+      "title": "The City of Washington Birds-Eye view from the Potomac-looking North.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/90716012/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://hdl.loc.gov/loc.gmd/g3851a.pm104798",
+        "http://www.loc.gov/item/98509689/",
+        "https://hdl.loc.gov/loc.pnp/cph.3b11858",
+        "http://www.loc.gov/resource/pga.02580/",
+        "http://www.loc.gov/resource/g3851a.pm104798/",
+        "http://www.loc.gov/resource/cph.3b11858/",
+        "https://hdl.loc.gov/loc.pnp/pga.02580",
+        "https://www.loc.gov/pictures/item/98509689/",
+        "http://www.loc.gov/pictures/item/98509689/",
+        "https://www.loc.gov/pictures/collection/pga/item/98509689/",
+        "http://www.loc.gov/pictures/collection/pga/item/98509689/",
+        "http://lccn.loc.gov/98509689"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "e. sachse & co"
+      ],
+      "date": "1857-01-01",
+      "dates": [
+        "1857"
+      ],
+      "description": [
+        "Bird's-eye view of Washington, D.C. looking east with the U.S. Capitol in the foreground."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T21:50:10.204Z",
+      "group": [
+        "gmd.mar",
+        "pga",
+        "catalog-split-06",
+        "catalog",
+        "general-maps",
+        "popular-graphic-arts",
+        "main-catalog-split-06",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/98509689/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851a/pm104798.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851a/pm104798.gif#h=150&w=237",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851a:pm104798/full/pct:12.5/0/default.jpg#h=791&w=1247",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851a:pm104798/full/pct:25/0/default.jpg#h=1582&w=2495"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "district of columbia",
+        "washington d.c.",
+        "washington",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2015-06-15t09:06:53",
+        "http://www.loc.gov/item/11716697",
+        "98509689",
+        "http://www.loc.gov/item/98509689"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "panoramic maps",
+        "prints and photographs division",
+        "popular graphic arts",
+        "american memory",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "geography and map division",
+        "cities and towns"
+      ],
+      "score": 34.800762,
+      "shelf_id": "PGA - Sachse (E.) & Co.--Panoramic view of Washington City [...]",
+      "site": [
+        "ammem",
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states capitol (washington, d.c.)",
+        "cityscape prints",
+        "bird's-eye view prints",
+        "united states",
+        "washington (d.c.)",
+        "washington",
+        "lithographs",
+        "color",
+        "district of columbia"
+      ],
+      "timestamp": "2022-12-10T06:06:18.521Z",
+      "title": "Panoramic view of Washington City from the new dome of the Capitol, looking east",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/98509689/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://hdl.loc.gov/loc.pnp/cph.3b52174",
+        "http://www.loc.gov/resource/cph.3b52174/",
+        "http://www.loc.gov/item/98509691/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a07916",
+        "http://www.loc.gov/resource/pga.02582/",
+        "http://www.loc.gov/resource/cph.3a07916/",
+        "https://hdl.loc.gov/loc.gmd/g3851a.pm001069",
+        "http://www.loc.gov/resource/g3851a.pm001069/",
+        "https://hdl.loc.gov/loc.pnp/pga.02582",
+        "http://lccn.loc.gov/98509691",
+        "https://www.loc.gov/pictures/item/98509691/",
+        "http://www.loc.gov/pictures/item/98509691/",
+        "https://www.loc.gov/pictures/collection/pga/item/98509691/",
+        "http://www.loc.gov/pictures/collection/pga/item/98509691/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "e. sachse & co"
+      ],
+      "date": "1856-01-01",
+      "dates": [
+        "1856"
+      ],
+      "description": [
+        "Bird's-eye view of Washington, D.C. looking west with the U.S. Capitol in the foreground."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-30T00:09:10.394Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-15",
+        "catalog",
+        "pga",
+        "general-maps",
+        "main-catalog-split-15",
+        "main-catalog",
+        "popular-graphic-arts"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/98509691/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851a/pm001069.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851a/pm001069.gif#h=150&w=230",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851a:pm001069/full/pct:12.5/0/default.jpg#h=825&w=1267",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851a:pm001069/full/pct:25/0/default.jpg#h=1650&w=2535"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "district of columbia",
+        "washington d.c.",
+        "washington",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "98509691",
+        "http://www.loc.gov/item/11716699",
+        "http://www.loc.gov/item/98509691",
+        "2013-06-15t11:09:34"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "panoramic maps",
+        "prints and photographs division",
+        "popular graphic arts",
+        "american memory",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "geography and map division",
+        "cities and towns"
+      ],
+      "score": 34.800762,
+      "shelf_id": "PGA - Sachse (E.)--Panoramic view of Washington City...",
+      "site": [
+        "ammem",
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "united states capitol (washington, d.c.)",
+        "cityscape prints",
+        "bird's-eye view prints",
+        "united states",
+        "washington (d.c.)",
+        "washington",
+        "lithographs",
+        "color",
+        "district of columbia"
+      ],
+      "timestamp": "2022-12-10T06:06:18.521Z",
+      "title": "Panoramic view of Washington City from the new dome of the Capitol, looking west",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/98509691/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/g3851a.pm001067/",
+        "http://www.loc.gov/item/98515951/",
+        "https://hdl.loc.gov/loc.pnp/cph.3b52281",
+        "http://www.loc.gov/resource/cph.3a07892/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a07892",
+        "http://www.loc.gov/resource/pga.02581/",
+        "https://hdl.loc.gov/loc.gmd/g3851a.pm001067",
+        "https://hdl.loc.gov/loc.pnp/pga.02581",
+        "http://www.loc.gov/resource/cph.3b52281/",
+        "http://lccn.loc.gov/98515951",
+        "https://www.loc.gov/pictures/item/98515951/",
+        "http://www.loc.gov/pictures/item/98515951/",
+        "https://www.loc.gov/pictures/collection/pga/item/98515951/",
+        "http://www.loc.gov/pictures/collection/pga/item/98515951/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "e. sachse & co"
+      ],
+      "date": "1852-01-01",
+      "dates": [
+        "1852"
+      ],
+      "description": [
+        "Bird's-eye view of Washington, D.C. looking west with the U.S. Capitol in the foreground."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-30T01:53:11.013Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-11",
+        "catalog",
+        "pga",
+        "general-maps",
+        "main-catalog-split-11",
+        "main-catalog",
+        "popular-graphic-arts"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/98515951/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851a/pm001067.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851a/pm001067.gif#h=150&w=210",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851a:pm001067/full/pct:12.5/0/default.jpg#h=823&w=1151",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851a:pm001067/full/pct:25/0/default.jpg#h=1647&w=2302"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "district of columbia",
+        "washington d.c.",
+        "washington",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "98515951",
+        "http://www.loc.gov/item/11722368",
+        "http://www.loc.gov/item/98515951",
+        "2015-06-15t13:28:25"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "panoramic maps",
+        "prints and photographs division",
+        "popular graphic arts",
+        "american memory",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "geography and map division",
+        "cities and towns"
+      ],
+      "score": 34.800762,
+      "shelf_id": "PGA - Sachse (E.) & Co.--View of Washington",
+      "site": [
+        "ammem",
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "united states capitol (washington, d.c.)",
+        "cityscape prints",
+        "bird's-eye view prints",
+        "united states",
+        "washington (d.c.)",
+        "washington",
+        "lithographs",
+        "color",
+        "district of columbia"
+      ],
+      "timestamp": "2022-12-10T06:06:18.521Z",
+      "title": "View of Washington",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/98515951/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/g3851a.pm001072/",
+        "http://www.loc.gov/resource/pga.02579/",
+        "http://www.loc.gov/resource/cph.3a17520/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a17520",
+        "https://hdl.loc.gov/loc.pnp/pga.02579",
+        "http://www.loc.gov/item/98515962/",
+        "https://hdl.loc.gov/loc.gmd/g3851a.pm001072",
+        "https://www.loc.gov/pictures/item/98515962/",
+        "http://www.loc.gov/pictures/item/98515962/",
+        "https://www.loc.gov/pictures/collection/pga/item/98515962/",
+        "http://www.loc.gov/pictures/collection/pga/item/98515962/",
+        "http://lccn.loc.gov/98515962"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "a. sachse & co"
+      ],
+      "date": "1860-01-01",
+      "dates": [
+        "1860"
+      ],
+      "description": [
+        "Bird's-eye view of Washington, D.C. with vignettes of prominent government and cultural buildings, and monuments depicted along the sides and bottom of the image."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T22:32:01.786Z",
+      "group": [
+        "gmd.mar",
+        "pga",
+        "catalog-split-13",
+        "catalog",
+        "general-maps",
+        "popular-graphic-arts",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/98515962/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851a/pm001072.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851a/pm001072.gif#h=150&w=230",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851a:pm001072/full/pct:12.5/0/default.jpg#h=844&w=1296",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd385:g3851:g3851a:pm001072/full/pct:25/0/default.jpg#h=1689&w=2592"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "district of columbia",
+        "washington d.c.",
+        "washington",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2013-06-15t11:17:54",
+        "http://www.loc.gov/item/11722379",
+        "98515962",
+        "http://www.loc.gov/item/98515962"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "panoramic maps",
+        "prints and photographs division",
+        "popular graphic arts",
+        "american memory",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "geography and map division",
+        "cities and towns"
+      ],
+      "score": 34.800762,
+      "shelf_id": "PGA - Sachse (A.) & Co.--Birds eye view of the city of Washington [...]",
+      "site": [
+        "ammem",
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states capitol (washington, d.c.)",
+        "district of columbia",
+        "cityscape prints",
+        "bird's-eye view prints",
+        "united states",
+        "washington (d.c.)",
+        "washington",
+        "monuments & memorials",
+        "lithographs",
+        "government facilities"
+      ],
+      "timestamp": "2022-12-10T06:06:18.521Z",
+      "title": "Birds eye view of the city of Washington from the dome of the U.S. Capitol Looking west",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/98515962/"
+    }
+  ],
+  "resource": {
+    "image": "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct006252.gif",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/g3851e.ct006252/"
+  },
+  "resources": [
+    {
+      "image": "https://tile.loc.gov/storage-services/service/gmd/gmd385/g3851/g3851e/ct006252.gif",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/g3851e.ct006252/"
+    }
+  ],
+  "timestamp": 1731294090338,
+  "type": "zoom",
+  "views": {
+    "brief": "https://www.loc.gov/resource/g3851e.ct006252/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/g3851e.ct006252/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/g3851e.ct006252/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/g3851e.ct006252/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/g3851e.ct006252/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/g3851e.ct006252/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/g3851e.ct006252/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/g3851e.ct006252/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/g3851e.ct006252/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/g3851e.ct006252/?fo=json&st=text"
+  }
+}

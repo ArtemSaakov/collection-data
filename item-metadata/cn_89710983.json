@@ -1,0 +1,1413 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Dwight, M. (1939) <cite>Silence / Mabel Dwight</cite>. , 1939. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/89710983/.",
+    "chicago": "Dwight, Mabel, Artist. <cite>Silence / Mabel Dwight</cite>. , 1939. Photograph. https://www.loc.gov/item/89710983/.",
+    "mla": "Dwight, Mabel, Artist. <cite>Silence / Mabel Dwight</cite>. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/89710983/&gt;."
+  },
+  "item": {
+    "_version_": 1731234817723334656,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/89710983/",
+      "http://www.loc.gov/item/89710983/",
+      "http://www.loc.gov/pictures/item/89710983/",
+      "https://www.loc.gov/pictures/collection/finepr/item/89710983/",
+      "http://www.loc.gov/pictures/collection/finepr/item/89710983/",
+      "http://www.loc.gov/resource/cph.3b43255/",
+      "http://lccn.loc.gov/89710983",
+      "https://hdl.loc.gov/loc.pnp/cph.3b43255"
+    ],
+    "call_number": "FP - XX - D9922, no. 12 (A size) [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Dwight, Mabel, 1876-1955, artist"
+    ],
+    "contributors": [
+      {
+        "dwight, mabel": "https://www.loc.gov/search/?fa=contributor:dwight,+mabel&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2021-08-05T17:15:08Z",
+    "created_published": [
+      "[1939]"
+    ],
+    "created_published_date": "[1939]",
+    "date": "1939-01-01",
+    "dates": [
+      {
+        "1939": "https://www.loc.gov/search/?dates=1939/1939&fo=json"
+      }
+    ],
+    "description": [
+      "1 print : lithograph. | Group of people reading in library."
+    ],
+    "digital_id": [
+      "cph 3b43255 //hdl.loc.gov/loc.pnp/cph.3b43255"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-09-01T21:32:37.207Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/finepr/item/89710983/#finepr",
+      "http://lccn.loc.gov/89710983#catalog-split-13"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Lithographs--1930-1940."
+    ],
+    "genre": [
+      "Lithographs--1930-1940"
+    ],
+    "group": [
+      "finepr",
+      "catalog-split-13",
+      "catalog",
+      "fine-prints",
+      "main-catalog-split-13",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/89710983/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43200/3b43255_150px.jpg#h=99&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43200/3b43255t.gif#h=99&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43200/3b43255r.jpg#h=422&w=640"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "FP - XX - D9922, no. 12 (A size) [P&P]",
+      "contributors": [
+        "Dwight, Mabel, 1876-1955, artist."
+      ],
+      "control_number": "89710983",
+      "created": "2021-08-05T17:15:08Z",
+      "created_published": "[1939]",
+      "created_published_date": "[1939]",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Dwight%2C%20Mabel%2C%201876-1955&co=finepr",
+          "role": "artist",
+          "title": "Dwight, Mabel, 1876-1955"
+        }
+      ],
+      "date": "[1939]",
+      "digital_id": [
+        "cph 3b43255 //hdl.loc.gov/loc.pnp/cph.3b43255"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Lithographs--1930-1940.&co=finepr",
+          "title": "Lithographs--1930-1940."
+        }
+      ],
+      "genre": [
+        "Lithographs--1930-1940"
+      ],
+      "id": "89710983",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/89710983/",
+      "marc": "https://www.loc.gov/pictures/item/89710983/marc/",
+      "medium": [
+        "1 print : lithograph."
+      ],
+      "medium_brief": "1 print :",
+      "mediums": [
+        "1 print : lithograph."
+      ],
+      "modified": "2021-08-05T17:15:10Z",
+      "notes": [
+        "Signed in pencil.",
+        "\"Federal Art Project, NYC WPA.\""
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/89710983",
+        "https://www.loc.gov/item/11526669"
+      ],
+      "other_control_numbers": [
+        "11526669"
+      ],
+      "reproduction_number": "LC-USZ62-97154 (b&w film copy neg.)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/cph.3b43255"
+      ],
+      "rights_advisory": "No known restrictions on publication. For more information, see Federal Art Project (FAP) Prints  - Rights and Restrictions Information http://hdl.loc.gov/loc.pnp/res.750.fap",
+      "rights_information": "No known restrictions on publication. For more information, see Federal Art Project (FAP) Prints  - Rights and Restrictions Information http://hdl.loc.gov/loc.pnp/res.750.fap",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43200/3b43255_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43200/3b43255r.jpg",
+      "sort_date": "1939",
+      "source_created": "1989-06-15T00:00:00Z",
+      "source_modified": "2021-02-19T10:23:51Z",
+      "stmt_of_responsibility": "Mabel Dwight.",
+      "subject_headings": [
+        "Reading rooms--1930-1940.",
+        "Reading--1930-1940."
+      ],
+      "subjects": [
+        "Reading rooms--1930-1940",
+        "Reading--1930-1940"
+      ],
+      "summary": "Group of people reading in library.",
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43200/3b43255_150px.jpg",
+      "title": "Silence"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "89710983",
+    "link": "https://www.loc.gov/pictures/item/89710983/",
+    "marc": "https://www.loc.gov/pictures/item/89710983/marc/",
+    "medium": [
+      "1 print : lithograph."
+    ],
+    "medium_brief": "1 print :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2021-08-05T17:15:10Z",
+    "notes": [
+      "Signed in pencil.",
+      "\"Federal Art Project, NYC WPA.\""
+    ],
+    "number": [
+      "http://www.loc.gov/item/89710983",
+      "89710983",
+      "http://www.loc.gov/item/11526669",
+      "2021-02-19t10:23:51"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/11526669",
+      "http://www.loc.gov/item/89710983"
+    ],
+    "number_lccn": [
+      "89710983"
+    ],
+    "number_source_modified": [
+      "2021-02-19t10:23:51"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "11526669"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/89710983/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/89710983/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/89710983/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 4539,
+        "title": "fine prints",
+        "url": "https://www.loc.gov/collections/fine-prints/?fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=finepr&pk=89710983&st=gallery&sb=call_number#focus"
+    },
+    "reproduction_number": "LC-USZ62-97154 (b&w film copy neg.)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/cph.3b43255"
+    ],
+    "resources": [
+      {
+        "caption": "b&w film copy neg.",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43200/3b43255_150px.jpg",
+        "url": "https://www.loc.gov/resource/cph.3b43255/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/375_fine.html\">Fine Print Collection - Rights and Restrictions Information</a> </p>\n \n"
+    ],
+    "rights_advisory": "No known restrictions on publication. For more information, see Federal Art Project (FAP) Prints  - Rights and Restrictions Information http://hdl.loc.gov/loc.pnp/res.750.fap",
+    "rights_information": "No known restrictions on publication. For more information, see Federal Art Project (FAP) Prints  - Rights and Restrictions Information http://hdl.loc.gov/loc.pnp/res.750.fap",
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "FP - XX - D9922, no. 12 (A size) [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1939",
+    "source_created": "1989-06-15T00:00:00Z",
+    "source_modified": "2021-02-19T10:23:51Z",
+    "stmt_of_responsibility": "Mabel Dwight.",
+    "subject": [
+      "lithographs",
+      "reading rooms",
+      "reading"
+    ],
+    "subject_headings": [
+      "Reading rooms--1930-1940",
+      "Reading--1930-1940"
+    ],
+    "subjects": [
+      {
+        "lithographs": "https://www.loc.gov/search/?fa=subject:lithographs&fo=json"
+      },
+      {
+        "reading": "https://www.loc.gov/search/?fa=subject:reading&fo=json"
+      },
+      {
+        "reading rooms": "https://www.loc.gov/search/?fa=subject:reading+rooms&fo=json"
+      }
+    ],
+    "summary": "Group of people reading in library.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43200/3b43255_150px.jpg",
+    "timestamp": "2022-04-27T04:36:21.171Z",
+    "title": "Silence / Mabel Dwight.",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/89710983/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/89707562/",
+        "http://www.loc.gov/item/89707562/",
+        "http://www.loc.gov/pictures/item/89707562/",
+        "https://www.loc.gov/pictures/collection/finepr/item/89707562/",
+        "http://www.loc.gov/pictures/collection/finepr/item/89707562/",
+        "http://www.loc.gov/resource/cph.3b42439/",
+        "https://hdl.loc.gov/loc.pnp/cph.3b42439",
+        "http://lccn.loc.gov/89707562"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "dwight, mabel"
+      ],
+      "date": "1943-01-01",
+      "dates": [
+        "1943"
+      ],
+      "description": [
+        "1 print : lithograph. | Cat walking on fence by tree in back of house."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T21:32:36.584Z",
+      "group": [
+        "finepr",
+        "catalog-split-12",
+        "catalog",
+        "fine-prints",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/89707562/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b42000/3b42400/3b42439_150px.jpg#h=150&w=99",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b42000/3b42400/3b42439t.gif#h=150&w=99",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b42000/3b42400/3b42439r.jpg#h=640&w=421"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/89707562",
+        "http://www.loc.gov/item/11524058",
+        "2021-02-26t09:33:23",
+        "89707562"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "catalog",
+        "prints and photographs division",
+        "fine prints"
+      ],
+      "score": 20.520699,
+      "shelf_id": "FP - XX - D9922, no. 13 (A size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "lithographs",
+        "cats",
+        "fences"
+      ],
+      "timestamp": "2022-04-27T04:33:57.965Z",
+      "title": "Backyard",
+      "url": "https://www.loc.gov/item/89707562/"
+    },
+    {
+      "access_restricted": true,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/finepr/item/89708337/",
+        "http://www.loc.gov/item/89708337/",
+        "http://www.loc.gov/pictures/item/89708337/",
+        "https://hdl.loc.gov/loc.pnp/cph.3b42541",
+        "http://www.loc.gov/resource/cph.3b42541/",
+        "http://lccn.loc.gov/89708337"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "dwight, mabel"
+      ],
+      "date": "1945-01-01",
+      "dates": [
+        "1945"
+      ],
+      "description": [
+        "1 print : lithograph. | Eight people on sidewalk under streetlight."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T21:32:31.914Z",
+      "group": [
+        "finepr",
+        "catalog-split-13",
+        "catalog",
+        "fine-prints",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/89708337/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b42000/3b42500/3b42541_150px.jpg#h=150&w=110"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "89708337",
+        "2015-11-04t11:27:54",
+        "http://www.loc.gov/item/11524449",
+        "http://www.loc.gov/item/89708337"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "catalog",
+        "prints and photographs division",
+        "fine prints"
+      ],
+      "score": 20.520699,
+      "shelf_id": "FP - XX - D9922, no. 7 (A size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "lithographs",
+        "summer",
+        "city & town life",
+        "night"
+      ],
+      "timestamp": "2022-04-27T04:33:57.965Z",
+      "title": "[Summer evening]",
+      "url": "https://www.loc.gov/item/89708337/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/89708338/",
+        "http://www.loc.gov/item/89708338/",
+        "http://www.loc.gov/pictures/item/89708338/",
+        "https://www.loc.gov/pictures/collection/finepr/item/89708338/",
+        "http://www.loc.gov/pictures/collection/finepr/item/89708338/",
+        "http://www.loc.gov/resource/cph.3b42542/",
+        "https://hdl.loc.gov/loc.pnp/cph.3b42542",
+        "http://lccn.loc.gov/89708338"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "dwight, mabel"
+      ],
+      "date": "1930-01-01",
+      "dates": [
+        "1930"
+      ],
+      "description": [
+        "1 print : lithograph. | Boy seated on stool, full length, with ankles crossed."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T21:32:37.207Z",
+      "group": [
+        "finepr",
+        "catalog-split-14",
+        "catalog",
+        "fine-prints",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/89708338/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b42000/3b42500/3b42542_150px.jpg#h=150&w=73",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b42000/3b42500/3b42542t.gif#h=150&w=73",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b42000/3b42500/3b42542r.jpg#h=640&w=313"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/89708338",
+        "2021-02-19t10:21:26",
+        "http://www.loc.gov/item/11524450",
+        "89708338"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "catalog",
+        "prints and photographs division",
+        "fine prints"
+      ],
+      "score": 20.520699,
+      "shelf_id": "FP - XX - D9922, no. 11 (A size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "lithographs",
+        "children"
+      ],
+      "timestamp": "2022-04-27T04:33:57.965Z",
+      "title": "Boy resting",
+      "url": "https://www.loc.gov/item/89708338/"
+    },
+    {
+      "access_restricted": true,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/finepr/item/89708339/",
+        "http://www.loc.gov/item/89708339/",
+        "http://www.loc.gov/pictures/item/89708339/",
+        "https://hdl.loc.gov/loc.pnp/cph.3b42543",
+        "http://www.loc.gov/resource/cph.3b42543/",
+        "http://lccn.loc.gov/89708339"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "dwight, mabel"
+      ],
+      "date": "1900-01-01",
+      "dates": [
+        "1900"
+      ],
+      "description": [
+        "1 print : lithograph. | Three crows on dead tree on snow-covered hill."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T21:32:31.914Z",
+      "group": [
+        "finepr",
+        "catalog-split-15",
+        "catalog",
+        "fine-prints",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/89708339/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b42000/3b42500/3b42543_150px.jpg#h=105&w=150"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/11524451",
+        "2002-11-26t09:55:50",
+        "89708339",
+        "http://www.loc.gov/item/89708339"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "catalog",
+        "prints and photographs division",
+        "fine prints"
+      ],
+      "score": 20.520699,
+      "shelf_id": "FP - XX - D9922, no. 8 (A size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "lithographs",
+        "landscape prints",
+        "winter"
+      ],
+      "timestamp": "2022-04-27T04:33:57.965Z",
+      "title": "Winter",
+      "url": "https://www.loc.gov/item/89708339/"
+    },
+    {
+      "access_restricted": true,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/finepr/item/89715266/",
+        "http://www.loc.gov/item/89715266/",
+        "http://www.loc.gov/pictures/item/89715266/",
+        "https://hdl.loc.gov/loc.pnp/cph.3b44320",
+        "http://www.loc.gov/resource/cph.3b44320/",
+        "http://lccn.loc.gov/89715266"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "dwight, mabel"
+      ],
+      "date": "1934-01-01",
+      "dates": [
+        "1934"
+      ],
+      "description": [
+        "1 print : lithograph."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T21:32:32.253Z",
+      "group": [
+        "finepr",
+        "catalog-split-12",
+        "catalog",
+        "fine-prints",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/89715266/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b44000/3b44300/3b44320_150px.jpg#h=116&w=150"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2002-11-26t09:56:21",
+        "89715266",
+        "http://www.loc.gov/item/89715266",
+        "http://www.loc.gov/item/11530244"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "catalog",
+        "prints and photographs division",
+        "fine prints"
+      ],
+      "score": 20.520699,
+      "shelf_id": "FP - XX - D9922, no. 1 (B size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "lithographs",
+        "summer",
+        "social life",
+        "african americans"
+      ],
+      "timestamp": "2022-04-27T04:36:21.171Z",
+      "title": "[Summer afternoon]",
+      "url": "https://www.loc.gov/item/89715266/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/89710979/",
+        "http://www.loc.gov/item/89710979/",
+        "http://www.loc.gov/pictures/item/89710979/",
+        "https://www.loc.gov/pictures/collection/finepr/item/89710979/",
+        "http://www.loc.gov/pictures/collection/finepr/item/89710979/",
+        "http://www.loc.gov/resource/cph.3b43251/",
+        "https://hdl.loc.gov/loc.pnp/cph.3b43251",
+        "http://lccn.loc.gov/89710979"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "dwight, mabel"
+      ],
+      "date": "1936-01-01",
+      "dates": [
+        "1936"
+      ],
+      "description": [
+        "1 print : lithograph. | Yawning guard with couple looking at large bed."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T21:32:37.061Z",
+      "group": [
+        "finepr",
+        "catalog-split-02",
+        "catalog",
+        "fine-prints",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/89710979/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43200/3b43251_150px.jpg#h=150&w=104",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43200/3b43251t.gif#h=150&w=104",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43200/3b43251r.jpg#h=640&w=442"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/89710979",
+        "2021-02-26t09:34:36",
+        "http://www.loc.gov/item/11526665",
+        "89710979"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "catalog",
+        "prints and photographs division",
+        "fine prints"
+      ],
+      "score": 20.520699,
+      "shelf_id": "FP - XX - D9922, no.9 (B size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "lithographs",
+        "galleries & museums",
+        "guards"
+      ],
+      "timestamp": "2022-04-27T04:36:21.171Z",
+      "title": "Museum guard",
+      "url": "https://www.loc.gov/item/89710979/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "finepr",
+      "catalog-split-13",
+      "catalog",
+      "fine-prints",
+      "main-catalog-split-13",
+      "main-catalog",
+      "catalog-split-12",
+      "main-catalog-split-12",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "catalog-split-02",
+      "main-catalog-split-02",
+      "geospatial_applications",
+      "geospatial-applications",
+      "cms",
+      "managed-content",
+      "mff",
+      "freedoms-fortress",
+      "rbc/scd",
+      "rare-book-scan-on-demand-new",
+      "wdlpartner",
+      "catalog-split-10",
+      "world-digital-library-partners",
+      "main-catalog-split-10"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "cph.3b43255",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.5225133895874023,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/cph.3b43255/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/cph.3b43255/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294056.9726894,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 1558042,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/cph/3b40000/3b43000/3b43200/3b43255u.tif",
+      "width": 0
+    },
+    {
+      "height": 99,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 4691,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43200/3b43255_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 99,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 17339,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43200/3b43255t.gif",
+      "width": 150
+    },
+    {
+      "height": 422,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 62123,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43200/3b43255r.jpg",
+      "width": 640
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=finepr&pk=89710983&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://storymaps.arcgis.com/stories/9dde88cfa8514209accfc468b33244f1",
+        "https://loc.maps.arcgis.com/sharing/rest/content/items/9dde88cfa8514209accfc468b33244f1?f=json"
+      ],
+      "campaigns": [],
+      "date": "2024-02-20",
+      "dates": [
+        "2024-02-20T21:43:29Z"
+      ],
+      "description": [
+        "Construction, architecture, and history of services in the John Adams Building at the Library of Congress."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-03-01T20:11:33.623Z",
+      "group": [
+        "geospatial_applications",
+        "geospatial-applications"
+      ],
+      "hassegments": false,
+      "id": "https://storymaps.arcgis.com/stories/9dde88cfa8514209accfc468b33244f1",
+      "image_url": [
+        "https://loc.maps.arcgis.com/sharing/rest/content/items/9dde88cfa8514209accfc468b33244f1/info/thumbnail/thumbnail1696263317149.png"
+      ],
+      "index": 1,
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "story maps",
+        "science and business reading room",
+        "geospatial applications"
+      ],
+      "score": 10.046055,
+      "shelf_id": "https://storymaps.arcgis.com/stories/9dde88cfa8514209accfc468b33244f1",
+      "subject": [
+        "libraries",
+        "gmd_converted",
+        "reading rooms",
+        "library of congress",
+        "john adams building"
+      ],
+      "timestamp": "2024-03-01T20:12:09.320Z",
+      "title": "\"A Handsome Box\": The Adams Building",
+      "url": "https://storymaps.arcgis.com/stories/9dde88cfa8514209accfc468b33244f1"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/fine-prints/about-this-collection/rights-and-access/"
+      ],
+      "campaigns": [],
+      "description": [
+        "The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-11-10T06:15:15.437Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/fine-prints/about-this-collection/rights-and-access/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/fine-prints/500_500.jpg"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "fine prints"
+      ],
+      "score": 8.383419,
+      "shelf_id": "~/collections/fine-prints/about-this-collection/rights-and-access/",
+      "site": [
+        "cms"
+      ],
+      "timestamp": "2024-11-10T06:52:04.166Z",
+      "title": "Rights and Access | About this Collection | Fine Prints | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/fine-prints/about-this-collection/rights-and-access/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mff000154/",
+        "https://hdl.loc.gov/loc.mss/mff.003017",
+        "http://www.loc.gov/resource/mff.003017/",
+        "http://www.loc.gov/item/mff.003017/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress"
+      ],
+      "date": "1941-09-10",
+      "dates": [
+        "1941-09-10"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-02-07T19:16:04.623Z",
+      "group": [
+        "mff",
+        "freedoms-fortress"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/mff000154/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mff/003/003017/0001.gif",
+        "https://tile.loc.gov/storage-services/service/mss/mff/003/003017/0001.gif#h=784&w=600",
+        "https://tile.loc.gov/storage-services/master/mss/mff/003/003017/0001.jpg#h=3240&w=2479"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpeg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "american memory",
+        "freedom's fortress: the library of congress, 1939-1953",
+        "manuscript division",
+        "library of congress archives-central file: macleish/evans"
+      ],
+      "score": 8.022339,
+      "shelf_id": "Location: Container 707, Democracy, 1941-52, Collection 1-14",
+      "subject": [
+        "manuscripts",
+        "reading rooms",
+        "democracy",
+        "library of congress"
+      ],
+      "timestamp": "2023-02-07T19:21:12.208Z",
+      "title": "Press Release No. 30, \"Democracy Alcove,\" Library of Congress, September 10, 1941",
+      "type": [
+        "Manuscript"
+      ],
+      "url": "https://www.loc.gov/item/mff000154/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mff000155/",
+        "https://hdl.loc.gov/loc.mss/mff.003018",
+        "http://www.loc.gov/resource/mff.003018/",
+        "http://www.loc.gov/item/mff.003018/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress"
+      ],
+      "date": "1941-05-27",
+      "dates": [
+        "1941-05-27"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-02-07T19:16:04.623Z",
+      "group": [
+        "mff",
+        "freedoms-fortress"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mff000155/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mff/003/003018/0001.gif",
+        "https://tile.loc.gov/storage-services/service/mss/mff/003/003018/0001.gif#h=776&w=600",
+        "https://tile.loc.gov/storage-services/master/mss/mff/003/003018/0001.jpg#h=3240&w=2504"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpeg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "american memory",
+        "freedom's fortress: the library of congress, 1939-1953",
+        "manuscript division",
+        "library of congress archives-central file: macleish/evans"
+      ],
+      "score": 8.022339,
+      "shelf_id": "Location: Container 707, Democracy, 1941-52, Collection 1-14",
+      "subject": [
+        "manuscripts",
+        "reading rooms",
+        "democracy",
+        "library of congress",
+        "reference services (libraries)"
+      ],
+      "timestamp": "2023-02-07T19:21:12.208Z",
+      "title": "\"Books about Democracy,\" Reference Department, Library of Congress, May 27, 1941",
+      "type": [
+        "Manuscript"
+      ],
+      "url": "https://www.loc.gov/item/mff000155/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/rbc0001.2021madison38572/",
+        "http://www.loc.gov/resource/Madison.38572/",
+        "http://www.loc.gov/item/92838572/",
+        "http://lccn.loc.gov/92838572",
+        "https://hdl.loc.gov/loc.rbc/Madison.38572"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "prentiss, william",
+        "james madison pamphlet collection (library of congress)"
+      ],
+      "date": "1817",
+      "dates": [
+        "1817"
+      ],
+      "description": [
+        "Dated at end: Washington City, March 4, 1817. Shaw & Shoemaker 41874 LC copy imperfect: torn. Source: Transfer from Manuscript Division, Library of Congress, Dec. 1937-June 1938. Formerly part of the James Madison Papers, vol. 79, p. 20."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-03-27T14:58:31.228Z",
+      "group": [
+        "rbc/scd",
+        "catalog-split-12",
+        "catalog",
+        "rare-book-scan-on-demand-new",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/92838572/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/rbc/rbc0001/2021/2021madison38572/0001.gif",
+        "https://tile.loc.gov/storage-services/service/rbc/rbc0001/2021/2021madison38572/0001.gif#h=150&w=121",
+        "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2021:2021madison38572:0001/full/pct:6.25/0/default.jpg#h=275&w=221",
+        "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2021:2021madison38572:0001/full/pct:12.5/0/default.jpg#h=550&w=443",
+        "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2021:2021madison38572:0001/full/pct:25/0/default.jpg#h=1100&w=887",
+        "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2021:2021madison38572:0001/full/pct:50/0/default.jpg#h=2200&w=1775",
+        "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2021:2021madison38572:0001/full/pct:100/0/default.jpg#h=4401&w=3550"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "image/gif",
+        "application/pdf",
+        "image/tiff",
+        "text/plain"
+      ],
+      "number": [
+        "92838572",
+        "2021-03-18t15:13:25"
+      ],
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "rare book selections",
+        "rare book and special collections division",
+        "catalog"
+      ],
+      "score": 8.022339,
+      "shelf_id": "E302 .M192 1783 vol. 4, no. 35",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "reading rooms",
+        "washington (d.c.)"
+      ],
+      "timestamp": "2023-06-26T16:23:12.146Z",
+      "title": "Reading room continued on an improved plan",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/92838572/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/gdcwdl.wdl_15670/",
+        "http://lccn.loc.gov/2021668665",
+        "http://www.loc.gov/resource/wdl.15670/",
+        "http://www.loc.gov/item/2021668665/",
+        "https://hdl.loc.gov/loc.wdl/wdl.15670"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "great britain. war office. intelligence division",
+        "great britain. war office. general staff. geographical section"
+      ],
+      "date": "1906-01-01",
+      "dates": [
+        "1906"
+      ],
+      "description": [
+        "This 1906 map of British New Guinea, German New Guinea (also known as Kaiser-Wilhelms-land), and the Bismarck Archipelago was produced by the Geographical Section of the General Staff of the War Office of Great Britain. Germany annexed the northern area of the island of New Guinea in 1884, together with islands of New Britain and New Ireland. The Germans renamed the former New Pomerania and the latter New Mecklenburg. Also shown is Bougainville Island, which Germany annexed in 1889. When World War I broke out in 1914, German New Guinea was quickly occupied by British Imperial Forces and the whole area was placed under Australian administration in October 1914. At the end of the World War I, German New Guinea became an Australian mandate under the League of Nations as the territory of New Guinea. British New Guinea, German New Guinea, and the Bismarck Archipelago today are part Papua New Guinea, which became independent in 1975. The map shows a small part of Dutch New Guinea (part of present-day Indonesia), and the extreme northern tip of Queensland, Australia. Relief is shown by form lines and spot elevations. The scale of the map is in miles. A stamp at the bottom indicates that the map was \"Loaned by the American Geographical Society to the Peace Conference at Versailles, 1918-1919.\""
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-07-24T06:05:30.421Z",
+      "group": [
+        "wdlpartner",
+        "catalog-split-10",
+        "catalog",
+        "world-digital-library-partners",
+        "main-catalog-split-10",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021668665/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:67:0:wdl_15670:am007144/full/pct:3.125/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:67:0:wdl_15670:am007144/full/pct:3.125/0/default.jpg#h=234&w=353",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:67:0:wdl_15670:am007144/full/pct:6.25/0/default.jpg#h=469&w=706",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:67:0:wdl_15670:am007144/full/pct:12.5/0/default.jpg#h=939&w=1413",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:67:0:wdl_15670:am007144/full/pct:25/0/default.jpg#h=1879&w=2826",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:67:0:wdl_15670:am007144/full/pct:50/0/default.jpg#h=3758&w=5653",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:15:67:0:wdl_15670:am007144/full/pct:100/0/default.jpg#h=7516&w=11307"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "australia",
+        "papua",
+        "indonesia",
+        "papua new guinea",
+        "queensland"
+      ],
+      "mime_type": [
+        "application/zip",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2021668665",
+        "2021-07-14t08:39:39"
+      ],
+      "online_format": [
+        "compressed data",
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "other_title": [
+        "British & German New Guinea"
+      ],
+      "partof": [
+        "world digital library",
+        "university of wisconsin-milwaukee libraries",
+        "catalog",
+        "world digital library - partner items"
+      ],
+      "score": 7.3952913,
+      "shelf_id": "http://lccn.loc.gov/2021668665",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "australia",
+        "papua",
+        "colonies",
+        "indonesia",
+        "great britain",
+        "papua new guinea",
+        "queensland",
+        "1906-08",
+        "lithographs",
+        "germany",
+        "territories and possessions"
+      ],
+      "timestamp": "2022-09-11T21:44:36.781Z",
+      "title": "British and German New Guinea.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2021668665/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "b&w film copy neg.",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43200/3b43255_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/cph.3b43255/"
+  },
+  "resources": [
+    {
+      "caption": "b&w film copy neg.",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43200/3b43255_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/cph.3b43255/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294057495,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/cph.3b43255/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/cph.3b43255/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/cph.3b43255/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/cph.3b43255/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/cph.3b43255/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/cph.3b43255/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/cph.3b43255/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/cph.3b43255/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/cph.3b43255/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/cph.3b43255/?fo=json&st=text"
+  }
+}

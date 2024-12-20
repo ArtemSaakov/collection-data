@@ -1,0 +1,1728 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Lee, R., photographer. (1941) <cite>Library tent at the FSA Farm Security Administration mobile camp for migratory farm workers. Odell, Oregon. The girls working in the library receive credit in the Junior Campers League for work in the library</cite>. Odell United States Oregon Hood River County, 1941. Sept. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2017815837/.",
+    "chicago": "Lee, Russell, photographer. <cite>Library tent at the FSA Farm Security Administration mobile camp for migratory farm workers. Odell, Oregon. The girls working in the library receive credit in the Junior Campers League for work in the library</cite>. Odell United States Oregon Hood River County, 1941. Sept. Photograph. https://www.loc.gov/item/2017815837/.",
+    "mla": "Lee, Russell, photographer. <cite>Library tent at the FSA Farm Security Administration mobile camp for migratory farm workers. Odell, Oregon. The girls working in the library receive credit in the Junior Campers League for work in the library</cite>. Sept. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2017815837/&gt;."
+  },
+  "item": {
+    "_version_": 1731131675182628864,
+    "access_restricted": false,
+    "aka": [
+      "http://www.loc.gov/pictures/collection/fsa/item/2017815837/",
+      "http://www.loc.gov/item/2017815837/",
+      "http://www.loc.gov/pictures/item/2017815837/",
+      "https://hdl.loc.gov/loc.pnp/fsa.8c22565",
+      "http://www.loc.gov/resource/fsa.8c22565/",
+      "http://lccn.loc.gov/2017815837"
+    ],
+    "call_number": "LC-USF34- 070341-D [P&P] LOT 335 (corresponding photographic print)",
+    "campaigns": [],
+    "contributor_names": [
+      "Lee, Russell, 1903-1986, photographer"
+    ],
+    "contributors": [
+      {
+        "lee, russell": "https://www.loc.gov/search/?fa=contributor:lee,+russell&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2017-08-29T06:21:07Z",
+    "created_published": [
+      "1941 Sept."
+    ],
+    "created_published_date": "1941 Sept.",
+    "date": "1941-01-01",
+    "dates": [
+      {
+        "1941": "https://www.loc.gov/search/?dates=1941/1941&fo=json"
+      }
+    ],
+    "description": [
+      "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+    ],
+    "digital_id": [
+      "fsa 8c22565 //hdl.loc.gov/loc.pnp/fsa.8c22565"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-09-01T20:18:35.850Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/fsa/item/2017815837/#fsa",
+      "http://lccn.loc.gov/2017815837#catalog-split-10"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Safety film negatives."
+    ],
+    "genre": [
+      "Safety film negatives"
+    ],
+    "group": [
+      "fsa",
+      "catalog-split-10",
+      "catalog",
+      "fsa-owi-black-and-white-negatives",
+      "main-catalog-split-10",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2017815837/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22500/8c22565_150px.jpg#h=115&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22500/8c22565t.gif#h=115&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22500/8c22565r.jpg#h=492&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22500/8c22565v.jpg#h=787&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-USF34- 070341-D [P&P] LOT 335 (corresponding photographic print)",
+      "contributors": [
+        "Lee, Russell, 1903-1986, photographer."
+      ],
+      "control_number": "2017815837",
+      "created": "2017-08-29T06:21:07Z",
+      "created_published": "1941 Sept.",
+      "created_published_date": "1941 Sept.",
+      "creators": [
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=name&q=Lee%2C%20Russell%2C%201903-1986&co=fsa",
+          "role": "photographer",
+          "title": "Lee, Russell, 1903-1986"
+        }
+      ],
+      "date": "1941 Sept.",
+      "digital_id": [
+        "fsa 8c22565 //hdl.loc.gov/loc.pnp/fsa.8c22565"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=format&q=Safety%20film%20negatives.&co=fsa",
+          "title": "Safety film negatives."
+        }
+      ],
+      "genre": [
+        "Safety film negatives"
+      ],
+      "id": "2017815837",
+      "language": [
+        "eng"
+      ],
+      "link": "//www.loc.gov/pictures/item/2017815837/",
+      "marc": "//www.loc.gov/pictures/item/2017815837/marc/",
+      "medium": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "medium_brief": "1 negative :",
+      "mediums": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "modified": "2017-08-29T06:21:07Z",
+      "notes": [
+        "Title and other information from caption card.",
+        "Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944.",
+        "More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi",
+        "Temp. note: usf34batch8",
+        "Film copy on SIS roll 11, frame 1464."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2017815837",
+        "https://www.loc.gov/item/fsa2000047026/PP"
+      ],
+      "other_control_numbers": [
+        "19948042",
+        "fsa2000047026/PP"
+      ],
+      "other_number": "J 378",
+      "part_of": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)",
+      "place": [
+        {
+          "latitude": "",
+          "link": "//www.loc.gov/pictures/related/?fi=place&q=Oregon--Hood%20River%20County--Odell&co=fsa",
+          "longitude": "",
+          "title": "Oregon--Hood River County--Odell"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-fsa-8c22565 (digital file from original neg.)\nLC-USF34-070341-D (b&w film neg.)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/fsa.8c22565"
+      ],
+      "rights_advisory": "No known restrictions. For information, see U.S. Farm Security Administration/Office of War Information Black & White Photographs https://www.loc.gov/rr/print/res/071_fsab.html",
+      "rights_information": "No known restrictions. For information, see U.S. Farm Security Administration/Office of War Information Black & White Photographs https://www.loc.gov/rr/print/res/071_fsab.html",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22500/8c22565_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22500/8c22565r.jpg",
+      "sort_date": "1941",
+      "source_collection": [
+        "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)"
+      ],
+      "source_created": "2000-09-19T00:00:00Z",
+      "source_modified": "2017-08-23T13:13:54Z",
+      "subject_headings": [
+        "United States--Oregon--Hood River County--Odell.",
+        "Oregon--Hood River County--Odell"
+      ],
+      "subjects": [
+        "United States--Oregon--Hood River County--Odell"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22500/8c22565_150px.jpg",
+      "title": "Library tent at the FSA (Farm Security Administration) mobile camp for migratory farm workers. Odell, Oregon. The girls working in the library receive credit in the Junior Campers League for work in the library"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2017815837",
+    "link": "//www.loc.gov/pictures/item/2017815837/",
+    "location": [
+      "odell",
+      "united states",
+      "oregon",
+      "hood river county"
+    ],
+    "location_city": [
+      "odell"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_county": [
+      "hood river county"
+    ],
+    "location_state": [
+      "oregon"
+    ],
+    "locations": [
+      {
+        "hood river county": "https://www.loc.gov/search/?fa=location:hood+river+county&fo=json"
+      },
+      {
+        "odell": "https://www.loc.gov/search/?fa=location:odell&fo=json"
+      },
+      {
+        "oregon": "https://www.loc.gov/search/?fa=location:oregon&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "odell": "https://www.loc.gov/search/?fa=location_city:odell&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_county": [
+      {
+        "hood river county": "https://www.loc.gov/search/?fa=location_county:hood+river+county&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "oregon": "https://www.loc.gov/search/?fa=location_state:oregon&fo=json"
+      }
+    ],
+    "marc": "//www.loc.gov/pictures/item/2017815837/marc/",
+    "medium": [
+      "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+    ],
+    "medium_brief": "1 negative :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2017-08-29T06:21:07Z",
+    "notes": [
+      "Title and other information from caption card.",
+      "Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944.",
+      "More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi",
+      "Temp. note: usf34batch8",
+      "Film copy on SIS roll 11, frame 1464."
+    ],
+    "number": [
+      "http://www.loc.gov/item/19948042",
+      "2017-08-23t13:13:54",
+      "http://www.loc.gov/item/fsa2000047026/pp",
+      "http://www.loc.gov/item/2017815837",
+      "2017815837"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/19948042",
+      "http://www.loc.gov/item/fsa2000047026/pp",
+      "http://www.loc.gov/item/2017815837"
+    ],
+    "number_lccn": [
+      "2017815837"
+    ],
+    "number_source_modified": [
+      "2017-08-23t13:13:54"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "19948042",
+      "fsa2000047026/PP"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2017815837/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2017815837/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2017815837/dc"
+      }
+    ],
+    "other_number": "J 378",
+    "partof": [
+      {
+        "count": 31,
+        "title": "lot 335",
+        "url": "https://www.loc.gov/search/?fa=partof:lot+335&fo=json"
+      },
+      {
+        "count": 171042,
+        "title": "farm security administration/office of war information black-and-white negatives",
+        "url": "https://www.loc.gov/collections/fsa-owi-black-and-white-negatives/?fo=json"
+      },
+      {
+        "count": 437336,
+        "title": "american memory",
+        "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "//www.loc.gov/pictures/related/?fi=place&q=Oregon--Hood%20River%20County--Odell&co=fsa",
+        "longitude": "",
+        "title": "Oregon--Hood River County--Odell"
+      }
+    ],
+    "related": {
+      "group_record": "//www.loc.gov/pictures/search/?q=LOT 335&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+      "neighbors": "//www.loc.gov/pictures/related/?&co=fsa&pk=2017815837&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-fsa-8c22565 (digital file from original neg.)\nLC-USF34-070341-D (b&w film neg.)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/fsa.8c22565"
+    ],
+    "resources": [
+      {
+        "caption": "(digital file from original neg.)",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22500/8c22565_150px.jpg",
+        "url": "https://www.loc.gov/resource/fsa.8c22565/"
+      }
+    ],
+    "rights": [
+      "<p>The contents of the Library of Congress Farm Security Administration/Office of War Information Black-and-White Negatives are in the public domain and are free to use and reuse.</p>\r\n<p> Credit Line: Library of Congress, Prints &amp; Photographs Division, Farm Security Administration/Office of War Information Black-and-White Negatives.</p>\r\n<p>For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: <a href=\"https://www.loc.gov/rr/print/res/071_fsab.html\">U.S. Farm Security Administration/Office of War Information Black &amp; White Photographs - Rights and Restrictions Information</a>\r\n</p>\r\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a> </p>\r\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>"
+    ],
+    "rights_advisory": "No known restrictions. For information, see U.S. Farm Security Administration/Office of War Information Black & White Photographs https://www.loc.gov/rr/print/res/071_fsab.html",
+    "rights_information": "No known restrictions. For information, see U.S. Farm Security Administration/Office of War Information Black & White Photographs https://www.loc.gov/rr/print/res/071_fsab.html",
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "LC-USF34- 070341-D [P&P] LOT 335 (corresponding photographic print)",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1941",
+    "source_collection": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)",
+    "source_created": "2000-09-19T00:00:00Z",
+    "source_modified": "2017-08-23T13:13:54Z",
+    "subject": [
+      "united states",
+      "hood river county",
+      "odell",
+      "oregon",
+      "safety film negatives"
+    ],
+    "subject_headings": [
+      "United States--Oregon--Hood River County--Odell"
+    ],
+    "subjects": [
+      {
+        "hood river county": "https://www.loc.gov/search/?fa=subject:hood+river+county&fo=json"
+      },
+      {
+        "odell": "https://www.loc.gov/search/?fa=subject:odell&fo=json"
+      },
+      {
+        "oregon": "https://www.loc.gov/search/?fa=subject:oregon&fo=json"
+      },
+      {
+        "safety film negatives": "https://www.loc.gov/search/?fa=subject:safety+film+negatives&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22500/8c22565_150px.jpg",
+    "timestamp": "2022-04-26T01:16:56.903Z",
+    "title": "Library tent at the FSA (Farm Security Administration) mobile camp for migratory farm workers. Odell, Oregon. The girls working in the library receive credit in the Junior Campers League for work in the library",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2017815837/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017815899/",
+        "http://www.loc.gov/item/2017815899/",
+        "http://www.loc.gov/pictures/item/2017815899/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8c36244",
+        "http://www.loc.gov/resource/fsa.8c36244/",
+        "http://lccn.loc.gov/2017815899"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lee, russell"
+      ],
+      "date": "1941-01-01",
+      "dates": [
+        "1941"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:18:36.393Z",
+      "group": [
+        "fsa",
+        "catalog-split-02",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017815899/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c36000/8c36200/8c36244_150px.jpg#h=112&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c36000/8c36200/8c36244t.gif#h=112&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c36000/8c36200/8c36244r.jpg#h=477&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c36000/8c36200/8c36244v.jpg#h=763&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "odell",
+        "united states",
+        "oregon",
+        "hood river county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2017815899",
+        "2017-08-23t13:16:19",
+        "http://www.loc.gov/item/19948111",
+        "http://www.loc.gov/item/fsa2000047088/pp",
+        "2017815899"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "lot 335",
+        "farm security administration/office of war information black-and-white negatives",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "american memory"
+      ],
+      "score": 65.67133,
+      "shelf_id": "LC-USF34- 070384-D [P&P] LOT 335 (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "hood river county",
+        "odell",
+        "oregon",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-04-26T01:16:56.903Z",
+      "title": "Lunchtime at the nursery school at the FSA (Farm Security Administration) mobile camp for migratory farm workers. Odell, Oregon",
+      "url": "https://www.loc.gov/item/2017815899/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017815905/",
+        "http://www.loc.gov/item/2017815905/",
+        "http://www.loc.gov/pictures/item/2017815905/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8c36250",
+        "http://www.loc.gov/resource/fsa.8c36250/",
+        "http://lccn.loc.gov/2017815905"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lee, russell"
+      ],
+      "date": "1941-01-01",
+      "dates": [
+        "1941"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:18:36.393Z",
+      "group": [
+        "fsa",
+        "catalog-split-06",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-06",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017815905/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c36000/8c36200/8c36250_150px.jpg#h=150&w=115",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c36000/8c36200/8c36250t.gif#h=150&w=115",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c36000/8c36200/8c36250r.jpg#h=640&w=493",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c36000/8c36200/8c36250v.jpg#h=1024&w=788"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "odell",
+        "united states",
+        "oregon",
+        "hood river county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/19948117",
+        "http://www.loc.gov/item/2017815905",
+        "2017-08-23t13:16:33",
+        "http://www.loc.gov/item/fsa2000047094/pp",
+        "2017815905"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "lot 335",
+        "farm security administration/office of war information black-and-white negatives",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "american memory"
+      ],
+      "score": 65.67133,
+      "shelf_id": "LC-USF34- 070390-D [P&P] LOT 335 (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "hood river county",
+        "odell",
+        "oregon",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-04-26T01:16:56.903Z",
+      "title": "Amateur night performer. FSA (Farm Security Administration) mobile camp for migratory farm workers. Odell, Oregon",
+      "url": "https://www.loc.gov/item/2017815905/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017815910/",
+        "http://www.loc.gov/item/2017815910/",
+        "http://www.loc.gov/pictures/item/2017815910/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8c22609",
+        "http://www.loc.gov/resource/fsa.8c22609/",
+        "http://lccn.loc.gov/2017815910"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lee, russell"
+      ],
+      "date": "1941-01-01",
+      "dates": [
+        "1941"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:18:36.393Z",
+      "group": [
+        "fsa",
+        "catalog-split-02",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017815910/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22600/8c22609_150px.jpg#h=150&w=115",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22600/8c22609t.gif#h=150&w=115",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22600/8c22609r.jpg#h=640&w=491",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22600/8c22609v.jpg#h=1024&w=786"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "odell",
+        "united states",
+        "oregon",
+        "hood river county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2017815910",
+        "http://www.loc.gov/item/fsa2000047099/pp",
+        "http://www.loc.gov/item/19948126",
+        "2017-08-23t13:16:46",
+        "2017815910"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "lot 335",
+        "farm security administration/office of war information black-and-white negatives",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "american memory"
+      ],
+      "score": 65.67133,
+      "shelf_id": "LC-USF34- 070395-D [P&P] LOT 335 (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "hood river county",
+        "odell",
+        "oregon",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-04-26T01:16:56.903Z",
+      "title": "Amateur night performer. FSA (Farm Security Administration) mobile camp for migratory farm workers. Odell, Oregon",
+      "url": "https://www.loc.gov/item/2017815910/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017815911/",
+        "http://www.loc.gov/item/2017815911/",
+        "http://www.loc.gov/pictures/item/2017815911/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8c22610",
+        "http://www.loc.gov/resource/fsa.8c22610/",
+        "http://lccn.loc.gov/2017815911"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lee, russell"
+      ],
+      "date": "1941-01-01",
+      "dates": [
+        "1941"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:18:36.393Z",
+      "group": [
+        "fsa",
+        "catalog-split-03",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017815911/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22600/8c22610_150px.jpg#h=150&w=116",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22600/8c22610t.gif#h=150&w=117",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22600/8c22610r.jpg#h=640&w=497",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22600/8c22610v.jpg#h=1024&w=795"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "odell",
+        "united states",
+        "oregon",
+        "hood river county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/19948127",
+        "http://www.loc.gov/item/fsa2000047100/pp",
+        "http://www.loc.gov/item/2017815911",
+        "2017-08-23t13:16:48",
+        "2017815911"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "lot 335",
+        "farm security administration/office of war information black-and-white negatives",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "american memory"
+      ],
+      "score": 65.67133,
+      "shelf_id": "LC-USF34- 070396-D [P&P] LOT 335 (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "hood river county",
+        "odell",
+        "oregon",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-04-26T01:16:56.903Z",
+      "title": "Amateur night performer. FSA (Farm Security Administration) mobile camp for migratory farm workers. Odell, Oregon",
+      "url": "https://www.loc.gov/item/2017815911/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017816028/",
+        "http://www.loc.gov/item/2017816028/",
+        "http://www.loc.gov/pictures/item/2017816028/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8c22723",
+        "http://www.loc.gov/resource/fsa.8c22723/",
+        "http://lccn.loc.gov/2017816028"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lee, russell"
+      ],
+      "date": "1941-01-01",
+      "dates": [
+        "1941"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:18:37.007Z",
+      "group": [
+        "fsa",
+        "catalog-split-03",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017816028/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22700/8c22723_150px.jpg#h=112&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22700/8c22723t.gif#h=112&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22700/8c22723r.jpg#h=479&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22700/8c22723v.jpg#h=766&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "odell",
+        "united states",
+        "oregon",
+        "hood river county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017-08-23t13:21:25",
+        "http://www.loc.gov/item/19948264",
+        "2017816028",
+        "http://www.loc.gov/item/fsa2000047217/pp",
+        "http://www.loc.gov/item/2017816028"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "lot 335",
+        "farm security administration/office of war information black-and-white negatives",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "american memory"
+      ],
+      "score": 65.67133,
+      "shelf_id": "LC-USF34- 070508-D [P&P] LOT 335 (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "hood river county",
+        "odell",
+        "oregon",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-04-26T01:17:30.212Z",
+      "title": "Meeting of the Junior Campers League at the FSA (Farm Security Administration) mobile camp for migratory farm workers . Odell, Oregon",
+      "url": "https://www.loc.gov/item/2017816028/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017815873/",
+        "http://www.loc.gov/item/2017815873/",
+        "http://www.loc.gov/pictures/item/2017815873/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8c22582",
+        "http://www.loc.gov/resource/fsa.8c22582/",
+        "http://lccn.loc.gov/2017815873",
+        "http://lccn.loc.gov/2017815872",
+        "http://www.loc.gov/item/2017815872/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lee, russell"
+      ],
+      "date": "1941-01-01",
+      "dates": [
+        "1941"
+      ],
+      "description": [
+        "1 transparency : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:18:36.393Z",
+      "group": [
+        "fsa",
+        "catalog-split-10",
+        "catalog",
+        "catalog-split-09",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-10",
+        "main-catalog",
+        "main-catalog-split-09"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017815872/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22500/8c22582_150px.jpg#h=111&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22500/8c22582t.gif#h=111&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22500/8c22582r.jpg#h=472&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22500/8c22582v.jpg#h=755&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "odell",
+        "united states",
+        "oregon",
+        "hood river county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/fsa2000047062/pp",
+        "2017815872",
+        "http://www.loc.gov/item/19948082",
+        "http://www.loc.gov/item/fsa2000047061/pp",
+        "2017815873",
+        "2017-08-23t13:15:19",
+        "http://www.loc.gov/item/2017815872",
+        "http://www.loc.gov/item/2017815873",
+        "2017-08-23t13:15:17"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "lot 335",
+        "farm security administration/office of war information black-and-white negatives",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "american memory"
+      ],
+      "score": 65.67133,
+      "shelf_id": "LC-USF346- 070358-D [P&P] LOT 335  (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "hood river county",
+        "film transparencies",
+        "odell",
+        "oregon",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-04-26T01:16:56.903Z",
+      "title": "Singing cowboy songs at entertainment at the FSA (Farm Security Administration) mobile camp for migratory farm workers. Odell, Oregon",
+      "url": "https://www.loc.gov/item/2017815872/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "fsa",
+      "catalog-split-10",
+      "catalog",
+      "fsa-owi-black-and-white-negatives",
+      "main-catalog-split-10",
+      "main-catalog",
+      "catalog-split-02",
+      "main-catalog-split-02",
+      "catalog-split-06",
+      "main-catalog-split-06",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "catalog-split-09",
+      "main-catalog-split-09",
+      "ndnp/newspapers",
+      "united-states-newspaper-directory",
+      "newspaper-titles",
+      "catalog-split-01",
+      "main-catalog-split-01",
+      "ndnp/oru",
+      "university-of-oregon-libraries-eugene-or-awardee"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "fsa.8c22565",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.8017070293426514,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/fsa.8c22565/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/fsa.8c22565/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294109.424701,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 15415676,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/fsa/8c22000/8c22500/8c22565u.tif",
+      "width": 0
+    },
+    {
+      "height": 115,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 6006,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22500/8c22565_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 115,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 10205,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22500/8c22565t.gif",
+      "width": 150
+    },
+    {
+      "height": 492,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 45066,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22500/8c22565r.jpg",
+      "width": 640
+    },
+    {
+      "height": 787,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 230701,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22500/8c22565v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": "//www.loc.gov/pictures/search/?q=LOT 335&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+    "lot_link": null,
+    "neighbors": "//www.loc.gov/pictures/related/?&co=fsa&pk=2017815837&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2016271082/"
+      ],
+      "campaigns": [],
+      "date": "1899",
+      "dates": [
+        "[1899 TO 1999]"
+      ],
+      "description": [
+        "Weekly Began with vol. I, No. 1 (September 28, 1899). Description based on: Vol. I, No. 1 (September 28, 1899); title from masthead (Chroniclingamerica.loc.gov, viewed May 25, 2016). Latest issue consulted: Vol. 1, No. 20 (February 8, 1900) (Chroniclingamerica.loc.gov, viewed May 25, 2016)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-09-18T12:07:06.367Z",
+      "group": [
+        "ndnp/newspapers",
+        "united-states-newspaper-directory"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2016271082/",
+      "image_url": [],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "hood river",
+        "hood river county",
+        "wasco county",
+        "oregon"
+      ],
+      "number": [
+        "2024-09-09t08:59:08.942573",
+        "2016271082",
+        "online resource",
+        "2472-663x",
+        "950516740"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the hood river sun (hood river, wasco county, oregon) 1899-19?? [online resource]",
+        "serial and government publications division",
+        "directory of u.s. newspapers in american libraries"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 27.095793,
+      "shelf_id": "ISSN RECORD",
+      "site": [
+        "usnd"
+      ],
+      "subject": [
+        "united states",
+        "newspapers",
+        "wasco county (or.)",
+        "hood river",
+        "hood river county",
+        "hood river county (or.)",
+        "serial publications",
+        "wasco county",
+        "oregon",
+        "hood river (or.)"
+      ],
+      "timestamp": "2024-09-18T12:19:53.507Z",
+      "title": "The Hood River sun",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/2016271082/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://oregonnews.uoregon.edu/lccn/2015260100/",
+        "http://www.loc.gov/item/2015260100/",
+        "http://lccn.loc.gov/2015260100"
+      ],
+      "batch": [
+        "oru_quartz_ver02"
+      ],
+      "campaigns": [],
+      "date": "1899",
+      "description": [
+        "Weekly Began with Vol. 1, No. 1 (September 28, 1899). Archived issues are available in digital format from the Library of Congress Chronicling America online collection. Description based on: Vol. 1, No. 1 (September 28, 1899); title from masthead. Latest issue consulted: Vol. 1, No. 20 (February 8, 1900)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-05-23T13:52:17.697Z",
+      "group": [
+        "newspaper-titles",
+        "catalog-split-01",
+        "catalog",
+        "ndnp/newspapers",
+        "main-catalog-split-01",
+        "united-states-newspaper-directory"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2015260100/",
+      "image_url": [],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        45.7087896,
+        -121.5251712
+      ],
+      "location": [
+        "united states",
+        "hood river",
+        "hood river county",
+        "wasco county",
+        "oregon"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -121.5251712,
+        45.7087896
+      ],
+      "number": [
+        "2024-09-09t08:59:08.942573",
+        "902680973",
+        "2472-6621",
+        "http://www.loc.gov/item/2015260100/1900-02-08/ed-1/",
+        "11",
+        "online resource",
+        "http://www.loc.gov/item/2015260100/1899-09-28/ed-1/",
+        "2015260100",
+        "n902680973",
+        "2024-11-02t06:58:17",
+        "1",
+        "2020-10-23t14:46:47.152646"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "the hood river sun (hood river, wasco county, oregon) 1899-19??",
+        "catalog",
+        "directory of u.s. newspapers in american libraries",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 27.095793,
+      "shelf_id": "Newspaper",
+      "site": [
+        "chroniclingamerica",
+        "catalog",
+        "usnd"
+      ],
+      "subject": [
+        "united states",
+        "newspapers",
+        "wasco county (or.)",
+        "hood river",
+        "hood river county",
+        "hood river county (or.)",
+        "serial publications",
+        "wasco county",
+        "oregon",
+        "hood river (or.)"
+      ],
+      "timestamp": "2024-11-10T07:20:44.910Z",
+      "title": "The Hood River sun.",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/2015260100/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2015260100/1899-09-28/ed-1/",
+        "http://www.loc.gov/resource/2015260100/1899-09-28/ed-1/"
+      ],
+      "batch": [
+        "oru_quartz_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of oregon libraries; eugene, or"
+      ],
+      "date": "1899-09-28",
+      "dates": [
+        "1899-09-28"
+      ],
+      "description": [
+        "Hood River, Wasco County, Oregon"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-07-15T14:41:29.744Z",
+      "group": [
+        "ndnp/oru",
+        "university-of-oregon-libraries-eugene-or-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2015260100/1899-09-28/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:2015260100:print:1899092801:0001/full/pct:6.25/0/default.jpg#h=450&w=337",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:2015260100:print:1899092801:0001/full/pct:12.5/0/default.jpg#h=900&w=675"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "hood river",
+        "hood river county",
+        "wasco county",
+        "oregon"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "2015260100"
+      ],
+      "numeric_shelf_id": 189909281,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "serial and government publications division",
+        "the hood river sun (hood river, wasco county, oregon) 1899-19??"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 17.786287,
+      "shelf_id": "2015260100, 1899-09-28, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "united states",
+        "newspapers",
+        "wasco county (or.)",
+        "hood river",
+        "hood river county",
+        "hood river county (or.)",
+        "wasco county",
+        "oregon",
+        "hood river (or.)"
+      ],
+      "timestamp": "2024-07-16T05:11:24.415Z",
+      "title": "The Hood River sun (Hood River, Wasco County, Oregon), September 28, 1899",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/2015260100/1899-09-28/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2015260100/1899-10-05/ed-1/",
+        "http://www.loc.gov/resource/2015260100/1899-10-05/ed-1/"
+      ],
+      "batch": [
+        "oru_quartz_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of oregon libraries; eugene, or"
+      ],
+      "date": "1899-10-05",
+      "dates": [
+        "1899-10-05"
+      ],
+      "description": [
+        "Hood River, Wasco County, Oregon"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-07-15T14:41:29.744Z",
+      "group": [
+        "ndnp/oru",
+        "university-of-oregon-libraries-eugene-or-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2015260100/1899-10-05/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:2015260100:print:1899100501:0005/full/pct:6.25/0/default.jpg#h=451&w=338",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:2015260100:print:1899100501:0005/full/pct:12.5/0/default.jpg#h=902&w=677"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "hood river",
+        "hood river county",
+        "wasco county",
+        "oregon"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "2015260100"
+      ],
+      "numeric_shelf_id": 189910051,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "serial and government publications division",
+        "the hood river sun (hood river, wasco county, oregon) 1899-19??"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 17.786287,
+      "shelf_id": "2015260100, 1899-10-05, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "united states",
+        "newspapers",
+        "wasco county (or.)",
+        "hood river",
+        "hood river county",
+        "hood river county (or.)",
+        "wasco county",
+        "oregon",
+        "hood river (or.)"
+      ],
+      "timestamp": "2024-07-16T05:11:24.415Z",
+      "title": "The Hood River sun (Hood River, Wasco County, Oregon), October 5, 1899",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/2015260100/1899-10-05/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2015260100/1899-10-12/ed-1/",
+        "http://www.loc.gov/resource/2015260100/1899-10-12/ed-1/"
+      ],
+      "batch": [
+        "oru_quartz_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of oregon libraries; eugene, or"
+      ],
+      "date": "1899-10-12",
+      "dates": [
+        "1899-10-12"
+      ],
+      "description": [
+        "Hood River, Wasco County, Oregon"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-07-15T14:41:29.744Z",
+      "group": [
+        "ndnp/oru",
+        "university-of-oregon-libraries-eugene-or-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2015260100/1899-10-12/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:2015260100:print:1899101201:0009/full/pct:6.25/0/default.jpg#h=451&w=339",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:2015260100:print:1899101201:0009/full/pct:12.5/0/default.jpg#h=903&w=678"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "hood river",
+        "hood river county",
+        "wasco county",
+        "oregon"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "2015260100"
+      ],
+      "numeric_shelf_id": 189910121,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "serial and government publications division",
+        "the hood river sun (hood river, wasco county, oregon) 1899-19??"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 17.786287,
+      "shelf_id": "2015260100, 1899-10-12, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "united states",
+        "newspapers",
+        "wasco county (or.)",
+        "hood river",
+        "hood river county",
+        "hood river county (or.)",
+        "wasco county",
+        "oregon",
+        "hood river (or.)"
+      ],
+      "timestamp": "2024-07-16T05:11:24.415Z",
+      "title": "The Hood River sun (Hood River, Wasco County, Oregon), October 12, 1899",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/2015260100/1899-10-12/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2015260100/1899-10-19/ed-1/",
+        "http://www.loc.gov/resource/2015260100/1899-10-19/ed-1/"
+      ],
+      "batch": [
+        "oru_quartz_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of oregon libraries; eugene, or"
+      ],
+      "date": "1899-10-19",
+      "dates": [
+        "1899-10-19"
+      ],
+      "description": [
+        "Hood River, Wasco County, Oregon"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-07-15T14:41:29.744Z",
+      "group": [
+        "ndnp/oru",
+        "university-of-oregon-libraries-eugene-or-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2015260100/1899-10-19/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:2015260100:print:1899101901:0013/full/pct:6.25/0/default.jpg#h=452&w=340",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:oru:batch_oru_quartz_ver02:data:2015260100:print:1899101901:0013/full/pct:12.5/0/default.jpg#h=904&w=680"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "hood river",
+        "hood river county",
+        "wasco county",
+        "oregon"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "2015260100"
+      ],
+      "numeric_shelf_id": 189910191,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "serial and government publications division",
+        "the hood river sun (hood river, wasco county, oregon) 1899-19??"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 17.786287,
+      "shelf_id": "2015260100, 1899-10-19, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "united states",
+        "newspapers",
+        "wasco county (or.)",
+        "hood river",
+        "hood river county",
+        "hood river county (or.)",
+        "wasco county",
+        "oregon",
+        "hood river (or.)"
+      ],
+      "timestamp": "2024-07-16T05:11:24.415Z",
+      "title": "The Hood River sun (Hood River, Wasco County, Oregon), October 19, 1899",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/2015260100/1899-10-19/ed-1/"
+    }
+  ],
+  "reproductions": "<p>\n    If an image is displaying, you can download it yourself. (Some images \n    display only as thumbnails outside the Library of Congress because of rights \n    considerations, but you have access to larger size images on site.)\n</p>\n<p>\nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n<p>\n    <ol>\n        <p>\n            <li>\n                <strong>If a digital image is displaying:</strong>\n                The qualities of the digital image \n                partially depend on whether it was made from the original or an  \n                intermediate such as a copy negative or transparency. If the Reproduction \n                Number field above includes a reproduction number that starts with  \n                LC-DIG..., then there is a digital image that was made directly \n                from the original and is of sufficient resolution for most publication\n                purposes.\n            </li>\n        </p>\n        <li>\n            <strong>If there is information listed in the Reproduction Number field above:</strong>\n            You can use the reproduction number to purchase a copy from Duplication \n            Services.  It will be made from the source listed in the parentheses after  \n            the number. \n            <table width=\"75%\" border=\"1\" align=\"center\" cellpadding=\"1\" bordercolor=\"#993333\">\n                <tr>\n                    <td>\n                        <p>\n                            <strong>\n                                <center>\n                                    Expect\n                                    Delays in Service of Nitrate Negatives\n                                </center>\n                            </strong>\n                        </p>\n\t\t\t\t\t\t\n<p>\t\t\t\t\t\t\nReproductions of all types are available, but Duplication Services anticipates an \n8-10 week turnaround in completing orders, as all negatives must be reproduced at \ntheir off-site, cold storage facility.\n</p>\n<p>\nClues that an FSA/OWI/OEM image may be affected are:<br />\n<strong>Medium</strong> field says \"1 negative : nitrate\" OR <br />\n<strong>Reproduction Number</strong> field begins with: LC-USF33- \n</p>\n              \n                        <p>\n                            If either is the case, you may wish to consult\n                            with Prints and Photographs Division reference staff\n                            (202-707-6394). In certain instances, duplicate\n                            negatives are available for copying.\n                        </p>\n                    </td>\n                </tr>\n            </table>\n            <p>\n                If only black-and-white (&quot;b&w&quot;) sources are listed and you \n                desire a copy showing color or tint (assuming the original has any),  \n                you can generally purchase a quality copy of the original in color by \n                citing the Call Number listed above and including the catalog record \n                (&quot;About This Item&quot;) with your request.\n            </p>\n        </li>\n        <li>\n            <strong>If there is no information listed in the Reproduction Number field \n                above:</strong>\n            You can generally purchase a quality copy through \n            Duplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n            your request.\n        </li>\n    </ol>\n</p>\n<p>\n    Price lists, contact information, and order forms are available on the<a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>. \n</p>\n",
+  "resource": {
+    "caption": "(digital file from original neg.)",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22500/8c22565_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/fsa.8c22565/"
+  },
+  "resources": [
+    {
+      "caption": "(digital file from original neg.)",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c22000/8c22500/8c22565_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/fsa.8c22565/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294110227,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/fsa.8c22565/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/fsa.8c22565/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/fsa.8c22565/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/fsa.8c22565/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/fsa.8c22565/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/fsa.8c22565/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/fsa.8c22565/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/fsa.8c22565/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/fsa.8c22565/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/fsa.8c22565/?fo=json&st=text"
+  }
+}

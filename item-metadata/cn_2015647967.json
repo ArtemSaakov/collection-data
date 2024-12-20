@@ -1,0 +1,1533 @@
+{
+  "articles_and_essays": [
+    {
+      "score": 6.165928,
+      "title": "Today in History - May 1",
+      "url": "https://www.loc.gov/item/today-in-history/may-01/"
+    }
+  ],
+  "cite_this": {
+    "apa": "Sierra, T., photographer. (2011) <cite>The People's Library set up by the Occupy Wall Street protest movement in Zuccotti Park, New York City</cite>. , 2011. October. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2015647967/.",
+    "chicago": "Sierra, Teri, photographer. <cite>The People's Library set up by the Occupy Wall Street protest movement in Zuccotti Park, New York City</cite>. , 2011. October. Photograph. https://www.loc.gov/item/2015647967/.",
+    "mla": "Sierra, Teri, photographer. <cite>The People's Library set up by the Occupy Wall Street protest movement in Zuccotti Park, New York City</cite>. October. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2015647967/&gt;."
+  },
+  "collection": null,
+  "item": {
+    "_version_": 1774491439542042624,
+    "access_advisory": "Served by appointment (Unprocessed). To make a request, see \"Access to Unprocessed Materials,\" https://www.loc.gov/rr/print/info/022_unpr.html",
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2015647967/",
+      "http://www.loc.gov/item/2015647967/",
+      "http://www.loc.gov/pictures/item/2015647967/",
+      "https://hdl.loc.gov/loc.pnp/ppbd.00600",
+      "https://hdl.loc.gov/loc.pnp/ppbd.00600",
+      "http://www.loc.gov/resource/ppbd.00600/",
+      "http://lccn.loc.gov/2015647967"
+    ],
+    "call_number": "Unprocessed in PR 13 CN 2015:076 [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Sierra, Teri, photographer"
+    ],
+    "contributors": [
+      {
+        "sierra, teri": "https://www.loc.gov/search/?fa=contributor:sierra,+teri&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2016-04-21T05:23:19Z",
+    "created_published": [
+      "2011 October."
+    ],
+    "created_published_date": "2011 October.",
+    "date": "2011",
+    "dates": [
+      {
+        "2011": "https://www.loc.gov/search/?dates=2011/2011&fo=json"
+      }
+    ],
+    "description": [
+      "1 photograph : born digital ; JPEG format. | 1 photograph : digital files copied onto an LC server."
+    ],
+    "digital_id": [
+      "ppbd 00600 https://hdl.loc.gov/loc.pnp/ppbd.00600"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2023-07-17T14:52:51.669Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/item/2015647967/#pp_other",
+      "http://lccn.loc.gov/2015647967#catalog-split-15"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "group": [
+      "pp_other",
+      "catalog-split-15",
+      "catalog",
+      "prints-and-photographs-other",
+      "main-catalog-split-15"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2015647967/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00600_150px.jpg#h=150&w=112",
+      "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00600r.jpg#h=640&w=478",
+      "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00600v.jpg#h=1024&w=765"
+    ],
+    "index": 1,
+    "item": {
+      "access_advisory": "Served by appointment (Unprocessed). To make a request, see \"Access to Unprocessed Materials,\" https://www.loc.gov/rr/print/info/022_unpr.html",
+      "call_number": "Unprocessed in PR 13 CN 2015:076 [P&P]",
+      "contributors": [
+        "Sierra, Teri, photographer"
+      ],
+      "control_number": "2015647967",
+      "created": "2016-04-21T05:23:19Z",
+      "created_published": "2011 October.",
+      "created_published_date": "2011 October.",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Sierra%2C%20Teri",
+          "role": "photographer",
+          "title": "Sierra, Teri"
+        }
+      ],
+      "date": "2011 October.",
+      "digital_id": [
+        "ppbd 00600 https://hdl.loc.gov/loc.pnp/ppbd.00600"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "id": "2015647967",
+      "link": "https://www.loc.gov/pictures/item/2015647967/",
+      "marc": "https://www.loc.gov/pictures/item/2015647967/marc/",
+      "medium": [
+        "1 photograph : born digital ; JPEG format.",
+        "1 photograph : digital files copied onto an LC server."
+      ],
+      "medium_brief": "1 photograph :\n1 photograph :",
+      "mediums": [
+        "1 photograph : born digital ; JPEG format.",
+        "1 photograph : digital files copied onto an LC server."
+      ],
+      "modified": "2016-04-21T05:23:20Z",
+      "notes": [
+        "This catalog record contains preliminary data.",
+        "Title devised by Library staff.",
+        "One of two digital photographs from October 2011 showing several plastic tubs of reading material below a cardboard sign: \"The People's Library\" and plastic tubs of reading material, covered from the weather.",
+        "Gift; Teri Sierra; 2015; (DLC/PP-2015:076)."
+      ],
+      "other_control_numbers": [
+        "18701395"
+      ],
+      "raw_collections": [
+        "diof",
+        "iuc",
+        "pp"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-ppbd-00600 (digital file from unidentified source)",
+      "resource_links": [
+        "https://hdl.loc.gov/loc.pnp/ppbd.00600"
+      ],
+      "restriction": "Served by appointment (Unprocessed). To make a request, see \"Access to Unprocessed Materials,\" https://www.loc.gov/rr/print/info/022_unpr.html",
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00600_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00600r.jpg",
+      "sort_date": "2011",
+      "source_created": "2015-07-15T00:00:00Z",
+      "source_modified": "2015-09-15T10:38:29Z",
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00600_150px.jpg",
+      "title": "The People's Library set up by the Occupy Wall Street protest movement in Zuccotti Park, New York City"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2015647967",
+    "link": "https://www.loc.gov/pictures/item/2015647967/",
+    "marc": "https://www.loc.gov/pictures/item/2015647967/marc/",
+    "medium": [
+      "1 photograph : born digital ; JPEG format.",
+      "1 photograph : digital files copied onto an LC server."
+    ],
+    "medium_brief": "1 photograph :\n1 photograph :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2016-04-21T05:23:20Z",
+    "notes": [
+      "This catalog record contains preliminary data.",
+      "Title devised by Library staff.",
+      "One of two digital photographs from October 2011 showing several plastic tubs of reading material below a cardboard sign: \"The People's Library\" and plastic tubs of reading material, covered from the weather.",
+      "Gift; Teri Sierra; 2015; (DLC/PP-2015:076)."
+    ],
+    "number": [
+      "2015-09-15t10:38:29",
+      "http://www.loc.gov/item/18701395",
+      "online resource",
+      "2015647967"
+    ],
+    "number_carrier_type": [
+      "online resource"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/18701395"
+    ],
+    "number_lccn": [
+      "2015647967"
+    ],
+    "number_source_modified": [
+      "2015-09-15t10:38:29"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "18701395"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2015647967/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2015647967/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2015647967/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "raw_collections": [
+      "diof",
+      "iuc",
+      "pp"
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&pk=2015647967&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-ppbd-00600 (digital file from unidentified source)",
+    "reproductions": [],
+    "resource_links": [
+      "https://hdl.loc.gov/loc.pnp/ppbd.00600"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from unidentified source",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00600_150px.jpg",
+        "url": "https://www.loc.gov/resource/ppbd.00600/"
+      }
+    ],
+    "restriction": "Served by appointment (Unprocessed). To make a request, see \"Access to Unprocessed Materials,\" https://www.loc.gov/rr/print/info/022_unpr.html",
+    "rights": [],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 18.238049,
+    "shard": "00",
+    "shelf_id": "Unprocessed in PR 13 CN 2015:076 [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "2011",
+    "source_created": "2015-07-15T00:00:00Z",
+    "source_modified": "2000-01-01T12:00:00Z",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00600_150px.jpg",
+    "timestamp": "2023-08-17T15:41:50.415Z",
+    "title": "The People's Library set up by the Occupy Wall Street protest movement in Zuccotti Park, New York City",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2015647967/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2015647966/",
+        "http://www.loc.gov/item/2015647966/",
+        "http://www.loc.gov/pictures/item/2015647966/",
+        "https://hdl.loc.gov/loc.pnp/ppbd.00601",
+        "https://hdl.loc.gov/loc.pnp/ppbd.00601",
+        "http://www.loc.gov/resource/ppbd.00601/",
+        "http://lccn.loc.gov/2015647966"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "sierra, teri"
+      ],
+      "date": "2011",
+      "dates": [
+        "2011"
+      ],
+      "description": [
+        "1 photograph : born digital ; JPEG format. | 1 photograph : digital files copied onto an LC server."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-17T14:52:51.669Z",
+      "group": [
+        "pp_other",
+        "catalog-split-14",
+        "catalog",
+        "prints-and-photographs-other",
+        "main-catalog-split-14"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2015647966/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00601_150px.jpg#h=150&w=112",
+        "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00601r.jpg#h=640&w=478",
+        "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00601v.jpg#h=1024&w=765"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2015647966",
+        "online resource",
+        "2015-09-15t10:38:20",
+        "http://www.loc.gov/item/18701380"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 11.925251,
+      "shelf_id": "Unprocessed in PR 13 CN 2015:077 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "timestamp": "2023-08-17T15:41:50.415Z",
+      "title": "The People's Library set up by the Occupy Wall Street protest movement in Zuccotti Park, New York City",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2015647966/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/03000700/",
+        "http://www.loc.gov/item/03000700/",
+        "http://www.loc.gov/pictures/item/03000700/",
+        "https://www.loc.gov/pictures/collection/coll/item/03000700/",
+        "http://www.loc.gov/pictures/collection/coll/item/03000700/",
+        "http://lccn.loc.gov/03000700",
+        "https://hdl.loc.gov/loc.gdc/gdclccn.03000700_index",
+        "http://www.loc.gov/resource/gdclccn.03000700_index/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "o'sullivan, timothy h.",
+        "wheeler, george montague",
+        "bell, william",
+        "united states. geographical surveys west of the 100th meridian"
+      ],
+      "date": "1875-01-01",
+      "dates": [
+        "1875"
+      ],
+      "description": [
+        "1 p.l., 50 photographic prints : albumen ; 41 x 55 cm."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-03-14T19:57:19.889Z",
+      "group": [
+        "coll",
+        "catalog-split-10",
+        "catalog",
+        "gdc/gdcdigbooks/batch/4",
+        "groups-of-images",
+        "main-catalog-split-10",
+        "main-catalog",
+        "general-collections-migrated-pageturners-batch-4"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/03000700/",
+      "image_url": [
+        "https://www.loc.gov/static/images/original-format/group-of-images.svg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdclccn:03:00:07:00:_i:nd:ex:03000700_index:00000001/full/pct:6.25/0/default.jpg#h=412&w=318",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdclccn:03:00:07:00:_i:nd:ex:03000700_index:00000001/full/pct:12.5/0/default.jpg#h=825&w=637",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdclccn:03:00:07:00:_i:nd:ex:03000700_index:00000001/full/pct:25/0/default.jpg#h=1650&w=1275",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdclccn:03:00:07:00:_i:nd:ex:03000700_index:00000001/full/pct:50/0/default.jpg#h=3300&w=2550",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdclccn:03:00:07:00:_i:nd:ex:03000700_index:00000001/full/pct:100/0/default.jpg#h=6600&w=5100"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "application/pdf",
+        "text/plain",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2022-07-05t13:11:12",
+        "03000700",
+        "http://www.loc.gov/item/9132847"
+      ],
+      "online_format": [
+        "pdf",
+        "online text",
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing",
+        "book"
+      ],
+      "other_title": [
+        "Wheeler Survey"
+      ],
+      "partof": [
+        "selected digitized books",
+        "groups of images (lots)",
+        "prints and photographs division",
+        "general collections",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "lot 12026"
+      ],
+      "score": 9.045134,
+      "shelf_id": "F594 .U580 Case Z [P&P] Copy 3 (Volume of photographs) Microfilm 79588 F [P&P Reference Collection] X-Copy (Photocopy, text supplement only) LOT 12026 Microfilm copy (of text supplement only) (M) (text supplement only) [P&P]  [General Collections] Copy 1",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "albumen prints",
+        "west (u.s.)",
+        "pictorial works",
+        "southwest, new"
+      ],
+      "timestamp": "2023-03-14T20:05:46.999Z",
+      "title": "Photographs showing landscapes, geological and other features, of portions of the western territory of the United States, obtained in connection with geographical and geological explorations and surveys west of the 100th meridian, seasons of 1871, 1872 and 1873.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/03000700/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/54060020/",
+        "http://www.loc.gov/item/54060020/",
+        "http://www.loc.gov/pictures/item/54060020/",
+        "https://www.loc.gov/pictures/collection/coll/item/54060020/",
+        "http://www.loc.gov/pictures/collection/coll/item/54060020/",
+        "http://www.loc.gov/resource/gdclccn.54060020/",
+        "http://lccn.loc.gov/54060020",
+        "https://hdl.loc.gov/loc.gdc/gdclccn.54060020"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress. reference department",
+        "vanderbilt, paul"
+      ],
+      "date": "1955-01-01",
+      "dates": [
+        "1955"
+      ],
+      "description": [
+        "v, 200 p. 26 cm."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-03-14T19:59:21.562Z",
+      "group": [
+        "coll",
+        "gdc/gdcdigbooks/batch/2",
+        "catalog-split-01",
+        "catalog",
+        "groups-of-images",
+        "general-collections-migrated-pageturners-batch-2",
+        "main-catalog-split-01",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/54060020/",
+      "image_url": [
+        "https://www.loc.gov/static/images/original-format/group-of-images.svg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdclccn:54:06:00:20:54060020:00000001/full/pct:6.25/0/default.jpg#h=412&w=318",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdclccn:54:06:00:20:54060020:00000001/full/pct:12.5/0/default.jpg#h=825&w=637",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdclccn:54:06:00:20:54060020:00000001/full/pct:25/0/default.jpg#h=1650&w=1275",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdclccn:54:06:00:20:54060020:00000001/full/pct:50/0/default.jpg#h=3300&w=2550",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdclccn:54:06:00:20:54060020:00000001/full/pct:100/0/default.jpg#h=6600&w=5100"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/tiff",
+        "application/pdf",
+        "text/plain",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/item/9327920",
+        "2021-09-02t15:17:32",
+        "54060020"
+      ],
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "photo, print, drawing",
+        "book"
+      ],
+      "partof": [
+        "selected digitized books",
+        "groups of images (lots)",
+        "prints and photographs division",
+        "general collections",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "lot 12018"
+      ],
+      "score": 9.045134,
+      "shelf_id": "Microfilm 79589 NE [General Collections] Copy 1 NE53.W2 A52 [Microfilm RR] Copy 1 LOT 12018 Microfilm copy (M) [P&P]  r-MSSRef X-Copy",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "photographs",
+        "washington (d.c.)",
+        "catalogs",
+        "engraving"
+      ],
+      "timestamp": "2023-03-14T20:16:30.737Z",
+      "title": "Guide to the special collections of prints & photographs in the Library of Congress,",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/54060020/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/00652549",
+        "http://www.loc.gov/resource/cph.3a39529/",
+        "http://www.loc.gov/item/00652549/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a39529",
+        "https://www.loc.gov/pictures/item/00652549/",
+        "http://www.loc.gov/pictures/item/00652549/",
+        "https://www.loc.gov/pictures/collection/cph/item/00652549/",
+        "http://www.loc.gov/pictures/collection/cph/item/00652549/"
+      ],
+      "campaigns": [],
+      "date": "1911-01-01",
+      "dates": [
+        "1911"
+      ],
+      "description": [
+        "J152199 U.S. Copyright Office."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T04:39:43.666Z",
+      "group": [
+        "natfor",
+        "cph",
+        "catalog-split-15",
+        "catalog",
+        "recordings-from-world-war-i-and-the-1920-election",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652549/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a39000/3a39500/3a39529_150px.jpg#h=108&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a39000/3a39500/3a39529t.gif#h=108&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a39000/3a39500/3a39529r.jpg#h=462&w=640"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/12210099",
+        "http://www.loc.gov/item/00652549",
+        "2016-04-12t07:58:16",
+        "00652549"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american leaders speak: recordings from world war i",
+        "miscellaneous items in high demand",
+        "prints and photographs division",
+        "catalog",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 9.045134,
+      "shelf_id": "BIOG FILE - Hitchcock, Gilbert M., 1859-1934 [item]",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "gilbert monell)",
+        "portrait photographs",
+        "hitchcock, gilbert m.",
+        "photographic prints"
+      ],
+      "timestamp": "2022-12-10T04:23:26.621Z",
+      "title": "[Gilbert M. Hitchcock, half-length portrait, standing, facing right, wearing overcoat and bowler]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/00652549/"
+    },
+    {
+      "access_restricted": true,
+      "aka": [
+        "https://hdl.loc.gov/loc.pnp/ppmsc.03675",
+        "http://www.loc.gov/resource/ppmsc.03675/",
+        "http://www.loc.gov/item/00652550/",
+        "http://lccn.loc.gov/00652550",
+        "https://www.loc.gov/pictures/item/00652550/",
+        "http://www.loc.gov/pictures/item/00652550/",
+        "https://www.loc.gov/pictures/collection/cph/item/00652550/",
+        "http://www.loc.gov/pictures/collection/cph/item/00652550/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "betts, louis"
+      ],
+      "date": "1960-01-01",
+      "dates": [
+        "1960"
+      ],
+      "description": [
+        "Photograph of a painting by Louis Betts. Architect of the Capitol collection."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T04:39:43.666Z",
+      "group": [
+        "natfor",
+        "cph",
+        "catalog-split-07",
+        "catalog",
+        "recordings-from-world-war-i-and-the-1920-election",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-07",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652550/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03675_150px.jpg#h=150&w=122"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/00652550",
+        "http://www.loc.gov/item/12210111",
+        "2016-04-12t07:58:47",
+        "00652550"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american leaders speak: recordings from world war i",
+        "miscellaneous items in high demand",
+        "prints and photographs division",
+        "catalog",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 9.045134,
+      "shelf_id": "BIOG FILE - Lewis, James Hamilton, 1863-1939 [item]",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "reproductions",
+        "photographic prints",
+        "lewis, james",
+        "portrait paintings"
+      ],
+      "timestamp": "2022-12-10T04:23:26.621Z",
+      "title": "[James Hamilton Lewis, first Democratic whip of the Senate, half-length portrait, seated, facing front]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/00652550/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/00652551",
+        "http://www.loc.gov/resource/cph.3a36598/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a36598",
+        "http://www.loc.gov/resource/ppmsc.03676/",
+        "https://hdl.loc.gov/loc.pnp/ppmsc.03676",
+        "http://www.loc.gov/item/00652551/",
+        "https://www.loc.gov/pictures/item/00652551/",
+        "http://www.loc.gov/pictures/item/00652551/",
+        "https://www.loc.gov/pictures/collection/cph/item/00652551/",
+        "http://www.loc.gov/pictures/collection/cph/item/00652551/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "macdonald, pirie"
+      ],
+      "date": "1916-01-01",
+      "dates": [
+        "1916"
+      ],
+      "description": [
+        "J210809 U.S. Copyright Office."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T04:39:43.666Z",
+      "group": [
+        "natfor",
+        "cph",
+        "catalog-split-08",
+        "catalog",
+        "recordings-from-world-war-i-and-the-1920-election",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652551/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03676_150px.jpg#h=150&w=101",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03676t.gif#h=150&w=101",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03676r.jpg#h=640&w=433",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03676v.jpg#h=1024&w=692"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/00652551",
+        "00652551",
+        "2016-04-12t07:59:10",
+        "http://www.loc.gov/item/12210234"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american leaders speak: recordings from world war i",
+        "miscellaneous items in high demand",
+        "prints and photographs division",
+        "catalog",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 9.045134,
+      "shelf_id": "BIOG FILE - Lodge, Henry Cabot, 1850-1924 [item]",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "lodge, henry cabot",
+        "photographic prints",
+        "portrait photographs"
+      ],
+      "timestamp": "2022-12-10T04:23:26.621Z",
+      "title": "[Senator Henry Cabot Lodge, head-and-shoulders portrait, facing right]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/00652551/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "pp_other",
+      "catalog-split-15",
+      "catalog",
+      "prints-and-photographs-other",
+      "main-catalog-split-15",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "coll",
+      "catalog-split-10",
+      "gdc/gdcdigbooks/batch/4",
+      "groups-of-images",
+      "main-catalog-split-10",
+      "main-catalog",
+      "general-collections-migrated-pageturners-batch-4",
+      "gdc/gdcdigbooks/batch/2",
+      "catalog-split-01",
+      "general-collections-migrated-pageturners-batch-2",
+      "main-catalog-split-01",
+      "natfor",
+      "cph",
+      "recordings-from-world-war-i-and-the-1920-election",
+      "miscellaneous-items-high-demand",
+      "catalog-split-07",
+      "main-catalog-split-07",
+      "catalog-split-08",
+      "main-catalog-split-08",
+      "paprika-iabooks",
+      "catalog-split-09",
+      "main-catalog-split-09",
+      "catalog-split-02",
+      "main-catalog-split-02",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "geospatial_applications",
+      "geospatial-applications",
+      "gdc/webinars",
+      "webinars"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "ppbd.00600",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.4867992401123047,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/ppbd.00600/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/ppbd.00600/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294105.532129,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 15082572,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/ppbd/00600/00600u.tif",
+      "width": 0
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 35193,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00600_150px.jpg",
+      "width": 112
+    },
+    {
+      "height": 640,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 84798,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00600r.jpg",
+      "width": 478
+    },
+    {
+      "height": 1024,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 479538,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00600v.jpg",
+      "width": 765
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&pk=2015647967&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/a18000717",
+        "http://www.loc.gov/item/a18000717/",
+        "http://www.loc.gov/resource/gdcmassbookdig.pictorialsketchb00elib/",
+        "http://www.loc.gov/resource/scd0001.00143123856/",
+        "https://hdl.loc.gov/loc.gdc/scd0001.00143123856"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "bowen, eli",
+        "joseph meredith toner collection (library of congress)"
+      ],
+      "date": "1852",
+      "dates": [
+        "1852"
+      ],
+      "description": [
+        "The fourth part has separate t.-p.: Locomotive sketches, with pen and pencil. From Philadelphia to Pittsburg. (13-192 p.) \"Illustrated with over two hundred engravings and a colored map.\" LC copy 3 forms part of the personal library materials in the Joseph and Elizabeth Robins Pennell Collection. Also available in digital form. Form AACR2: vj46 12/15/83. LAC brd 2019-05-28 no edits (2 cards) LAC nsk 2020-10-23 no edits (2 cards) LAC ecr 2020-11-06 review"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-07-23T21:55:45.618Z",
+      "group": [
+        "paprika-iabooks",
+        "catalog-split-09",
+        "catalog",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/a18000717/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:pictorialsketchb00elib:pictorialsketchb00elib_0007/full/pct:25.0/0/default.jpg#h=804&w=495",
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:pictorialsketchb00elib:pictorialsketchb00elib_0007/full/pct:50.0/0/default.jpg#h=1609&w=990",
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:pictorialsketchb00elib:pictorialsketchb00elib_0007/full/pct:100.0/0/default.jpg#h=3219&w=1981"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pennsylvania"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/jp2",
+        "application/pdf",
+        "application/json",
+        "text/plain"
+      ],
+      "number": [
+        "2020-11-06t13:37:53",
+        "a18000717"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "other_title": [
+        "Pictorial sketch-book of Pennsylvania",
+        "Its scenery, internal improvements, resources, and agriculture, populary described"
+      ],
+      "partof": [
+        "selected digitized books",
+        "prints and photographs division",
+        "general collections",
+        "catalog"
+      ],
+      "score": 4.1314716,
+      "shelf_id": "F153 .B783 1852 F153 .B783 1852 Copy 2",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "description and travel",
+        "railroads",
+        "pennsylvania",
+        "mines and mineral resources"
+      ],
+      "timestamp": "2023-06-03T13:41:51.259Z",
+      "title": "The pictorial sketch-book of Pennsylvania, or, Its scenery, internal improvements, resources, and agriculture, populary described,",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/a18000717/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/a20000771",
+        "http://www.loc.gov/item/a20000771/",
+        "http://www.loc.gov/resource/gdcmassbookdig.yucatecansceness00kels/",
+        "https://hdl.loc.gov/loc.gdc/scd0001.00001373031",
+        "http://www.loc.gov/resource/scd0001.00001373031/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "kelsey, albert",
+        "numismatic and antiquarian society of philadelphia"
+      ],
+      "date": "1919",
+      "dates": [
+        "1919"
+      ],
+      "description": [
+        "LC copy 2 forms part of the personal library materials in the Joseph and Elizabeth Robins Pennell Collection. Also available in digital form."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-09-12T17:29:44.464Z",
+      "group": [
+        "paprika-iabooks",
+        "catalog-split-02",
+        "catalog",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/a20000771/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:yucatecansceness00kels:yucatecansceness00kels_0007/full/pct:25.0/0/default.jpg#h=919&w=605",
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:yucatecansceness00kels:yucatecansceness00kels_0007/full/pct:50.0/0/default.jpg#h=1838&w=1211",
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:yucatecansceness00kels:yucatecansceness00kels_0007/full/pct:100.0/0/default.jpg#h=3676&w=2422"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "mexico",
+        "yucatán"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/jp2",
+        "application/pdf",
+        "application/json",
+        "text/plain"
+      ],
+      "number": [
+        "a20000771",
+        "1369366",
+        "2019-01-26t10:16:37"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "selected digitized books",
+        "prints and photographs division",
+        "general collections",
+        "catalog"
+      ],
+      "score": 4.1314716,
+      "shelf_id": "F1376 .K4",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "description and travel",
+        "yucatán (mexico : state)"
+      ],
+      "timestamp": "2023-06-05T05:58:06.551Z",
+      "title": "Yucatecan scenes and sounds;",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/a20000771/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/sf98085624",
+        "http://www.loc.gov/item/sf98085624/",
+        "http://www.loc.gov/resource/gdcmassbookdig.reportofboardofc01newy/",
+        "https://hdl.loc.gov/loc.gdc/scd0001.00001258187",
+        "http://www.loc.gov/resource/scd0001.00001258187/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "new york (n.y.). board of commissioners of the central park"
+      ],
+      "date": "1858",
+      "dates": [
+        "[1858 TO 1869]"
+      ],
+      "description": [
+        "Annual 2nd (1858)-13th (1869). Continues: New York (N.Y.). Board of Commissioners of the Central Park. Annual report on the improvement of the Central Park, New York. Continued by: New York (N.Y.). Board of Commissioners of the Central Park. Report of the Board of Commissioners of the Central Park. New York (N.Y.). Board of Commissioners of the Central Park. Report of the Board of Commissioners of the Central Park (DLC)   08003313 (OCoLC)6118591 ESL shelf mark: 626 09 A009 b2"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-10-15T16:10:37.865Z",
+      "group": [
+        "paprika-iabooks",
+        "catalog-split-03",
+        "catalog",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sf98085624/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:reportofboardofc01newy:reportofboardofc01newy_0013/full/pct:25.0/0/default.jpg#h=808&w=491",
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:reportofboardofc01newy:reportofboardofc01newy_0013/full/pct:50.0/0/default.jpg#h=1617&w=982",
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:reportofboardofc01newy:reportofboardofc01newy_0013/full/pct:100.0/0/default.jpg#h=3235&w=1964"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "new york",
+        "central park"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/jp2",
+        "text/plain",
+        "application/json",
+        "application/pdf"
+      ],
+      "number": [
+        "6118415",
+        "2022-10-13t06:57:13",
+        "08003313",
+        "28014961",
+        "sf98085624"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "periodical"
+      ],
+      "partof": [
+        "selected digitized books",
+        "annual report of the board of commissioners of the central park ([new york]) 1858-1869",
+        "catalog",
+        "prints and photographs division"
+      ],
+      "publication_frequency": [
+        "other"
+      ],
+      "score": 4.1314716,
+      "shelf_id": "SB483 .N55",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "periodicals",
+        "v",
+        "new york",
+        "new york (state)",
+        "annual reports",
+        "central park (new york, n.y.)",
+        "central park"
+      ],
+      "timestamp": "2023-06-04T20:36:26.594Z",
+      "title": "Annual report of the Board of Commissioners of the Central Park.",
+      "type": [
+        "periodical"
+      ],
+      "url": "https://www.loc.gov/item/sf98085624/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/08016451",
+        "http://www.loc.gov/item/08016451/",
+        "http://www.loc.gov/resource/gdcmassbookdig.viewsreviews00jame/",
+        "https://hdl.loc.gov/loc.gdc/scd0001.0013137690A",
+        "http://www.loc.gov/resource/scd0001.0013137690A/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "phillips, leroy",
+        "james, henry",
+        "ralph ellison collection (library of congress)",
+        "henry james collection (library of congress)"
+      ],
+      "date": "1908",
+      "dates": [
+        "1908"
+      ],
+      "description": [
+        "Also available in digital form. LAC tnb 2021-10-26 update (1 card) LAC tnb 2019-11-21 no edits (1 card)"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-09-03T23:06:07.097Z",
+      "group": [
+        "paprika-iabooks",
+        "catalog-split-09",
+        "catalog",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/08016451/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:viewsreviews00jame:viewsreviews00jame_0009/full/pct:25.0/0/default.jpg#h=853&w=517",
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:viewsreviews00jame:viewsreviews00jame_0009/full/pct:50.0/0/default.jpg#h=1707&w=1035",
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:viewsreviews00jame:viewsreviews00jame_0009/full/pct:100.0/0/default.jpg#h=3414&w=2071"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/jp2",
+        "application/pdf",
+        "application/json",
+        "text/plain"
+      ],
+      "number": [
+        "2021-10-26t12:50:45",
+        "08016451"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "selected digitized books",
+        "prints and photographs division",
+        "general collections",
+        "catalog"
+      ],
+      "score": 4.1314716,
+      "shelf_id": "PR463 .J2 A/VIII/4 Copy 1",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "history and criticism",
+        "19th century",
+        "english literature"
+      ],
+      "timestamp": "2023-06-05T01:28:23.622Z",
+      "title": "Views and reviews,",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/08016451/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/ghe/cascade/index.html?appid=101b5706178a4b4a90da6d76893137cc",
+        "https://loc.maps.arcgis.com/sharing/rest/content/items/101b5706178a4b4a90da6d76893137cc?f=json"
+      ],
+      "campaigns": [],
+      "date": "2024-08-27",
+      "dates": [
+        "2024-08-27T17:25:15Z"
+      ],
+      "description": [
+        "Noted architectural photographer Frances Benjamin Johnston created a systematic record of early American buildings and gardens called the Carnegie Survey of the Architecture of the South (CSAS), primarily in the 1930s."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-08-27T21:52:30.060Z",
+      "group": [
+        "geospatial_applications",
+        "geospatial-applications"
+      ],
+      "hassegments": false,
+      "id": "https://www.loc.gov/ghe/cascade/index.html?appid=101b5706178a4b4a90da6d76893137cc",
+      "image_url": [
+        "https://loc.maps.arcgis.com/sharing/rest/content/items/101b5706178a4b4a90da6d76893137cc/info/thumbnail/thumbnail.png"
+      ],
+      "index": 5,
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "story maps",
+        "prints and photographs division",
+        "geospatial applications"
+      ],
+      "score": 4.00731,
+      "shelf_id": "https://www.loc.gov/ghe/cascade/index.html?appid=101b5706178a4b4a90da6d76893137cc",
+      "subject": [
+        "library of congress",
+        "photography",
+        "carnegie survey of the architecture of the south",
+        "prints and photographs division",
+        "surveying the south",
+        "historic preservation",
+        "architecture"
+      ],
+      "timestamp": "2024-08-27T21:53:03.566Z",
+      "title": "Surveying the South",
+      "url": "https://www.loc.gov/ghe/cascade/index.html?appid=101b5706178a4b4a90da6d76893137cc"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2024698155",
+        "http://www.loc.gov/item/2024698155/",
+        "https://hdl.loc.gov/loc.gdc/gdcwebinars.220602pnp1900",
+        "http://www.loc.gov/resource/gdcwebinars.220602pnp1900/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress",
+        "library of congress. prints and photographs division"
+      ],
+      "date": "2022",
+      "dates": [
+        "2022"
+      ],
+      "description": [
+        "People have been making fan art for as long as there has been media to be a fan of. From the Shakespeare fandom among 19th century Pre-Raphaelite artists to the international phenomenon of the Dark Souls games of the 2010s, the proliferation of fan art for these works reflects their cultural impact. In this video, we explore the research value of fan art using examples from the Fine Print and Small Press Expo collections."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-20T06:07:06.628Z",
+      "group": [
+        "catalog-split-10",
+        "catalog",
+        "gdc/webinars",
+        "main-catalog-split-10",
+        "webinars"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2024698155/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gdc/gdcwebinars/22/06/02/pn/p1/90/0/220602pnp1900/220602pnp1900_20.0_thumb.jpg"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "video/mp4",
+        "text/plain",
+        "image/jpeg"
+      ],
+      "number": [
+        "2024698155",
+        "online resource",
+        "2024-10-18t18:18:58",
+        "http://www.loc.gov/item/webcast-10503"
+      ],
+      "online_format": [
+        "video",
+        "online text",
+        "image"
+      ],
+      "original_format": [
+        "film, video"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "general collections",
+        "catalog",
+        "webinars"
+      ],
+      "score": 4.00731,
+      "shelf_id": "http://lccn.loc.gov/2024698155",
+      "site": [
+        "catalog"
+      ],
+      "timestamp": "2024-10-20T06:08:04.032Z",
+      "title": "Fan Art as a Record of Popular Culture",
+      "type": [
+        "moving image"
+      ],
+      "url": "https://www.loc.gov/item/2024698155/"
+    }
+  ],
+  "reproductions": "",
+  "resource": {
+    "caption": "digital file from unidentified source",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00600_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/ppbd.00600/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from unidentified source",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/ppbd/00600/00600_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/ppbd.00600/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294106019,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/ppbd.00600/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/ppbd.00600/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/ppbd.00600/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/ppbd.00600/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/ppbd.00600/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/ppbd.00600/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/ppbd.00600/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/ppbd.00600/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/ppbd.00600/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/ppbd.00600/?fo=json&st=text"
+  }
+}

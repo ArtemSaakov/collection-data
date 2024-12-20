@@ -1,0 +1,1712 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "(ca. 1909) <cite>Carnegie Library, Sheldon, Iowa</cite>. Iowa Sheldon, ca. 1909. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/97511671/.",
+    "chicago": "<cite>Carnegie Library, Sheldon, Iowa</cite>. Iowa Sheldon, ca. 1909. Photograph. https://www.loc.gov/item/97511671/.",
+    "mla": "<cite>Carnegie Library, Sheldon, Iowa</cite>. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/97511671/&gt;."
+  },
+  "item": {
+    "_version_": 1731719614711201792,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/97511671/",
+      "http://www.loc.gov/item/97511671/",
+      "http://www.loc.gov/pictures/item/97511671/",
+      "https://www.loc.gov/pictures/collection/cph/item/97511671/",
+      "http://www.loc.gov/pictures/collection/cph/item/97511671/",
+      "http://www.loc.gov/resource/cph.3c18157/",
+      "https://hdl.loc.gov/loc.pnp/cph.3c18157",
+      "http://lccn.loc.gov/97511671"
+    ],
+    "call_number": "U.S. GEOG FILE - Iowa--Sheldon <item> [P&P]",
+    "campaigns": [],
+    "control_number": "",
+    "created": "2016-04-20T09:51:25Z",
+    "created_published": [
+      "[c1909]"
+    ],
+    "created_published_date": "[c1909]",
+    "date": "1909-01-01",
+    "dates": [
+      {
+        "1909": "https://www.loc.gov/search/?dates=1909/1909&fo=json"
+      }
+    ],
+    "description": [
+      "1 photographic print. | Exterior of library, with six people on steps."
+    ],
+    "digital_id": [
+      "cph 3c18157 //hdl.loc.gov/loc.pnp/cph.3c18157"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-24T22:36:39.813Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/cph/item/97511671/#cph",
+      "http://lccn.loc.gov/97511671#catalog-split-05"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Photographic prints--1900-1910."
+    ],
+    "genre": [
+      "Photographic prints--1900-1910"
+    ],
+    "group": [
+      "cph",
+      "catalog-split-05",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-05",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/97511671/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18100/3c18157_150px.jpg#h=121&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18100/3c18157t.gif#h=121&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18100/3c18157r.jpg#h=515&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18100/3c18157v.jpg#h=824&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "U.S. GEOG FILE - Iowa--Sheldon <item> [P&P]",
+      "control_number": "97511671",
+      "created": "2016-04-20T09:51:25Z",
+      "created_published": "[c1909]",
+      "created_published_date": "[c1909]",
+      "date": "[c1909]",
+      "digital_id": [
+        "cph 3c18157 //hdl.loc.gov/loc.pnp/cph.3c18157"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1900-1910.&co=cph",
+          "title": "Photographic prints--1900-1910."
+        }
+      ],
+      "genre": [
+        "Photographic prints--1900-1910"
+      ],
+      "id": "97511671",
+      "link": "https://www.loc.gov/pictures/item/97511671/",
+      "location": [
+        "Iowa--Sheldon"
+      ],
+      "marc": "https://www.loc.gov/pictures/item/97511671/marc/",
+      "medium": [
+        "1 photographic print."
+      ],
+      "medium_brief": "1 photographic print.",
+      "mediums": [
+        "1 photographic print."
+      ],
+      "modified": "2016-04-20T09:51:25Z",
+      "notes": [
+        "H125256 U.S. Copyright Office.",
+        "No. 1."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/97511671",
+        "https://www.loc.gov/item/11699159"
+      ],
+      "other_control_numbers": [
+        "11699159"
+      ],
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Iowa--Sheldon&co=cph",
+          "longitude": "",
+          "title": "Iowa--Sheldon"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA",
+      "reproduction_number": "LC-USZ62-118157 (b&w film copy neg.)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/cph.3c18157"
+      ],
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18100/3c18157_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18100/3c18157r.jpg",
+      "sort_date": "1909",
+      "source_created": "1997-07-01T00:00:00Z",
+      "source_modified": "2004-12-27T16:03:47Z",
+      "subject_headings": [
+        "Libraries--Iowa--Sheldon--1900-1910.",
+        "Iowa--Sheldon"
+      ],
+      "subjects": [
+        "Libraries--Iowa--Sheldon--1900-1910"
+      ],
+      "summary": "Exterior of library, with six people on steps.",
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18100/3c18157_150px.jpg",
+      "title": "Carnegie Library, Sheldon, Iowa"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "97511671",
+    "link": "https://www.loc.gov/pictures/item/97511671/",
+    "location": [
+      "iowa",
+      "sheldon"
+    ],
+    "locations": [
+      {
+        "iowa": "https://www.loc.gov/search/?fa=location:iowa&fo=json"
+      },
+      {
+        "sheldon": "https://www.loc.gov/search/?fa=location:sheldon&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/97511671/marc/",
+    "medium": [
+      "1 photographic print."
+    ],
+    "medium_brief": "1 photographic print.",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2016-04-20T09:51:25Z",
+    "notes": [
+      "H125256 U.S. Copyright Office.",
+      "No. 1."
+    ],
+    "number": [
+      "97511671",
+      "http://www.loc.gov/item/97511671",
+      "http://www.loc.gov/item/11699159",
+      "2004-12-27t16:03:47"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/11699159",
+      "http://www.loc.gov/item/97511671"
+    ],
+    "number_lccn": [
+      "97511671"
+    ],
+    "number_source_modified": [
+      "2004-12-27t16:03:47"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "11699159"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/97511671/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/97511671/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/97511671/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 117442,
+        "title": "miscellaneous items in high demand",
+        "url": "https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Iowa--Sheldon&co=cph",
+        "longitude": "",
+        "title": "Iowa--Sheldon"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=97511671&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA"
+    ],
+    "reproduction_number": "LC-USZ62-118157 (b&w film copy neg.)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/cph.3c18157"
+    ],
+    "resources": [
+      {
+        "caption": "b&w film copy neg.",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18100/3c18157_150px.jpg",
+        "url": "https://www.loc.gov/resource/cph.3c18157/"
+      }
+    ],
+    "rights": [],
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "U.S. GEOG FILE - Iowa--Sheldon <item> [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1909",
+    "source_created": "1997-07-01T00:00:00Z",
+    "source_modified": "2004-12-27T16:03:47Z",
+    "subject": [
+      "iowa",
+      "photographic prints",
+      "libraries",
+      "sheldon"
+    ],
+    "subject_headings": [
+      "Libraries--Iowa--Sheldon--1900-1910"
+    ],
+    "subjects": [
+      {
+        "iowa": "https://www.loc.gov/search/?fa=subject:iowa&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "photographic prints": "https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json"
+      },
+      {
+        "sheldon": "https://www.loc.gov/search/?fa=subject:sheldon&fo=json"
+      }
+    ],
+    "summary": "Exterior of library, with six people on steps.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18100/3c18157_150px.jpg",
+    "timestamp": "2022-05-02T13:01:59.694Z",
+    "title": "Carnegie Library, Sheldon, Iowa",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/97511671/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/97511672/",
+        "http://www.loc.gov/item/97511672/",
+        "http://www.loc.gov/pictures/item/97511672/",
+        "https://www.loc.gov/pictures/collection/cph/item/97511672/",
+        "http://www.loc.gov/pictures/collection/cph/item/97511672/",
+        "http://www.loc.gov/resource/cph.3c18704/",
+        "http://lccn.loc.gov/97511672",
+        "https://hdl.loc.gov/loc.pnp/cph.3c18704"
+      ],
+      "campaigns": [],
+      "date": "1909-01-01",
+      "dates": [
+        "1909"
+      ],
+      "description": [
+        "1 photographic print. | Panoramic view of 9th St. and 3rd Ave., Sheldon, Iowa."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-24T22:36:39.813Z",
+      "group": [
+        "cph",
+        "catalog-split-06",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-06",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/97511672/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18700/3c18704_150px.jpg#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18700/3c18704t.gif#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18700/3c18704r.jpg#h=506&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18700/3c18704v.jpg#h=810&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "iowa",
+        "sheldon"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "97511672",
+        "http://www.loc.gov/item/97511672",
+        "2004-12-29t15:39:49",
+        "http://www.loc.gov/item/11699160"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 35.74288,
+      "shelf_id": "U.S. GEOG FILE - Iowa--Sheldon <item> [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "iowa",
+        "photographic prints",
+        "sheldon",
+        "panoramic photographs",
+        "commercial streets"
+      ],
+      "timestamp": "2022-05-02T13:01:59.694Z",
+      "title": "Sheldon, Iowa",
+      "url": "https://www.loc.gov/item/97511672/"
+    },
+    {
+      "access_restricted": true,
+      "aka": [
+        "https://hdl.loc.gov/loc.pnp/ppmsca.02928",
+        "http://www.loc.gov/resource/ppmsca.02928/",
+        "http://lccn.loc.gov/2002719334",
+        "http://www.loc.gov/item/2002719334/",
+        "https://www.loc.gov/pictures/item/2002719334/",
+        "http://www.loc.gov/pictures/item/2002719334/",
+        "https://www.loc.gov/pictures/collection/cph/item/2002719334/",
+        "http://www.loc.gov/pictures/collection/cph/item/2002719334/"
+      ],
+      "campaigns": [],
+      "date": "1942-01-01",
+      "dates": [
+        "1942"
+      ],
+      "description": [
+        "Members of the Women's Army Auxiliary Corps standing in front of their commander, Captain Frank Stillman."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T11:20:40.810Z",
+      "group": [
+        "awhbib",
+        "cph",
+        "catalog-split-15",
+        "catalog",
+        "american-womens-history",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2002719334/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02900/02928_150px.jpg#h=85&w=150"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "iowa",
+        "des moines"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/12928579",
+        "2002719334",
+        "2009-09-04t13:39:33"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "prints and photographs division",
+        "catalog",
+        "american women: a gateway to library of congress resources for the study of women's history and culture in the united states",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 30.48387,
+      "shelf_id": "Item in MSS Coll.",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "army",
+        "iowa",
+        "photographic prints",
+        "military service",
+        "united states",
+        "american",
+        "women",
+        "african americans",
+        "people",
+        "women's army auxiliary corps",
+        "des moines",
+        "military personnel",
+        "world war"
+      ],
+      "timestamp": "2022-12-10T04:46:15.761Z",
+      "title": "[Women's Army Auxiliary Corps, Third Platoon, Company 1, Fort Des Moines, Iowa]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2002719334/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/pan/item/2007660888/",
+        "http://www.loc.gov/item/2007660888/",
+        "http://www.loc.gov/pictures/item/2007660888/",
+        "https://hdl.loc.gov/loc.pnp/pan.6a04528",
+        "http://www.loc.gov/resource/pan.6a04528/",
+        "http://lccn.loc.gov/2007660888"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "bandholtz, f. j. (frederick j.)"
+      ],
+      "date": "1907-01-01",
+      "description": [
+        "1 photographic print : gelatin silver ; 10 x 46 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:57:36.405Z",
+      "group": [
+        "pan",
+        "catalog-split-13",
+        "catalog",
+        "panoramic-photographs",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007660888/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/pan/6a04000/6a04500/6a04528_150px.jpg#h=33&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/pan/6a04000/6a04500/6a04528t.gif#h=33&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/pan/6a04000/6a04500/6a04528v.jpg#h=224&w=1024",
+        "https://tile.loc.gov/storage-services/service/pnp/pan/6a04000/6a04500/6a04528r.jpg#h=420&w=1917"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        43.18109,
+        -95.85613
+      ],
+      "location": [
+        "sheldon",
+        "iowa",
+        "united states"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -95.85613,
+        43.18109
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2007660888",
+        "2007660888",
+        "http://www.loc.gov/item/pan1993000482/pp",
+        "2013-06-03t08:52:04"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "panoramic photographs",
+        "taking the long view: panoramic photographs, 1851-1991",
+        "prints and photographs division",
+        "american memory",
+        "catalog",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 28.998135,
+      "shelf_id": "PAN US GEOG - Iowa no. 22 (E size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "iowa",
+        "united states",
+        "sheldon",
+        "panoramic photographs",
+        "commercial streets",
+        "gelatin silver prints"
+      ],
+      "timestamp": "2022-04-30T20:13:03.116Z",
+      "title": "Sheldon, IA",
+      "url": "https://www.loc.gov/item/2007660888/"
+    },
+    {
+      "access_restricted": true,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2007682037/",
+        "http://www.loc.gov/item/2007682037/",
+        "http://www.loc.gov/pictures/item/2007682037/",
+        "https://www.loc.gov/pictures/collection/cph/item/2007682037/",
+        "http://www.loc.gov/pictures/collection/cph/item/2007682037/",
+        "http://www.loc.gov/resource/ppmsca.15430/",
+        "http://lccn.loc.gov/2007682037",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.15430"
+      ],
+      "campaigns": [],
+      "date": "1902-01-01",
+      "dates": [
+        "1902"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-26T07:26:03.139Z",
+      "group": [
+        "cph",
+        "catalog-split-03",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2007682037/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/15400/15430_150px.jpg#h=108&w=150"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "iowa",
+        "dubuque"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/14894933",
+        "2007-12-03t11:50:44",
+        "2007682037"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 23.95843,
+      "shelf_id": "U.S. GEOG FILE - Iowa--Dubuque [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "iowa",
+        "dubuque",
+        "photographic prints",
+        "libraries",
+        "carnegie libraries"
+      ],
+      "timestamp": "2022-05-02T04:44:42.049Z",
+      "title": "[Exterior view of the Carnegie Stout Free Library]",
+      "url": "https://www.loc.gov/item/2007682037/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/97511668/",
+        "http://www.loc.gov/item/97511668/",
+        "http://www.loc.gov/pictures/item/97511668/",
+        "https://www.loc.gov/pictures/collection/cph/item/97511668/",
+        "http://www.loc.gov/pictures/collection/cph/item/97511668/",
+        "http://www.loc.gov/resource/cph.3c18703/",
+        "http://lccn.loc.gov/97511668",
+        "https://hdl.loc.gov/loc.pnp/cph.3c18703"
+      ],
+      "campaigns": [],
+      "date": "1897-01-01",
+      "dates": [
+        "1897"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-24T22:35:41.471Z",
+      "group": [
+        "cph",
+        "catalog-split-11",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-11",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/97511668/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18700/3c18703_150px.jpg#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18700/3c18703t.gif#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18700/3c18703r.jpg#h=507&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18700/3c18703v.jpg#h=811&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "iowa",
+        "marshalltown"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/11699157",
+        "97511668",
+        "2015-12-03t11:43:43",
+        "http://www.loc.gov/item/97511668"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 23.95843,
+      "shelf_id": "U.S. GEOG FILE - Iowa--Marshalltown <item> [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "iowa",
+        "photographic prints",
+        "libraries",
+        "marshalltown",
+        "desks"
+      ],
+      "timestamp": "2022-05-02T13:01:59.694Z",
+      "title": "[Interior of public library, showing central desk, Marshalltown, Iowa]",
+      "url": "https://www.loc.gov/item/97511668/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/00652549",
+        "http://www.loc.gov/resource/cph.3a39529/",
+        "http://www.loc.gov/item/00652549/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a39529",
+        "https://www.loc.gov/pictures/item/00652549/",
+        "http://www.loc.gov/pictures/item/00652549/",
+        "https://www.loc.gov/pictures/collection/cph/item/00652549/",
+        "http://www.loc.gov/pictures/collection/cph/item/00652549/"
+      ],
+      "campaigns": [],
+      "date": "1911-01-01",
+      "dates": [
+        "1911"
+      ],
+      "description": [
+        "J152199 U.S. Copyright Office."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T04:39:43.666Z",
+      "group": [
+        "natfor",
+        "cph",
+        "catalog-split-15",
+        "catalog",
+        "recordings-from-world-war-i-and-the-1920-election",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652549/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a39000/3a39500/3a39529_150px.jpg#h=108&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a39000/3a39500/3a39529t.gif#h=108&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a39000/3a39500/3a39529r.jpg#h=462&w=640"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/12210099",
+        "http://www.loc.gov/item/00652549",
+        "2016-04-12t07:58:16",
+        "00652549"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american leaders speak: recordings from world war i",
+        "miscellaneous items in high demand",
+        "prints and photographs division",
+        "catalog",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 22.176373,
+      "shelf_id": "BIOG FILE - Hitchcock, Gilbert M., 1859-1934 [item]",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "gilbert monell)",
+        "portrait photographs",
+        "hitchcock, gilbert m.",
+        "photographic prints"
+      ],
+      "timestamp": "2022-12-10T04:23:26.621Z",
+      "title": "[Gilbert M. Hitchcock, half-length portrait, standing, facing right, wearing overcoat and bowler]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/00652549/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "cph",
+      "catalog-split-05",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-05",
+      "main-catalog",
+      "catalog-split-06",
+      "main-catalog-split-06",
+      "awhbib",
+      "catalog-split-15",
+      "american-womens-history",
+      "main-catalog-split-15",
+      "pan",
+      "catalog-split-13",
+      "panoramic-photographs",
+      "main-catalog-split-13",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "catalog-split-11",
+      "main-catalog-split-11",
+      "natfor",
+      "recordings-from-world-war-i-and-the-1920-election",
+      "ndnp/dlc-2020_now",
+      "library-of-congress-washington-dc-awardee-8",
+      "ndnp/ohi",
+      "ohio-historical-society-awardee"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "cph.3c18157",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.5793781280517578,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/cph.3c18157/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/cph.3c18157/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294117.0953324,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 13494164,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/cph/3c10000/3c18000/3c18100/3c18157u.tif",
+      "width": 0
+    },
+    {
+      "height": 121,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 5282,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18100/3c18157_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 121,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 18950,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18100/3c18157t.gif",
+      "width": 150
+    },
+    {
+      "height": 515,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 41834,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18100/3c18157r.jpg",
+      "width": 640
+    },
+    {
+      "height": 824,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 136838,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18100/3c18157v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=97511671&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83025195/1893-01-20/ed-1/",
+        "http://www.loc.gov/resource/sn83025195/1893-01-20/ed-1/"
+      ],
+      "batch": [
+        "dlc_huron_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1893-01-20",
+      "dates": [
+        "1893-01-20"
+      ],
+      "description": [
+        "Des Moines, Iowa"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-07T20:32:13.532Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83025195/1893-01-20/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_huron_ver01:data:sn83025195:00220720391:1893012001:0004/full/pct:3.125/0/default.jpg#h=262&w=189",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_huron_ver01:data:sn83025195:00220720391:1893012001:0004/full/pct:6.25/0/default.jpg#h=525&w=379",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_huron_ver01:data:sn83025195:00220720391:1893012001:0004/full/pct:12.5/0/default.jpg#h=1051&w=759"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "iowa",
+        "des moines",
+        "polk",
+        "united states"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "00220720391",
+        "sn83025195"
+      ],
+      "numeric_shelf_id": 189301201,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Avalanche"
+      ],
+      "partof": [
+        "the weekly avalanche (des moines, iowa) 1891-1???",
+        "serial and government publications division",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 15.843209,
+      "shelf_id": "sn83025195, 1893-01-20, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "iowa",
+        "united states",
+        "african american newspapers",
+        "african americans",
+        "african american",
+        "des moines (iowa)",
+        "des moines",
+        "polk",
+        "newspapers"
+      ],
+      "timestamp": "2023-08-08T09:58:49.485Z",
+      "title": "The weekly avalanche (Des Moines, Iowa), January 20, 1893",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83025195/1893-01-20/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83025198/1897-05-21/ed-1/",
+        "http://www.loc.gov/resource/sn83025198/1897-05-21/ed-1/"
+      ],
+      "batch": [
+        "dlc_huron_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1897-05-21",
+      "dates": [
+        "1897-05-21"
+      ],
+      "description": [
+        "Des Moines, Iowa"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-07T20:32:13.532Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83025198/1897-05-21/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_huron_ver01:data:sn83025198:00220720391:1897052101:0001/full/pct:3.125/0/default.jpg#h=281&w=220",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_huron_ver01:data:sn83025198:00220720391:1897052101:0001/full/pct:6.25/0/default.jpg#h=563&w=440",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_huron_ver01:data:sn83025198:00220720391:1897052101:0001/full/pct:12.5/0/default.jpg#h=1127&w=880"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "iowa",
+        "des moines",
+        "polk",
+        "united states"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn83025198",
+        "00220720391"
+      ],
+      "numeric_shelf_id": 189705211,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "chronicling america",
+        "iowa baptist standard (des moines, iowa) 1897-1???"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 15.843209,
+      "shelf_id": "sn83025198, 1897-05-21, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "iowa",
+        "united states",
+        "african american newspapers",
+        "african americans",
+        "african american",
+        "des moines (iowa)",
+        "des moines",
+        "polk",
+        "newspapers"
+      ],
+      "timestamp": "2023-08-08T09:58:49.485Z",
+      "title": "Iowa Baptist standard (Des Moines, Iowa), May 21, 1897",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83025198/1897-05-21/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83035546/1876-04-20/ed-1/",
+        "http://www.loc.gov/resource/sn83035546/1876-04-20/ed-1/"
+      ],
+      "batch": [
+        "ohi_janie_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ohio history connection, columbus, oh"
+      ],
+      "date": "1876-04-20",
+      "dates": [
+        "1876-04-20"
+      ],
+      "description": [
+        "Chicago, Ill."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-09-04T23:21:09.612Z",
+      "group": [
+        "ndnp/ohi",
+        "ohio-historical-society-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83035546/1876-04-20/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_janie_ver01:data:sn83035546:00279555442:1876042001:0931/full/pct:3.125/0/default.jpg#h=279&w=216",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_janie_ver01:data:sn83035546:00279555442:1876042001:0931/full/pct:6.25/0/default.jpg#h=558&w=432",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_janie_ver01:data:sn83035546:00279555442:1876042001:0931/full/pct:12.5/0/default.jpg#h=1116&w=864"
+      ],
+      "index": 3,
+      "language": [
+        "czech",
+        "english"
+      ],
+      "location": [
+        "racine",
+        "linn",
+        "iowa",
+        "illinois",
+        "united states",
+        "cleveland",
+        "wisconsin",
+        "cuyahoga",
+        "ohio",
+        "chicago",
+        "cook",
+        "cedar rapids"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "00279555442",
+        "sn83035546"
+      ],
+      "numeric_shelf_id": 187604201,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Progress"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "pokrok (chicago, ill.) 1867-1878",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "triweekly"
+      ],
+      "score": 11.098229,
+      "shelf_id": "sn83035546, 1876-04-20, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "iowa",
+        "racine",
+        "linn",
+        "illinois",
+        "united states",
+        "cleveland",
+        "wisconsin",
+        "ohio",
+        "cuyahoga",
+        "czechs",
+        "czech-american newspapers",
+        "czech american newspapers",
+        "chicago",
+        "cook",
+        "cedar rapids",
+        "czech",
+        "newspapers"
+      ],
+      "timestamp": "2023-09-06T00:05:36.792Z",
+      "title": "Pokrok (Chicago, Ill.), April 20, 1876",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83035546/1876-04-20/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83035546/1876-04-22/ed-1/",
+        "http://www.loc.gov/resource/sn83035546/1876-04-22/ed-1/"
+      ],
+      "batch": [
+        "ohi_janie_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ohio history connection, columbus, oh"
+      ],
+      "date": "1876-04-22",
+      "dates": [
+        "1876-04-22"
+      ],
+      "description": [
+        "Chicago, Ill."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-09-04T23:21:09.612Z",
+      "group": [
+        "ndnp/ohi",
+        "ohio-historical-society-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83035546/1876-04-22/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_janie_ver01:data:sn83035546:00279555442:1876042201:0935/full/pct:3.125/0/default.jpg#h=277&w=215",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_janie_ver01:data:sn83035546:00279555442:1876042201:0935/full/pct:6.25/0/default.jpg#h=555&w=430",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_janie_ver01:data:sn83035546:00279555442:1876042201:0935/full/pct:12.5/0/default.jpg#h=1110&w=860"
+      ],
+      "index": 4,
+      "language": [
+        "czech",
+        "english"
+      ],
+      "location": [
+        "racine",
+        "linn",
+        "iowa",
+        "illinois",
+        "united states",
+        "cleveland",
+        "wisconsin",
+        "cuyahoga",
+        "ohio",
+        "chicago",
+        "cook",
+        "cedar rapids"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "00279555442",
+        "sn83035546"
+      ],
+      "numeric_shelf_id": 187604221,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Progress"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "pokrok (chicago, ill.) 1867-1878",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "triweekly"
+      ],
+      "score": 11.098229,
+      "shelf_id": "sn83035546, 1876-04-22, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "iowa",
+        "racine",
+        "linn",
+        "illinois",
+        "united states",
+        "cleveland",
+        "wisconsin",
+        "ohio",
+        "cuyahoga",
+        "czechs",
+        "czech-american newspapers",
+        "czech american newspapers",
+        "chicago",
+        "cook",
+        "cedar rapids",
+        "czech",
+        "newspapers"
+      ],
+      "timestamp": "2023-09-06T00:05:36.792Z",
+      "title": "Pokrok (Chicago, Ill.), April 22, 1876",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83035546/1876-04-22/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83035546/1876-04-25/ed-1/",
+        "http://www.loc.gov/resource/sn83035546/1876-04-25/ed-1/"
+      ],
+      "batch": [
+        "ohi_janie_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ohio history connection, columbus, oh"
+      ],
+      "date": "1876-04-25",
+      "dates": [
+        "1876-04-25"
+      ],
+      "description": [
+        "Chicago, Ill."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-09-04T23:21:09.612Z",
+      "group": [
+        "ndnp/ohi",
+        "ohio-historical-society-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83035546/1876-04-25/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_janie_ver01:data:sn83035546:00279555442:1876042501:0939/full/pct:3.125/0/default.jpg#h=277&w=216",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_janie_ver01:data:sn83035546:00279555442:1876042501:0939/full/pct:6.25/0/default.jpg#h=555&w=432",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_janie_ver01:data:sn83035546:00279555442:1876042501:0939/full/pct:12.5/0/default.jpg#h=1111&w=864"
+      ],
+      "index": 5,
+      "language": [
+        "czech",
+        "english"
+      ],
+      "location": [
+        "racine",
+        "linn",
+        "iowa",
+        "illinois",
+        "united states",
+        "cleveland",
+        "wisconsin",
+        "cuyahoga",
+        "ohio",
+        "chicago",
+        "cook",
+        "cedar rapids"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "00279555442",
+        "sn83035546"
+      ],
+      "numeric_shelf_id": 187604251,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Progress"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "pokrok (chicago, ill.) 1867-1878",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "triweekly"
+      ],
+      "score": 11.098229,
+      "shelf_id": "sn83035546, 1876-04-25, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "iowa",
+        "racine",
+        "linn",
+        "illinois",
+        "united states",
+        "cleveland",
+        "wisconsin",
+        "ohio",
+        "cuyahoga",
+        "czechs",
+        "czech-american newspapers",
+        "czech american newspapers",
+        "chicago",
+        "cook",
+        "cedar rapids",
+        "czech",
+        "newspapers"
+      ],
+      "timestamp": "2023-09-06T00:05:36.792Z",
+      "title": "Pokrok (Chicago, Ill.), April 25, 1876",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83035546/1876-04-25/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83035546/1876-04-27/ed-1/",
+        "http://www.loc.gov/resource/sn83035546/1876-04-27/ed-1/"
+      ],
+      "batch": [
+        "ohi_janie_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ohio history connection, columbus, oh"
+      ],
+      "date": "1876-04-27",
+      "dates": [
+        "1876-04-27"
+      ],
+      "description": [
+        "Chicago, Ill."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-09-04T23:21:09.612Z",
+      "group": [
+        "ndnp/ohi",
+        "ohio-historical-society-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83035546/1876-04-27/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_janie_ver01:data:sn83035546:00279555442:1876042701:0941/full/pct:3.125/0/default.jpg#h=280&w=220",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_janie_ver01:data:sn83035546:00279555442:1876042701:0941/full/pct:6.25/0/default.jpg#h=560&w=440",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ohi:batch_ohi_janie_ver01:data:sn83035546:00279555442:1876042701:0941/full/pct:12.5/0/default.jpg#h=1121&w=880"
+      ],
+      "index": 6,
+      "language": [
+        "czech",
+        "english"
+      ],
+      "location": [
+        "racine",
+        "linn",
+        "iowa",
+        "illinois",
+        "united states",
+        "cleveland",
+        "wisconsin",
+        "cuyahoga",
+        "ohio",
+        "chicago",
+        "cook",
+        "cedar rapids"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "00279555442",
+        "sn83035546"
+      ],
+      "numeric_shelf_id": 187604271,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Progress"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "pokrok (chicago, ill.) 1867-1878",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "triweekly"
+      ],
+      "score": 11.098229,
+      "shelf_id": "sn83035546, 1876-04-27, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "iowa",
+        "racine",
+        "linn",
+        "illinois",
+        "united states",
+        "cleveland",
+        "wisconsin",
+        "ohio",
+        "cuyahoga",
+        "czechs",
+        "czech-american newspapers",
+        "czech american newspapers",
+        "chicago",
+        "cook",
+        "cedar rapids",
+        "czech",
+        "newspapers"
+      ],
+      "timestamp": "2023-09-06T00:05:36.792Z",
+      "title": "Pokrok (Chicago, Ill.), April 27, 1876",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83035546/1876-04-27/ed-1/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "b&w film copy neg.",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18100/3c18157_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/cph.3c18157/"
+  },
+  "resources": [
+    {
+      "caption": "b&w film copy neg.",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3c10000/3c18000/3c18100/3c18157_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/cph.3c18157/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294117675,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/cph.3c18157/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/cph.3c18157/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/cph.3c18157/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/cph.3c18157/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/cph.3c18157/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/cph.3c18157/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/cph.3c18157/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/cph.3c18157/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/cph.3c18157/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/cph.3c18157/?fo=json&st=text"
+  }
+}

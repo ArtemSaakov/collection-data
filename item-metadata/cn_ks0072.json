@@ -1,0 +1,1799 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Historic American Buildings Survey, C., Washburn, G. P., Fordyce Brothers, Sponable, J. W., Smith, M., Koupal, H. &amp; Gardiner, A., Collins, D., photographer. (1933) <cite>Paola Free Library, 101 East Peoria Street, Paola, Miami County, KS</cite>. Miami County Kansas Paola, 1933. Documentation Compiled After. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/ks0072/.",
+    "chicago": "Historic American Buildings Survey, Creator, George Putnam Washburn,  Fordyce Brothers, John W Sponable, Martha Smith, Howard Koupal, and Allen Gardiner, Collins, Dan, photographer. <cite>Paola Free Library, 101 East Peoria Street, Paola, Miami County, KS</cite>. Miami County Kansas Paola, 1933. Documentation Compiled After. Photograph. https://www.loc.gov/item/ks0072/.",
+    "mla": "Historic American Buildings Survey, Creator, et al., photographer by Collins, Dan. <cite>Paola Free Library, 101 East Peoria Street, Paola, Miami County, KS</cite>. Documentation Compiled After. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/ks0072/&gt;."
+  },
+  "item": {
+    "_version_": 1782466940377235456,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/ks0072/",
+      "http://www.loc.gov/item/ks0072/",
+      "http://www.loc.gov/pictures/item/ks0072/",
+      "https://www.loc.gov/pictures/collection/hh/item/ks0072/",
+      "http://www.loc.gov/pictures/collection/hh/item/ks0072/",
+      "https://cdn.loc.gov/master/pnp/habshaer/ks/ks0000/ks0072/data/ks0072data.pdf",
+      "http://cdn.loc.gov/master/pnp/habshaer/ks/ks0000/ks0072/data/ks0072data.pdf",
+      "https://cdn.loc.gov/master/pnp/habshaer/ks/ks0000/ks0072/data/ks0072cap.pdf",
+      "http://cdn.loc.gov/master/pnp/habshaer/ks/ks0000/ks0072/data/ks0072cap.pdf",
+      "https://www.loc.gov:8081/pictures/search/?q=photograph: ks0072&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+      "http://www.loc.gov:8081/pictures/search/?q=photograph: ks0072&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+      "http://www.loc.gov/resource/hhh.ks0072data/",
+      "http://www.loc.gov/resource/hhh.ks0072cap/",
+      "http://www.loc.gov/resource/hhh.ks0072.photos/",
+      "http://www.loc.gov/resource/hhh.ks0072.photos",
+      "http://www.loc.gov/resource/hhh.ks0072.photos.069905p",
+      "http://www.loc.gov/resource/hhh.ks0072.photos.069906p",
+      "http://www.loc.gov/resource/hhh.ks0072.photos.069907p",
+      "http://www.loc.gov/resource/hhh.ks0072.photos.069908p",
+      "http://www.loc.gov/resource/hhh.ks0072.photos.069909p",
+      "http://www.loc.gov/resource/hhh.ks0072.photos.069910p",
+      "http://www.loc.gov/resource/hhh.ks0072.photos.069911p"
+    ],
+    "call_number": "HABS KANS,61-PAOLA,1-",
+    "campaigns": [],
+    "contributor_names": [
+      "Historic American Buildings Survey, creator",
+      "Washburn, George Putnam",
+      "Fordyce Brothers",
+      "Sponable, John W",
+      "Smith, Martha",
+      "Koupal, Howard, field team",
+      "Collins, Dan, photographer",
+      "Gardiner, Allen, historian"
+    ],
+    "contributors": [
+      {
+        "collins, dan": "https://www.loc.gov/search/?fa=contributor:collins,+dan&fo=json"
+      },
+      {
+        "fordyce brothers": "https://www.loc.gov/search/?fa=contributor:fordyce+brothers&fo=json"
+      },
+      {
+        "gardiner, allen": "https://www.loc.gov/search/?fa=contributor:gardiner,+allen&fo=json"
+      },
+      {
+        "historic american buildings survey": "https://www.loc.gov/search/?fa=contributor:historic+american+buildings+survey&fo=json"
+      },
+      {
+        "koupal, howard": "https://www.loc.gov/search/?fa=contributor:koupal,+howard&fo=json"
+      },
+      {
+        "smith, martha": "https://www.loc.gov/search/?fa=contributor:smith,+martha&fo=json"
+      },
+      {
+        "sponable, john w": "https://www.loc.gov/search/?fa=contributor:sponable,+john+w&fo=json"
+      },
+      {
+        "washburn, george putnam": "https://www.loc.gov/search/?fa=contributor:washburn,+george+putnam&fo=json"
+      }
+    ],
+    "control_number": "ks0072",
+    "created": "2016-04-17T09:03:39Z",
+    "created_published": [
+      "Documentation compiled after 1933"
+    ],
+    "created_published_date": "Documentation compiled after 1933",
+    "description": [
+      "Photo(s): 7 | Data Page(s): 7 | Photo Caption Page(s): 1"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2023-11-13T15:58:02.013Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/hh/item/ks0072/#hh-0"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "group": [
+      "hh-0",
+      "habshaer-group-0"
+    ],
+    "hassegments": true,
+    "id": "http://www.loc.gov/item/ks0072/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0000/ks0072/photos/069905p_150px.jpg#h=119&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0000/ks0072/photos/069905pr.jpg#h=509&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0000/ks0072/photos/069905pv.jpg#h=815&w=1024"
+    ],
+    "index": 2,
+    "item": {
+      "call_number": "HABS KANS,61-PAOLA,1-",
+      "contributor_names": [
+        "Washburn, George Putnam,  ",
+        "Fordyce Brothers,  ",
+        "Sponable, John W,  ",
+        "Smith, Martha,  ",
+        "Koupal, Howard, field team ",
+        "Collins, Dan, photographer ",
+        "Gardiner, Allen, historian "
+      ],
+      "control_number": "ks0072",
+      "created": "2016-04-17T09:03:39Z",
+      "created_published": "Documentation compiled after 1933",
+      "created_published_date": "Documentation compiled after 1933",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Historic%20American%20Buildings%20Survey&co=hh",
+          "role": "creator",
+          "title": "Historic American Buildings Survey"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Washburn%2C%20George%20Putnam&co=hh",
+          "role": "",
+          "title": "Washburn, George Putnam"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Fordyce%20Brothers&co=hh",
+          "role": "",
+          "title": "Fordyce Brothers"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Sponable%2C%20John%20W&co=hh",
+          "role": "",
+          "title": "Sponable, John W"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Smith%2C%20Martha&co=hh",
+          "role": "",
+          "title": "Smith, Martha"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Koupal%2C%20Howard&co=hh",
+          "role": "field team",
+          "title": "Koupal, Howard"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Collins%2C%20Dan&co=hh",
+          "role": "photographer",
+          "title": "Collins, Dan"
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Gardiner%2C%20Allen&co=hh",
+          "role": "historian",
+          "title": "Gardiner, Allen"
+        }
+      ],
+      "display_offsite": true,
+      "id": "ks0072",
+      "link": "https://www.loc.gov/pictures/item/ks0072/",
+      "medium_brief": "Photo(s): 7, Data Page(s): 7, Photo Caption Page(s): 1",
+      "mediums": [
+        "Photo(s): 7 ",
+        "Data Page(s): 7 ",
+        "Photo Caption Page(s): 1 "
+      ],
+      "modified": "2023-10-21T01:42:20Z",
+      "notes": [
+        "Significance: The Paola Free Library was designed by George Putnam Washburn, a prominent Kansas architect who designed 13 of Kansas' 105 courthouses.  The corner tower of the library is typical of Washburn's work and was designed late in his career.  The building serves as one of the cultural centers in Paola, and the library serves patrons from the surrounding countryside and villages as well as the citizens of Paola. ",
+        "Survey number: HABS KS-52 ",
+        "Building/structure dates: 1905-1906 Initial Construction "
+      ],
+      "part_of": "Historic American Buildings Survey (Library of Congress)",
+      "part_of_group": "Survey Number ks0072",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Kansas--Miami%20County--Paola&co=hh",
+          "longitude": "",
+          "title": "Kansas -- Miami County -- Paola"
+        }
+      ],
+      "raw_collections": [
+        "diof",
+        "hh",
+        "survey"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "resource_links": [
+        "https://tile.loc.gov/storage-services/master/pnp/habshaer/ks/ks0000/ks0072/data/ks0072data.pdf",
+        "https://tile.loc.gov/storage-services/master/pnp/habshaer/ks/ks0000/ks0072/data/ks0072cap.pdf",
+        "https://www.loc.gov:8081/pictures/search/?q=Photograph: ks0072&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+      ],
+      "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+      "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0000/ks0072/photos/069905p_150px.jpg?q=ks0072.photos.069905p&c=7&st=gallery",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0000/ks0072/photos/069905pr.jpg?q=ks0072.photos.069905p&c=7&st=gallery",
+      "source_created": "1970-01-01T00:00:00Z",
+      "source_modified": "2016-04-17T09:03:00Z",
+      "subject_headings": [
+        "libraries",
+        "brick buildings",
+        "reading",
+        "Kansas -- Miami County -- Paola"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0000/ks0072/photos/069905p_150px.jpg?q=ks0072.photos.069905p&c=7&st=gallery",
+      "title": "Paola Free Library, 101 East Peoria Street, Paola, Miami County, KS"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "link": "https://www.loc.gov/pictures/item/ks0072/",
+    "location": [
+      "miami county",
+      "kansas",
+      "paola"
+    ],
+    "locations": [
+      {
+        "kansas": "https://www.loc.gov/search/?fa=location:kansas&fo=json"
+      },
+      {
+        "miami county": "https://www.loc.gov/search/?fa=location:miami+county&fo=json"
+      },
+      {
+        "paola": "https://www.loc.gov/search/?fa=location:paola&fo=json"
+      }
+    ],
+    "medium": [
+      "Photo(s): 7 ",
+      "Data Page(s): 7 ",
+      "Photo Caption Page(s): 1 "
+    ],
+    "medium_brief": "Photo(s): 7, Data Page(s): 7, Photo Caption Page(s): 1",
+    "mime_type": [
+      "image/gif",
+      "application/pdf"
+    ],
+    "modified": "2023-10-21T01:42:20Z",
+    "notes": [
+      "Significance: The Paola Free Library was designed by George Putnam Washburn, a prominent Kansas architect who designed 13 of Kansas' 105 courthouses.  The corner tower of the library is typical of Washburn's work and was designed late in his career.  The building serves as one of the cultural centers in Paola, and the library serves patrons from the surrounding countryside and villages as well as the citizens of Paola. ",
+      "Survey number: HABS KS-52 ",
+      "Building/structure dates: 1905-1906 Initial Construction "
+    ],
+    "online_format": [
+      "image",
+      "pdf"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_formats": [],
+    "part_of_group": "Survey Number ks0072",
+    "partof": [
+      {
+        "count": 45519,
+        "title": "historic american buildings survey/historic american engineering record/historic american landscapes survey",
+        "url": "https://www.loc.gov/collections/historic-american-buildings-landscapes-and-engineering-records/?fo=json"
+      },
+      {
+        "count": 437336,
+        "title": "american memory",
+        "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Kansas--Miami%20County--Paola&co=hh",
+        "longitude": "",
+        "title": "Kansas -- Miami County -- Paola"
+      }
+    ],
+    "raw_collections": [
+      "diof",
+      "hh",
+      "survey"
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=hh&pk=ks0072&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington,      D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproductions": [],
+    "resource_links": [
+      "https://tile.loc.gov/storage-services/master/pnp/habshaer/ks/ks0000/ks0072/data/ks0072data.pdf",
+      "https://tile.loc.gov/storage-services/master/pnp/habshaer/ks/ks0000/ks0072/data/ks0072cap.pdf",
+      "https://www.loc.gov:8081/pictures/search/?q=Photograph: ks0072&fi=number&op=PHRASE&va=exact&co =hh&st=gallery&sg = true"
+    ],
+    "resources": [
+      {
+        "caption": "Photos from Survey HABS KS-52 ",
+        "files": 7,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0000/ks0072/photos/069905p_150px.jpg",
+        "url": "https://www.loc.gov/resource/hhh.ks0072.photos"
+      },
+      {
+        "caption": "Data Pages from Survey HABS KS-52 ",
+        "files": 1,
+        "image": "/static/images/original-format/manuscript-mixed-material.svg"
+      },
+      {
+        "caption": "Photo Captions from Survey HABS KS-52 ",
+        "files": 1,
+        "image": "/static/images/original-format/manuscript-mixed-material.svg"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/114_habs.html\">Historic American Buildings Survey/Historic American Engineering Record/Historic American Landscape Survey (HABS/HAER/HALS) Collection - Rights and Restrictions Information</a> </p>\n \n"
+    ],
+    "rights_advisory": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "rights_information": "No known restrictions on images made by the U.S. Government; images     copied from other sources may be restricted.    https://www.loc.gov/rr/print/res/114_habs.html",
+    "score": 38.392532,
+    "shard": "00",
+    "shelf_id": "HABS KANS,61-PAOLA,1-",
+    "site": [
+      "pictures"
+    ],
+    "source_collection": "Historic American Buildings Survey (Library of Congress)",
+    "source_created": "1970-01-01T00:00:00Z",
+    "source_modified": "2000-01-01T12:00:00Z",
+    "subject": [
+      "brick buildings",
+      "libraries",
+      "reading"
+    ],
+    "subject_headings": [
+      "libraries",
+      "brick buildings",
+      "reading",
+      "Kansas -- Miami County -- Paola"
+    ],
+    "subjects": [
+      {
+        "brick buildings": "https://www.loc.gov/search/?fa=subject:brick+buildings&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "reading": "https://www.loc.gov/search/?fa=subject:reading&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0000/ks0072/photos/069905p_150px.jpg?q=ks0072.photos.069905p&c=7&st=gallery",
+    "timestamp": "2023-11-13T16:28:59.740Z",
+    "title": "Paola Free Library, 101 East Peoria Street, Paola, Miami County, KS",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/ks0072/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/ks0002/",
+        "http://www.loc.gov/item/ks0002/",
+        "http://www.loc.gov/pictures/item/ks0002/",
+        "https://www.loc.gov/pictures/collection/hh/item/ks0002/",
+        "http://www.loc.gov/pictures/collection/hh/item/ks0002/",
+        "https://cdn.loc.gov/master/pnp/habshaer/ks/ks0000/ks0002/data/ks0002data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ks/ks0000/ks0002/data/ks0002data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/ks/ks0000/ks0002/supp/ks0002supp.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ks/ks0000/ks0002/supp/ks0002supp.pdf",
+        "https://www.loc.gov:8081/pictures/search/?q=photograph: ks0002&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov:8081/pictures/search/?q=photograph: ks0002&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.ks0002data/",
+        "http://www.loc.gov/resource/hhh.ks0002supp/",
+        "http://www.loc.gov/resource/hhh.ks0002.photos/",
+        "http://www.loc.gov/resource/hhh.ks0002.photos",
+        "http://www.loc.gov/resource/hhh.ks0002.photos.069392p",
+        "http://www.loc.gov/resource/hhh.ks0002.photos.069393p",
+        "http://www.loc.gov/resource/hhh.ks0002.photos.069394p"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "mccleery, douglas",
+        "noffsinger, james p",
+        "historic american buildings survey"
+      ],
+      "description": [
+        "Photo(s): 3 | Data Page(s): 5"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T15:58:02.722Z",
+      "group": [
+        "hh-0",
+        "habshaer-group-0"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/ks0002/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0000/ks0002/photos/069392p_150px.jpg#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0000/ks0002/photos/069392pr.jpg#h=513&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0000/ks0002/photos/069392pv.jpg#h=820&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "doniphan county",
+        "highland",
+        "kansas"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 28.014479,
+      "shelf_id": "HABS KANS,22-HILA,1-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "education",
+        "brick buildings",
+        "libraries",
+        "colleges",
+        "reading"
+      ],
+      "timestamp": "2023-11-13T16:27:47.064Z",
+      "title": "Highland Junior College, Irvin Hall, Highland Junior College Campus, Highland, Doniphan County, KS",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/ks0002/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/ok0012/",
+        "http://www.loc.gov/item/ok0012/",
+        "http://www.loc.gov/pictures/item/ok0012/",
+        "https://www.loc.gov/pictures/collection/hh/item/ok0012/",
+        "http://www.loc.gov/pictures/collection/hh/item/ok0012/",
+        "https://cdn.loc.gov/master/pnp/habshaer/ok/ok0000/ok0012/data/ok0012data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ok/ok0000/ok0012/data/ok0012data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/ok/ok0000/ok0012/data/ok0012cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ok/ok0000/ok0012/data/ok0012cap.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: ok0012&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: ok0012&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "https://stage.loc.gov/pictures/search/?q=drawing: ok0012&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=drawing: ok0012&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.ok0012data/",
+        "http://www.loc.gov/resource/hhh.ok0012cap/",
+        "http://www.loc.gov/resource/hhh.ok0012.sheet/",
+        "http://www.loc.gov/resource/hhh.ok0012.photos/",
+        "http://www.loc.gov/resource/hhh.ok0012.photos",
+        "http://www.loc.gov/resource/hhh.ok0012.photos.129399p",
+        "http://www.loc.gov/resource/hhh.ok0012.photos.129400p",
+        "http://www.loc.gov/resource/hhh.ok0012.photos.129401p",
+        "http://www.loc.gov/resource/hhh.ok0012.photos.129402p",
+        "http://www.loc.gov/resource/hhh.ok0012.photos.129403p",
+        "http://www.loc.gov/resource/hhh.ok0012.photos.129404p",
+        "http://www.loc.gov/resource/hhh.ok0012.photos.129405p",
+        "http://www.loc.gov/resource/hhh.ok0012.photos.129406p",
+        "http://www.loc.gov/resource/hhh.ok0012.photos.129407p",
+        "http://www.loc.gov/resource/hhh.ok0012.photos.129408p",
+        "http://www.loc.gov/resource/hhh.ok0012.photos.129409p",
+        "http://www.loc.gov/resource/hhh.ok0012.photos.129410p",
+        "http://www.loc.gov/resource/hhh.ok0012.sheet",
+        "http://www.loc.gov/resource/hhh.ok0012.sheet.00001a",
+        "http://www.loc.gov/resource/hhh.ok0012.sheet.00002a",
+        "http://www.loc.gov/resource/hhh.ok0012.sheet.00003a",
+        "http://www.loc.gov/resource/hhh.ok0012.sheet.00004a",
+        "http://www.loc.gov/resource/hhh.ok0012.sheet.00005a",
+        "http://www.loc.gov/resource/hhh.ok0012.sheet.00006a",
+        "http://www.loc.gov/resource/hhh.ok0012.sheet.00007a",
+        "http://www.loc.gov/resource/hhh.ok0012.sheet.00008a"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "barrett, william edmund",
+        "oklahoma historical society",
+        "robbins, john c.",
+        "historic american buildings survey",
+        "frantz, frank",
+        "gryb, barry r.",
+        "vandenburg, h. j.",
+        "bennett, j. h.",
+        "wenner, fred l.",
+        "haskell, charles n.",
+        "lillie, f. b.",
+        "haggard, john c.",
+        "takenaka, howard m.",
+        "new york hardware company",
+        "smith, julian",
+        "hnedak, john d."
+      ],
+      "description": [
+        "Photo(s): 12 | Measured Drawing(s): 8 | Data Page(s): 10 | Photo Caption Page(s): 1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T15:58:02.722Z",
+      "group": [
+        "hh-0",
+        "habshaer-group-0"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/ok0012/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ok/ok0000/ok0012/photos/129399p_150px.jpg#h=122&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ok/ok0000/ok0012/photos/129399pr.jpg#h=521&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ok/ok0000/ok0012/photos/129399pv.jpg#h=833&w=1024"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "logan county",
+        "oklahoma",
+        "guthrie"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 24.273046,
+      "shelf_id": "HABS OKLA,42-GUTH,1D-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "storage",
+        "galleries & museums",
+        "philanthropy",
+        "brick buildings",
+        "libraries",
+        "reading",
+        "stone buildings (sandstone)"
+      ],
+      "timestamp": "2023-11-13T16:29:53.286Z",
+      "title": "Carnegie Library, 402 East Oklahoma Avenue, Guthrie, Logan County, OK",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/ok0012/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/vi0064/",
+        "http://www.loc.gov/item/vi0064/",
+        "http://www.loc.gov/pictures/item/vi0064/",
+        "https://www.loc.gov/pictures/collection/hh/item/vi0064/",
+        "http://www.loc.gov/pictures/collection/hh/item/vi0064/",
+        "https://cdn.loc.gov/master/pnp/habshaer/vi/vi0000/vi0064/data/vi0064data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/vi/vi0000/vi0064/data/vi0064data.pdf",
+        "https://stage.loc.gov/pictures/search/?q=photograph: vi0064&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=photograph: vi0064&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "https://stage.loc.gov/pictures/search/?q=drawing: vi0064&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://stage.loc.gov/pictures/search/?q=drawing: vi0064&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.vi0064data/",
+        "http://www.loc.gov/resource/hhh.vi0064.sheet/",
+        "http://www.loc.gov/resource/hhh.vi0064.photos/",
+        "http://www.loc.gov/resource/hhh.vi0064.photos",
+        "http://www.loc.gov/resource/hhh.vi0064.photos.166273p",
+        "http://www.loc.gov/resource/hhh.vi0064.photos.166274p",
+        "http://www.loc.gov/resource/hhh.vi0064.photos.166275p",
+        "http://www.loc.gov/resource/hhh.vi0064.photos.166276p",
+        "http://www.loc.gov/resource/hhh.vi0064.photos.166277p",
+        "http://www.loc.gov/resource/hhh.vi0064.photos.166278p",
+        "http://www.loc.gov/resource/hhh.vi0064.photos.166279p",
+        "http://www.loc.gov/resource/hhh.vi0064.photos.166280p",
+        "http://www.loc.gov/resource/hhh.vi0064.photos.166281p",
+        "http://www.loc.gov/resource/hhh.vi0064.photos.166282p",
+        "http://www.loc.gov/resource/hhh.vi0064.photos.166283p",
+        "http://www.loc.gov/resource/hhh.vi0064.photos.166284p",
+        "http://www.loc.gov/resource/hhh.vi0064.photos.166285p",
+        "http://www.loc.gov/resource/hhh.vi0064.photos.166286p",
+        "http://www.loc.gov/resource/hhh.vi0064.photos.166287p",
+        "http://www.loc.gov/resource/hhh.vi0064.photos.166288p",
+        "http://www.loc.gov/resource/hhh.vi0064.photos.166289p",
+        "http://www.loc.gov/resource/hhh.vi0064.photos.166290p",
+        "http://www.loc.gov/resource/hhh.vi0064.sheet",
+        "http://www.loc.gov/resource/hhh.vi0064.sheet.00001a",
+        "http://www.loc.gov/resource/hhh.vi0064.sheet.00002a",
+        "http://www.loc.gov/resource/hhh.vi0064.sheet.00003a",
+        "http://www.loc.gov/resource/hhh.vi0064.sheet.00004a",
+        "http://www.loc.gov/resource/hhh.vi0064.sheet.00005a",
+        "http://www.loc.gov/resource/hhh.vi0064.sheet.00006a",
+        "http://www.loc.gov/resource/hhh.vi0064.sheet.00007a",
+        "http://www.loc.gov/resource/hhh.vi0064.sheet.00008a",
+        "http://www.loc.gov/resource/hhh.vi0064.sheet.00009a"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "de nully, peter",
+        "overby, osmund r",
+        "lovmand, albert",
+        "historic american buildings survey",
+        "von meley",
+        "danish west india & guinea company",
+        "aylmer, thomas",
+        "everett, j michael",
+        "hingelberg, building inspector",
+        "boucher, jack e",
+        "von magens, johannes",
+        "aylmer, john",
+        "gjessing, frederik cheney"
+      ],
+      "description": [
+        "Photo(s): 18 | Measured Drawing(s): 9 | Data Page(s): 11"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T18:49:43.034Z",
+      "group": [
+        "hh-5",
+        "habshaer-group-5"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/vi0064/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/vi/vi0000/vi0064/photos/166273p_150px.jpg#h=107&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/vi/vi0000/vi0064/photos/166273pr.jpg#h=458&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/vi/vi0000/vi0064/photos/166273pv.jpg#h=733&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "virgin islands",
+        "st. croix",
+        "christiansted",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 24.273046,
+      "shelf_id": "HABS VI,1-CHRIS,3-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "mission 66\" program",
+        "commerce",
+        "exhibitions",
+        "adaptive reuse",
+        "customs inspections",
+        "customs houses",
+        "brick buildings",
+        "postal service",
+        "libraries",
+        "post offices",
+        "houses",
+        "reading"
+      ],
+      "timestamp": "2023-11-13T19:23:00.909Z",
+      "title": "Customhouse & Post Office, Christiansted Warf Square vicinity, Christiansted, St. Croix, VI",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/vi0064/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/vt0024/",
+        "http://www.loc.gov/item/vt0024/",
+        "http://www.loc.gov/pictures/item/vt0024/",
+        "https://www.loc.gov/pictures/collection/hh/item/vt0024/",
+        "http://www.loc.gov/pictures/collection/hh/item/vt0024/",
+        "https://cdn.loc.gov/master/pnp/habshaer/vt/vt0000/vt0024/data/vt0024data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/vt/vt0000/vt0024/data/vt0024data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/vt/vt0000/vt0024/supp/vt0024supp.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/vt/vt0000/vt0024/supp/vt0024supp.pdf",
+        "https://www.loc.gov:8081/pictures/search/?q=photograph: vt0024&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov:8081/pictures/search/?q=photograph: vt0024&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.vt0024data/",
+        "http://www.loc.gov/resource/hhh.vt0024supp/",
+        "http://www.loc.gov/resource/hhh.vt0024.photos/",
+        "http://www.loc.gov/resource/hhh.vt0024.photos",
+        "http://www.loc.gov/resource/hhh.vt0024.photos.167444p",
+        "http://www.loc.gov/resource/hhh.vt0024.photos.215526p"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "smith, phinehas",
+        "canfield family",
+        "mixon, stanley p",
+        "historic american buildings survey"
+      ],
+      "description": [
+        "Photo(s): 2"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T18:49:44.360Z",
+      "group": [
+        "hh-5",
+        "habshaer-group-5"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/vt0024/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/vt/vt0000/vt0024/photos/167444p_150px.jpg#h=150&w=102",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/vt/vt0000/vt0024/photos/167444pr.jpg#h=640&w=436",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/vt/vt0000/vt0024/photos/167444pv.jpg#h=1024&w=698"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "vermont",
+        "arlington",
+        "bennington county"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 24.273046,
+      "shelf_id": "HABS VT,2-ARL,1-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "adaptive reuse",
+        "domestic life",
+        "brick buildings",
+        "libraries",
+        "houses",
+        "reading"
+      ],
+      "timestamp": "2023-11-13T19:23:24.132Z",
+      "title": "Smith-Canfield House, East side of State Route 7, south of intersection with State Route 313, Arlington, Bennington County, VT",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/vt0024/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/mt0114/",
+        "http://www.loc.gov/item/mt0114/",
+        "http://www.loc.gov/pictures/item/mt0114/",
+        "https://www.loc.gov/pictures/collection/hh/item/mt0114/",
+        "http://www.loc.gov/pictures/collection/hh/item/mt0114/",
+        "https://cdn.loc.gov/master/pnp/habshaer/mt/mt0100/mt0114/data/mt0114data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/mt/mt0100/mt0114/data/mt0114data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/mt/mt0100/mt0114/data/mt0114cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/mt/mt0100/mt0114/data/mt0114cap.pdf",
+        "https://www.loc.gov:8081/pictures/search/?q=photograph: mt0114&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov:8081/pictures/search/?q=photograph: mt0114&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.mt0114data/",
+        "http://www.loc.gov/resource/hhh.mt0114cap/",
+        "http://www.loc.gov/resource/hhh.mt0114.photos/",
+        "http://www.loc.gov/resource/hhh.mt0114.photos"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "anaconda company foundry department",
+        "historic american buildings survey",
+        "burns, frank a",
+        "hawley, monica e",
+        "twohey, j c",
+        "van trees, frank s",
+        "hearst, phoebe"
+      ],
+      "description": [
+        "Photo(s): 1 | Data Page(s): 2 | Photo Caption Page(s): 1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T18:49:03.551Z",
+      "group": [
+        "hh-4",
+        "habshaer-group-4"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/mt0114/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/mt/mt0100/mt0114/photos/100202p_150px.jpg#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/mt/mt0100/mt0114/photos/100202pr.jpg#h=515&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/mt/mt0100/mt0114/photos/100202pv.jpg#h=824&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "deer lodge county",
+        "anaconda",
+        "montana"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 24.273046,
+      "shelf_id": "HABS MONT,12-ANAC,1-K-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "brick buildings",
+        "libraries",
+        "reading"
+      ],
+      "timestamp": "2023-11-13T18:52:48.555Z",
+      "title": "Anaconda Historic District, Hearst Free Library, Fourth & Main Streets, Anaconda, Deer Lodge County, MT",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/mt0114/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/ks0152/",
+        "http://www.loc.gov/item/ks0152/",
+        "http://www.loc.gov/pictures/item/ks0152/",
+        "https://www.loc.gov/pictures/collection/hh/item/ks0152/",
+        "http://www.loc.gov/pictures/collection/hh/item/ks0152/",
+        "https://cdn.loc.gov/master/pnp/habshaer/ks/ks0100/ks0152/data/ks0152data.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ks/ks0100/ks0152/data/ks0152data.pdf",
+        "https://cdn.loc.gov/master/pnp/habshaer/ks/ks0100/ks0152/data/ks0152cap.pdf",
+        "http://cdn.loc.gov/master/pnp/habshaer/ks/ks0100/ks0152/data/ks0152cap.pdf",
+        "https://www.loc.gov:8081/pictures/search/?q=photograph: ks0152&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov:8081/pictures/search/?q=photograph: ks0152&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "https://www.loc.gov:8081/pictures/search/?q=drawing: ks0152&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov:8081/pictures/search/?q=drawing: ks0152&fi=number&op=phrase&va=exact&co =hh&st=gallery&sg = true",
+        "http://www.loc.gov/resource/hhh.ks0152data/",
+        "http://www.loc.gov/resource/hhh.ks0152cap/",
+        "http://www.loc.gov/resource/hhh.ks0152.sheet/",
+        "http://www.loc.gov/resource/hhh.ks0152.photos/",
+        "http://www.loc.gov/resource/hhh.ks0152.photos",
+        "http://www.loc.gov/resource/hhh.ks0152.photos.048724p",
+        "http://www.loc.gov/resource/hhh.ks0152.photos.048725p",
+        "http://www.loc.gov/resource/hhh.ks0152.photos.048726p",
+        "http://www.loc.gov/resource/hhh.ks0152.photos.048727p",
+        "http://www.loc.gov/resource/hhh.ks0152.photos.048728p",
+        "http://www.loc.gov/resource/hhh.ks0152.photos.048729p",
+        "http://www.loc.gov/resource/hhh.ks0152.photos.048730p",
+        "http://www.loc.gov/resource/hhh.ks0152.photos.048731p",
+        "http://www.loc.gov/resource/hhh.ks0152.photos.048732p",
+        "http://www.loc.gov/resource/hhh.ks0152.photos.048733p",
+        "http://www.loc.gov/resource/hhh.ks0152.sheet",
+        "http://www.loc.gov/resource/hhh.ks0152.sheet.00001a",
+        "http://www.loc.gov/resource/hhh.ks0152.sheet.00002a",
+        "http://www.loc.gov/resource/hhh.ks0152.sheet.00003a",
+        "http://www.loc.gov/resource/hhh.ks0152.sheet.00004a",
+        "http://www.loc.gov/resource/hhh.ks0152.sheet.00005a",
+        "http://www.loc.gov/resource/hhh.ks0152.sheet.00006a",
+        "http://www.loc.gov/resource/hhh.ks0152.sheet.00007a",
+        "http://www.loc.gov/resource/hhh.ks0152.sheet.00008a",
+        "http://www.loc.gov/resource/hhh.ks0152.sheet.00009a",
+        "http://www.loc.gov/resource/hhh.ks0152.sheet.00010a",
+        "http://www.loc.gov/resource/hhh.ks0152.sheet.00011a",
+        "http://www.loc.gov/resource/hhh.ks0152.sheet.00012a",
+        "http://www.loc.gov/resource/hhh.ks0152.sheet.00013a",
+        "http://www.loc.gov/resource/hhh.ks0152.sheet.00014a"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "historic american buildings survey",
+        "van brunt & howe architects",
+        "historic mt. oread fund",
+        "schmitz, edward",
+        "spurgin, christopher",
+        "van brunt, henry",
+        "haase-divine, david",
+        "marko, eric",
+        "broeckelmann, kurt m",
+        "renyer, todd",
+        "rosebrough, kristin m",
+        "raymond, james",
+        "brunner, kurt a",
+        "university of kansas, school of architecture & urban design",
+        "zabilka, eric j",
+        "newton, barry",
+        "harrington, steve",
+        "vetter, mark",
+        "fernandez, jose l",
+        "capstack, scott e",
+        "winslow, keri j",
+        "spooner, william b"
+      ],
+      "description": [
+        "Photo(s): 10 | Measured Drawing(s): 14 | Photo Caption Page(s): 1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T15:58:02.722Z",
+      "group": [
+        "hh-0",
+        "habshaer-group-0"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/ks0152/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0100/ks0152/photos/048724p_150px.jpg#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0100/ks0152/photos/048724pr.jpg#h=515&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0100/ks0152/photos/048724pv.jpg#h=824&w=1024"
+      ],
+      "index": 7,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "douglas county",
+        "lawrence",
+        "kansas"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "score": 23.0375,
+      "shelf_id": "HABS KANS,23-LAWR,12-",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "stone buildings",
+        "galleries & museums",
+        "education",
+        "libraries",
+        "reading",
+        "anthropology"
+      ],
+      "timestamp": "2023-11-13T16:29:29.237Z",
+      "title": "Spooner Hall, Fourteenth Street & Jayhawk Road, Lawrence, Douglas County, KS",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/ks0152/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "hh-0",
+      "habshaer-group-0",
+      "hh-5",
+      "habshaer-group-5",
+      "hh-4",
+      "habshaer-group-4",
+      "sanborn"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "hhh.ks0072.photos",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.7341437339782715,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/hhh.ks0072.photos/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json&sp=2",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ],
+      "sp": [
+        "2"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=2",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": 2,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294076.6245842,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 20062768,
+      "type": "bw_photos",
+      "url": "https://tile.loc.gov/storage-services/master/pnp/habshaer/ks/ks0000/ks0072/photos/069906pu.tif",
+      "width": 0
+    },
+    {
+      "height": 120,
+      "levels": 1,
+      "mimetype": "image/jpg",
+      "size": 4604,
+      "type": "bw_photos",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0000/ks0072/photos/069906p_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 514,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 52109,
+      "type": "bw_photos",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0000/ks0072/photos/069906pr.jpg",
+      "width": 640
+    },
+    {
+      "height": 822,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 139170,
+      "type": "bw_photos",
+      "url": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0000/ks0072/photos/069906pv.jpg",
+      "width": 1024
+    },
+    {
+      "aka": "https://www.loc.gov/resource/hhh.ks0072.photos.069906p",
+      "mimetype": "application/json",
+      "title": "2.  PERSPECTIVE VIEW, NORTH FRONT AND WEST SIDE INCLUDING GENERAL VIEW OF LANDSCAPE - Paola Free Library, 101 East Peoria Street, Paola, Miami County, KS",
+      "use": "caption"
+    }
+  ],
+  "pagination": {
+    "current": 2,
+    "first": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=1",
+    "from": 2,
+    "last": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=5",
+    "next": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=3",
+    "of": 7,
+    "page_list": [
+      {
+        "number": 1,
+        "url": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=1"
+      },
+      {
+        "number": 2,
+        "url": null
+      },
+      {
+        "number": 3,
+        "url": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=3"
+      },
+      {
+        "number": 4,
+        "url": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=4"
+      },
+      {
+        "number": "...",
+        "url": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=5"
+      }
+    ],
+    "perpage": 1,
+    "perpage_options": [
+      25,
+      50,
+      100,
+      150
+    ],
+    "previous": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=1",
+    "results": "2 - 2",
+    "to": 2,
+    "total": 7
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=hh&pk=ks0072&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sanborn03054_001/",
+        "https://hdl.loc.gov/loc.gmd/g4204pm.g4204pm_g030541884",
+        "http://www.loc.gov/resource/g4204pm.g4204pm_g030541884/"
+      ],
+      "campaigns": [],
+      "date": "1884-11",
+      "dates": [
+        "1884-11"
+      ],
+      "description": [
+        "Nov 1884. 4 sheet(s)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-08T18:06:16.894Z",
+      "group": [
+        "sanborn"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sanborn03054_001/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd420m/g4204m/g4204pm/g4204pm_g030541884/03054_1884-0001.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd420m/g4204m/g4204pm/g4204pm_g030541884/03054_1884-0001.gif#h=150&w=126",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd420m:g4204m:g4204pm:g4204pm_g030541884:03054_1884-0001/full/pct:12.5/0/default.jpg#h=956&w=806",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd420m:g4204m:g4204pm:g4204pm_g030541884:03054_1884-0001/full/pct:25/0/default.jpg#h=1912&w=1612"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "miami county",
+        "kansas",
+        "paola",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/jp2"
+      ],
+      "number": [
+        "2018-04-24t09:37:54"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "geography and map division",
+        "sanborn maps"
+      ],
+      "score": 19.321087,
+      "shelf_id": "http://www.loc.gov/item/sanborn03054_001/",
+      "site": [
+        "ammem"
+      ],
+      "timestamp": "2024-10-08T18:50:45.938Z",
+      "title": "Sanborn Fire Insurance Map from Paola, Miami County, Kansas.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/sanborn03054_001/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sanborn03054_002/",
+        "https://hdl.loc.gov/loc.gmd/g4204pm.g4204pm_g030541891",
+        "http://www.loc.gov/resource/g4204pm.g4204pm_g030541891/"
+      ],
+      "campaigns": [],
+      "date": "1891-11",
+      "dates": [
+        "1891-11"
+      ],
+      "description": [
+        "Nov 1891. 5 sheet(s)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-08T18:06:16.894Z",
+      "group": [
+        "sanborn"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sanborn03054_002/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd420m/g4204m/g4204pm/g4204pm_g030541891/03054_1891-0001.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd420m/g4204m/g4204pm/g4204pm_g030541891/03054_1891-0001.gif#h=150&w=126",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd420m:g4204m:g4204pm:g4204pm_g030541891:03054_1891-0001/full/pct:12.5/0/default.jpg#h=956&w=806",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd420m:g4204m:g4204pm:g4204pm_g030541891:03054_1891-0001/full/pct:25/0/default.jpg#h=1912&w=1612"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "miami county",
+        "kansas",
+        "paola",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/jp2"
+      ],
+      "number": [
+        "2018-04-24t09:37:54"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "geography and map division",
+        "sanborn maps"
+      ],
+      "score": 19.321087,
+      "shelf_id": "http://www.loc.gov/item/sanborn03054_002/",
+      "site": [
+        "ammem"
+      ],
+      "timestamp": "2024-10-08T18:50:45.938Z",
+      "title": "Sanborn Fire Insurance Map from Paola, Miami County, Kansas.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/sanborn03054_002/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sanborn03054_003/",
+        "https://hdl.loc.gov/loc.gmd/g4204pm.g4204pm_g030541897",
+        "http://www.loc.gov/resource/g4204pm.g4204pm_g030541897/"
+      ],
+      "campaigns": [],
+      "date": "1897-02",
+      "dates": [
+        "1897-02"
+      ],
+      "description": [
+        "Feb 1897. 5 sheet(s)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-08T18:06:16.894Z",
+      "group": [
+        "sanborn"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sanborn03054_003/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd420m/g4204m/g4204pm/g4204pm_g030541897/03054_1897-0001.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd420m/g4204m/g4204pm/g4204pm_g030541897/03054_1897-0001.gif#h=150&w=126",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd420m:g4204m:g4204pm:g4204pm_g030541897:03054_1897-0001/full/pct:12.5/0/default.jpg#h=956&w=806",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd420m:g4204m:g4204pm:g4204pm_g030541897:03054_1897-0001/full/pct:25/0/default.jpg#h=1912&w=1612"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "miami county",
+        "kansas",
+        "paola",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/jp2"
+      ],
+      "number": [
+        "2018-04-24t09:37:54"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "geography and map division",
+        "sanborn maps"
+      ],
+      "score": 19.321087,
+      "shelf_id": "http://www.loc.gov/item/sanborn03054_003/",
+      "site": [
+        "ammem"
+      ],
+      "timestamp": "2024-10-08T18:50:45.938Z",
+      "title": "Sanborn Fire Insurance Map from Paola, Miami County, Kansas.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/sanborn03054_003/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sanborn03054_004/",
+        "https://hdl.loc.gov/loc.gmd/g4204pm.g4204pm_g030541905",
+        "http://www.loc.gov/resource/g4204pm.g4204pm_g030541905/"
+      ],
+      "campaigns": [],
+      "date": "1905-10",
+      "dates": [
+        "1905-10"
+      ],
+      "description": [
+        "Oct 1905. 5 sheet(s)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-08T18:06:16.894Z",
+      "group": [
+        "sanborn"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sanborn03054_004/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd420m/g4204m/g4204pm/g4204pm_g030541905/03054_1905-0001.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd420m/g4204m/g4204pm/g4204pm_g030541905/03054_1905-0001.gif#h=150&w=126",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd420m:g4204m:g4204pm:g4204pm_g030541905:03054_1905-0001/full/pct:12.5/0/default.jpg#h=956&w=806",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd420m:g4204m:g4204pm:g4204pm_g030541905:03054_1905-0001/full/pct:25/0/default.jpg#h=1912&w=1612"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "miami county",
+        "kansas",
+        "paola",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/jp2"
+      ],
+      "number": [
+        "2020-04-21t15:09:42"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "geography and map division",
+        "sanborn maps"
+      ],
+      "score": 19.321087,
+      "shelf_id": "http://www.loc.gov/item/sanborn03054_004/",
+      "site": [
+        "ammem"
+      ],
+      "timestamp": "2024-10-08T18:50:45.938Z",
+      "title": "Sanborn Fire Insurance Map from Paola, Miami County, Kansas.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/sanborn03054_004/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sanborn03054_005/",
+        "https://hdl.loc.gov/loc.gmd/g4204pm.g4204pm_g030541909",
+        "http://www.loc.gov/resource/g4204pm.g4204pm_g030541909/"
+      ],
+      "campaigns": [],
+      "date": "1909-06",
+      "dates": [
+        "1909-06"
+      ],
+      "description": [
+        "Jun 1909. 5 sheet(s)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-08T18:06:16.894Z",
+      "group": [
+        "sanborn"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sanborn03054_005/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd420m/g4204m/g4204pm/g4204pm_g030541909/03054_1909-0001.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd420m/g4204m/g4204pm/g4204pm_g030541909/03054_1909-0001.gif#h=150&w=126",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd420m:g4204m:g4204pm:g4204pm_g030541909:03054_1909-0001/full/pct:12.5/0/default.jpg#h=956&w=806",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd420m:g4204m:g4204pm:g4204pm_g030541909:03054_1909-0001/full/pct:25/0/default.jpg#h=1912&w=1612"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "miami county",
+        "kansas",
+        "paola",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/jp2"
+      ],
+      "number": [
+        "2020-04-21t15:09:42"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "geography and map division",
+        "sanborn maps"
+      ],
+      "score": 19.321087,
+      "shelf_id": "http://www.loc.gov/item/sanborn03054_005/",
+      "site": [
+        "ammem"
+      ],
+      "timestamp": "2024-10-08T18:50:45.938Z",
+      "title": "Sanborn Fire Insurance Map from Paola, Miami County, Kansas.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/sanborn03054_005/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sanborn03054_006/",
+        "https://hdl.loc.gov/loc.gmd/g4204pm.g4204pm_g030541916",
+        "http://www.loc.gov/resource/g4204pm.g4204pm_g030541916/"
+      ],
+      "campaigns": [],
+      "date": "1916-12",
+      "dates": [
+        "1916-12"
+      ],
+      "description": [
+        "Dec 1916. 10 sheet(s)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-08T18:06:16.894Z",
+      "group": [
+        "sanborn"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sanborn03054_006/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd420m/g4204m/g4204pm/g4204pm_g030541916/03054_1916-0001.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd420m/g4204m/g4204pm/g4204pm_g030541916/03054_1916-0001.gif#h=150&w=126",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd420m:g4204m:g4204pm:g4204pm_g030541916:03054_1916-0001/full/pct:12.5/0/default.jpg#h=956&w=806",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd420m:g4204m:g4204pm:g4204pm_g030541916:03054_1916-0001/full/pct:25/0/default.jpg#h=1912&w=1612"
+      ],
+      "index": 7,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "miami county",
+        "kansas",
+        "paola",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/jp2"
+      ],
+      "number": [
+        "2020-04-21t15:09:42"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "geography and map division",
+        "sanborn maps"
+      ],
+      "score": 19.321087,
+      "shelf_id": "http://www.loc.gov/item/sanborn03054_006/",
+      "site": [
+        "ammem"
+      ],
+      "timestamp": "2024-10-08T18:50:45.938Z",
+      "title": "Sanborn Fire Insurance Map from Paola, Miami County, Kansas.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/sanborn03054_006/"
+    }
+  ],
+  "reproductions": "<h3>If Digital Images Are Displaying</h3>\n\n<p>You can download online images yourself.  Alternatively, you can purchase copies of various types through Library of Congress Duplication Services.</p>\n\n<p>HABS/HAER/HALS materials have generally been scanned at high resolution that is suitable for most publication purposes (see <a href=\"/ppoc/hh/resources/digitizing.html\">Digitizing the Collection</a> for further details about the digital images).</p>\n\n<ul>\n<p>\n<li><strong>Photographs--</strong>All photographs are printed from digital files to preserve the fragile originals.\n</li>\n<ul>\n<li>Make note of the Call Number and Item Number that appear under the photograph in the multiple-image display (e.g., HAER, NY,52-BRIG,4-2).\n</li>\n<li>If possible, include a printout of the photograph.\n</li>\n</ul>\n</p>\n\n<p>\n<li><strong>Drawings--</strong>All drawings are printed from digital files to preserve the fragile originals.\n</li>\n<ul>\n<li>Make note of the Survey Number (e.g., HAER NY - 143) and Sheet Number (e.g., &quot;Sheet 1 of 4&quot;), which appear on the edge of the drawing. (NOTE: These numbers are visible in the Tiff &quot;Reference Image&quot; display.)\n</li>\n<li>If possible, include a printout of the drawing. \n</li>\n</ul>\n</p>\n\n<p>\n<li><strong>Data Pages</strong>\n</li>\n<ul>\n<li>Make note of the Call Number in the catalog record.\n</li>\n</ul>\n</p>\n</ul>\n\n<h3>If Digital Images Are Not Displaying</h3>\n\n<p>In the rare case that a digital image for HABS/HAER/HALS documentation is not displaying online, select images for reproduction through one of these methods:</p>\n<ul>\n<p>\n<li>Visit the Prints & Photographs Reading Room and request to view the group (general information about service in the reading room is available at: <a href=\"https://www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>). It is best to contact reference staff in advance (see: <a href=\"https://www.loc.gov/rr/print/address.html\">https://www.loc.gov/rr/print/address.html</a>) to make sure the material is on site.  OR\n</li>\n</p>\n\n<p>\n<li>P&amp;P reading room staff can provide up to 15 quick copies of items per calendar year (many original items in the holdings are too old or fragile to make such copies, but generally HABS/HAER/HALS materials are in good enough condition to be placed on photocopy machines). For assistance, see our <a href=\"https://www.loc.gov/rr/askalib/ask-print.html\">Ask a Librarian</a> page OR\n</li>\n</p>\n\n<p>\n<li>Hire a freelance researcher to do further selection for you (a list of researchers in available at: <a href=\"https://www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>).\n</li>\n</p>\n\n<p>\n<li>You can purchase copies of various types, including quick copies, through Library of Congress Duplication Services (price lists, contact information, and order forms for Library of Congress Duplication Services are available on the <a href=\"https://www.loc.gov/duplicationservices/\">Duplication Services Web site</a>):\n</li>\n</p>\n\n<ul>\n<li>Make note of the Call Number listed above. \n</li>\n<li>Look at the Medium field above. If it lists more than one item: \n</li>\n<ul>\n<li>The entire group can be ordered as photocopies or high-quality copies. \n</li>\n<li>All the items in a particular medium (e.g., all drawings, all photographs) can be ordered as photocopies or high-quality copies.   \n</li>\n</ul>\n</ul>\n</ul>",
+  "resource": {
+    "caption": "Photos from Survey HABS KS-52 ",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0000/ks0072/photos/069905p_150px.jpg",
+    "segment_count": 7,
+    "url": "https://www.loc.gov/resource/hhh.ks0072.photos"
+  },
+  "resources": [
+    {
+      "caption": "Photos from Survey HABS KS-52 ",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0000/ks0072/photos/069905p_150px.jpg",
+      "segment_count": 7,
+      "url": "https://www.loc.gov/resource/hhh.ks0072.photos"
+    }
+  ],
+  "segments": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/hhh.ks0072.photos/?sp=2",
+        "http://www.loc.gov/resource/hhh.ks0072.photos.069906p"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "sponable, john w",
+        "gardiner, allen",
+        "historic american buildings survey",
+        "fordyce brothers",
+        "smith, martha",
+        "koupal, howard",
+        "washburn, george putnam",
+        "collins, dan"
+      ],
+      "description": [
+        ""
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-13T15:58:02.013Z",
+      "group": [
+        "hh-0",
+        "habshaer-group-0"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/resource/hhh.ks0072.photos/?sp=2",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0000/ks0072/photos/069906p_150px.jpg#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0000/ks0072/photos/069906pr.jpg#h=514&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/habshaer/ks/ks0000/ks0072/photos/069906pv.jpg#h=822&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "miami county",
+        "kansas",
+        "paola"
+      ],
+      "mime_type": [
+        "image/tiff",
+        "image/jpg",
+        "image/jpeg",
+        "image/jpeg",
+        "application/json"
+      ],
+      "number": [
+        "0000000002"
+      ],
+      "number_page": [
+        "0000000002"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "prints and photographs division",
+        "historic american buildings survey/historic american engineering record/historic american landscapes survey"
+      ],
+      "resources": [
+        {
+          "files": 1,
+          "url": "https://www.loc.gov/resource/hhh.ks0072.photos/?sp=2"
+        }
+      ],
+      "segmentof": [
+        "http://www.loc.gov/resource/hhh.ks0072.photos/"
+      ],
+      "shelf_id": "2",
+      "site": [
+        "pictures"
+      ],
+      "subject": [
+        "brick buildings",
+        "libraries",
+        "reading"
+      ],
+      "timestamp": "2023-11-13T16:28:44.657Z",
+      "title": "2.  PERSPECTIVE VIEW, NORTH FRONT AND WEST SIDE INCLUDING GENERAL VIEW OF LANDSCAPE - Paola Free Library, 101 East Peoria Street, Paola, Miami County, KS",
+      "type": [
+        "segment"
+      ],
+      "url": "https://www.loc.gov/resource/hhh.ks0072.photos/?sp=2"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294077359,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "viewer_pagination": {
+    "current": 2,
+    "first": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=1",
+    "from": 2,
+    "last": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=5",
+    "next": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=3",
+    "of": 7,
+    "page_list": [
+      {
+        "number": 1,
+        "url": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=1"
+      },
+      {
+        "number": 2,
+        "url": null
+      },
+      {
+        "number": 3,
+        "url": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=3"
+      },
+      {
+        "number": 4,
+        "url": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=4"
+      },
+      {
+        "number": "...",
+        "url": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=5"
+      }
+    ],
+    "perpage": 1,
+    "perpage_options": [
+      25,
+      50,
+      100,
+      150
+    ],
+    "previous": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=1",
+    "results": "2 - 2",
+    "to": 2,
+    "total": 7
+  },
+  "views": {
+    "brief": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=1&st=gallery",
+    "grid": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=1&st=grid",
+    "image": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=1&st=list",
+    "pdf": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=2",
+    "slideshow": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=1&st=slideshow",
+    "text": "https://www.loc.gov/resource/hhh.ks0072.photos/?fo=json&sp=2&st=text"
+  }
+}

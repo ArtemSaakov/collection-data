@@ -1,0 +1,1595 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "(ca. 1916) <cite>Carnegie Library, Cordele, Georgia</cite>. Cordele Georgia, ca. 1916. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/91787443/.",
+    "chicago": "<cite>Carnegie Library, Cordele, Georgia</cite>. Cordele Georgia, ca. 1916. Photograph. https://www.loc.gov/item/91787443/.",
+    "mla": "<cite>Carnegie Library, Cordele, Georgia</cite>. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/91787443/&gt;."
+  },
+  "item": {
+    "_version_": 1731714874606616576,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/91787443/",
+      "http://www.loc.gov/item/91787443/",
+      "http://www.loc.gov/pictures/item/91787443/",
+      "https://www.loc.gov/pictures/collection/cph/item/91787443/",
+      "http://www.loc.gov/pictures/collection/cph/item/91787443/",
+      "http://www.loc.gov/resource/cph.3b41963/",
+      "http://lccn.loc.gov/91787443",
+      "https://hdl.loc.gov/loc.pnp/cph.3b41963"
+    ],
+    "call_number": "SSF - Libraries--Georgia--Cordele <item> [P&P]",
+    "campaigns": [],
+    "control_number": "",
+    "created": "2016-04-21T09:17:00Z",
+    "created_published": [
+      "[ca. 1916]"
+    ],
+    "created_published_date": "[ca. 1916]",
+    "date": "1916-01-01",
+    "dates": [
+      {
+        "1916": "https://www.loc.gov/search/?dates=1916/1916&fo=json"
+      }
+    ],
+    "description": [
+      "1 photographic print. | Photo shows a group of children posed on and in front of steps, roof and dome draped with stars and stripes banners. A Carnegie grant for $10,000 in 1903 funded this building, with an  additional $7,556 in 1916 for remodeling. Still used as a public library."
+    ],
+    "digital_id": [
+      "cph 3b41963 //hdl.loc.gov/loc.pnp/cph.3b41963"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-25T14:59:01.036Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/cph/item/91787443/#cph",
+      "http://lccn.loc.gov/91787443#catalog-split-11"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Photographic prints--1910-1920."
+    ],
+    "genre": [
+      "Photographic prints--1910-1920"
+    ],
+    "group": [
+      "cph",
+      "catalog-split-11",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-11",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/91787443/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b41000/3b41900/3b41963_150px.jpg#h=121&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b41000/3b41900/3b41963t.gif#h=121&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b41000/3b41900/3b41963r.jpg#h=515&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b41000/3b41900/3b41963v.jpg#h=823&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "SSF - Libraries--Georgia--Cordele <item> [P&P]",
+      "control_number": "91787443",
+      "created": "2016-04-21T09:17:00Z",
+      "created_published": "[ca. 1916]",
+      "created_published_date": "[ca. 1916]",
+      "date": "[ca. 1916]",
+      "digital_id": [
+        "cph 3b41963 //hdl.loc.gov/loc.pnp/cph.3b41963"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1910-1920.&co=cph",
+          "title": "Photographic prints--1910-1920."
+        }
+      ],
+      "genre": [
+        "Photographic prints--1910-1920"
+      ],
+      "id": "91787443",
+      "link": "https://www.loc.gov/pictures/item/91787443/",
+      "location": [
+        "Georgia--Cordele"
+      ],
+      "marc": "https://www.loc.gov/pictures/item/91787443/marc/",
+      "medium": [
+        "1 photographic print."
+      ],
+      "medium_brief": "1 photographic print.",
+      "mediums": [
+        "1 photographic print."
+      ],
+      "modified": "2016-04-21T09:17:00Z",
+      "notes": [
+        "At bottom right of photo: \"Cordele Book Co.\"",
+        "Wittemann Collection."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/91787443",
+        "https://www.loc.gov/item/11583075"
+      ],
+      "other_control_numbers": [
+        "11583075"
+      ],
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Georgia--Cordele&co=cph",
+          "longitude": "",
+          "title": "Georgia--Cordele"
+        }
+      ],
+      "reproduction_number": "LC-USZ62-95830 (b&w film copy neg.)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/cph.3b41963"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b41000/3b41900/3b41963_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b41000/3b41900/3b41963r.jpg",
+      "sort_date": "1916",
+      "source_created": "1991-08-22T00:00:00Z",
+      "source_modified": "2012-06-14T21:04:56Z",
+      "subject_headings": [
+        "Libraries--Georgia--Cordele--1910-1920.",
+        "Georgia--Cordele"
+      ],
+      "subjects": [
+        "Libraries--Georgia--Cordele--1910-1920"
+      ],
+      "summary": "Photo shows a group of children posed on and in front of steps, roof and dome draped with stars and stripes banners. A Carnegie grant for $10,000 in 1903 funded this building, with an  additional $7,556 in 1916 for remodeling. Still used as a public library.",
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b41000/3b41900/3b41963_150px.jpg",
+      "title": "Carnegie Library, Cordele, Georgia"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "91787443",
+    "link": "https://www.loc.gov/pictures/item/91787443/",
+    "location": [
+      "cordele",
+      "georgia"
+    ],
+    "locations": [
+      {
+        "cordele": "https://www.loc.gov/search/?fa=location:cordele&fo=json"
+      },
+      {
+        "georgia": "https://www.loc.gov/search/?fa=location:georgia&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/91787443/marc/",
+    "medium": [
+      "1 photographic print."
+    ],
+    "medium_brief": "1 photographic print.",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2016-04-21T09:17:00Z",
+    "notes": [
+      "At bottom right of photo: \"Cordele Book Co.\"",
+      "Wittemann Collection."
+    ],
+    "number": [
+      "http://www.loc.gov/item/91787443",
+      "2012-06-14t21:04:56",
+      "91787443",
+      "http://www.loc.gov/item/11583075"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/11583075",
+      "http://www.loc.gov/item/91787443"
+    ],
+    "number_lccn": [
+      "91787443"
+    ],
+    "number_source_modified": [
+      "2012-06-14t21:04:56"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "11583075"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/91787443/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/91787443/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/91787443/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 117442,
+        "title": "miscellaneous items in high demand",
+        "url": "https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json"
+      },
+      {
+        "count": 950665,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1079675,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1587565,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Georgia--Cordele&co=cph",
+        "longitude": "",
+        "title": "Georgia--Cordele"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=91787443&st=gallery&sb=call_number#focus"
+    },
+    "reproduction_number": "LC-USZ62-95830 (b&w film copy neg.)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/cph.3b41963"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from b&w film copy neg.",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b41000/3b41900/3b41963_150px.jpg",
+        "url": "https://www.loc.gov/resource/cph.3b41963/"
+      }
+    ],
+    "rights": [],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.196266,
+    "shard": "00",
+    "shelf_id": "SSF - Libraries--Georgia--Cordele <item> [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1916",
+    "source_created": "1991-08-22T00:00:00Z",
+    "source_modified": "2012-06-14T21:04:56Z",
+    "subject": [
+      "photographic prints",
+      "cordele",
+      "georgia",
+      "libraries"
+    ],
+    "subject_headings": [
+      "Libraries--Georgia--Cordele--1910-1920"
+    ],
+    "subjects": [
+      {
+        "cordele": "https://www.loc.gov/search/?fa=subject:cordele&fo=json"
+      },
+      {
+        "georgia": "https://www.loc.gov/search/?fa=subject:georgia&fo=json"
+      },
+      {
+        "libraries": "https://www.loc.gov/search/?fa=subject:libraries&fo=json"
+      },
+      {
+        "photographic prints": "https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json"
+      }
+    ],
+    "summary": "Photo shows a group of children posed on and in front of steps, roof and dome draped with stars and stripes banners. A Carnegie grant for $10,000 in 1903 funded this building, with an  additional $7,556 in 1916 for remodeling. Still used as a public library.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b41000/3b41900/3b41963_150px.jpg",
+    "timestamp": "2022-05-02T11:46:38.938Z",
+    "title": "Carnegie Library, Cordele, Georgia",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/91787443/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017703572/",
+        "http://www.loc.gov/item/2017703572/",
+        "http://www.loc.gov/pictures/item/2017703572/",
+        "https://hdl.loc.gov/loc.pnp/mrg.01458",
+        "https://hdl.loc.gov/loc.pnp/mrg.01458",
+        "http://www.loc.gov/resource/mrg.01458/",
+        "http://lccn.loc.gov/2017703572"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "margolies, john"
+      ],
+      "date": "1980",
+      "dates": [
+        "1980"
+      ],
+      "description": [
+        "1 photograph : color transparency ; 35 mm (slide format)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-17T14:45:01.607Z",
+      "group": [
+        "pp_other",
+        "catalog-split-02",
+        "catalog",
+        "prints-and-photographs-other",
+        "main-catalog-split-02"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017703572/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/01400/01458_150px.jpg#h=103&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/01400/01458r.jpg#h=440&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/mrg/01400/01458v.jpg#h=704&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "cordele",
+        "georgia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "sheet",
+        "2017703572",
+        "http://www.loc.gov/item/mrg2017001457",
+        "2019-06-21t16:24:38",
+        "http://www.loc.gov/item/19673566",
+        "http://www.loc.gov/item/2017703572"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "catalog",
+        "john margolies roadside america photograph archive"
+      ],
+      "score": 27.259415,
+      "shelf_id": "LC-MA05- 1458 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "color",
+        "cordele",
+        "georgia",
+        "united states",
+        "motels",
+        "signs (notices)",
+        "slides"
+      ],
+      "timestamp": "2023-08-17T16:49:09.522Z",
+      "title": "Top Hat Motel sign, Route 41, Cordele, Georgia",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017703572/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017717175/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8a03360",
+        "http://www.loc.gov/item/2017717175/",
+        "http://www.loc.gov/pictures/item/2017717175/",
+        "https://hdl.loc.gov/loc.pnp/cph.3b43770",
+        "http://www.loc.gov/resource/cph.3b43770/",
+        "http://www.loc.gov/resource/fsa.8a03360/",
+        "http://lccn.loc.gov/2017717175"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "vachon, john"
+      ],
+      "date": "1938-01-01",
+      "dates": [
+        "1938"
+      ],
+      "description": [
+        "1 negative : nitrate ; 35 mm."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:11:18.045Z",
+      "group": [
+        "fsa",
+        "catalog-split-06",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-06",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017717175/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43700/3b43770_150px.jpg#h=94&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43700/3b43770t.gif#h=94&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b43000/3b43700/3b43770r.jpg#h=403&w=640"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "cordele",
+        "georgia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017-07-19t12:51:08",
+        "http://www.loc.gov/item/2017717175",
+        "http://www.loc.gov/item/19796671",
+        "2017717175",
+        "http://www.loc.gov/item/fsa1997003349/pp"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "farm security administration/office of war information black-and-white negatives",
+        "lot 1123"
+      ],
+      "score": 27.259415,
+      "shelf_id": "LC-USF33- 001148-M1 [P&P] LOT 1123  (Possible associated group of images)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "cordele",
+        "georgia",
+        "united states",
+        "cities, towns",
+        "nitrate negatives",
+        "railroad stations"
+      ],
+      "timestamp": "2022-04-25T15:54:04.547Z",
+      "title": "Railroad station, Cordele, Georgia",
+      "url": "https://www.loc.gov/item/2017717175/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2002719602",
+        "http://www.loc.gov/resource/ppmsca.02912/",
+        "http://www.loc.gov/item/2002719602/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.02912",
+        "https://www.loc.gov/pictures/item/2002719602/",
+        "http://www.loc.gov/pictures/item/2002719602/",
+        "https://www.loc.gov/pictures/collection/cph/item/2002719602/",
+        "http://www.loc.gov/pictures/collection/cph/item/2002719602/"
+      ],
+      "campaigns": [],
+      "date": "1828-01-01",
+      "dates": [
+        "1828"
+      ],
+      "description": [
+        "Bilingual notice in English and Cherokee stating that William McConnell will no longer pay the debts of his wife Delilah McConnell as she has left him."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T11:20:46.197Z",
+      "group": [
+        "awhbib",
+        "cph",
+        "catalog-split-13",
+        "catalog",
+        "american-womens-history",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2002719602/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02900/02912_150px.jpg#h=150&w=129",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02900/02912t.gif#h=150&w=129",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02900/02912r.jpg#h=640&w=550",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02900/02912v.jpg#h=1024&w=880"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "new echota",
+        "georgia"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/12943608",
+        "2002719602",
+        "2004-01-06t09:00:15"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "book",
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "newspaper and periodicals reading room",
+        "miscellaneous items in high demand",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "american women: a gateway to library of congress resources for the study of women's history and culture in the united states"
+      ],
+      "score": 22.753422,
+      "shelf_id": "Item in Newspaper Microfilm 1930",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "marriage",
+        "cherokee indians",
+        "women",
+        "newspapers",
+        "domestic life",
+        "indians of north america",
+        "georgia",
+        "advertisements",
+        "mcconnell, william",
+        "letterpress works",
+        "law & legal affairs",
+        "mcconnell, delilah",
+        "new echota"
+      ],
+      "timestamp": "2022-12-10T04:46:40.769Z",
+      "title": "Notice: I hereby forewarn all persons against crediting my wife, Delilah McConnell ...",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2002719602/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/00652549",
+        "http://www.loc.gov/resource/cph.3a39529/",
+        "http://www.loc.gov/item/00652549/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a39529",
+        "https://www.loc.gov/pictures/item/00652549/",
+        "http://www.loc.gov/pictures/item/00652549/",
+        "https://www.loc.gov/pictures/collection/cph/item/00652549/",
+        "http://www.loc.gov/pictures/collection/cph/item/00652549/"
+      ],
+      "campaigns": [],
+      "date": "1911-01-01",
+      "dates": [
+        "1911"
+      ],
+      "description": [
+        "J152199 U.S. Copyright Office."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T04:39:43.666Z",
+      "group": [
+        "natfor",
+        "cph",
+        "catalog-split-15",
+        "catalog",
+        "recordings-from-world-war-i-and-the-1920-election",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652549/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a39000/3a39500/3a39529_150px.jpg#h=108&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a39000/3a39500/3a39529t.gif#h=108&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a39000/3a39500/3a39529r.jpg#h=462&w=640"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/12210099",
+        "00652549",
+        "2016-04-12t07:58:16",
+        "http://www.loc.gov/item/00652549"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american leaders speak: recordings from world war i",
+        "catalog",
+        "miscellaneous items in high demand",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 22.176373,
+      "shelf_id": "BIOG FILE - Hitchcock, Gilbert M., 1859-1934 [item]",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "photographic prints",
+        "gilbert monell)",
+        "hitchcock, gilbert m.",
+        "portrait photographs"
+      ],
+      "timestamp": "2022-12-10T04:23:26.621Z",
+      "title": "[Gilbert M. Hitchcock, half-length portrait, standing, facing right, wearing overcoat and bowler]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/00652549/"
+    },
+    {
+      "access_restricted": true,
+      "aka": [
+        "https://hdl.loc.gov/loc.pnp/ppmsc.03675",
+        "http://www.loc.gov/resource/ppmsc.03675/",
+        "http://www.loc.gov/item/00652550/",
+        "http://lccn.loc.gov/00652550",
+        "https://www.loc.gov/pictures/item/00652550/",
+        "http://www.loc.gov/pictures/item/00652550/",
+        "https://www.loc.gov/pictures/collection/cph/item/00652550/",
+        "http://www.loc.gov/pictures/collection/cph/item/00652550/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "betts, louis"
+      ],
+      "date": "1960-01-01",
+      "dates": [
+        "1960"
+      ],
+      "description": [
+        "Photograph of a painting by Louis Betts. Architect of the Capitol collection."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T04:39:43.666Z",
+      "group": [
+        "natfor",
+        "cph",
+        "catalog-split-07",
+        "catalog",
+        "recordings-from-world-war-i-and-the-1920-election",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-07",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652550/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03675_150px.jpg#h=150&w=122"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "00652550",
+        "http://www.loc.gov/item/12210111",
+        "2016-04-12t07:58:47",
+        "http://www.loc.gov/item/00652550"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american leaders speak: recordings from world war i",
+        "catalog",
+        "miscellaneous items in high demand",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 22.176373,
+      "shelf_id": "BIOG FILE - Lewis, James Hamilton, 1863-1939 [item]",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "lewis, james",
+        "photographic prints",
+        "reproductions",
+        "portrait paintings"
+      ],
+      "timestamp": "2022-12-10T04:23:26.621Z",
+      "title": "[James Hamilton Lewis, first Democratic whip of the Senate, half-length portrait, seated, facing front]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/00652550/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/00652551",
+        "http://www.loc.gov/resource/cph.3a36598/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a36598",
+        "http://www.loc.gov/resource/ppmsc.03676/",
+        "https://hdl.loc.gov/loc.pnp/ppmsc.03676",
+        "http://www.loc.gov/item/00652551/",
+        "https://www.loc.gov/pictures/item/00652551/",
+        "http://www.loc.gov/pictures/item/00652551/",
+        "https://www.loc.gov/pictures/collection/cph/item/00652551/",
+        "http://www.loc.gov/pictures/collection/cph/item/00652551/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "macdonald, pirie"
+      ],
+      "date": "1916-01-01",
+      "dates": [
+        "1916"
+      ],
+      "description": [
+        "J210809 U.S. Copyright Office."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T04:39:43.666Z",
+      "group": [
+        "natfor",
+        "cph",
+        "catalog-split-08",
+        "catalog",
+        "recordings-from-world-war-i-and-the-1920-election",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652551/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03676_150px.jpg#h=150&w=101",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03676t.gif#h=150&w=101",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03676r.jpg#h=640&w=433",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03676v.jpg#h=1024&w=692"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "00652551",
+        "2016-04-12t07:59:10",
+        "http://www.loc.gov/item/00652551",
+        "http://www.loc.gov/item/12210234"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american leaders speak: recordings from world war i",
+        "catalog",
+        "miscellaneous items in high demand",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 22.176373,
+      "shelf_id": "BIOG FILE - Lodge, Henry Cabot, 1850-1924 [item]",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "lodge, henry cabot",
+        "photographic prints",
+        "portrait photographs"
+      ],
+      "timestamp": "2022-12-10T04:23:26.621Z",
+      "title": "[Senator Henry Cabot Lodge, head-and-shoulders portrait, facing right]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/00652551/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "cph",
+      "catalog-split-11",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-11",
+      "main-catalog",
+      "pp_other",
+      "catalog-split-02",
+      "prints-and-photographs-other",
+      "main-catalog-split-02",
+      "fsa",
+      "catalog-split-06",
+      "fsa-owi-black-and-white-negatives",
+      "main-catalog-split-06",
+      "awhbib",
+      "catalog-split-13",
+      "american-womens-history",
+      "main-catalog-split-13",
+      "natfor",
+      "catalog-split-15",
+      "recordings-from-world-war-i-and-the-1920-election",
+      "main-catalog-split-15",
+      "catalog-split-07",
+      "main-catalog-split-07",
+      "catalog-split-08",
+      "main-catalog-split-08",
+      "ndnp/newspapers",
+      "united-states-newspaper-directory",
+      "gmd.mar",
+      "general-maps",
+      "newspaper-titles",
+      "catalog-split-04",
+      "main-catalog-split-04"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "cph.3b41963",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.8253557682037354,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/cph.3b41963/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/cph.3b41963/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1731294124.397742,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 31780218,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/cph/3b40000/3b41000/3b41900/3b41963u.tif",
+      "width": 0
+    },
+    {
+      "height": 121,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 5341,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b41000/3b41900/3b41963_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 121,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 12091,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b41000/3b41900/3b41963t.gif",
+      "width": 150
+    },
+    {
+      "height": 515,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 69276,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b41000/3b41900/3b41963r.jpg",
+      "width": 640
+    },
+    {
+      "height": 823,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 171283,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b41000/3b41900/3b41963v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=91787443&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2024271005/"
+      ],
+      "campaigns": [],
+      "date": "19??",
+      "dates": [
+        "[1900 TO 1920]"
+      ],
+      "description": [
+        "Daily (except Sat.), Nov. 15, 1917-1920 Print ceased in May or June 1920. \"Official organ of the city of Cordele and Crisp County.\"--volume VII, no. 40 (January 5, 1916), page [4]. \"Official organ of Crisp County.\"--vol. VIII, no. 5 (May 3, 1916). Has separately titled section, <May 30, 1917->: High school news. Stated frequency and actual frequency may differ. May be some irregularities in enumeration and chronology. May contain special issue called: D.A.R. Edition. This seems more likely to have been a one-time special issue than a true separate edition. Semiweekly edition carrying its own enumeration may have been included as part of this title during some periods when title was published daily from Nov. 15, 1917- . Despite presence of frequency edition statements, cannot be determined whether the semiweekly edition constituted an entirely separate publication. There may have been days when the semiweekly edition was the only paper printed for the day and intended to function also as the daily issue. Some issues with semiweekly edition statement give frequency as daily in publisher's block. Appears to have merged with: Cordele daily sentinel to form: Cordele dispatch and daily sentinel. Volume VII, No. 40 (January 5, 1916); title from masthead (Chroniclingamerica.loc.gov, viewed January 10, 2024). Vol. 3, No. 165 (May 26, 1920) (Chroniclingamerica.loc.gov, viewed January 10, 2024). Cordele daily sentinel 2995-9500 (DLC)  2024271006 (OCoLC)1365768741 Cordele dispatch and daily sentinel 2995-9578 (DLC)  2024271007 (OCoLC)1365639853"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-09-18T12:07:15.716Z",
+      "group": [
+        "ndnp/newspapers",
+        "united-states-newspaper-directory"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2024271005/",
+      "image_url": [],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "crisp",
+        "cordele",
+        "crisp county",
+        "georgia",
+        "united states"
+      ],
+      "number": [
+        "2024271006",
+        "2024271007",
+        "2995-9454",
+        "2024271005",
+        "2024-09-09t08:59:08.942573",
+        "1365769087",
+        "online resource"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "directory of u.s. newspapers in american libraries",
+        "the cordele dispatch (cordele georgia;cordele, georgia) 19??-1920 [online resource]",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "daily"
+      ],
+      "score": 23.106138,
+      "shelf_id": "ISSN RECORD",
+      "site": [
+        "usnd"
+      ],
+      "subject": [
+        "crisp",
+        "cordele",
+        "journaux",
+        "newspapers",
+        "https://id.oclc.org/worldcat/entity/e39pbjjhgvgcf983tyyyrpgtkd",
+        "crisp county",
+        "georgia",
+        "united states",
+        "cordele (ga.)",
+        "crisp county (ga.)",
+        "https://id.oclc.org/worldcat/entity/e39pbjr7qhxqxp6tvrmvghkmt3"
+      ],
+      "timestamp": "2024-09-18T12:25:48.359Z",
+      "title": "The Cordele dispatch",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/2024271005/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2024271006/"
+      ],
+      "campaigns": [],
+      "date": "1919",
+      "dates": [
+        "[1919 TO 1920]"
+      ],
+      "description": [
+        "Daily (except Sunday) Print began September 1, 1919; ceased May or June 1920. \"Official Organ County of Crisp and City of Cordele.\"--page [4], Volume 1, number 121 (May 20, 1920). Appears to have merged with: Cordele dispatch (Cordele, Ga. : 1916) to form: Cordele dispatch and daily sentinel. Volume 1, Number 121 (May 20, 1920); title from masthead (Chroniclingamerica.loc.gov, viewed January 10, 2024). Volume 1, Number 227 (May 27, 1920) (Chroniclingamerica.loc.gov, viewed January 10, 2024). Cordele dispatch 2995-9454 (DLC)  2024271005 (OCoLC)1365769087 Cordele dispatch and daily sentinel 2995-9578 (DLC)  2024271007 (OCoLC)1365639853"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-09-18T12:09:31.940Z",
+      "group": [
+        "ndnp/newspapers",
+        "united-states-newspaper-directory"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2024271006/",
+      "image_url": [],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "crisp",
+        "cordele",
+        "crisp county",
+        "georgia",
+        "united states"
+      ],
+      "number": [
+        "2995-9500",
+        "2024271006",
+        "2024271007",
+        "2024271005",
+        "2024-09-09t08:59:08.942573",
+        "online resource",
+        "1365768741"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "directory of u.s. newspapers in american libraries",
+        "cordele daily sentinel (cordele, ga.) 1919-1920 [online resource]",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "daily"
+      ],
+      "score": 23.106138,
+      "shelf_id": "ISSN RECORD",
+      "site": [
+        "usnd"
+      ],
+      "subject": [
+        "crisp",
+        "cordele",
+        "journaux",
+        "newspapers",
+        "https://id.oclc.org/worldcat/entity/e39pbjjhgvgcf983tyyyrpgtkd",
+        "crisp county",
+        "georgia",
+        "united states",
+        "cordele (ga.)",
+        "crisp county (ga.)",
+        "https://id.oclc.org/worldcat/entity/e39pbjr7qhxqxp6tvrmvghkmt3"
+      ],
+      "timestamp": "2024-09-18T12:25:48.359Z",
+      "title": "Cordele daily sentinel",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/2024271006/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2024271007/"
+      ],
+      "campaigns": [],
+      "date": "1920",
+      "dates": [
+        "[1920 TO 1926]"
+      ],
+      "description": [
+        "Daily (except Saturday) Print began in May or June 1920; ceased with volume 9, number 122 (April 7, 1926). Some issues have named section: Le petite dispatch, written by local high school students, <April 1926> Appears to be merger of: Cordele dispatch and: Cordele daily sentinel. Vol. 3, No. 171 (June 2, 1920); title from masthead (Chroniclingamerica.loc.gov, viewed January 10, 2024). Volume No. 9, Number 122 (April 7, 1926) (Chroniclingamerica.loc.gov, viewed January 10, 2024). Cordele dispatch (Cordele, Ga. : 1926) 2995-9616 (DLC)  2024271008 (OCoLC)1371042241"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-09-18T12:09:33.572Z",
+      "group": [
+        "ndnp/newspapers",
+        "united-states-newspaper-directory"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2024271007/",
+      "image_url": [],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "crisp",
+        "cordele",
+        "crisp county",
+        "georgia",
+        "united states"
+      ],
+      "number": [
+        "2024271008",
+        "2995-9578",
+        "2024271006",
+        "2024271007",
+        "2024271005",
+        "1365639853",
+        "2024-09-09t08:59:08.942573",
+        "online resource"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "directory of u.s. newspapers in american libraries",
+        "the cordele dispatch and daily sentinel (cordele, georgia) 1920-1926 [online resource]",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "daily"
+      ],
+      "score": 23.106138,
+      "shelf_id": "ISSN RECORD",
+      "site": [
+        "usnd"
+      ],
+      "subject": [
+        "crisp",
+        "cordele",
+        "journaux",
+        "newspapers",
+        "https://id.oclc.org/worldcat/entity/e39pbjjhgvgcf983tyyyrpgtkd",
+        "crisp county",
+        "georgia",
+        "united states",
+        "cordele (ga.)",
+        "crisp county (ga.)",
+        "https://id.oclc.org/worldcat/entity/e39pbjr7qhxqxp6tvrmvghkmt3"
+      ],
+      "timestamp": "2024-09-18T12:25:48.359Z",
+      "title": "The Cordele dispatch and daily sentinel",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/2024271007/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2024271008/"
+      ],
+      "campaigns": [],
+      "date": "1926",
+      "dates": [
+        "[1926 TO 1971]"
+      ],
+      "description": [
+        "Daily (except Saturday), April 8, 1926-February 16, 1941 Began with volume no. 9, number 123 (April 8, 1926); ceased with v. 54, no. 58 (Jan. 8, 1971). Stated frequency is daily (except Sunday) but actual frequency continues as daily (except Saturday), January 3, 1941-February 16, 1941. Stated frequency and actual frequency may differ at other times as well. Semiweekly edition carrying its own internal enumeration may have been included as part of this title through February 16, 1941. Merged with: Wilcox County chronicle to form: Cordele dispatch and the Wilcox County chronicle. Volume No. 9, Number 123 (April 8, 1926); title from masthead (Chroniclingamerica.loc.gov, viewed January 10, 2024). Volume No. 11, Number 25 (December 14, 1927) (Chroniclingamerica.loc.gov, viewed January 10, 2024). Wilcox County chronicle Cordele dispatch and the Wilcox County chronicle"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-09-18T12:09:56.973Z",
+      "group": [
+        "ndnp/newspapers",
+        "united-states-newspaper-directory"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2024271008/",
+      "image_url": [],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "crisp",
+        "cordele",
+        "crisp county",
+        "georgia",
+        "united states"
+      ],
+      "number": [
+        "2024271008",
+        "2995-9616",
+        "1371042241",
+        "2024-09-09t08:59:08.942573",
+        "online resource"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "directory of u.s. newspapers in american libraries",
+        "the cordele dispatch (cordele, georgia) 1926-1971 [online resource]",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "daily"
+      ],
+      "score": 23.106138,
+      "shelf_id": "ISSN RECORD",
+      "site": [
+        "usnd"
+      ],
+      "subject": [
+        "crisp",
+        "cordele",
+        "journaux",
+        "newspapers",
+        "https://id.oclc.org/worldcat/entity/e39pbjjhgvgcf983tyyyrpgtkd",
+        "crisp county",
+        "georgia",
+        "united states",
+        "cordele (ga.)",
+        "crisp county (ga.)",
+        "https://id.oclc.org/worldcat/entity/e39pbjr7qhxqxp6tvrmvghkmt3"
+      ],
+      "timestamp": "2024-09-18T12:25:48.359Z",
+      "title": "The Cordele dispatch",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/2024271008/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/g3924c.pm001250/",
+        "http://www.loc.gov/item/gm71005352/",
+        "https://hdl.loc.gov/loc.gmd/g3924c.pm001250",
+        "http://lccn.loc.gov/gm71005352"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "fowler, t. m. (thaddeus mortimer)",
+        "downs, a. e. (albert e.)"
+      ],
+      "date": "1908-01-01",
+      "dates": [
+        "1908"
+      ],
+      "description": [
+        "Perspective map not drawn to scale. \"Published by T. M. Fowler & A. E. Downs.\" LC Panoramic maps (2nd ed.), 125 Available also through the Library of Congress Web site as a raster image. Includes illus. Vault AACR2: 100; 651/1; 700/1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-30T00:07:50.658Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-11",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-11",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/gm71005352/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd392/g3924/g3924c/pm001250.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd392/g3924/g3924c/pm001250.gif#h=150&w=223",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd392:g3924:g3924c:pm001250/full/pct:12.5/0/default.jpg#h=810&w=1202",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd392:g3924:g3924c:pm001250/full/pct:25/0/default.jpg#h=1620&w=2404"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "cordele",
+        "georgia",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "gm71005352",
+        "http://www.loc.gov/item/gm71005352",
+        "http://www.loc.gov/item/5403917",
+        "2005-01-03t09:18:12"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "panoramic maps",
+        "geography and map division",
+        "cities and towns"
+      ],
+      "score": 23.106138,
+      "shelf_id": "G3924.C8A3 1908 .D6",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "aerial views",
+        "cordele",
+        "georgia",
+        "united states",
+        "cordele (ga.)"
+      ],
+      "timestamp": "2022-12-10T06:12:58.628Z",
+      "title": "Birds eye view Cordele, Georgia 1908.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/gm71005352/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2022239691/",
+        "http://lccn.loc.gov/2022239691"
+      ],
+      "batch": [
+        "gu_fozzie_ver01"
+      ],
+      "campaigns": [],
+      "date": "1920",
+      "description": [
+        "Daily (except Saturday) Began in May or June 1920; ceased with: Volume 9, number 122 (April 7, 1926). Some issues have named section: Le petite dispatch, written by local high school students, <April 1926> Appears to be merger of: Cordele dispatch and: Cordele daily sentinel. Vol. 3, no. 171 (June 2, 1920) (microfilm surrogate); title from masthead. Volume 9, number 122 (April 7, 1926) (microfilm surrogate). Cordele dispatch (Cordele, Ga. : 1926) (DLC)  2022239700 (OCoLC)1330250546"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-05-23T13:52:26.049Z",
+      "group": [
+        "newspaper-titles",
+        "ndnp/newspapers",
+        "catalog-split-04",
+        "catalog",
+        "united-states-newspaper-directory",
+        "main-catalog-split-04"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2022239691/",
+      "image_url": [],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        31.9691202,
+        -83.7826846
+      ],
+      "location": [
+        "crisp",
+        "cordele",
+        "crisp county",
+        "georgia",
+        "united states"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -83.7826846,
+        31.9691202
+      ],
+      "number": [
+        "2995-956x",
+        "2022239700",
+        "2024-01-12t06:57:15",
+        "1668",
+        "http://www.loc.gov/item/2022239691/1926-04-07/ed-1/",
+        "n1316790520",
+        "1",
+        "2022239699",
+        "2024-05-12t17:32:27.269094",
+        "2024-09-09t08:59:08.942573",
+        "sn89053138",
+        "http://www.loc.gov/item/2022239691/1920-06-02/ed-1/",
+        "online resource",
+        "2022239691",
+        "1316790520"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the cordele dispatch and daily sentinel (cordele, georgia) 1920-1926",
+        "catalog",
+        "directory of u.s. newspapers in american libraries",
+        "serial and government publications division",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "daily"
+      ],
+      "score": 23.106138,
+      "shelf_id": "http://lccn.loc.gov/2022239691",
+      "site": [
+        "chroniclingamerica",
+        "usnd",
+        "catalog"
+      ],
+      "subject": [
+        "crisp",
+        "cordele",
+        "newspapers",
+        "crisp county",
+        "georgia",
+        "united states",
+        "cordele (ga.)",
+        "crisp county (ga.)"
+      ],
+      "timestamp": "2024-11-10T07:21:18.571Z",
+      "title": "The Cordele dispatch and daily sentinel",
+      "type": [
+        "title"
+      ],
+      "url": "https://www.loc.gov/item/2022239691/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "digital file from b&w film copy neg.",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b41000/3b41900/3b41963_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/cph.3b41963/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from b&w film copy neg.",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b41000/3b41900/3b41963_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/cph.3b41963/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1731294125223,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/cph.3b41963/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/cph.3b41963/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/cph.3b41963/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/cph.3b41963/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/cph.3b41963/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/cph.3b41963/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/cph.3b41963/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/cph.3b41963/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/cph.3b41963/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/cph.3b41963/?fo=json&st=text"
+  }
+}
