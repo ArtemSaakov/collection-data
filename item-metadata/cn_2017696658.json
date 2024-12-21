@@ -1,0 +1,1562 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "United States Office Of War Information, Rosener, A., photographer. (1943) <cite>This bench job requires goggles and gloves for protection. The visor front cap is necessary for protection from glare. The worker is using a small hand burr</cite>. United States, 1943. Mar. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2017696658/.",
+    "chicago": "United States Office Of War Information, Rosener, Ann, photographer. <cite>This bench job requires goggles and gloves for protection. The visor front cap is necessary for protection from glare. The worker is using a small hand burr</cite>. United States, 1943. Mar. Photograph. https://www.loc.gov/item/2017696658/.",
+    "mla": "United States Office Of War Information, photographer by Rosener, Ann. <cite>This bench job requires goggles and gloves for protection. The visor front cap is necessary for protection from glare. The worker is using a small hand burr</cite>. Mar. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2017696658/&gt;."
+  },
+  "item": {
+    "_version_": 1731094997832302592,
+    "access_restricted": false,
+    "aka": [
+      "http://www.loc.gov/pictures/collection/fsa/item/2017696658/",
+      "http://www.loc.gov/item/2017696658/",
+      "http://www.loc.gov/pictures/item/2017696658/",
+      "https://hdl.loc.gov/loc.pnp/fsa.8b06149",
+      "http://www.loc.gov/resource/fsa.8b06149/",
+      "http://lccn.loc.gov/2017696658"
+    ],
+    "call_number": "LC-USE6- D-009141 [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Rosener, Ann, photographer",
+      "United States. Office of War Information."
+    ],
+    "contributors": [
+      {
+        "rosener, ann": "https://www.loc.gov/search/?fa=contributor:rosener,+ann&fo=json"
+      },
+      {
+        "united states. office of war information": "https://www.loc.gov/search/?fa=contributor:united+states.+office+of+war+information&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2017-05-16T04:05:15Z",
+    "created_published": [
+      "1943 Mar."
+    ],
+    "created_published_date": "1943 Mar.",
+    "date": "1943-01-01",
+    "dates": [
+      {
+        "1943": "https://www.loc.gov/search/?dates=1943/1943&fo=json"
+      }
+    ],
+    "description": [
+      "1 negative : safety ; 4 x 5 inches or smaller."
+    ],
+    "digital_id": [
+      "fsa 8b06149 //hdl.loc.gov/loc.pnp/fsa.8b06149"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-09-01T20:10:40.147Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/fsa/item/2017696658/#fsa",
+      "http://lccn.loc.gov/2017696658#catalog-split-02"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Safety film negatives."
+    ],
+    "genre": [
+      "Safety film negatives"
+    ],
+    "group": [
+      "fsa",
+      "catalog-split-02",
+      "catalog",
+      "fsa-owi-black-and-white-negatives",
+      "main-catalog-split-02",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2017696658/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06149_150px.jpg#h=150&w=122",
+      "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06149t.gif#h=150&w=122",
+      "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06149r.jpg#h=640&w=520",
+      "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06149v.jpg#h=1024&w=831"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-USE6- D-009141 [P&P]",
+      "contributor_names": [
+        "United States. Office of War Information.,  "
+      ],
+      "contributors": [
+        "Rosener, Ann, photographer.",
+        "United States. Office of War Information."
+      ],
+      "control_number": "2017696658",
+      "created": "2017-05-16T04:05:15Z",
+      "created_published": "1943 Mar.",
+      "created_published_date": "1943 Mar.",
+      "creators": [
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=name&q=Rosener%2C%20Ann&co=fsa",
+          "role": "photographer",
+          "title": "Rosener, Ann"
+        },
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=name&q=United%20States.%20Office%20of%20War%20Information.&co=fsa",
+          "role": "",
+          "title": "United States. Office of War Information."
+        }
+      ],
+      "date": "1943 Mar.",
+      "digital_id": [
+        "fsa 8b06149 //hdl.loc.gov/loc.pnp/fsa.8b06149"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=format&q=Safety%20film%20negatives.&co=fsa",
+          "title": "Safety film negatives."
+        }
+      ],
+      "genre": [
+        "Safety film negatives"
+      ],
+      "id": "2017696658",
+      "language": [
+        "eng"
+      ],
+      "link": "//www.loc.gov/pictures/item/2017696658/",
+      "marc": "//www.loc.gov/pictures/item/2017696658/marc/",
+      "medium": [
+        "1 negative : safety ; 4 x 5 inches or smaller."
+      ],
+      "medium_brief": "1 negative :",
+      "mediums": [
+        "1 negative : safety ; 4 x 5 inches or smaller."
+      ],
+      "modified": "2017-05-16T04:05:15Z",
+      "notes": [
+        "Actual size of negative is C (approximately 4 x 5 inches).",
+        "Caption card lists some of the printing history of image.",
+        "Title and other information from caption card.",
+        "Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944.",
+        "More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi",
+        "DDE: Should this be in lot 1885? Lot no. of 9141 incorrect.",
+        "Film copy on SIS roll 32, frame 1302."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2017696658",
+        "https://www.loc.gov/item/oem2002007588/PP"
+      ],
+      "other_control_numbers": [
+        "19642220",
+        "oem2002007588/PP"
+      ],
+      "part_of": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)",
+      "place": [
+        {
+          "latitude": "",
+          "link": "//www.loc.gov/pictures/related/?fi=place&q=United%20States&co=fsa",
+          "longitude": "",
+          "title": "United States"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-USE6-D-009141 (b&w film neg.)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/fsa.8b06149"
+      ],
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06149_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06149r.jpg",
+      "sort_date": "1943",
+      "source_collection": [
+        "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)"
+      ],
+      "source_created": "2002-01-29T00:00:00Z",
+      "source_modified": "2017-05-15T12:25:40Z",
+      "subject_headings": [
+        "United States.",
+        "United States"
+      ],
+      "subjects": [
+        "United States"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06149_150px.jpg",
+      "title": "This bench job requires goggles and gloves for protection. The visor front cap is necessary for protection from glare. The worker is using a small hand burr"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2017696658",
+    "link": "//www.loc.gov/pictures/item/2017696658/",
+    "location": [
+      "united states"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "locations": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "marc": "//www.loc.gov/pictures/item/2017696658/marc/",
+    "medium": [
+      "1 negative : safety ; 4 x 5 inches or smaller."
+    ],
+    "medium_brief": "1 negative :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2017-05-16T04:05:15Z",
+    "notes": [
+      "Actual size of negative is C (approximately 4 x 5 inches).",
+      "Caption card lists some of the printing history of image.",
+      "Title and other information from caption card.",
+      "Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944.",
+      "More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi",
+      "DDE: Should this be in lot 1885? Lot no. of 9141 incorrect.",
+      "Film copy on SIS roll 32, frame 1302."
+    ],
+    "number": [
+      "2017-05-15t12:25:40",
+      "2017696658",
+      "http://www.loc.gov/item/19642220",
+      "http://www.loc.gov/item/2017696658",
+      "http://www.loc.gov/item/oem2002007588/pp"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/19642220",
+      "http://www.loc.gov/item/oem2002007588/pp",
+      "http://www.loc.gov/item/2017696658"
+    ],
+    "number_lccn": [
+      "2017696658"
+    ],
+    "number_source_modified": [
+      "2017-05-15t12:25:40"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "19642220",
+      "oem2002007588/PP"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2017696658/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2017696658/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2017696658/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 171046,
+        "title": "farm security administration/office of war information black-and-white negatives",
+        "url": "https://www.loc.gov/collections/fsa-owi-black-and-white-negatives/?fo=json"
+      },
+      {
+        "count": 437343,
+        "title": "american memory",
+        "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+      },
+      {
+        "count": 949513,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1082837,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1592516,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "//www.loc.gov/pictures/related/?fi=place&q=United%20States&co=fsa",
+        "longitude": "",
+        "title": "United States"
+      }
+    ],
+    "related": {
+      "neighbors": "//www.loc.gov/pictures/related/?&co=fsa&pk=2017696658&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-USE6-D-009141 (b&w film neg.)",
+    "reproductions": [
+      "<p> If an image is displaying, you can download it yourself. (Some images display only as thumbnails outside the Library of Congress because of rights considerations, but you have access to larger size images on site.) </p>\n<p> Alternatively, you can purchase copies of various types through Library  of Congress Duplication Services. </p>\n<ol class=\"margin-bottom-single-li\">\n\t<li> <strong>If a digital image is displaying:</strong> The qualities of the digital image partially depend on whether it was made from the original or an intermediate such as a copy negative or transparency. If the Reproduction Number field above includes a reproduction number that starts with LC-DIG..., then there is a digital image that was made directly from the original and is of sufficient resolution for most publication    purposes. </li>\n\t<li> <strong>If there is information listed in the Reproduction Number field above:</strong> You can use the reproduction number to purchase a copy from Duplication Services.  It will be made from the source listed in the parentheses after  the number.\n\t\t If only black-and-white (\"b&amp;w\") sources are listed and you desire a copy showing color or tint (assuming the original has any), you can generally purchase a quality copy of the original in color by citing the Call Number listed above and including the catalog record (\"About This Item\") with your request.\n\t</li>\n\t<li> <strong>If there is no information listed in the Reproduction Number field above:</strong> You can generally purchase a quality copy through Duplication Services. Cite the Call Number listed above and include the catalog record (\"About This Item\") with your request. </li>\n</ol>\n<p> Price lists, contact information, and order forms are available on the <a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>. </p>\n<h4>Expect Delays in Service of Nitrate Negatives </h4>\n<p>Reproductions of all types are available, but Duplication Services anticipates an  8-10 week turnaround in completing orders, as all negatives must be reproduced at  their off-site, cold storage facility. </p>\n<p> Clues that an FSA/OWI/OEM image may be affected are:<br />\n\t<strong>Medium</strong> field says \"1 negative : nitrate\" OR <br />\n\t<strong>Reproduction Number</strong> field begins with: LC-USF33- </p>\n<p> If either is the case, you may wish to consult with Prints and Photographs Division reference staff (202-707-6394). In certain instances, duplicate negatives are available for copying. </p>\n"
+    ],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/fsa.8b06149"
+    ],
+    "resources": [
+      {
+        "caption": "intermediary roll film",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06149_150px.jpg",
+        "url": "https://www.loc.gov/resource/fsa.8b06149/"
+      }
+    ],
+    "rights": [
+      "<p>The contents of the Library of Congress Farm Security Administration/Office of War Information Black-and-White Negatives are in the public domain and are free to use and reuse.</p>\r\n<p> Credit Line: Library of Congress, Prints &amp; Photographs Division, Farm Security Administration/Office of War Information Black-and-White Negatives.</p>\r\n<p>For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: <a href=\"https://www.loc.gov/rr/print/res/071_fsab.html\">U.S. Farm Security Administration/Office of War Information Black &amp; White Photographs - Rights and Restrictions Information</a>\r\n</p>\r\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a> </p>\r\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>"
+    ],
+    "score": 19.206085,
+    "shard": "00",
+    "shelf_id": "LC-USE6- D-009141 [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1943",
+    "source_collection": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)",
+    "source_created": "2002-01-29T00:00:00Z",
+    "source_modified": "2017-05-15T12:25:40Z",
+    "subject": [
+      "united states",
+      "safety film negatives"
+    ],
+    "subject_headings": [
+      "United States"
+    ],
+    "subjects": [
+      {
+        "safety film negatives": "https://www.loc.gov/search/?fa=subject:safety+film+negatives&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06149_150px.jpg",
+    "timestamp": "2022-04-25T15:33:58.386Z",
+    "title": "This bench job requires goggles and gloves for protection. The visor front cap is necessary for protection from glare. The worker is using a small hand burr",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2017696658/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2017696656",
+        "http://www.loc.gov/item/2017696656/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8b06147",
+        "http://www.loc.gov/resource/fsa.8b06147/",
+        "https://www.loc.gov/pictures/item/2017696656/",
+        "http://www.loc.gov/pictures/item/2017696656/",
+        "https://www.loc.gov/pictures/collection/fsa/item/2017696656/",
+        "http://www.loc.gov/pictures/collection/fsa/item/2017696656/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "rosener, ann",
+        "united states. office of war information"
+      ],
+      "date": "1943-01-01",
+      "dates": [
+        "1943"
+      ],
+      "description": [
+        "Actual size of negative is C (approximately 4 x 5 inches). Caption card lists some of the printing history of image. Title and other information from caption card. Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944. More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi Film copy on SIS roll 32, frame 1300."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-08-02T12:47:07.019Z",
+      "group": [
+        "catalog",
+        "fsa",
+        "catalog-split-00",
+        "main-catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-00"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017696656/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06147_150px.jpg#h=150&w=122",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06147t.gif#h=150&w=123",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06147r.jpg#h=640&w=523",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06147v.jpg#h=1024&w=836"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/19642218",
+        "http://www.loc.gov/item/2017696656",
+        "2017696656",
+        "2022-05-25t13:35:43",
+        "http://www.loc.gov/item/oem2002007586/pp"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "farm security administration/office of war information black-and-white negatives",
+        "lot 1885",
+        "prints and photographs division",
+        "american memory",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 23.682877,
+      "shelf_id": "LC-USE6- D-009136",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "united states",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-08-02T12:50:46.415Z",
+      "title": "Madelon O'Leary operates a punch press in a well-cut, one-piece overall. Trim--and plenty of room for action. Visor-front cap completely covers hair for safety and essential neatness",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017696656/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2017696657",
+        "http://www.loc.gov/item/2017696657/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8b06148",
+        "http://www.loc.gov/resource/fsa.8b06148/",
+        "https://www.loc.gov/pictures/item/2017696657/",
+        "http://www.loc.gov/pictures/item/2017696657/",
+        "https://www.loc.gov/pictures/collection/fsa/item/2017696657/",
+        "http://www.loc.gov/pictures/collection/fsa/item/2017696657/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "rosener, ann",
+        "united states. office of war information"
+      ],
+      "date": "1943-01-01",
+      "dates": [
+        "1943"
+      ],
+      "description": [
+        "Actual size of negative is C (approximately 4 x 5 inches). Caption card lists some of the printing history of image. Title and other information from caption card. Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944. More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi Film copy on SIS roll 32, frame 1301."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-08-02T20:22:06.718Z",
+      "group": [
+        "catalog",
+        "fsa",
+        "catalog-split-01",
+        "main-catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-01"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017696657/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06148_150px.jpg#h=150&w=123",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06148t.gif#h=150&w=123",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06148r.jpg#h=640&w=524",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06148v.jpg#h=1024&w=839"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/oem2002007587/pp",
+        "2022-06-27t14:34:14",
+        "2017696657",
+        "http://www.loc.gov/item/19642219",
+        "http://www.loc.gov/item/2017696657"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "farm security administration/office of war information black-and-white negatives",
+        "prints and photographs division",
+        "american memory",
+        "lot 1326",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 23.682877,
+      "shelf_id": "LC-USE6- D-009140",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "united states",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-08-02T20:24:37.595Z",
+      "title": "Wong Ruth Mae Moy, a young Chinese girl who survived the Canton bombings, is working on an aircraft engine part. Her business-like light-blue shirt and slacks is light and cool. Her cap affords complete protection from whirring machinery",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017696657/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017696659/",
+        "http://www.loc.gov/item/2017696659/",
+        "http://www.loc.gov/pictures/item/2017696659/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8b06150",
+        "http://www.loc.gov/resource/fsa.8b06150/",
+        "http://lccn.loc.gov/2017696659"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "rosener, ann",
+        "united states. office of war information"
+      ],
+      "date": "1943-01-01",
+      "dates": [
+        "1943"
+      ],
+      "description": [
+        "1 negative : safety ; 4 x 5 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:10:40.147Z",
+      "group": [
+        "fsa",
+        "catalog-split-03",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017696659/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06150_150px.jpg#h=150&w=124",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06150t.gif#h=150&w=124",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06150r.jpg#h=640&w=530",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06150v.jpg#h=1024&w=848"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/oem2002007589/pp",
+        "http://www.loc.gov/item/19642221",
+        "2017-05-15t12:25:42",
+        "2017696659",
+        "http://www.loc.gov/item/2017696659"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "farm security administration/office of war information black-and-white negatives",
+        "lot 1885",
+        "prints and photographs division",
+        "american memory",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 23.682877,
+      "shelf_id": "LC-USE6- D-009142 [P&P] LOT 1885  (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-04-25T15:33:58.386Z",
+      "title": "Clamping a supercharger housing into place underneath a radial drill calls for a \"no-nonsense\"-type of garment! This woman worker is correctly attired in a navy blue two-piece work uniform, and has her hair well under control",
+      "url": "https://www.loc.gov/item/2017696659/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017696660/",
+        "http://www.loc.gov/item/2017696660/",
+        "http://www.loc.gov/pictures/item/2017696660/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8b06151",
+        "http://www.loc.gov/resource/fsa.8b06151/",
+        "http://lccn.loc.gov/2017696660"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "rosener, ann",
+        "united states. office of war information"
+      ],
+      "date": "1943-01-01",
+      "dates": [
+        "1943"
+      ],
+      "description": [
+        "1 negative : safety ; 4 x 5 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:10:40.147Z",
+      "group": [
+        "fsa",
+        "catalog-split-11",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-11",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017696660/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06151_150px.jpg#h=150&w=124",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06151t.gif#h=150&w=124",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06151r.jpg#h=640&w=530",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06151v.jpg#h=1024&w=848"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017696660",
+        "http://www.loc.gov/item/19642222",
+        "2017-05-15t12:25:44",
+        "http://www.loc.gov/item/oem2002007590/pp",
+        "http://www.loc.gov/item/2017696660"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "farm security administration/office of war information black-and-white negatives",
+        "lot 1885",
+        "prints and photographs division",
+        "american memory",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 23.682877,
+      "shelf_id": "LC-USE6- D-009143 [P&P] LOT 1885  (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-04-25T15:33:58.386Z",
+      "title": "Inspecting and stamping identification numbers on rods for aircraft engines. This woman worker wisely wears a hardy work apron in dark blue to protect her light-colored uniform from grease or oil",
+      "url": "https://www.loc.gov/item/2017696660/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017696661/",
+        "http://www.loc.gov/item/2017696661/",
+        "http://www.loc.gov/pictures/item/2017696661/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8b06152",
+        "http://www.loc.gov/resource/fsa.8b06152/",
+        "http://lccn.loc.gov/2017696661"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "rosener, ann",
+        "united states. office of war information"
+      ],
+      "date": "1943-01-01",
+      "dates": [
+        "1943"
+      ],
+      "description": [
+        "1 negative : safety ; 4 x 5 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:10:40.147Z",
+      "group": [
+        "fsa",
+        "catalog-split-12",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017696661/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06152_150px.jpg#h=150&w=125",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06152t.gif#h=150&w=125",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06152r.jpg#h=640&w=535",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06152v.jpg#h=1024&w=856"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2017696661",
+        "2017-05-15t12:25:46",
+        "http://www.loc.gov/item/oem2002007591/pp",
+        "http://www.loc.gov/item/19642223",
+        "2017696661"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "farm security administration/office of war information black-and-white negatives",
+        "lot 1885",
+        "prints and photographs division",
+        "american memory",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 23.682877,
+      "shelf_id": "LC-USE6- D-009144 [P&P] LOT 1885  (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-04-25T15:33:58.386Z",
+      "title": "Virginia Ludwig goes to work on a punch press, stamping out discs from steel strips. Her well-fitting uniform is devoid of unnecessary pleats, trimmings, doodads--is just right for the job",
+      "url": "https://www.loc.gov/item/2017696661/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017696708/",
+        "http://www.loc.gov/item/2017696708/",
+        "http://www.loc.gov/pictures/item/2017696708/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8b06170",
+        "http://www.loc.gov/resource/fsa.8b06170/",
+        "http://lccn.loc.gov/2017696708"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "rosener, ann",
+        "united states. office of war information"
+      ],
+      "date": "1943-01-01",
+      "dates": [
+        "1943"
+      ],
+      "description": [
+        "1 negative : safety ; 4 x 5 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:10:40.669Z",
+      "group": [
+        "fsa",
+        "catalog-split-14",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017696708/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06170_150px.jpg#h=114&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06170t.gif#h=114&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06170r.jpg#h=487&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06170v.jpg#h=779&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2017696708",
+        "2017696708",
+        "http://www.loc.gov/item/oem2002007638/pp",
+        "2017-05-15t12:27:43",
+        "http://www.loc.gov/item/19642271"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "farm security administration/office of war information black-and-white negatives",
+        "prints and photographs division",
+        "american memory",
+        "lot 1909",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 23.682877,
+      "shelf_id": "LC-USE6- D-009192 [P&P] LOT 1909  (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-04-25T15:34:15.294Z",
+      "title": "Victory Gardens--for family and country. These Victory Gardeners are transferring good top soil to improve the fertility of their garden. Like all good gardeners, they realize the importance of keeping the soil productive",
+      "url": "https://www.loc.gov/item/2017696708/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "fsa",
+      "catalog-split-02",
+      "catalog",
+      "fsa-owi-black-and-white-negatives",
+      "main-catalog-split-02",
+      "main-catalog",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "catalog-split-01",
+      "main-catalog-split-01",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "catalog-split-11",
+      "main-catalog-split-11",
+      "catalog-split-12",
+      "main-catalog-split-12",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "nsr/marc",
+      "national-screening-room",
+      "collections-portal",
+      "cms",
+      "managed-content"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "fsa.8b06149",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.8293619155883789,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/fsa.8b06149/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/fsa.8b06149/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1734773628.9541724,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 143814,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/fsa/8b06000/8b06100/8b06149u.tif",
+      "width": 0
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 4479,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06149_150px.jpg",
+      "width": 122
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 16941,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06149t.gif",
+      "width": 122
+    },
+    {
+      "height": 640,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 34295,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06149r.jpg",
+      "width": 520
+    },
+    {
+      "height": 1024,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 144762,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06149v.jpg",
+      "width": 831
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "//www.loc.gov/pictures/related/?&co=fsa&pk=2017696658&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2001642606",
+        "http://www.loc.gov/item/2001642606/",
+        "https://hdl.loc.gov/loc.mbrsmi/ntscrm.02010236",
+        "http://www.loc.gov/resource/ntscrm.02010236/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "u.s. government films collection (library of congress)",
+        "united states. office of war information"
+      ],
+      "date": "1943",
+      "dates": [
+        "1943"
+      ],
+      "description": [
+        "\"US government OPA film dramatizes beef black marketeers\"--Summary from J. Fred MacDonald and Associates film inventory."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-28T12:53:18.877Z",
+      "group": [
+        "nsr/marc",
+        "national-screening-room"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2001642606/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02010236/02010236.gif"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "video/mp4",
+        "image/jpeg",
+        "video/quicktime",
+        "application/x-video"
+      ],
+      "number": [
+        "2001642606",
+        "2021-05-06t16:03:55"
+      ],
+      "online_format": [
+        "image",
+        "video"
+      ],
+      "original_format": [
+        "film, video"
+      ],
+      "other_title": [
+        "Inventory title: Black market"
+      ],
+      "partof": [
+        "catalog",
+        "national screening room"
+      ],
+      "score": 8.212428,
+      "shelf_id": "VAI 1112 (viewing copy) VXB 8846 (master) FAA 0022 (non-viewing print) FAB 1918 (non-viewing print, copy 2)",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "nonfiction films",
+        "united states",
+        "racketeering"
+      ],
+      "timestamp": "2024-10-28T12:55:28.043Z",
+      "title": "Black marketing",
+      "type": [
+        "moving image"
+      ],
+      "url": "https://www.loc.gov/item/2001642606/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2001642625",
+        "http://www.loc.gov/item/2001642625/",
+        "https://hdl.loc.gov/loc.mbrsmi/ntscrm.02010006",
+        "http://www.loc.gov/resource/ntscrm.02010006/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "vorkapich, slavko",
+        "u.s. government films collection (library of congress)",
+        "united states. office of war information",
+        "o'reilly, larry",
+        "war activities committee",
+        "reisman, philip",
+        "motion picture industry",
+        "rko-pathe",
+        "ullman, frederic",
+        "rapée, erno",
+        "hoffman, john"
+      ],
+      "date": "1942",
+      "dates": [
+        "1942"
+      ],
+      "description": [
+        "\"Dramatic portrayal of the results of carelessness in war production--the death of an American soldier in the Southwest Pacific, of American airmen in the North Atlantic\"--War films for war use, Office of War Information, Bureau of Motion Pictures, June 1943, accessed via Archive.org, August 12, 2020, p. 3."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-28T12:53:18.877Z",
+      "group": [
+        "nsr/marc",
+        "national-screening-room"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2001642625/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02010006/02010006.gif"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "video/mp4",
+        "image/jpeg",
+        "video/quicktime",
+        "application/x-video"
+      ],
+      "number": [
+        "2022-01-05t15:49:56",
+        "2001642625"
+      ],
+      "online_format": [
+        "image",
+        "video"
+      ],
+      "original_format": [
+        "film, video"
+      ],
+      "partof": [
+        "catalog",
+        "national screening room"
+      ],
+      "score": 8.212428,
+      "shelf_id": "VAI 1130 (viewing copy) VXB 8882 (viewing copy) FAA 0040 (non-viewing print)",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "nonfiction films",
+        "united states",
+        "responsibility",
+        "time management",
+        "short films",
+        "war work",
+        "world war"
+      ],
+      "timestamp": "2024-10-28T12:55:28.043Z",
+      "title": "Conquer by the clock",
+      "type": [
+        "moving image"
+      ],
+      "url": "https://www.loc.gov/item/2001642625/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2001642627",
+        "http://www.loc.gov/item/2001642627/",
+        "https://hdl.loc.gov/loc.mbrsmi/ntscrm.01875325",
+        "http://www.loc.gov/resource/ntscrm.01875325/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "united states. office of war information",
+        "u.s. government films collection (library of congress)",
+        "american telephone and telegraph company"
+      ],
+      "date": "1945",
+      "dates": [
+        "1945"
+      ],
+      "description": [
+        "Shows the telephone center and the bedside telephone service in a U. S. Army hospital. Discusses the beneficial effects on the soldiers of receiving telephone calls from home, and advises families at home how to handle these important calls."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-28T12:53:18.877Z",
+      "group": [
+        "nsr/marc",
+        "national-screening-room"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2001642627/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/01875325/01875325.gif"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "video/mp4",
+        "image/jpeg",
+        "video/quicktime",
+        "application/x-video"
+      ],
+      "number": [
+        "2001642627",
+        "2018-02-14t15:18:29"
+      ],
+      "online_format": [
+        "image",
+        "video"
+      ],
+      "original_format": [
+        "film, video"
+      ],
+      "partof": [
+        "catalog",
+        "national screening room"
+      ],
+      "score": 8.212428,
+      "shelf_id": "VAI 1152 (viewing copy) VXB 8886 (master) FAA 0043 (non-viewing print)",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "educational films",
+        "nonfiction films",
+        "united states",
+        "telephone calls",
+        "short films",
+        "military hospitals"
+      ],
+      "timestamp": "2024-10-28T12:55:28.043Z",
+      "title": "The calls that cure",
+      "type": [
+        "moving image"
+      ],
+      "url": "https://www.loc.gov/item/2001642627/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/world-war-ii-rumor-project/about-this-collection/",
+        "http://www.loc.gov/collections/wwi-rumors/",
+        "https://lccn.loc.gov/2004695194",
+        "https://www.loc.gov/item/2004695194",
+        "http://lccn.loc.gov/2004695194",
+        "http://www.loc.gov/item/2004695194/",
+        "https://hdl.loc.gov/loc.afc/collafc.afc1945001"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "horowitz, eugene",
+        "united states. office of war information"
+      ],
+      "count": 144,
+      "date": "1942",
+      "dates": [
+        "1942"
+      ],
+      "description": [
+        "The World War II Rumor Project collection contains manuscript materials compiled by the Office of War Information (OWI). The OWI was established by an Executive order on June 13, 1942, for the purpose of achieving a coordinated governmental war information program. The information program was designed to promote an informed and intelligent understanding of the status and progress of the war effort, war policies, activities, and aims of the United States government. All functions of the Office of Facts and Figures and of the Office of Government Reports, and parts of the functions and related records of two other agencies were transferred to the OWI."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:08:27.259Z",
+      "group": [
+        "collections-portal"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/world-war-ii-rumor-project/about-this-collection/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/world-war-ii-rumor-project/500_500.jpg"
+      ],
+      "index": 4,
+      "items": "https://www.loc.gov/collections/world-war-ii-rumor-project/",
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "number": [
+        "2023-09-19t10:30:35",
+        "2004695194"
+      ],
+      "original_format": [
+        "collection",
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "digital collections",
+        "american folklife center",
+        "world war ii rumor project"
+      ],
+      "score": 7.8200426,
+      "shelf_id": "~/collections/world-war-ii-rumor-project/about-this-collection/",
+      "subject": [
+        "correspondence",
+        "drawings",
+        "manuscripts",
+        "american history",
+        "poems",
+        "local history & folklife",
+        "war & military",
+        "world war ii",
+        "great depression & world war ii"
+      ],
+      "timestamp": "2024-12-21T06:49:39.589Z",
+      "title": "World War II Rumor Project",
+      "type": [
+        "collection"
+      ],
+      "url": "https://www.loc.gov/collections/world-war-ii-rumor-project/about-this-collection/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/fsa-owi-black-and-white-negatives/articles-and-essays/classification-scheme-used-in-the-reading-room/"
+      ],
+      "campaigns": [],
+      "date": "1935",
+      "dates": [
+        "[1935 TO 1945]"
+      ],
+      "description": [
+        "After the FSA-OWI photographic prints were microfilmed in LOTs, they were re-sorted and grouped according to geographic region. Paul Vanderbilt devised the arrangement for the photographic prints that would eventually result in the Prints and Photographs Division's FSA-OWI Reading Room File. He established the following geographical divisions: B--Alaska and Canada; D-- Northeastern states; E--Southern states; F--Midwestern states; G--Northwestern states; H-- Southwestern states; J--Farwestern states; and K--Puerto Rico and the Virgin Islands. There is also a C subdivision for the United States in general, which encompasses a variety of topics, including images used for FSA filmstrips, pictures of FSA exhibit panels, and photographs of clippings of newspaper and magazine articles that used FSA-OWI materials. There are also images of military training and equipment."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:18:12.803Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/fsa-owi-black-and-white-negatives/articles-and-essays/classification-scheme-used-in-the-reading-room/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/fsa-owi-black-and-white-negatives/500_500.jpg"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "farm security administration/office of war information black-and-white negatives"
+      ],
+      "score": 7.6491175,
+      "shelf_id": "~/collections/fsa-owi-black-and-white-negatives/articles-and-essays/classification-scheme-used-in-the-reading-room/",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "farm security administration",
+        "negatives",
+        "office of war information",
+        "stryker, roy e.",
+        "new deal"
+      ],
+      "timestamp": "2024-12-21T06:50:56.574Z",
+      "title": "Classification Scheme Used in the Reading Room | Articles and Essays | Farm Security Administration/Office of War Information Black-and-White Negatives | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/fsa-owi-black-and-white-negatives/articles-and-essays/classification-scheme-used-in-the-reading-room/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/fsa-owi-black-and-white-negatives/articles-and-essays/documenting-america/"
+      ],
+      "campaigns": [],
+      "date": "1935",
+      "dates": [
+        "[1935 TO 1945]"
+      ],
+      "description": [
+        "Top of page Skip to main content Library of Congress Search Everything Audio Recordings Books/Printed Material Films, Videos Legislation Manuscripts/Mixed Material Maps Notated Music Newspapers Periodicals Personal Narratives Photos, Prints, Drawings Software, E-Resources Web Archives"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:18:12.803Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/fsa-owi-black-and-white-negatives/articles-and-essays/documenting-america/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/fsa-owi-black-and-white-negatives/images/documenting-america.jpg"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "farm security administration/office of war information black-and-white negatives"
+      ],
+      "score": 7.6491175,
+      "shelf_id": "~/collections/fsa-owi-black-and-white-negatives/articles-and-essays/documenting-america/",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "farm security administration",
+        "negatives",
+        "office of war information",
+        "stryker, roy e.",
+        "new deal"
+      ],
+      "timestamp": "2024-12-21T06:50:56.574Z",
+      "title": "Documenting America | Articles and Essays | Farm Security Administration/Office of War Information Black-and-White Negatives | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/fsa-owi-black-and-white-negatives/articles-and-essays/documenting-america/"
+    }
+  ],
+  "reproductions": "<p>\n    If an image is displaying, you can download it yourself. (Some images \n    display only as thumbnails outside the Library of Congress because of rights \n    considerations, but you have access to larger size images on site.)\n</p>\n<p>\nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n<p>\n    <ol>\n        <p>\n            <li>\n                <strong>If a digital image is displaying:</strong>\n                The qualities of the digital image \n                partially depend on whether it was made from the original or an  \n                intermediate such as a copy negative or transparency. If the Reproduction \n                Number field above includes a reproduction number that starts with  \n                LC-DIG..., then there is a digital image that was made directly \n                from the original and is of sufficient resolution for most publication\n                purposes.\n            </li>\n        </p>\n        <li>\n            <strong>If there is information listed in the Reproduction Number field above:</strong>\n            You can use the reproduction number to purchase a copy from Duplication \n            Services.  It will be made from the source listed in the parentheses after  \n            the number. \n            <table width=\"75%\" border=\"1\" align=\"center\" cellpadding=\"1\" bordercolor=\"#993333\">\n                <tr>\n                    <td>\n                        <p>\n                            <strong>\n                                <center>\n                                    Expect\n                                    Delays in Service of Nitrate Negatives\n                                </center>\n                            </strong>\n                        </p>\n\t\t\t\t\t\t\n<p>\t\t\t\t\t\t\nReproductions of all types are available, but Duplication Services anticipates an \n8-10 week turnaround in completing orders, as all negatives must be reproduced at \ntheir off-site, cold storage facility.\n</p>\n<p>\nClues that an FSA/OWI/OEM image may be affected are:<br />\n<strong>Medium</strong> field says \"1 negative : nitrate\" OR <br />\n<strong>Reproduction Number</strong> field begins with: LC-USF33- \n</p>\n              \n                        <p>\n                            If either is the case, you may wish to consult\n                            with Prints and Photographs Division reference staff\n                            (202-707-6394). In certain instances, duplicate\n                            negatives are available for copying.\n                        </p>\n                    </td>\n                </tr>\n            </table>\n            <p>\n                If only black-and-white (&quot;b&w&quot;) sources are listed and you \n                desire a copy showing color or tint (assuming the original has any),  \n                you can generally purchase a quality copy of the original in color by \n                citing the Call Number listed above and including the catalog record \n                (&quot;About This Item&quot;) with your request.\n            </p>\n        </li>\n        <li>\n            <strong>If there is no information listed in the Reproduction Number field \n                above:</strong>\n            You can generally purchase a quality copy through \n            Duplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n            your request.\n        </li>\n    </ol>\n</p>\n<p>\n    Price lists, contact information, and order forms are available on the<a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>. \n</p>\n",
+  "resource": {
+    "caption": "intermediary roll film",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06149_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/fsa.8b06149/"
+  },
+  "resources": [
+    {
+      "caption": "intermediary roll film",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06149_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/fsa.8b06149/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1734773629784,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/fsa.8b06149/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/fsa.8b06149/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/fsa.8b06149/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/fsa.8b06149/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/fsa.8b06149/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/fsa.8b06149/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/fsa.8b06149/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/fsa.8b06149/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/fsa.8b06149/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/fsa.8b06149/?fo=json&st=text"
+  }
+}

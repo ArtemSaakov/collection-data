@@ -1,0 +1,1663 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Phoenix Litho. Co &amp; Benton, E. F. (ca. 1886) <cite>Silver Spur</cite>. , ca. 1886. Chicago: Phoenix Litho. Co. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2014636045/.",
+    "chicago": "Phoenix Litho. Co, and E. F Benton. <cite>Silver Spur</cite>. , ca. 1886. Chicago: Phoenix Litho. Co. Photograph. https://www.loc.gov/item/2014636045/.",
+    "mla": "Phoenix Litho. Co, and E. F Benton. <cite>Silver Spur</cite>. Chicago: Phoenix Litho. Co. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2014636045/&gt;."
+  },
+  "item": {
+    "_version_": 1731567058291785728,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2014636045/",
+      "http://www.loc.gov/item/2014636045/",
+      "http://www.loc.gov/pictures/item/2014636045/",
+      "https://www.loc.gov/pictures/collection/var/item/2014636045/",
+      "http://www.loc.gov/pictures/collection/var/item/2014636045/",
+      "http://www.loc.gov/resource/var.0680/",
+      "http://www.loc.gov/resource/cph.3a00393/",
+      "https://hdl.loc.gov/loc.pnp/cph.3a00393",
+      "https://hdl.loc.gov/loc.pnp/var.0680",
+      "http://lccn.loc.gov/2014636045"
+    ],
+    "call_number": "POS - TH - 1886 .S5, no. 2 (C size) [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Phoenix Litho. Co.",
+      "Benton, E. F."
+    ],
+    "contributors": [
+      {
+        "benton, e. f.": "https://www.loc.gov/search/?fa=contributor:benton,+e.+f.&fo=json"
+      },
+      {
+        "phoenix litho. co.": "https://www.loc.gov/search/?fa=contributor:phoenix+litho.+co.&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2016-04-20T09:00:02Z",
+    "created_published": [
+      "Chicago : Phoenix Litho. Co., c1886."
+    ],
+    "created_published_date": "c1886.",
+    "date": "1886-01-01",
+    "dates": [
+      {
+        "1886": "https://www.loc.gov/search/?dates=1886/1886&fo=json"
+      }
+    ],
+    "description": [
+      "1 print : color lithograph ; sheet 106 x 71 cm. (poster format)"
+    ],
+    "digital_id": [
+      "var 0680 //hdl.loc.gov/loc.pnp/var.0680",
+      "cph 3a00393 //hdl.loc.gov/loc.pnp/cph.3a00393"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-09-01T22:19:41.321Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/var/item/2014636045/#var",
+      "http://lccn.loc.gov/2014636045#pp/var",
+      "http://lccn.loc.gov/2014636045#catalog-split-15"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Lithographs--Color.",
+      "Theatrical posters--American."
+    ],
+    "genre": [
+      "Lithographs--Color",
+      "Theatrical posters--American"
+    ],
+    "group": [
+      "var",
+      "pp/var",
+      "catalog-split-15",
+      "catalog",
+      "performing-arts-posters",
+      "variety-stage-pp",
+      "main-catalog-split-15",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2014636045/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/var/0600/0680/0680_150px.jpg#h=150&w=103",
+      "https://tile.loc.gov/storage-services/service/pnp/var/0600/0680/0680t.gif#h=150&w=103",
+      "https://tile.loc.gov/storage-services/service/pnp/var/0600/0680/0680r.jpg#h=1024&w=704",
+      "https://tile.loc.gov/storage-services/master/pnp/var/0600/0680/0680r.jpg#h=1024&w=704"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "POS - TH - 1886 .S5, no. 2 (C size) [P&P]",
+      "contributor_names": [
+        "Benton, E. F.,  "
+      ],
+      "contributors": [
+        "Phoenix Litho. Co.",
+        "Benton, E. F."
+      ],
+      "control_number": "2014636045",
+      "created": "2016-04-20T09:00:02Z",
+      "created_published": "Chicago : Phoenix Litho. Co., c1886.",
+      "created_published_date": "c1886.",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Phoenix%20Litho.%20Co.&co=var",
+          "role": "",
+          "title": "Phoenix Litho. Co."
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Benton%2C%20E.%20F.&co=var",
+          "role": "",
+          "title": "Benton, E. F."
+        }
+      ],
+      "date": "c1886.",
+      "digital_id": [
+        "var 0680 //hdl.loc.gov/loc.pnp/var.0680",
+        "cph 3a00393 //hdl.loc.gov/loc.pnp/cph.3a00393"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Lithographs--Color.&co=var",
+          "title": "Lithographs--Color."
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Theatrical%20posters--American.&co=var",
+          "title": "Theatrical posters--American."
+        }
+      ],
+      "genre": [
+        "Lithographs--Color",
+        "Theatrical posters--American"
+      ],
+      "id": "2014636045",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2014636045/",
+      "marc": "https://www.loc.gov/pictures/item/2014636045/marc/",
+      "medium": [
+        "1 print : color lithograph ; sheet 106 x 71 cm. (poster format)"
+      ],
+      "medium_brief": "1 print :",
+      "mediums": [
+        "1 print : color lithograph ; sheet 106 x 71 cm. (poster format)"
+      ],
+      "modified": "2016-04-20T09:00:03Z",
+      "notes": [
+        "R18030 U.S. Copyright Office",
+        "\"Copyright 1886 by E.F. Benton.\"",
+        "Caption: Jugg, the land agent.",
+        "Created by \"Phoenix Litho. Co., Chicago.\"",
+        "Form 27.",
+        "Forms part of: Theatrical poster collection (Library of Congress)"
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2014636045",
+        "https://www.loc.gov/item/var1994000716/PP"
+      ],
+      "other_control_numbers": [
+        "18427656",
+        "var1994000716/PP"
+      ],
+      "part_of": "Theatrical poster collection (Library of Congress)",
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-USZ6-404 (b&w film copy neg.)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/var.0680",
+        "//hdl.loc.gov/loc.pnp/cph.3a00393"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/var/0600/0680/0680_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/var/0600/0680/0680r.jpg",
+      "sort_date": "1886",
+      "source_collection": [
+        "Theatrical poster collection (Library of Congress)"
+      ],
+      "source_created": "1994-03-16T00:00:00Z",
+      "source_modified": "2015-01-19T23:01:46Z",
+      "subject_headings": [
+        "Bees.",
+        "Eyeglasses.",
+        "Theatrical productions."
+      ],
+      "subjects": [
+        "Bees",
+        "Eyeglasses",
+        "Theatrical productions"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/var/0600/0680/0680_150px.jpg",
+      "title": "Silver spur"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2014636045",
+    "link": "https://www.loc.gov/pictures/item/2014636045/",
+    "marc": "https://www.loc.gov/pictures/item/2014636045/marc/",
+    "medium": [
+      "1 print : color lithograph ; sheet 106 x 71 cm. (poster format)"
+    ],
+    "medium_brief": "1 print :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2016-04-20T09:00:03Z",
+    "notes": [
+      "R18030 U.S. Copyright Office",
+      "\"Copyright 1886 by E.F. Benton.\"",
+      "Caption: Jugg, the land agent.",
+      "Created by \"Phoenix Litho. Co., Chicago.\"",
+      "Form 27.",
+      "Forms part of: Theatrical poster collection (Library of Congress)"
+    ],
+    "number": [
+      "http://www.loc.gov/item/2014636045",
+      "http://www.loc.gov/item/var1994000716/pp",
+      "2014636045",
+      "sheet",
+      "2015-01-19t23:01:46",
+      "http://www.loc.gov/item/18427656"
+    ],
+    "number_carrier_type": [
+      "sheet"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/18427656",
+      "http://www.loc.gov/item/var1994000716/pp",
+      "http://www.loc.gov/item/2014636045"
+    ],
+    "number_lccn": [
+      "2014636045"
+    ],
+    "number_source_modified": [
+      "2015-01-19t23:01:46"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "18427656",
+      "var1994000716/PP"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2014636045/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2014636045/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2014636045/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 2099,
+        "title": "posters: performing arts posters",
+        "url": "https://www.loc.gov/collections/performing-arts-posters/?fo=json"
+      },
+      {
+        "count": 2206,
+        "title": "vaudeville and popular entertainment",
+        "url": "https://www.loc.gov/search/?fa=partof:vaudeville+and+popular+entertainment&fo=json"
+      },
+      {
+        "count": 949513,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1082837,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1592516,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=var&pk=2014636045&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-USZ6-404 (b&w film copy neg.)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/var.0680",
+      "//hdl.loc.gov/loc.pnp/cph.3a00393"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from intermediary roll copy film",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/var/0600/0680/0680_150px.jpg",
+        "url": "https://www.loc.gov/resource/var.0680/"
+      },
+      {
+        "caption": "digital file from b&w film copy neg.",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3a00000/3a00000/3a00300/3a00393_150px.jpg",
+        "url": "https://www.loc.gov/resource/cph.3a00393/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/108_perf.html\">Performing Arts Posters - Rights and Restrictions Information</a> </p>\n \n"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.206085,
+    "shard": "00",
+    "shelf_id": "POS - TH - 1886 .S5, no. 2 (C size) [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1886",
+    "source_collection": "Theatrical poster collection (Library of Congress)",
+    "source_created": "1994-03-16T00:00:00Z",
+    "source_modified": "2015-01-19T23:01:46Z",
+    "subject": [
+      "theatrical productions",
+      "theatrical posters",
+      "color",
+      "lithographs",
+      "eyeglasses",
+      "bees",
+      "american"
+    ],
+    "subject_headings": [
+      "Bees",
+      "Eyeglasses",
+      "Theatrical productions"
+    ],
+    "subjects": [
+      {
+        "american": "https://www.loc.gov/search/?fa=subject:american&fo=json"
+      },
+      {
+        "bees": "https://www.loc.gov/search/?fa=subject:bees&fo=json"
+      },
+      {
+        "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+      },
+      {
+        "eyeglasses": "https://www.loc.gov/search/?fa=subject:eyeglasses&fo=json"
+      },
+      {
+        "lithographs": "https://www.loc.gov/search/?fa=subject:lithographs&fo=json"
+      },
+      {
+        "theatrical posters": "https://www.loc.gov/search/?fa=subject:theatrical+posters&fo=json"
+      },
+      {
+        "theatrical productions": "https://www.loc.gov/search/?fa=subject:theatrical+productions&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/var/0600/0680/0680_150px.jpg",
+    "timestamp": "2022-04-30T20:37:10.589Z",
+    "title": "Silver spur",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2014636045/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/cph.3g05164/",
+        "https://hdl.loc.gov/loc.pnp/cph.3g05164",
+        "https://hdl.loc.gov/loc.pnp/var.1857",
+        "http://lccn.loc.gov/2014635809",
+        "http://www.loc.gov/item/2014635809/",
+        "http://www.loc.gov/resource/var.1857/",
+        "https://www.loc.gov/pictures/item/2014635809/",
+        "http://www.loc.gov/pictures/item/2014635809/",
+        "https://www.loc.gov/pictures/collection/var/item/2014635809/",
+        "http://www.loc.gov/pictures/collection/var/item/2014635809/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "metropolitan printing co"
+      ],
+      "date": "1899-01-01",
+      "dates": [
+        "1899"
+      ],
+      "description": [
+        "Poster shows Matilda Sissieretta Joyner Jones, known as Black Patti, head-and-shoulders portrait, facing front, with many medals pinned to her dress."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-20T06:21:43.523Z",
+      "group": [
+        "awhbib",
+        "pp/var",
+        "catalog-split-06",
+        "catalog",
+        "var",
+        "american-womens-history",
+        "variety-stage-pp",
+        "main-catalog-split-06",
+        "main-catalog",
+        "performing-arts-posters"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014635809/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/var/1800/1857/1857_150px.jpg#h=150&w=100",
+        "https://tile.loc.gov/storage-services/service/pnp/var/1800/1857/1857r.jpg#h=640&w=427",
+        "https://tile.loc.gov/storage-services/master/pnp/var/1800/1857/1857r.jpg#h=1024&w=683",
+        "https://tile.loc.gov/storage-services/service/pnp/var/1800/1857/1857v.jpg#h=1024&w=683"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2014635809",
+        "sheet",
+        "http://www.loc.gov/item/var1993000473/pp",
+        "2016-06-13t11:47:22",
+        "http://www.loc.gov/item/18427416",
+        "2014635809"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "vaudeville and popular entertainment",
+        "prints and photographs division",
+        "american women: a gateway to library of congress resources for the study of women's history and culture in the united states",
+        "prints & photographs online catalog (library of congress)",
+        "catalog",
+        "posters: performing arts posters"
+      ],
+      "score": 58.10029,
+      "shelf_id": "POS - TH - POR .J67, no. 1",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "black patti",
+        "theatrical posters",
+        "african americans",
+        "portrait prints",
+        "performances & portrayals",
+        "singers",
+        "lithographs",
+        "color",
+        "women",
+        "american",
+        "medals"
+      ],
+      "timestamp": "2022-12-10T04:46:40.769Z",
+      "title": "The Black Patti, Mme. M. Sissieretta Jones the greatest singer of her race.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2014635809/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014636044/",
+        "http://www.loc.gov/item/2014636044/",
+        "http://www.loc.gov/pictures/item/2014636044/",
+        "https://www.loc.gov/pictures/collection/var/item/2014636044/",
+        "http://www.loc.gov/pictures/collection/var/item/2014636044/",
+        "http://www.loc.gov/resource/var.0679/",
+        "http://www.loc.gov/resource/cph.3g08095/",
+        "http://www.loc.gov/resource/cph.3a00436/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a00436",
+        "http://lccn.loc.gov/2014636044",
+        "https://hdl.loc.gov/loc.pnp/var.0679",
+        "https://hdl.loc.gov/loc.pnp/cph.3g08095"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "benton, e. f.",
+        "phoenix litho. co."
+      ],
+      "date": "1886-01-01",
+      "dates": [
+        "1886"
+      ],
+      "description": [
+        "1 print : color lithograph ; sheet 71 x 106 cm. (poster format)"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:19:41.321Z",
+      "group": [
+        "var",
+        "pp/var",
+        "catalog-split-14",
+        "catalog",
+        "performing-arts-posters",
+        "variety-stage-pp",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014636044/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/var/0600/0679/0679_150px.jpg#h=102&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/var/0600/0679/0679t.gif#h=102&w=150",
+        "https://tile.loc.gov/storage-services/master/pnp/var/0600/0679/0679r.jpg#h=698&w=1024",
+        "https://tile.loc.gov/storage-services/service/pnp/var/0600/0679/0679r.jpg#h=698&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "sheet",
+        "2014636044",
+        "http://www.loc.gov/item/var1994000715/pp",
+        "http://www.loc.gov/item/2014636044",
+        "2015-10-05t16:00:26",
+        "http://www.loc.gov/item/18427655"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "vaudeville and popular entertainment",
+        "prints and photographs division",
+        "posters: performing arts posters",
+        "catalog",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 56.878304,
+      "shelf_id": "POS - TH - 1886 .S5, no. 1 (C size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "theatrical productions",
+        "theatrical posters",
+        "color",
+        "lithographs",
+        "pirates",
+        "kidnappings",
+        "american",
+        "dungeons"
+      ],
+      "timestamp": "2022-04-30T20:35:51.899Z",
+      "title": "Silver spur",
+      "url": "https://www.loc.gov/item/2014636044/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014636046/",
+        "http://www.loc.gov/item/2014636046/",
+        "http://www.loc.gov/pictures/item/2014636046/",
+        "https://www.loc.gov/pictures/collection/var/item/2014636046/",
+        "http://www.loc.gov/pictures/collection/var/item/2014636046/",
+        "http://www.loc.gov/resource/var.0681/",
+        "http://www.loc.gov/resource/cph.3a00394/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a00394",
+        "http://lccn.loc.gov/2014636046",
+        "https://hdl.loc.gov/loc.pnp/var.0681"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "benton, e. f.",
+        "phoenix litho. co."
+      ],
+      "date": "1886-01-01",
+      "dates": [
+        "1886"
+      ],
+      "description": [
+        "1 print : color lithograph ; sheet 106 x 70 cm. (poster format)"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:19:41.858Z",
+      "group": [
+        "var",
+        "pp/var",
+        "catalog-split-00",
+        "catalog",
+        "performing-arts-posters",
+        "variety-stage-pp",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014636046/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/var/0600/0681/0681_150px.jpg#h=150&w=103",
+        "https://tile.loc.gov/storage-services/service/pnp/var/0600/0681/0681t.gif#h=150&w=103",
+        "https://tile.loc.gov/storage-services/master/pnp/var/0600/0681/0681r.jpg#h=1024&w=703",
+        "https://tile.loc.gov/storage-services/service/pnp/var/0600/0681/0681r.jpg#h=1024&w=703"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/18427657",
+        "2015-01-19t23:02:06",
+        "sheet",
+        "2014636046",
+        "http://www.loc.gov/item/2014636046",
+        "http://www.loc.gov/item/var1994000717/pp"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "vaudeville and popular entertainment",
+        "prints and photographs division",
+        "posters: performing arts posters",
+        "catalog",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 56.878304,
+      "shelf_id": "POS - TH - 1886 .S5, no. 3 (C size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "theatrical productions",
+        "theatrical posters",
+        "smiling",
+        "color",
+        "lithographs",
+        "baldness",
+        "american"
+      ],
+      "timestamp": "2022-04-30T20:37:10.589Z",
+      "title": "Silver spur",
+      "url": "https://www.loc.gov/item/2014636046/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014636038/",
+        "http://www.loc.gov/item/2014636038/",
+        "http://www.loc.gov/pictures/item/2014636038/",
+        "https://www.loc.gov/pictures/collection/var/item/2014636038/",
+        "http://www.loc.gov/pictures/collection/var/item/2014636038/",
+        "http://www.loc.gov/resource/var.0673/",
+        "http://lccn.loc.gov/2014636038",
+        "https://hdl.loc.gov/loc.pnp/var.0673"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "benton, e. f.",
+        "shober & carqueville"
+      ],
+      "date": "1884-01-01",
+      "dates": [
+        "1884"
+      ],
+      "description": [
+        "1 print : color lithograph ; sheet 78 x 35 cm. (poster format)"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:19:41.321Z",
+      "group": [
+        "var",
+        "pp/var",
+        "catalog-split-01",
+        "catalog",
+        "performing-arts-posters",
+        "variety-stage-pp",
+        "main-catalog-split-01",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014636038/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/var/0600/0673/0673_150px.jpg#h=150&w=68",
+        "https://tile.loc.gov/storage-services/service/pnp/var/0600/0673/0673t.gif#h=150&w=68",
+        "https://tile.loc.gov/storage-services/service/pnp/var/0600/0673/0673r.jpg#h=1024&w=467",
+        "https://tile.loc.gov/storage-services/master/pnp/var/0600/0673/0673r.jpg#h=1024&w=467"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2015-01-06t11:24:37",
+        "http://www.loc.gov/item/18427649",
+        "sheet",
+        "2014636038",
+        "http://www.loc.gov/item/2014636038",
+        "http://www.loc.gov/item/var1994000708/pp"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "vaudeville and popular entertainment",
+        "prints and photographs division",
+        "posters: performing arts posters",
+        "catalog",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 48.467426,
+      "shelf_id": "POS - TH - 1884 .S5, no. 1 (C size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "theatrical productions",
+        "theatrical posters",
+        "benches",
+        "color",
+        "lithographs",
+        "american"
+      ],
+      "timestamp": "2022-04-30T20:35:51.899Z",
+      "title": "Silver spur",
+      "url": "https://www.loc.gov/item/2014636038/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2014636064/",
+        "http://www.loc.gov/item/2014636064/",
+        "http://www.loc.gov/pictures/item/2014636064/",
+        "https://www.loc.gov/pictures/collection/var/item/2014636064/",
+        "http://www.loc.gov/pictures/collection/var/item/2014636064/",
+        "http://www.loc.gov/resource/var.0692/",
+        "http://www.loc.gov/resource/cph.3a00443/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a00443",
+        "https://hdl.loc.gov/loc.pnp/var.0692",
+        "http://lccn.loc.gov/2014636064"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "benton, e. f.",
+        "shober & carqueville"
+      ],
+      "date": "1887-01-01",
+      "dates": [
+        "1887"
+      ],
+      "description": [
+        "1 print : color lithograph ; sheet 112 x 81 cm. (poster format)"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T22:19:48.823Z",
+      "group": [
+        "var",
+        "pp/var",
+        "catalog-split-00",
+        "catalog",
+        "performing-arts-posters",
+        "variety-stage-pp",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2014636064/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/var/0600/0692/0692_150px.jpg#h=150&w=112",
+        "https://tile.loc.gov/storage-services/service/pnp/var/0600/0692/0692t.gif#h=150&w=112",
+        "https://tile.loc.gov/storage-services/service/pnp/var/0600/0692/0692r.jpg#h=1024&w=764",
+        "https://tile.loc.gov/storage-services/master/pnp/var/0600/0692/0692r.jpg#h=1024&w=764"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2020-11-30t11:40:42",
+        "http://www.loc.gov/item/2014636064",
+        "sheet",
+        "http://www.loc.gov/item/18427675",
+        "http://www.loc.gov/item/var1994000735/pp",
+        "2014636064",
+        "2021-02-04t08:07:54"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "vaudeville and popular entertainment",
+        "prints and photographs division",
+        "posters: performing arts posters",
+        "catalog",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 48.467426,
+      "shelf_id": "POS - TH - 1887 .S5, no. 1 (C size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "theatrical productions",
+        "theatrical posters",
+        "color",
+        "lithographs",
+        "hats",
+        "american"
+      ],
+      "timestamp": "2022-04-30T20:37:10.589Z",
+      "title": "Silver spur",
+      "url": "https://www.loc.gov/item/2014636064/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/performing-arts-posters/about-this-collection/",
+        "http://www.loc.gov/collections/var/",
+        "http://lccn.loc.gov/95861315",
+        "http://www.loc.gov/item/95861315/",
+        "https://hdl.loc.gov/loc.pnp/pp.var"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "h.c. miner litho. co",
+        "u.s. lithograph co",
+        "strobridge & co. lith",
+        "u.s. printing co",
+        "courier litho. co",
+        "a.s. seer print",
+        "metropolitan litho. studio"
+      ],
+      "count": 2099,
+      "date": "1850",
+      "dates": [
+        "[1840 TO 1936]",
+        "1850"
+      ],
+      "description": [
+        "Contains approximately 2,100 posters in the online Performing Arts Posters category represent the entire contents of three collections: the Magic Poster Collection, the Minstrel Poster Collection, and the Theatrical Poster Collection."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:08:44.895Z",
+      "group": [
+        "collections-portal"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/performing-arts-posters/about-this-collection/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/performing-arts-posters/500_500.jpg"
+      ],
+      "index": 6,
+      "items": "https://www.loc.gov/collections/performing-arts-posters/",
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "number": [
+        "2013-06-13t13:11:47",
+        "http://www.loc.gov/item/95861315",
+        "95861315",
+        "http://www.loc.gov/item/11666277"
+      ],
+      "original_format": [
+        "collection",
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "digital collections",
+        "posters: performing arts posters"
+      ],
+      "score": 42.73279,
+      "shelf_id": "~/collections/performing-arts-posters/about-this-collection/",
+      "subject": [
+        "arts and culture",
+        "theatrical posters",
+        "group portraits",
+        "photographs, prints & posters",
+        "comedies",
+        "portrait prints",
+        "strobridge & co. lith",
+        "woodcuts",
+        "photomechanical prints",
+        "theater and dance",
+        "stock posters",
+        "theater",
+        "lithographs",
+        "u.s. printing co",
+        "color",
+        "performing arts",
+        "american",
+        "posters"
+      ],
+      "timestamp": "2024-12-21T06:49:28.750Z",
+      "title": "Posters: Performing Arts Posters",
+      "type": [
+        "collection"
+      ],
+      "url": "https://www.loc.gov/collections/performing-arts-posters/about-this-collection/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "var",
+      "pp/var",
+      "catalog-split-15",
+      "catalog",
+      "performing-arts-posters",
+      "variety-stage-pp",
+      "main-catalog-split-15",
+      "main-catalog",
+      "awhbib",
+      "catalog-split-06",
+      "american-womens-history",
+      "main-catalog-split-06",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "catalog-split-01",
+      "main-catalog-split-01",
+      "collections-portal",
+      "afc/ofp/2020009",
+      "north-carolina-repair-professionals",
+      "gdc/webcasts",
+      "cataloged-event-videos",
+      "nsr/marc",
+      "national-screening-room",
+      "catalog-split-05",
+      "main-catalog-split-05",
+      "cms",
+      "managed-content"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "var.0680",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.642838716506958,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/var.0680/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/var.0680/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1734773607.3643897,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 19317462,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/var/0600/0680/0680u.tif",
+      "width": 0
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 5319,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/var/0600/0680/0680_150px.jpg",
+      "width": 103
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 15177,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/var/0600/0680/0680t.gif",
+      "width": 103
+    },
+    {
+      "height": 1024,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 92685,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/var/0600/0680/0680r.jpg",
+      "width": 704
+    },
+    {
+      "height": 1024,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 92685,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/var/0600/0680/0680r.jpg",
+      "width": 704
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=var&pk=2014636045&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2022655275",
+        "http://www.loc.gov/item/2022655275/",
+        "https://hdl.loc.gov/loc.afc/afc2020009.afc2020009_003_sr01",
+        "http://www.loc.gov/resource/afc2020009.afc2020009_003_sr01/",
+        "http://www.loc.gov/resource/afc2020009.afc2020009_003_ph/",
+        "http://www.loc.gov/resource/afc2020009.afc2020009_003_ms01/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "occupational folklife project",
+        "gartrell, julia c.",
+        "riley, douglas m.",
+        "clune, katy a. (kathryn anne)"
+      ],
+      "date": "2020-01-01",
+      "dates": [
+        "2020"
+      ],
+      "description": [
+        "Douglas Riley began working in optics in 1976, graduating from Durham Technical Community College in 1978, owning an optical shop in Roxboro, North Carolina, for 10 years before opening Eyeglass Repairs in downtown Durham in 1996. He discusses the changes in the field, describes repair techniques and materials, and shares his family's background in the military and in ultrapure water manufacturing."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-02-08T19:31:46.264Z",
+      "group": [
+        "afc/ofp/2020009",
+        "north-carolina-repair-professionals"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2022655275/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2020009:afc2020009_003:afc2020009_003_ph:afc2020009_003_ph01/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2020009:afc2020009_003:afc2020009_003_ph:afc2020009_003_ph01/full/pct:12.5/0/default.jpg#h=250&w=375",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2020009:afc2020009_003:afc2020009_003_ph:afc2020009_003_ph01/full/pct:25/0/default.jpg#h=500&w=750",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2020009:afc2020009_003:afc2020009_003_ph:afc2020009_003_ph01/full/pct:50/0/default.jpg#h=1000&w=1500",
+        "https://tile.loc.gov/image-services/iiif/service:afc:afc2020009:afc2020009_003:afc2020009_003_ph:afc2020009_003_ph01/full/pct:100/0/default.jpg#h=2000&w=3000"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "north carolina",
+        "durham"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "audio/mp3",
+        "image/gif",
+        "audio/wav",
+        "image/tiff",
+        "application/pdf"
+      ],
+      "number": [
+        "2022-12-16t10:03:40",
+        "2022655275",
+        "online resource"
+      ],
+      "online_format": [
+        "image",
+        "audio",
+        "pdf"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "catalog",
+        "fixing, mending, making new : north carolina's repair professionals : archie green fellows project, 2020-2021",
+        "occupational folklife project",
+        "american folklife center"
+      ],
+      "score": 13.8642025,
+      "shelf_id": "http://lccn.loc.gov/2022655275",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "interviews",
+        "quality of products",
+        "repairing",
+        "personal narratives",
+        "riley, douglas m.",
+        "digital photographs",
+        "conflict of generations in the workplace",
+        "repairing trades",
+        "workmanship",
+        "eyeglasses",
+        "self-employed",
+        "color",
+        "oral histories",
+        "blue collar workers",
+        "north carolina",
+        "sound recordings",
+        "material culture"
+      ],
+      "timestamp": "2023-02-09T19:54:36.846Z",
+      "title": "Doug Riley interview conducted by Katy Clune and Julia Gartrell, 2020-09-23",
+      "type": [
+        "sound recording-nonmusical"
+      ],
+      "url": "https://www.loc.gov/item/2022655275/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2021689856",
+        "http://www.loc.gov/item/2021689856/",
+        "https://hdl.loc.gov/loc.gdc/gdcwebcasts.150803law1300",
+        "http://www.loc.gov/resource/gdcwebcasts.150803law1300/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress",
+        "library of congress. prints and photographs division",
+        "law library of congress (u.s.)"
+      ],
+      "date": "2015",
+      "dates": [
+        "2015"
+      ],
+      "description": [
+        "Photographer Bob Adelman joined Ira Glasser in a program reflecting on the ongoing struggle for human rights in America."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-08-22T13:04:36.536Z",
+      "group": [
+        "gdc/webcasts",
+        "catalog-split-15",
+        "catalog",
+        "cataloged-event-videos",
+        "main-catalog-split-15"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021689856/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/15/08/03/la/w1/30/0/150803law1300/150803law1300_612.0_thumb.jpg"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "video/mp4",
+        "image/jpeg",
+        "application/xml"
+      ],
+      "number": [
+        "2021689856",
+        "http://www.loc.gov/item/webcast-7163",
+        "2022-11-09t14:48:27",
+        "online resource"
+      ],
+      "online_format": [
+        "video",
+        "image",
+        "online text"
+      ],
+      "original_format": [
+        "film, video"
+      ],
+      "partof": [
+        "event videos",
+        "prints and photographs division",
+        "catalog",
+        "law library of congress",
+        "general collections"
+      ],
+      "score": 11.219923,
+      "shelf_id": "http://lccn.loc.gov/2021689856",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "america",
+        "biography, history",
+        "american history",
+        "human rights in america",
+        "human rights",
+        "civil liberty",
+        "american",
+        "american liberty"
+      ],
+      "timestamp": "2024-10-17T17:03:06.044Z",
+      "title": "Visions of Liberty",
+      "type": [
+        "moving image"
+      ],
+      "url": "https://www.loc.gov/item/2021689856/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/96520173",
+        "http://www.loc.gov/item/96520173/",
+        "https://hdl.loc.gov/loc.mbrsmi/ntscrm.00046326",
+        "http://www.loc.gov/resource/ntscrm.00046326/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "weed, a. e.",
+        "paper print collection (library of congress)",
+        "american mutoscope and biograph company"
+      ],
+      "date": "1904",
+      "dates": [
+        "1904"
+      ],
+      "description": [
+        "Opens on a stage set of a street with a sidewalk and a high fence completely covered with female burlesque troupe posters. The four posters visible advertise actual contemporary burlesquers Fred Irwin's Majestics, Rose Sydell (of her London Belles), Phil Sheridan's New City Sports (with the tag line \"Ain't we three birds\"), and the Rentz-Santley Co. One of the center posters--that for Rose Sydell--features an attractive woman with nude shoulders. Two well-dressed women pass along the sidewalk, glancing disapprovingly at the images covering the fence. They are followed by a woman and a younger girl, perhaps her daughter. The latter pauses to look at the Sydell poster; the older woman, looking back, reacts in horror at what she sees and drags the girl away. An older bearded gentleman then strolls by, enjoying an eyeful of the posters, and is about to walk off when he is drawn back to the woman in the Rose Sydell ad. He jumps as she seemingly comes to life and turns to look at him seductively, pursing her lips. The man rubs his eyes, but still the woman in the poster watches him. He finally puts on his eyeglasses and examines the girl closely. Unbeknownst to him, an older woman enters the scene. Shocked, she grabs the man by his ear and drags him away as he blows a kiss to the \"poster.\" \"A high board fence is shown covered with theatrical posters. The one in the center shows the head and shoulders of a pretty girl. An old farmer and his wife are strolling along, the old gentleman being a little ahead. He looks at the picture of the girl and fancies he sees the eyes winking at him. He puts on his glasses to make sure that he is not dreaming, when the girl leans forward with an expression as if inviting him to have a kiss. The old man is about to take advantage of his delusion when his wife appears on the scene, and taking him by the ears rushes him away. 68 feet\"--Biograph bulletin no. 55."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-28T12:53:20.141Z",
+      "group": [
+        "nsr/marc",
+        "national-screening-room"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/96520173/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/00046326/00046326.gif"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "video/mp4",
+        "image/jpeg",
+        "video/quicktime",
+        "application/x-video"
+      ],
+      "number": [
+        "2024-01-31t16:06:44",
+        "96520173"
+      ],
+      "online_format": [
+        "image",
+        "video"
+      ],
+      "original_format": [
+        "film, video"
+      ],
+      "partof": [
+        "motion picture, broadcasting & recorded sound division",
+        "motion picture, broadcasting and recorded sound division",
+        "catalog",
+        "national screening room",
+        "variety stage sound recordings and motion pictures"
+      ],
+      "score": 9.8776655,
+      "shelf_id": "FLA 4686 (viewing print) FYA 2093 (viewing print) FRA 1714 (dupe neg pic) FPE 7603 (dupe neg pic) Box 0084A (paper pos) Box 5118B (paper pos, copy 2)",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "kissing",
+        "theatrical posters",
+        "fiction films",
+        "comedy films",
+        "older couples",
+        "humor",
+        "silent films",
+        "trick films",
+        "short films"
+      ],
+      "timestamp": "2024-10-28T12:56:08.964Z",
+      "title": "Kiss me",
+      "type": [
+        "moving image"
+      ],
+      "url": "https://www.loc.gov/item/96520173/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/visual-image-web-archive/about-this-collection/",
+        "http://www.loc.gov/collections/visimage/",
+        "http://www.loc.gov/collections/visual-image-website-archives/",
+        "http://lccn.loc.gov/2007700166",
+        "http://www.loc.gov/item/2007700166/",
+        "https://hdl.loc.gov/loc.natlib/collnatlib.00000014"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress",
+        "library of congress. prints and photographs division"
+      ],
+      "count": 19,
+      "date": "2008",
+      "dates": [
+        "2008"
+      ],
+      "description": [
+        "Like books and magazines in the Library's general collections, this set of websites complements the original and historical visual material held in the Prints &amp; Photographs Division. Included are sites for photographers and cartoonists represented in P&amp;P (e.g., Kuper, Prokudin-Gorskii, Rogovin, and Telnaes). Also, websites for new digital image formats (e.g., Wrist photography, Reicholdarts cell phone photos, and Micah Wright remix posters). Other sites document new ways of displaying the visual arts through virtual galleries (e.g., Alternative Museum) and new ways of representing architectural work and the built environment (e.g., McKissack, Pritzker Prize, Vergara's Invincible Cities, and Vi&#241;oly). Major then-current event themes include views of Kurdistan and the Iraq War."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:06:08.086Z",
+      "group": [
+        "collections-portal"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/visual-image-web-archive/about-this-collection/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/visual-image-web-archive/500_500.jpg"
+      ],
+      "index": 4,
+      "items": "https://www.loc.gov/collections/visual-image-web-archive/",
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "russian federation",
+        "kurdistan"
+      ],
+      "number": [
+        "2012-03-21t11:31:00",
+        "2007700166"
+      ],
+      "original_format": [
+        "collection",
+        "web archive"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "digital collections",
+        "visual image web archive"
+      ],
+      "score": 9.777163,
+      "shelf_id": "~/collections/visual-image-web-archive/about-this-collection/",
+      "subject": [
+        "arts and culture",
+        "political cartoons",
+        "portraits",
+        "photographs, prints & posters",
+        "illustrations",
+        "cartoons (commentary)",
+        "digital photographs",
+        "art & architecture",
+        "photographs",
+        "color",
+        "ethnographic photographs"
+      ],
+      "timestamp": "2024-12-21T06:49:36.114Z",
+      "title": "Visual Image Web Archive",
+      "type": [
+        "collection"
+      ],
+      "url": "https://www.loc.gov/collections/visual-image-web-archive/about-this-collection/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2018487896",
+        "http://www.loc.gov/item/2018487896/",
+        "http://linux02.lib.cam.ac.uk/%7Ecjs2/vw.cgi?s=WAD+1885.82",
+        "http://linux02.lib.cam.ac.uk/%7Ecjs2/vw.cgi?s=WAD+1885.245"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "olʹdenburgskai︠a︡, evgenii︠a︡ maksimilianovna",
+        "buslaev, f. i. (fedor ivanovich)",
+        "shakhovskai︠a︡, s. n.",
+        "litografīi︠a︡ v. bakhman"
+      ],
+      "date": "1885",
+      "dates": [
+        "1885"
+      ],
+      "description": [
+        "\"Posvi︠a︡shchaetsi︠a︡ Ei︠a︡ Imperatorskomu Vysochestvu Evgenīi Maksimilīanovni︠e︡ print︠s︡essi︠e︡ Olʹdenburgskoĭ\"--Illustrated leaf preceding title leaf. In Russian & French. LC copy formerly shelved under call number: Cyr4 NK45 \"Посвящается Ея Императорскому Высочеству Евгеніи Максимиліановнѣ принцессѣ Ольденбургской\"--Illustrated leaf preceding title leaf."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-06-02T19:34:01.061Z",
+      "group": [
+        "catalog-split-05",
+        "catalog",
+        "main-catalog-split-05",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://lccn.loc.gov/2018487896",
+      "image_url": [],
+      "index": 5,
+      "language": [
+        "french",
+        "russian"
+      ],
+      "location": [
+        "russian federation",
+        "russia"
+      ],
+      "number": [
+        "85094259",
+        "2022-05-02t15:35:42",
+        "2018487896"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "other_title": [
+        "Узоры стариннаго шитья въ Россіи = \"Dessins d'anciennes broderies en Russie\" /"
+      ],
+      "partof": [
+        "catalog"
+      ],
+      "score": 8.572024,
+      "shelf_id": "NK9256.A1 S53 1885",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "patterns",
+        "russia (federation)",
+        "illustrated works",
+        "color",
+        "embroidery",
+        "lithographs",
+        "russia",
+        "history",
+        "pictorial works"
+      ],
+      "timestamp": "2023-07-08T00:34:45.879Z",
+      "title": "Uzory starinnago shitʹi︠a︡ vʺ Rossīi = \"Dessins d'anciennes broderies en Russie\"",
+      "type": [
+        "text"
+      ],
+      "url": "//lccn.loc.gov/2018487896"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/performing-arts-posters/about-this-collection/rights-and-access/"
+      ],
+      "campaigns": [],
+      "description": [
+        "The Library of Congress does not own rights to material in its collections. Therefore, it does not license or charge permission fees for use of such material and cannot grant or deny permission to publish or otherwise distribute the material."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:26:21.360Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/performing-arts-posters/about-this-collection/rights-and-access/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/performing-arts-posters/500_500.jpg"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "posters: performing arts posters"
+      ],
+      "score": 8.436981,
+      "shelf_id": "~/collections/performing-arts-posters/about-this-collection/rights-and-access/",
+      "site": [
+        "cms"
+      ],
+      "timestamp": "2024-12-21T06:52:27.770Z",
+      "title": "Rights and Access | About this Collection | Posters: Performing Arts Posters | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/performing-arts-posters/about-this-collection/rights-and-access/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "digital file from intermediary roll copy film",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/var/0600/0680/0680_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/var.0680/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from intermediary roll copy film",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/var/0600/0680/0680_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/var.0680/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1734773608007,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/var.0680/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/var.0680/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/var.0680/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/var.0680/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/var.0680/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/var.0680/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/var.0680/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/var.0680/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/var.0680/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/var.0680/?fo=json&st=text"
+  }
+}

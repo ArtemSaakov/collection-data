@@ -1,0 +1,1494 @@
+{
+  "articles_and_essays": [
+    {
+      "score": 6.511656,
+      "title": "Great Depression and New Deal: A General Resource Guide",
+      "url": "https://guides.loc.gov/great-depression-new-deal"
+    }
+  ],
+  "cite_this": {
+    "apa": "(1936) <cite>Save Your Eyes - Use Your Goggles</cite>. , 1936. [Illinois: Federal Art Project,  or 1937] [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/98517852/.",
+    "chicago": "<cite>Save Your Eyes - Use Your Goggles</cite>. , 1936. [Illinois: Federal Art Project,  or 1937] Photograph. https://www.loc.gov/item/98517852/.",
+    "mla": "<cite>Save Your Eyes - Use Your Goggles</cite>. [Illinois: Federal Art Project,  or 1937] Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/98517852/&gt;."
+  },
+  "item": {
+    "_version_": 1754109075543556096,
+    "access_restricted": false,
+    "aka": [
+      "http://www.loc.gov/pictures/collection/wpapos/item/98517852/",
+      "http://www.loc.gov/item/98517852/",
+      "http://www.loc.gov/pictures/item/98517852/",
+      "https://hdl.loc.gov/loc.pnp/cph.3b49074",
+      "http://www.loc.gov/resource/cph.3b49074/",
+      "http://lccn.loc.gov/98517852"
+    ],
+    "call_number": "POS - WPA - ILL .01 .S37, no. 1 (C size) [P&P]",
+    "campaigns": [],
+    "control_number": "",
+    "created": "2016-04-20 14:28:18",
+    "created_published": [
+      "[Illinois : Federal Art Project, 1936 or 1937]"
+    ],
+    "created_published_date": "1936 or 1937]",
+    "date": "1936-01-01",
+    "dates": [
+      {
+        "1936": "https://www.loc.gov/search/?dates=1936/1936&fo=json"
+      }
+    ],
+    "description": [
+      "1 print on board (poster) : silkscreen, color. | Poster for WPA Illinois Safety Division promoting safety and use of proper eye protection."
+    ],
+    "digital_id": [
+      "cph 3b49074 //hdl.loc.gov/loc.pnp/cph.3b49074"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-09-01T23:01:18.339Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/wpapos/item/98517852/#wpapos",
+      "http://lccn.loc.gov/98517852#catalog-split-13"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Posters--1930-1940.",
+      "Screen prints--Color--1930-1940."
+    ],
+    "genre": [
+      "Posters--1930-1940",
+      "Screen prints--Color--1930-1940"
+    ],
+    "group": [
+      "wpapos",
+      "catalog-split-13",
+      "catalog",
+      "wpa-posters",
+      "main-catalog-split-13",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/98517852/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b49000/3b49000/3b49074_150px.jpg#h=150&w=101",
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b49000/3b49000/3b49074t.gif#h=150&w=101",
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b49000/3b49000/3b49074r.jpg#h=640&w=433"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "POS - WPA - ILL .01 .S37, no. 1 (C size) [P&P]",
+      "control_number": "98517852",
+      "created": "2016-04-20 14:28:18",
+      "created_published": "[Illinois : Federal Art Project, 1936 or 1937]",
+      "created_published_date": "1936 or 1937]",
+      "date": "1936 or 1937]",
+      "digital_id": [
+        "cph 3b49074 //hdl.loc.gov/loc.pnp/cph.3b49074"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=format&q=Posters--1930-1940.&co=wpapos",
+          "title": "Posters--1930-1940."
+        },
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=format&q=Screen%20prints--Color--1930-1940.&co=wpapos",
+          "title": "Screen prints--Color--1930-1940."
+        }
+      ],
+      "genre": [
+        "Posters--1930-1940",
+        "Screen prints--Color--1930-1940"
+      ],
+      "id": "98517852",
+      "language": [
+        "eng"
+      ],
+      "link": "//www.loc.gov/pictures/item/98517852/",
+      "marc": "//www.loc.gov/pictures/item/98517852/marc/",
+      "medium": [
+        "1 print on board (poster) : silkscreen, color."
+      ],
+      "medium_brief": "1 print on board (poster) :",
+      "mediums": [
+        "1 print on board (poster) : silkscreen, color."
+      ],
+      "modified": "2016-04-20 14:28:19",
+      "notes": [
+        "Date stamped on verso: Apr 28 1937.",
+        "Work Projects Administration Poster Collection (Library of Congress).",
+        "Posters of the WPA / Christopher DeNoon. Los Angeles : Wheatly Press, c1987, no. 214"
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/98517852",
+        "https://www.loc.gov/item/11724128"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA",
+      "reproduction_number": "LC-USZC2-1174 (color film copy slide)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/cph.3b49074"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b49000/3b49000/3b49074_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b49000/3b49000/3b49074r.jpg",
+      "sort_date": "1936",
+      "source_created": "1998-10-21 00:00:00",
+      "source_modified": "2007-11-14 11:44:48",
+      "subject_headings": [
+        "Safety--1930-1940.",
+        "Goggles--1930-1940.",
+        "Eyes--1930-1940."
+      ],
+      "subjects": [
+        "Safety--1930-1940",
+        "Goggles--1930-1940",
+        "Eyes--1930-1940"
+      ],
+      "summary": "Poster for WPA Illinois Safety Division promoting safety and use of proper eye protection.",
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b49000/3b49000/3b49074_150px.jpg",
+      "title": "Save your eyes - use your goggles"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "98517852",
+    "link": "//www.loc.gov/pictures/item/98517852/",
+    "marc": "//www.loc.gov/pictures/item/98517852/marc/",
+    "medium": [
+      "1 print on board (poster) : silkscreen, color."
+    ],
+    "medium_brief": "1 print on board (poster) :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2016-04-20 14:28:19",
+    "notes": [
+      "Date stamped on verso: Apr 28 1937.",
+      "Work Projects Administration Poster Collection (Library of Congress).",
+      "Posters of the WPA / Christopher DeNoon. Los Angeles : Wheatly Press, c1987, no. 214"
+    ],
+    "number": [
+      "2007-11-14t11:44:48",
+      "98517852",
+      "http://www.loc.gov/item/98517852",
+      "http://www.loc.gov/item/11724128"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/98517852",
+      "http://www.loc.gov/item/11724128"
+    ],
+    "number_lccn": [
+      "98517852"
+    ],
+    "number_source_modified": [
+      "2007-11-14t11:44:48"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/98517852/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/98517852/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/98517852/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 932,
+        "title": "by the people, for the people: posters from the wpa, 1936-1943",
+        "url": "https://www.loc.gov/search/?fa=partof:by+the+people,+for+the+people:+posters+from+the+wpa,+1936-1943&fo=json"
+      },
+      {
+        "count": 947,
+        "title": "posters: wpa posters",
+        "url": "https://www.loc.gov/collections/works-progress-administration-posters/?fo=json"
+      },
+      {
+        "count": 437343,
+        "title": "american memory",
+        "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+      },
+      {
+        "count": 949513,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1082837,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1592516,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "related": {
+      "neighbors": "//www.loc.gov/pictures/related/?&co=wpapos&pk=98517852&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA"
+    ],
+    "reproduction_number": "LC-USZC2-1174 (color film copy slide)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/cph.3b49074"
+    ],
+    "resources": [
+      {
+        "caption": "color film copy slide",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b49000/3b49000/3b49074_150px.jpg",
+        "url": "https://www.loc.gov/resource/cph.3b49074/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/217_wpa.html\">Work Projects Administration Posters - Rights and Restrictions Information</a> </p>\n \n"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.206085,
+    "shard": "00",
+    "shelf_id": "POS - WPA - ILL .01 .S37, no. 1 (C size) [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1936",
+    "source_created": "1998-10-21 00:00:00",
+    "source_modified": "2007-11-14 11:44:48",
+    "subject": [
+      "goggles",
+      "color",
+      "safety",
+      "eyes",
+      "screen prints",
+      "posters"
+    ],
+    "subject_headings": [
+      "Safety--1930-1940",
+      "Goggles--1930-1940",
+      "Eyes--1930-1940"
+    ],
+    "subjects": [
+      {
+        "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+      },
+      {
+        "eyes": "https://www.loc.gov/search/?fa=subject:eyes&fo=json"
+      },
+      {
+        "goggles": "https://www.loc.gov/search/?fa=subject:goggles&fo=json"
+      },
+      {
+        "posters": "https://www.loc.gov/search/?fa=subject:posters&fo=json"
+      },
+      {
+        "safety": "https://www.loc.gov/search/?fa=subject:safety&fo=json"
+      },
+      {
+        "screen prints": "https://www.loc.gov/search/?fa=subject:screen+prints&fo=json"
+      }
+    ],
+    "summary": "Poster for WPA Illinois Safety Division promoting safety and use of proper eye protection.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b49000/3b49000/3b49074_150px.jpg",
+    "timestamp": "2023-01-04T16:12:53.157Z",
+    "title": "Save your eyes - use your goggles",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/98517852/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/wpapos/item/98518391/",
+        "http://www.loc.gov/item/98518391/",
+        "http://www.loc.gov/pictures/item/98518391/",
+        "https://hdl.loc.gov/loc.pnp/cph.3f05597",
+        "http://www.loc.gov/resource/cph.3f05597/",
+        "http://lccn.loc.gov/98518391"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "new york (n.y.). department of correction"
+      ],
+      "date": "1936-01-01",
+      "description": [
+        "1 print on board (poster) : silkscreen, color. | Poster encouraging examinations for syphilis."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T23:01:18.828Z",
+      "group": [
+        "wpapos",
+        "catalog-split-12",
+        "catalog",
+        "wpa-posters",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/98518391/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05500/3f05597_150px.jpg#h=150&w=101",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05500/3f05597t.gif#h=150&w=101",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05500/3f05597r.jpg#h=640&w=431",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05500/3f05597v.jpg#h=1024&w=689"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        41.9584257,
+        -73.4934565
+      ],
+      "location": [
+        "new york"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -73.4934565,
+        41.9584257
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/98518391",
+        "2013-05-23t12:18:02",
+        "http://www.loc.gov/item/11724591",
+        "98518391"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "posters: wpa posters",
+        "prints and photographs division",
+        "by the people, for the people: posters from the wpa, 1936-1943",
+        "catalog",
+        "american memory",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 41.569187,
+      "shelf_id": "POS - WPA - NY .01 .V583, no. 1 (C size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "new york",
+        "color",
+        "syphilis",
+        "new york (state)",
+        "eyes",
+        "health care",
+        "screen prints",
+        "posters"
+      ],
+      "timestamp": "2023-01-04T16:13:03.004Z",
+      "title": "Vision can be saved 50% of babies born with syphilis have impaired eyesight : Consult a reputable physician.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/98518391/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/wpapos/item/98517127/",
+        "http://www.loc.gov/item/98517127/",
+        "http://www.loc.gov/pictures/item/98517127/",
+        "https://hdl.loc.gov/loc.pnp/cph.3b48811",
+        "http://www.loc.gov/resource/cph.3b48811/",
+        "http://lccn.loc.gov/98517127"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "clough, stanley thomas"
+      ],
+      "date": "1938-01-01",
+      "description": [
+        "1 print on board (poster) : silkscreen, color. | Poster for Federal Art Project exhibition of posters at the Cleveland Art Center, 4300 Euclid Ave., showing an eye with an arrow through it."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T23:01:17.851Z",
+      "group": [
+        "wpapos",
+        "catalog-split-08",
+        "catalog",
+        "wpa-posters",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/98517127/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b48000/3b48800/3b48811_150px.jpg#h=150&w=96",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b48000/3b48800/3b48811t.gif#h=150&w=96",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b48000/3b48800/3b48811r.jpg#h=640&w=410"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        41.52,
+        -81.5561111111
+      ],
+      "location": [
+        "ohio",
+        "cleveland"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -81.5561111111,
+        41.52
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2007-11-16t09:58:26",
+        "98517127",
+        "http://www.loc.gov/item/11723457",
+        "http://www.loc.gov/item/98517127"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "posters: wpa posters",
+        "prints and photographs division",
+        "by the people, for the people: posters from the wpa, 1936-1943",
+        "catalog",
+        "american memory",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 41.569187,
+      "shelf_id": "POS - WPA - OH .C56, no. 9 (B size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "color",
+        "art exhibitions",
+        "exhibition posters",
+        "screen prints",
+        "ohio",
+        "eyes",
+        "cleveland",
+        "posters"
+      ],
+      "timestamp": "2023-01-04T16:12:42.837Z",
+      "title": "Poster exhibition, 4300 Euclid, second floor",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/98517127/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/wpapos/item/98516613/",
+        "https://hdl.loc.gov/loc.pnp/cph.3b48840",
+        "http://www.loc.gov/item/98516613/",
+        "http://www.loc.gov/pictures/item/98516613/",
+        "https://hdl.loc.gov/loc.pnp/ds.05007",
+        "http://www.loc.gov/resource/ds.05007/",
+        "http://www.loc.gov/resource/cph.3b48840/",
+        "http://lccn.loc.gov/98516613"
+      ],
+      "campaigns": [],
+      "date": "1936-01-01",
+      "description": [
+        "1 print on board (poster) : silkscreen, color. | Poster for the Tenement House Department of the City of New York advising that tenement house residents keep their fire escapes free of obstructions."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T23:01:17.281Z",
+      "group": [
+        "wpapos",
+        "catalog-split-07",
+        "catalog",
+        "wpa-posters",
+        "main-catalog-split-07",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/98516613/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ds/05000/05007_150px.jpg#h=150&w=97",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/05000/05007r.jpg#h=640&w=416",
+        "https://tile.loc.gov/storage-services/service/pnp/ds/05000/05007v.jpg#h=1024&w=665"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        41.9584257,
+        -73.4934565
+      ],
+      "location": [
+        "new york"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -73.4934565,
+        41.9584257
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2013-12-09t13:51:06",
+        "http://www.loc.gov/item/11722983",
+        "http://www.loc.gov/item/98516613",
+        "98516613"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "posters: wpa posters",
+        "prints and photographs division",
+        "by the people, for the people: posters from the wpa, 1936-1943",
+        "catalog",
+        "american memory",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 40.10495,
+      "shelf_id": "POS - WPA - NY .M85, no. 1 (B size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "new york",
+        "color",
+        "safety",
+        "tenement houses",
+        "new york (state)",
+        "screen prints",
+        "posters",
+        "fire escapes"
+      ],
+      "timestamp": "2023-01-04T16:12:34.345Z",
+      "title": "Keep your fire escapes clear",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/98516613/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/wpapos/item/98516765/",
+        "http://www.loc.gov/item/98516765/",
+        "http://www.loc.gov/pictures/item/98516765/",
+        "https://hdl.loc.gov/loc.pnp/cph.3f05397",
+        "http://www.loc.gov/resource/cph.3f05397/",
+        "http://lccn.loc.gov/98516765"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "weitzman, martin"
+      ],
+      "date": "1936-01-01",
+      "description": [
+        "1 print on board (poster) : silkscreen, color. | Poster promoting use of fire retardant materials in home construction, showing a couple trapped in burning house."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T23:01:17.281Z",
+      "group": [
+        "wpapos",
+        "catalog-split-15",
+        "catalog",
+        "wpa-posters",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/98516765/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05300/3f05397_150px.jpg#h=150&w=100",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05300/3f05397t.gif#h=150&w=100",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05300/3f05397r.jpg#h=640&w=425",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05300/3f05397v.jpg#h=1024&w=681"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        41.9584257,
+        -73.4934565
+      ],
+      "location": [
+        "new york"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -73.4934565,
+        41.9584257
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2007-11-27t16:44:19",
+        "http://www.loc.gov/item/98516765",
+        "98516765",
+        "http://www.loc.gov/item/11723130"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "posters: wpa posters",
+        "prints and photographs division",
+        "by the people, for the people: posters from the wpa, 1936-1943",
+        "catalog",
+        "american memory",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 40.10495,
+      "shelf_id": "POS - WPA - NY .W45, no. 3 (B size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "fires",
+        "new york",
+        "color",
+        "fire-resistive construction",
+        "safety",
+        "new york (state)",
+        "screen prints",
+        "posters"
+      ],
+      "timestamp": "2023-01-04T16:12:34.345Z",
+      "title": "Cellar ceilings must be fire-retarded Keep cellars clean /",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/98516765/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/wpapos/item/98517824/",
+        "http://www.loc.gov/item/98517824/",
+        "http://www.loc.gov/pictures/item/98517824/",
+        "https://hdl.loc.gov/loc.pnp/cph.3f05556",
+        "http://www.loc.gov/resource/cph.3f05556/",
+        "http://lccn.loc.gov/98517824"
+      ],
+      "campaigns": [],
+      "date": "1936-01-01",
+      "dates": [
+        "1936"
+      ],
+      "description": [
+        "1 print on board (poster) : silkscreen, color. | Poster for the WPA Illinois Safety Division promoting safety, showing a civil defense symbol."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T23:01:18.339Z",
+      "group": [
+        "wpapos",
+        "catalog-split-12",
+        "catalog",
+        "wpa-posters",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/98517824/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05500/3f05556_150px.jpg#h=150&w=101",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05500/3f05556t.gif#h=150&w=101",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05500/3f05556r.jpg#h=640&w=432",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05500/3f05556v.jpg#h=1024&w=691"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/11724102",
+        "98517824",
+        "2007-11-14t11:42:39",
+        "http://www.loc.gov/item/98517824"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "posters: wpa posters",
+        "prints and photographs division",
+        "by the people, for the people: posters from the wpa, 1936-1943",
+        "catalog",
+        "american memory",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 40.10495,
+      "shelf_id": "POS - WPA - ILL .C37, no. 7 (C size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "color",
+        "screen prints",
+        "safety",
+        "posters"
+      ],
+      "timestamp": "2023-01-04T16:12:53.157Z",
+      "title": "Safety for you, for all",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/98517824/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/wpapos/item/98517931/",
+        "http://www.loc.gov/item/98517931/",
+        "http://www.loc.gov/pictures/item/98517931/",
+        "https://hdl.loc.gov/loc.pnp/cph.3b48706",
+        "http://www.loc.gov/resource/cph.3b48706/",
+        "http://lccn.loc.gov/98517931"
+      ],
+      "campaigns": [],
+      "date": "1936-01-01",
+      "description": [
+        "1 print on board (poster) : silkscreen, color. | Poster for Illinois WPA Safety Division promoting immediate treatment of on-the-job injuries."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T23:01:18.339Z",
+      "group": [
+        "wpapos",
+        "catalog-split-11",
+        "catalog",
+        "wpa-posters",
+        "main-catalog-split-11",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/98517931/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b48000/3b48700/3b48706_150px.jpg#h=150&w=102",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b48000/3b48700/3b48706t.gif#h=150&w=102",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b48000/3b48700/3b48706r.jpg#h=640&w=435"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        42.0480818,
+        -88.3142463
+      ],
+      "location": [
+        "illinois"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -88.3142463,
+        42.0480818
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2007-11-05t11:43:27",
+        "http://www.loc.gov/item/98517931",
+        "http://www.loc.gov/item/11724191",
+        "98517931"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "posters: wpa posters",
+        "prints and photographs division",
+        "by the people, for the people: posters from the wpa, 1936-1943",
+        "catalog",
+        "american memory",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 40.10495,
+      "shelf_id": "POS - WPA - ILL .M38, no. 1 (C size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "illinois",
+        "color",
+        "safety",
+        "health care",
+        "screen prints",
+        "posters",
+        "working class"
+      ],
+      "timestamp": "2023-01-04T16:12:53.157Z",
+      "title": "\"Just a scratch\" But! Infection is avoided by immediate first aid on-the-job!",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/98517931/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "wpapos",
+      "catalog-split-13",
+      "catalog",
+      "wpa-posters",
+      "main-catalog-split-13",
+      "main-catalog",
+      "catalog-split-12",
+      "main-catalog-split-12",
+      "catalog-split-08",
+      "main-catalog-split-08",
+      "catalog-split-07",
+      "main-catalog-split-07",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "catalog-split-11",
+      "main-catalog-split-11",
+      "cms",
+      "managed-content",
+      "usrep102",
+      "us-report",
+      "collections-portal"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 25,
+    "delimiter": null,
+    "digital_id": null,
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.6548311710357666,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": "98517852/",
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/item/98517852/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/item/98517852/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "shards": [
+      "00"
+    ],
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "layouts/item/layout",
+    "timestamp": 1734773596.1640773,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "//www.loc.gov/pictures/related/?&co=wpapos&pk=98517852&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/works-progress-administration-posters/articles-and-essays/collection-highlights/health-and-safety/"
+      ],
+      "campaigns": [],
+      "description": [
+        "Top of page Skip to main content Library of Congress Search Everything Audio Recordings Books/Printed Material Films, Videos Legislation Manuscripts/Mixed Material Maps Notated Music Newspapers Periodicals Personal Narratives Photos, Prints, Drawings Software, E-Resources Web Archives"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:33:13.051Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/works-progress-administration-posters/articles-and-essays/collection-highlights/health-and-safety/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3f00000/3f05000/3f05300/3f05332_150px.jpg"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "posters: wpa posters"
+      ],
+      "score": 16.112297,
+      "shelf_id": "~/collections/works-progress-administration-posters/articles-and-essays/collection-highlights/health-and-safety/",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "safety",
+        "health"
+      ],
+      "timestamp": "2024-12-21T06:53:59.061Z",
+      "title": "Health and Safety | Collection Highlights | Articles and Essays | Posters: WPA Posters | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/works-progress-administration-posters/articles-and-essays/collection-highlights/health-and-safety/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/works-progress-administration-posters/articles-and-essays/collection-highlights/?st=gallery"
+      ],
+      "campaigns": [],
+      "date": "1936",
+      "dates": [
+        "[1936 TO 1943]"
+      ],
+      "description": [
+        "The following presentation of collection highlights was selected by Library staff who have worked closely with the WPA posters. The posters were selected with an eye toward their design, representation of a variety of states and artists, and as a way of featuring those that have not been widely published. These examples demonstrate the breadth and depth of the collection and the styles and content used by the WPA to advertise varied programs and campaigns."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:33:13.051Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/works-progress-administration-posters/articles-and-essays/collection-highlights/?st=gallery",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g04000/3g04200/3g04243t.gif#h=150&w=121"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "posters: wpa posters"
+      ],
+      "score": 13.369551,
+      "shelf_id": "~/collections/works-progress-administration-posters/articles-and-essays/collection-highlights/?st=gallery",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "lithographs",
+        "mayor's poster project",
+        "prints",
+        "federal project number one",
+        "president roosevelt, franklin delano",
+        "new deal",
+        "federal art project",
+        "work projects administration",
+        "posters"
+      ],
+      "timestamp": "2024-12-21T06:53:59.061Z",
+      "title": "Collection Highlights | Articles and Essays | Posters: WPA Posters | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/works-progress-administration-posters/articles-and-essays/collection-highlights/?st=gallery"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/works-progress-administration-posters/articles-and-essays/federal-art-project-calendar/?st=slideshow"
+      ],
+      "campaigns": [],
+      "date": "1936",
+      "dates": [
+        "[1936 TO 1943]"
+      ],
+      "description": [
+        "This calendar was created by the New York City Poster Division in 1938 to show government officials the skilled artistic work the Federal Art Project was doing for the WPA. The Library's copy of the calendar was a gift from Richard Floethe in 1975."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:33:13.051Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/works-progress-administration-posters/articles-and-essays/federal-art-project-calendar/?st=slideshow",
+      "image_url": [
+        "https://www.loc.gov/static/collections/works-progress-administration-posters/images/calendar.jpg"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "posters: wpa posters"
+      ],
+      "score": 13.369551,
+      "shelf_id": "~/collections/works-progress-administration-posters/articles-and-essays/federal-art-project-calendar/?st=slideshow",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "lithographs",
+        "mayor's poster project",
+        "prints",
+        "federal project number one",
+        "president roosevelt, franklin delano",
+        "new deal",
+        "federal art project",
+        "work projects administration",
+        "posters"
+      ],
+      "timestamp": "2024-12-21T06:53:59.061Z",
+      "title": "Federal Art Project Calendar | Articles and Essays | Posters: WPA Posters | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/works-progress-administration-posters/articles-and-essays/federal-art-project-calendar/?st=slideshow"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/works-progress-administration-posters/articles-and-essays/interview-with-tony-velonis/"
+      ],
+      "campaigns": [],
+      "date": "1936",
+      "dates": [
+        "[1936 TO 1943]"
+      ],
+      "description": [
+        "In December of 1994, The Library of Congress hosted a symposium on the WPA titled \"Amassing 'American Stuff': The New Deal Arts Collections of the Library of Congress.\" The following interview with master silkscreen printer Anthony (Tony) Velonis took place at that time as one of several in-depth interviews with notable figures of the WPA projects."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:33:13.051Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/works-progress-administration-posters/articles-and-essays/interview-with-tony-velonis/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/works-progress-administration-posters/images/velsi.jpg"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "posters: wpa posters"
+      ],
+      "score": 13.369551,
+      "shelf_id": "~/collections/works-progress-administration-posters/articles-and-essays/interview-with-tony-velonis/",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "lithographs",
+        "mayor's poster project",
+        "prints",
+        "federal project number one",
+        "president roosevelt, franklin delano",
+        "new deal",
+        "federal art project",
+        "work projects administration",
+        "posters"
+      ],
+      "timestamp": "2024-12-21T06:53:59.061Z",
+      "title": "Interview with Tony Velonis | Articles and Essays | Posters: WPA Posters | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/works-progress-administration-posters/articles-and-essays/interview-with-tony-velonis/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/usrep284044/",
+        "http://www.loc.gov/resource/usrep.usrep284044/",
+        "http://www.loc.gov/item/usrep.usrep284044/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "supreme court of the united states",
+        "mcreynolds, james clark"
+      ],
+      "date": "1931",
+      "dates": [
+        "1931"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-12-04T18:40:40.830Z",
+      "group": [
+        "usrep102",
+        "us-report"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/usrep284044/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/ll/usrep/usrep284/usrep284044/usrep284044.gif#h=150&w=100"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "periodical"
+      ],
+      "partof": [
+        "u.s. reports: volume 284",
+        "united states reports (official opinions of the u.s. supreme court)",
+        "u.s. reports: civil procedure",
+        "law library of congress"
+      ],
+      "score": 11.16139,
+      "shelf_id": "Call Number: KF101 Series: Civil Procedure Series: Volume 284",
+      "subject": [
+        "chisels",
+        "united states",
+        "court cases",
+        "defective equipment",
+        "common law",
+        "periodical",
+        "court decisions",
+        "supreme court",
+        "labor",
+        "judicial decisions",
+        "worker safety and health",
+        "law",
+        "court opinions",
+        "negligence",
+        "goggles",
+        "personal injuries",
+        "law library",
+        "u.s. reports",
+        "federal employers' liability act",
+        "civil procedure",
+        "torts",
+        "assumption of risk",
+        "steel",
+        "government documents",
+        "legal remedies",
+        "judicial review and appeals"
+      ],
+      "timestamp": "2023-12-04T19:02:54.645Z",
+      "title": "U.S. Reports: Chesapeake & Ohio Ry Co. v. Kuhn, 284 U.S. 44 (1931).",
+      "type": [
+        "periodical"
+      ],
+      "url": "https://www.loc.gov/item/usrep284044/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/visual-image-web-archive/about-this-collection/",
+        "http://www.loc.gov/collections/visimage/",
+        "http://www.loc.gov/collections/visual-image-website-archives/",
+        "http://lccn.loc.gov/2007700166",
+        "http://www.loc.gov/item/2007700166/",
+        "https://hdl.loc.gov/loc.natlib/collnatlib.00000014"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress. prints and photographs division",
+        "library of congress"
+      ],
+      "count": 19,
+      "date": "2008",
+      "dates": [
+        "2008"
+      ],
+      "description": [
+        "Like books and magazines in the Library's general collections, this set of websites complements the original and historical visual material held in the Prints &amp; Photographs Division. Included are sites for photographers and cartoonists represented in P&amp;P (e.g., Kuper, Prokudin-Gorskii, Rogovin, and Telnaes). Also, websites for new digital image formats (e.g., Wrist photography, Reicholdarts cell phone photos, and Micah Wright remix posters). Other sites document new ways of displaying the visual arts through virtual galleries (e.g., Alternative Museum) and new ways of representing architectural work and the built environment (e.g., McKissack, Pritzker Prize, Vergara's Invincible Cities, and Vi&#241;oly). Major then-current event themes include views of Kurdistan and the Iraq War."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:06:08.086Z",
+      "group": [
+        "collections-portal"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/visual-image-web-archive/about-this-collection/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/visual-image-web-archive/500_500.jpg"
+      ],
+      "index": 6,
+      "items": "https://www.loc.gov/collections/visual-image-web-archive/",
+      "language": [
+        "english"
+      ],
+      "location": [
+        "russian federation",
+        "united states",
+        "kurdistan"
+      ],
+      "number": [
+        "2012-03-21t11:31:00",
+        "2007700166"
+      ],
+      "original_format": [
+        "collection",
+        "web archive"
+      ],
+      "partof": [
+        "digital collections",
+        "prints and photographs division",
+        "visual image web archive"
+      ],
+      "score": 9.777163,
+      "shelf_id": "~/collections/visual-image-web-archive/about-this-collection/",
+      "subject": [
+        "illustrations",
+        "arts and culture",
+        "photographs",
+        "color",
+        "digital photographs",
+        "ethnographic photographs",
+        "cartoons (commentary)",
+        "political cartoons",
+        "photographs, prints & posters",
+        "art & architecture",
+        "portraits"
+      ],
+      "timestamp": "2024-12-21T06:49:36.114Z",
+      "title": "Visual Image Web Archive",
+      "type": [
+        "collection"
+      ],
+      "url": "https://www.loc.gov/collections/visual-image-web-archive/about-this-collection/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \r\ndisplay only as thumbnails outside the Library of Congress because of rights \r\nconsiderations, but you have access to larger size images on site.)\r\n</p>\r\n\r\n<p>  \r\nAlternatively, you can purchase copies of various types through Library \r\nof Congress Duplication Services</a>.\r\n</p>\r\n\r\n<p> \r\n<ol>\r\n<p>\r\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \r\npartially depend on whether it was made from the original or an \r\nintermediate such as a copy negative or transparency. If the Reproduction \r\nNumber field above includes a reproduction number that starts with \r\nLC-DIG..., then there is a digital image that was made directly \r\nfrom the original and is of sufficient resolution for most publication\r\n purposes.\r\n</li> \r\n</p>\r\n\r\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \r\nYou can use the reproduction number to purchase a copy from Duplication \r\nServices.  It will be made from the source listed in the parentheses after\r\n the number.  \r\n<p> \r\nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \r\n desire a copy showing color or tint (assuming the original has any), \r\n you can generally purchase a quality copy of the original in color by \r\n citing the Call Number listed above and including the catalog record \r\n (&quot;About This Item&quot;) with your request.\r\n </p>\r\n</li>\r\n\r\n<li><strong>If there is no information listed in the Reproduction Number field \r\nabove:</strong> You can generally purchase a quality copy through \r\nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \r\n your request.\r\n</li>\r\n</ol>\r\n</p>\r\n\r\n<p> \r\nPrice lists, contact information, and order forms are available on the\r\n <a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>.  \r\n</p>\r\n\r\n\r\n\r\n",
+  "resources": [
+    {
+      "caption": "color film copy slide",
+      "files": [
+        [
+          {
+            "height": 0,
+            "levels": 1,
+            "mimetype": "image/tiff",
+            "size": 4788602,
+            "url": "https://tile.loc.gov/storage-services/master/pnp/cph/3b40000/3b49000/3b49000/3b49074u.tif",
+            "width": 0
+          },
+          {
+            "height": 150,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "size": 6132,
+            "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b49000/3b49000/3b49074_150px.jpg",
+            "width": 101
+          },
+          {
+            "height": 150,
+            "levels": 1,
+            "mimetype": "image/gif",
+            "size": 13427,
+            "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b49000/3b49000/3b49074t.gif",
+            "width": 101
+          },
+          {
+            "height": 640,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "size": 40050,
+            "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b49000/3b49000/3b49074r.jpg",
+            "width": 433
+          }
+        ]
+      ],
+      "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b49000/3b49000/3b49074_150px.jpg",
+      "url": "https://www.loc.gov/resource/cph.3b49074/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1734773596819,
+  "unrestricted": true
+}

@@ -1,0 +1,1741 @@
+{
+  "articles_and_essays": [
+    {
+      "score": 6.8680534,
+      "title": "Free to Use and Reuse: Glasses",
+      "url": "https://blogs.loc.gov/loc/2019/12/free-to-use-and-reuse-glasses/"
+    }
+  ],
+  "cite_this": {
+    "apa": "Palmer, A. T., photographer. (1942) <cite>Tank driver, Ft. Knox, Ky</cite>. Fort Knox United States Kentucky, 1942. June. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2017878422/.",
+    "chicago": "Palmer, Alfred T, photographer. <cite>Tank driver, Ft. Knox, Ky</cite>. Fort Knox United States Kentucky, 1942. June. Photograph. https://www.loc.gov/item/2017878422/.",
+    "mla": "Palmer, Alfred T, photographer. <cite>Tank driver, Ft. Knox, Ky</cite>. June. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2017878422/&gt;."
+  },
+  "item": {
+    "_version_": 1760077802756898816,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2017878422/",
+      "http://www.loc.gov/item/2017878422/",
+      "http://www.loc.gov/pictures/item/2017878422/",
+      "https://www.loc.gov/pictures/collection/fsac/item/2017878422/",
+      "http://www.loc.gov/pictures/collection/fsac/item/2017878422/",
+      "https://hdl.loc.gov/loc.pnp/fsac.1a35216",
+      "https://hdl.loc.gov/loc.pnp/fsac.1a35216",
+      "http://www.loc.gov/resource/fsac.1a35216/",
+      "http://lccn.loc.gov/2017878422"
+    ],
+    "call_number": "LC-USW36-181 [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Palmer, Alfred T., photographer"
+    ],
+    "contributors": [
+      {
+        "palmer, alfred t.": "https://www.loc.gov/search/?fa=contributor:palmer,+alfred+t.&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2023-03-07T06:02:14Z",
+    "created_published": [
+      "1942 June"
+    ],
+    "created_published_date": "1942 June",
+    "date": "1939-01-01",
+    "dates": [
+      {
+        "1939": "https://www.loc.gov/search/?dates=1939/1939&fo=json"
+      }
+    ],
+    "description": [
+      "1 transparency : color."
+    ],
+    "digital_id": [
+      "fsac 1a35216 https://hdl.loc.gov/loc.pnp/fsac.1a35216"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2023-03-11T13:22:04.804Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/fsac/item/2017878422/#fsac",
+      "http://lccn.loc.gov/2017878422#catalog-split-09"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Transparencies--Color."
+    ],
+    "genre": [
+      "Transparencies--Color"
+    ],
+    "group": [
+      "fsac",
+      "catalog-split-09",
+      "catalog",
+      "fsa-owi-color-photographs",
+      "main-catalog-split-09",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2017878422/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35216_150px.jpg#h=122&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35216t.gif#h=122&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35216r.jpg#h=522&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35216v.jpg#h=835&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-USW36-181 [P&P]",
+      "contributors": [
+        "Palmer, Alfred T., photographer"
+      ],
+      "control_number": "2017878422",
+      "created": "2023-03-07T06:02:14Z",
+      "created_published": "1942 June",
+      "created_published_date": "1942 June",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Palmer%2C%20Alfred%20T.&co=fsac",
+          "role": "photographer",
+          "title": "Palmer, Alfred T."
+        }
+      ],
+      "date": "1942 June",
+      "digital_id": [
+        "fsac 1a35216 https://hdl.loc.gov/loc.pnp/fsac.1a35216"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Transparencies--Color.&co=fsac",
+          "title": "Transparencies--Color."
+        }
+      ],
+      "genre": [
+        "Transparencies--Color"
+      ],
+      "id": "2017878422",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2017878422/",
+      "marc": "https://www.loc.gov/pictures/item/2017878422/marc/",
+      "medium": [
+        "1 transparency : color."
+      ],
+      "medium_brief": "1 transparency :",
+      "mediums": [
+        "1 transparency : color."
+      ],
+      "modified": "2023-03-07T06:02:14Z",
+      "notes": [
+        "12002-34.",
+        "Transfer from U.S. Office of War Information, 1944.",
+        "General information about the FSA/OWI Color Photographs is available at http://hdl.loc.gov/loc.pnp/pp.fsac",
+        "Title from FSA or OWI agency caption.",
+        "Additional information about this photograph might be available through the Flickr Commons project at http://www.flickr.com/photos/library_of_congress/2179057897"
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2017878422",
+        "https://www.loc.gov/item/fsa1992001093/PP"
+      ],
+      "other_control_numbers": [
+        "19980424",
+        "fsa1992001093/PP"
+      ],
+      "part_of": "Farm Security Administration - Office of War Information color slides and transparencies collection (Library of Congress)",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Kentucky--Fort%20Knox%20&co=fsac",
+          "longitude": "",
+          "title": "Kentucky--Fort Knox "
+        }
+      ],
+      "raw_collections": [
+        "ammem",
+        "diof",
+        "flickrppoc",
+        "fsac",
+        "pp",
+        "srtg"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-fsac-1a35216 (digital file from original transparency)\nLC-USW361-181 (color film copy slide)",
+      "resource_links": [
+        "https://hdl.loc.gov/loc.pnp/fsac.1a35216"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35216_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35216r.jpg",
+      "sort_date": "1939",
+      "source_collection": [
+        "Farm Security Administration - Office of War Information color slides and transparencies collection (Library of Congress)"
+      ],
+      "source_created": "1985-01-01T00:00:00Z",
+      "source_modified": "2023-03-03T15:00:12Z",
+      "subject_headings": [
+        "United States--Army",
+        "US Army Armor Center",
+        "World War, 1939-1945",
+        "Soldiers",
+        "armories",
+        "Tanks (Military science)",
+        "United States--Kentucky--Fort Knox",
+        "Kentucky--Fort Knox"
+      ],
+      "subjects": [
+        "United States--Army",
+        "US Army Armor Center",
+        "World War, 1939-1945",
+        "Soldiers",
+        "Armories",
+        "Tanks (Military science)",
+        "United States--Kentucky--Fort Knox"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35216_150px.jpg",
+      "title": "Tank driver, Ft. Knox, Ky."
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2017878422",
+    "link": "https://www.loc.gov/pictures/item/2017878422/",
+    "location": [
+      "fort knox",
+      "united states",
+      "kentucky"
+    ],
+    "location_city": [
+      "fort knox"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_state": [
+      "kentucky"
+    ],
+    "locations": [
+      {
+        "fort knox": "https://www.loc.gov/search/?fa=location:fort+knox&fo=json"
+      },
+      {
+        "kentucky": "https://www.loc.gov/search/?fa=location:kentucky&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "fort knox": "https://www.loc.gov/search/?fa=location_city:fort+knox&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "kentucky": "https://www.loc.gov/search/?fa=location_state:kentucky&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2017878422/marc/",
+    "medium": [
+      "1 transparency : color."
+    ],
+    "medium_brief": "1 transparency :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2023-03-07T06:02:14Z",
+    "notes": [
+      "12002-34.",
+      "Transfer from U.S. Office of War Information, 1944.",
+      "General information about the FSA/OWI Color Photographs is available at http://hdl.loc.gov/loc.pnp/pp.fsac",
+      "Title from FSA or OWI agency caption.",
+      "Additional information about this photograph might be available through the Flickr Commons project at http://www.flickr.com/photos/library_of_congress/2179057897"
+    ],
+    "number": [
+      "http://www.loc.gov/item/fsa1992001093/pp",
+      "2023-03-03t15:00:12",
+      "http://www.loc.gov/item/19980424",
+      "2017878422",
+      "http://www.loc.gov/item/2017878422"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/19980424",
+      "http://www.loc.gov/item/fsa1992001093/pp",
+      "http://www.loc.gov/item/2017878422"
+    ],
+    "number_lccn": [
+      "2017878422"
+    ],
+    "number_source_modified": [
+      "2023-03-03t15:00:12"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "19980424",
+      "fsa1992001093/PP"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2017878422/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2017878422/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2017878422/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 1623,
+        "title": "farm security administration/office of war information color photographs",
+        "url": "https://www.loc.gov/collections/fsa-owi-color-photographs/?fo=json"
+      },
+      {
+        "count": 949513,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1082837,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1592516,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Kentucky--Fort%20Knox%20&co=fsac",
+        "longitude": "",
+        "title": "Kentucky--Fort Knox "
+      }
+    ],
+    "raw_collections": [
+      "ammem",
+      "diof",
+      "flickrppoc",
+      "fsac",
+      "pp",
+      "srtg"
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=fsac&pk=2017878422&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-fsac-1a35216 (digital file from original transparency)\nLC-USW361-181 (color film copy slide)",
+    "reproductions": [],
+    "resource_links": [
+      "https://hdl.loc.gov/loc.pnp/fsac.1a35216"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from original transparency",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35216_150px.jpg",
+        "url": "https://www.loc.gov/resource/fsac.1a35216/"
+      }
+    ],
+    "rights": [
+      "<p>The contents of the Library of Congress Farm Security Administration/Office of War Information Color Photographs are in the public domain and are free to use and reuse.</p>\r\n<p>\tCredit Line: Library of Congress, Prints &amp; Photographs Division, Farm Security Administration/Office of War Information Color Photographs.</p>\r\n<p>For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: <a href=\"https://www.loc.gov/rr/print/res/072_fsac.html\">U.S. Farm Security Administration/Office of War Information Color Transparencies - Rights and Restrictions Information</a></p>\r\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a> </p>\r\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.206085,
+    "shard": "00",
+    "shelf_id": "LC-USW36-181 [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1939",
+    "source_collection": "Farm Security Administration - Office of War Information color slides and transparencies collection (Library of Congress)",
+    "source_created": "1985-01-01T00:00:00Z",
+    "source_modified": "2000-01-01T12:00:00Z",
+    "subject": [
+      "united states",
+      "transparencies",
+      "us army armor center",
+      "kentucky",
+      "soldiers",
+      "fort knox",
+      "color",
+      "army",
+      "tanks (military science)",
+      "armories",
+      "world war"
+    ],
+    "subject_headings": [
+      "United States--Army",
+      "US Army Armor Center",
+      "World War, 1939-1945",
+      "Soldiers",
+      "Armories",
+      "Tanks (Military science)",
+      "United States--Kentucky--Fort Knox"
+    ],
+    "subjects": [
+      {
+        "armories": "https://www.loc.gov/search/?fa=subject:armories&fo=json"
+      },
+      {
+        "army": "https://www.loc.gov/search/?fa=subject:army&fo=json"
+      },
+      {
+        "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+      },
+      {
+        "fort knox": "https://www.loc.gov/search/?fa=subject:fort+knox&fo=json"
+      },
+      {
+        "kentucky": "https://www.loc.gov/search/?fa=subject:kentucky&fo=json"
+      },
+      {
+        "soldiers": "https://www.loc.gov/search/?fa=subject:soldiers&fo=json"
+      },
+      {
+        "tanks (military science)": "https://www.loc.gov/search/?fa=subject:tanks+%28military+science%29&fo=json"
+      },
+      {
+        "transparencies": "https://www.loc.gov/search/?fa=subject:transparencies&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      },
+      {
+        "us army armor center": "https://www.loc.gov/search/?fa=subject:us+army+armor+center&fo=json"
+      },
+      {
+        "world war": "https://www.loc.gov/search/?fa=subject:world+war&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35216_150px.jpg",
+    "timestamp": "2023-03-11T13:23:15.134Z",
+    "title": "Tank driver, Ft. Knox, Ky.",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2017878422/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017878408/",
+        "http://www.loc.gov/item/2017878408/",
+        "http://www.loc.gov/pictures/item/2017878408/",
+        "https://www.loc.gov/pictures/collection/fsac/item/2017878408/",
+        "http://www.loc.gov/pictures/collection/fsac/item/2017878408/",
+        "https://hdl.loc.gov/loc.pnp/fsac.1a35202",
+        "https://hdl.loc.gov/loc.pnp/fsac.1a35202",
+        "http://www.loc.gov/resource/fsac.1a35202/",
+        "http://lccn.loc.gov/2017878408"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "palmer, alfred t."
+      ],
+      "date": "1939-01-01",
+      "dates": [
+        "1939"
+      ],
+      "description": [
+        "1 transparency : color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-03-11T13:22:04.804Z",
+      "group": [
+        "fsac",
+        "catalog-split-13",
+        "catalog",
+        "fsa-owi-color-photographs",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017878408/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35202_150px.jpg#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35202t.gif#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35202r.jpg#h=515&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35202v.jpg#h=824&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "fort knox",
+        "united states",
+        "kentucky"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2023-03-03t15:03:27",
+        "http://www.loc.gov/item/fsa1992001079/pp",
+        "http://www.loc.gov/item/19980409",
+        "2017878408",
+        "http://www.loc.gov/item/2017878408"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints and photographs division",
+        "farm security administration/office of war information color photographs",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 81.6179,
+      "shelf_id": "LC-USW36-164 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "transparencies",
+        "us army armor center",
+        "kentucky",
+        "soldiers",
+        "fort knox",
+        "color",
+        "army",
+        "tanks (military science)",
+        "armories",
+        "world war"
+      ],
+      "timestamp": "2023-03-11T13:23:15.134Z",
+      "title": "Crewman of an M-3 tank, Ft. Knox, Ky.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017878408/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017878416/",
+        "http://www.loc.gov/item/2017878416/",
+        "http://www.loc.gov/pictures/item/2017878416/",
+        "https://www.loc.gov/pictures/collection/fsac/item/2017878416/",
+        "http://www.loc.gov/pictures/collection/fsac/item/2017878416/",
+        "https://hdl.loc.gov/loc.pnp/fsac.1a35210",
+        "https://hdl.loc.gov/loc.pnp/fsac.1a35210",
+        "http://www.loc.gov/resource/fsac.1a35210/",
+        "http://lccn.loc.gov/2017878416"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "palmer, alfred t."
+      ],
+      "date": "1939-01-01",
+      "dates": [
+        "1939"
+      ],
+      "description": [
+        "1 transparency : color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-03-11T13:21:42.707Z",
+      "group": [
+        "fsac",
+        "catalog-split-12",
+        "catalog",
+        "fsa-owi-color-photographs",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017878416/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35210_150px.jpg#h=122&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35210t.gif#h=122&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35210r.jpg#h=521&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35210v.jpg#h=833&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "fort knox",
+        "united states",
+        "kentucky"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2017878416",
+        "http://www.loc.gov/item/fsa1992001087/pp",
+        "2017878416",
+        "http://www.loc.gov/item/19980418",
+        "2023-03-03t15:01:39"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints and photographs division",
+        "farm security administration/office of war information color photographs",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 81.6179,
+      "shelf_id": "LC-USW36-175 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "military training",
+        "transparencies",
+        "us army armor center",
+        "kentucky",
+        "soldiers",
+        "fort knox",
+        "color",
+        "army",
+        "tanks (military science)",
+        "armories",
+        "world war",
+        "portrait photographs"
+      ],
+      "timestamp": "2023-03-11T13:23:15.134Z",
+      "title": "M-4 tank crews of the United States, Ft. Knox, Ky.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017878416/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017878421/",
+        "http://www.loc.gov/item/2017878421/",
+        "http://www.loc.gov/pictures/item/2017878421/",
+        "https://www.loc.gov/pictures/collection/fsac/item/2017878421/",
+        "http://www.loc.gov/pictures/collection/fsac/item/2017878421/",
+        "https://hdl.loc.gov/loc.pnp/fsac.1a35215",
+        "https://hdl.loc.gov/loc.pnp/fsac.1a35215",
+        "http://www.loc.gov/resource/fsac.1a35215/",
+        "http://lccn.loc.gov/2017878421"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "palmer, alfred t."
+      ],
+      "date": "1939-01-01",
+      "dates": [
+        "1939"
+      ],
+      "description": [
+        "1 transparency : color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-03-11T13:22:25.823Z",
+      "group": [
+        "fsac",
+        "catalog-split-08",
+        "catalog",
+        "fsa-owi-color-photographs",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017878421/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35215_150px.jpg#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35215t.gif#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35215r.jpg#h=516&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35215v.jpg#h=825&w=1024"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "fort knox",
+        "united states",
+        "kentucky"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2023-03-03t15:00:24",
+        "http://www.loc.gov/item/2017878421",
+        "2017878421",
+        "http://www.loc.gov/item/fsa1992001092/pp",
+        "http://www.loc.gov/item/19980423"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints and photographs division",
+        "farm security administration/office of war information color photographs",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 81.6179,
+      "shelf_id": "LC-USW36-180 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "military training",
+        "transparencies",
+        "us army armor center",
+        "kentucky",
+        "soldiers",
+        "fort knox",
+        "color",
+        "army",
+        "tanks (military science)",
+        "armories",
+        "world war"
+      ],
+      "timestamp": "2023-03-11T13:23:15.134Z",
+      "title": "Tank crew standing in front of an M-4 tank, Ft. Knox, Ky.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017878421/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017878423/",
+        "http://www.loc.gov/item/2017878423/",
+        "http://www.loc.gov/pictures/item/2017878423/",
+        "https://www.loc.gov/pictures/collection/fsac/item/2017878423/",
+        "http://www.loc.gov/pictures/collection/fsac/item/2017878423/",
+        "https://hdl.loc.gov/loc.pnp/fsac.1a35217",
+        "https://hdl.loc.gov/loc.pnp/fsac.1a35217",
+        "http://www.loc.gov/resource/fsac.1a35217/",
+        "http://lccn.loc.gov/2017878423"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "palmer, alfred t."
+      ],
+      "date": "1939-01-01",
+      "dates": [
+        "1939"
+      ],
+      "description": [
+        "1 transparency : color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-03-11T13:22:04.804Z",
+      "group": [
+        "fsac",
+        "catalog-split-10",
+        "catalog",
+        "fsa-owi-color-photographs",
+        "main-catalog-split-10",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017878423/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35217_150px.jpg#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35217t.gif#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35217r.jpg#h=517&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35217v.jpg#h=828&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "fort knox",
+        "united states",
+        "kentucky"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017878423",
+        "http://www.loc.gov/item/19980425",
+        "2023-03-03t15:19:10",
+        "http://www.loc.gov/item/fsa1992001094/pp",
+        "http://www.loc.gov/item/2017878423"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints and photographs division",
+        "farm security administration/office of war information color photographs",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 81.6179,
+      "shelf_id": "LC-USW36-182 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "transparencies",
+        "us army armor center",
+        "kentucky",
+        "soldiers",
+        "fort knox",
+        "color",
+        "army",
+        "tanks (military science)",
+        "armories",
+        "world war"
+      ],
+      "timestamp": "2023-03-11T13:23:15.134Z",
+      "title": "Tank driver, Ft. Knox, Ky.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017878423/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017878431/",
+        "http://www.loc.gov/item/2017878431/",
+        "http://www.loc.gov/pictures/item/2017878431/",
+        "https://www.loc.gov/pictures/collection/fsac/item/2017878431/",
+        "http://www.loc.gov/pictures/collection/fsac/item/2017878431/",
+        "https://hdl.loc.gov/loc.pnp/fsac.1a35225",
+        "https://hdl.loc.gov/loc.pnp/fsac.1a35225",
+        "http://www.loc.gov/resource/fsac.1a35225/",
+        "http://lccn.loc.gov/2017878431"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "palmer, alfred t."
+      ],
+      "date": "1939-01-01",
+      "dates": [
+        "1939"
+      ],
+      "description": [
+        "1 transparency : color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-03-11T13:22:04.804Z",
+      "group": [
+        "fsac",
+        "catalog-split-09",
+        "catalog",
+        "fsa-owi-color-photographs",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017878431/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35225_150px.jpg#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35225t.gif#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35225r.jpg#h=515&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35225v.jpg#h=824&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "fort knox",
+        "united states",
+        "kentucky"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/fsa1992001102/pp",
+        "http://www.loc.gov/item/19980434",
+        "2017878431",
+        "2023-03-03t15:16:17",
+        "http://www.loc.gov/item/2017878431"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints and photographs division",
+        "farm security administration/office of war information color photographs",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 81.6179,
+      "shelf_id": "LC-USW36-191 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "military training",
+        "transparencies",
+        "us army armor center",
+        "kentucky",
+        "soldiers",
+        "fort knox",
+        "color",
+        "army",
+        "tanks (military science)",
+        "armories",
+        "world war",
+        "portrait photographs"
+      ],
+      "timestamp": "2023-03-11T13:23:15.134Z",
+      "title": "Tank crew standing in front of M-4 tank, Ft. Knox, Ky.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017878431/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017878397/",
+        "http://www.loc.gov/item/2017878397/",
+        "http://www.loc.gov/pictures/item/2017878397/",
+        "https://www.loc.gov/pictures/collection/fsac/item/2017878397/",
+        "http://www.loc.gov/pictures/collection/fsac/item/2017878397/",
+        "https://hdl.loc.gov/loc.pnp/fsac.1a35191",
+        "https://hdl.loc.gov/loc.pnp/fsac.1a35191",
+        "http://www.loc.gov/resource/fsac.1a35191/",
+        "http://lccn.loc.gov/2017878397"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "palmer, alfred t."
+      ],
+      "date": "1939-01-01",
+      "dates": [
+        "1939"
+      ],
+      "description": [
+        "1 transparency : color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-03-11T13:22:04.804Z",
+      "group": [
+        "fsac",
+        "catalog-split-04",
+        "catalog",
+        "fsa-owi-color-photographs",
+        "main-catalog-split-04",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017878397/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35100/1a35191_150px.jpg#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35100/1a35191t.gif#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35100/1a35191r.jpg#h=516&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35100/1a35191v.jpg#h=826&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "fort knox",
+        "united states",
+        "kentucky"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/19980397",
+        "2023-03-03t15:05:57",
+        "2017878397",
+        "http://www.loc.gov/item/2017878397",
+        "http://www.loc.gov/item/fsa1992001068/pp"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints and photographs division",
+        "farm security administration/office of war information color photographs",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 77.052986,
+      "shelf_id": "LC-USW36-151 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "transparencies",
+        "us army armor center",
+        "kentucky",
+        "fort knox",
+        "color",
+        "army",
+        "tanks (military science)",
+        "armories",
+        "world war"
+      ],
+      "timestamp": "2023-03-11T13:23:15.134Z",
+      "title": "Tank commander, Ft. Knox, Ky.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017878397/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "fsac",
+      "catalog-split-09",
+      "catalog",
+      "fsa-owi-color-photographs",
+      "main-catalog-split-09",
+      "main-catalog",
+      "catalog-split-13",
+      "main-catalog-split-13",
+      "catalog-split-12",
+      "main-catalog-split-12",
+      "catalog-split-08",
+      "main-catalog-split-08",
+      "catalog-split-10",
+      "main-catalog-split-10",
+      "catalog-split-04",
+      "main-catalog-split-04",
+      "gmd.mar",
+      "general-maps",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "cms",
+      "managed-content"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "fsac.1a35216",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.9156026840209961,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/fsac.1a35216",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/fsac.1a35216?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1734771743.3833432,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 122,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 5669,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35216_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 122,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 16611,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35216t.gif",
+      "width": 150
+    },
+    {
+      "height": 522,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 47218,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35216r.jpg",
+      "width": 640
+    },
+    {
+      "height": 835,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 246931,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35216v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=fsac&pk=2017878422&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://hdl.loc.gov/loc.gmd/g3954f.ct010493",
+        "http://www.loc.gov/item/2012588573/",
+        "http://www.loc.gov/resource/g3954f.ct010493/",
+        "http://lccn.loc.gov/2012588573"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "united states. army. corps, 5th",
+        "veterans history project (u.s.)",
+        "american folklife center"
+      ],
+      "date": "1923-01-01",
+      "dates": [
+        "1923"
+      ],
+      "description": [
+        "Relief shown by contours and spot heights. Shows military base Fort Knox with markings and handwritten note \"Plan of Defense, Problem 2, situation at 8:00 AM, August 7, 1928\" (1/1923). Includes conventional signs and conversion table. Available also through the Library of Congress Web site as a raster image. Gift; Peter Shemonsky; 6-28-2006."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T22:33:21.313Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-09",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2012588573/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd395/g3954/g3954f/ct010493.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd395/g3954/g3954f/ct010493.gif#h=150&w=131",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd395:g3954:g3954f:ct010493/full/pct:12.5/0/default.jpg#h=1505&w=1313",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd395:g3954:g3954f:ct010493/full/pct:25/0/default.jpg#h=3010&w=2626"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "fort knox",
+        "united states",
+        "kentucky"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2012588573",
+        "2019-03-19t11:51:46",
+        "http://www.loc.gov/item/2012588573",
+        "http://www.loc.gov/item/17265357"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "catalog",
+        "cities and towns",
+        "american memory",
+        "geography and map division"
+      ],
+      "score": 29.166338,
+      "shelf_id": "G3954.F58 1923 .U5",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "drill and tactics",
+        "corps, 5th",
+        "united states",
+        "fort knox (ky.)",
+        "military maps",
+        "kentucky",
+        "fort knox",
+        "topographic maps",
+        "army",
+        "maps"
+      ],
+      "timestamp": "2022-12-10T05:44:26.960Z",
+      "title": "Special military map Camp Knox, Kentucky",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2012588573/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/g3954f.ct010494/",
+        "http://www.loc.gov/item/2011592164/",
+        "https://hdl.loc.gov/loc.gmd/g3954f.ct010494",
+        "http://lccn.loc.gov/2011592164"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "american folklife center",
+        "united states. defense mapping agency. topographic center",
+        "veterans history project (u.s.)"
+      ],
+      "date": "1977-01-01",
+      "dates": [
+        "1977"
+      ],
+      "description": [
+        "\"Map information as of 1977. \"U.S. Government Printing Office: 1985--560-694.\" Relief shown by contours and spot heights. Shows Fort Knox Military Reservation with circles added manually in ink at 2 locations on map. \"Grid 1,000 meter, UTM Zone 16.\" \"Base map features are red light readable.\" Includes meter to feet conversion graph, elevation guide, index map, and boundary diagram. Also a part of the LC map: G3954.F58 1977.U5. Available also through the Library of Congress Web site as a raster image. Gift; Jared Dane Brokaw; 9-7-2010."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-30T00:05:48.013Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-15",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2011592164/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd395/g3954/g3954f/ct010494.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd395/g3954/g3954f/ct010494.gif#h=133&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd395:g3954:g3954f:ct010494/full/pct:12.5/0/default.jpg#h=1193&w=1341",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd395:g3954:g3954f:ct010494/full/pct:25/0/default.jpg#h=2387&w=2682"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "fort knox",
+        "united states",
+        "kentucky"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2018-09-21t10:15:22",
+        "2011592164",
+        "http://www.loc.gov/item/17090773",
+        "http://www.loc.gov/item/2011592164"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "other_title": [
+        "Fort Knox special",
+        "Series V753S"
+      ],
+      "partof": [
+        "catalog",
+        "general maps",
+        "american memory",
+        "geography and map division"
+      ],
+      "score": 27.246086,
+      "shelf_id": "G3954.F58 1977 .U51",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "fort knox (ky.)",
+        "kentucky",
+        "fort knox",
+        "topographic maps",
+        "maps"
+      ],
+      "timestamp": "2022-12-10T05:43:41.468Z",
+      "title": "Kentucky 1:50,000. Fort Knox special",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2011592164/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/g3954f.ct010488/",
+        "http://www.loc.gov/item/85696066/",
+        "https://hdl.loc.gov/loc.gmd/g3954f.ct010488",
+        "http://lccn.loc.gov/85696066"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "united states. defense mapping agency. topographic center"
+      ],
+      "date": "1977-01-01",
+      "dates": [
+        "1977"
+      ],
+      "description": [
+        "\"Map information as of 1977, Aerial photography April-May 1977, other information 1977.\" Relief shown by contours and spot heights. Standard map series designation: Series V753S -- Series V053. \"Grid 1,000 meter, UTM Zone 16.\" \"Base map features are red light readable.\" \"Printed ... 8-78.\" Includes meter to feet conversion graph, elevation guide, index map, and boundary diagram. Available also through the Library of Congress Web site as a raster image."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T23:33:18.918Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-14",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/85696066/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd395/g3954/g3954f/ct010488.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd395/g3954/g3954f/ct010488.gif#h=66&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd395:g3954:g3954f:ct010488/full/pct:12.5/0/default.jpg#h=1263&w=2878",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd395:g3954:g3954f:ct010488/full/pct:25/0/default.jpg#h=2527&w=5756"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "fort knox",
+        "united states",
+        "kentucky"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/item/5484819",
+        "2020-07-31t13:38:55",
+        "http://www.loc.gov/item/85696066",
+        "85696066"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "catalog",
+        "general maps",
+        "american memory",
+        "geography and map division"
+      ],
+      "score": 27.246086,
+      "shelf_id": "G3954.F58 1977 .U5",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "fort knox (ky.)",
+        "kentucky",
+        "remote-sensing maps",
+        "fort knox",
+        "topographic maps",
+        "maps"
+      ],
+      "timestamp": "2022-12-10T05:58:58.859Z",
+      "title": "Kentucky 1:50,000. Fort Knox special ; Kentucky orthophoto map 1:50,000. Fort Knox special",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/85696066/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/fsa-owi-color-photographs/articles-and-essays/fsa-and-owi-photographers/"
+      ],
+      "campaigns": [],
+      "date": "1939",
+      "dates": [
+        "[1939 TO 1944]"
+      ],
+      "description": [
+        "This list identifies FSA/OWI photographers who worked with color film. The dates in parentheses indicate the period during which they produced color photographs. Following the photographer's names is a list of their color shooting assignments."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:18:12.803Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/fsa-owi-color-photographs/articles-and-essays/fsa-and-owi-photographers/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/fsa-owi-color-photographs/500_500.jpg"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "farm security administration/office of war information color photographs"
+      ],
+      "score": 16.610233,
+      "shelf_id": "~/collections/fsa-owi-color-photographs/articles-and-essays/fsa-and-owi-photographers/",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "transparencies",
+        "photographs",
+        "delano, jack",
+        "slides",
+        "palmer, alfred t.",
+        "world war ii"
+      ],
+      "timestamp": "2024-12-21T06:50:56.574Z",
+      "title": "FSA and OWI Photographers | Articles and Essays | Farm Security Administration/Office of War Information Color Photographs | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/fsa-owi-color-photographs/articles-and-essays/fsa-and-owi-photographers/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/fsa-owi-color-photographs/articles-and-essays/fsa-shooting-assignments/"
+      ],
+      "campaigns": [],
+      "date": "1939",
+      "dates": [
+        "[1939 TO 1944]"
+      ],
+      "description": [
+        "Summarized below are the subjects covered by particular photographers in the locations where they took color photographs. An index to geographic locations provides online access to images photographed in various locations."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:18:12.803Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/fsa-owi-color-photographs/articles-and-essays/fsa-shooting-assignments/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/fsa-owi-color-photographs/500_500.jpg"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "farm security administration/office of war information color photographs"
+      ],
+      "score": 16.610233,
+      "shelf_id": "~/collections/fsa-owi-color-photographs/articles-and-essays/fsa-shooting-assignments/",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "transparencies",
+        "photographs",
+        "delano, jack",
+        "slides",
+        "palmer, alfred t.",
+        "world war ii"
+      ],
+      "timestamp": "2024-12-21T06:50:56.574Z",
+      "title": "FSA Shooting Assignments | Articles and Essays | Farm Security Administration/Office of War Information Color Photographs | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/fsa-owi-color-photographs/articles-and-essays/fsa-shooting-assignments/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/fsa-owi-color-photographs/articles-and-essays/owi-shooting-assignments/"
+      ],
+      "campaigns": [],
+      "date": "1939",
+      "dates": [
+        "[1939 TO 1944]"
+      ],
+      "description": [
+        "Summarized below are the subjects covered by particular photographers in the locations where they took color photographs. An index to geographic locations provides online access to images photographed in various locations."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:18:12.803Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/fsa-owi-color-photographs/articles-and-essays/owi-shooting-assignments/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/fsa-owi-color-photographs/500_500.jpg"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "farm security administration/office of war information color photographs"
+      ],
+      "score": 16.610233,
+      "shelf_id": "~/collections/fsa-owi-color-photographs/articles-and-essays/owi-shooting-assignments/",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "transparencies",
+        "photographs",
+        "delano, jack",
+        "slides",
+        "palmer, alfred t.",
+        "world war ii"
+      ],
+      "timestamp": "2024-12-21T06:50:56.574Z",
+      "title": "OWI Shooting Assignments | Articles and Essays | Farm Security Administration/Office of War Information Color Photographs | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/fsa-owi-color-photographs/articles-and-essays/owi-shooting-assignments/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"https://www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "digital file from original transparency",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35216_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/fsac.1a35216/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from original transparency",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/fsac/1a35000/1a35200/1a35216_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/fsac.1a35216/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1734771744299,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/fsac.1a35216/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/fsac.1a35216/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/fsac.1a35216/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/fsac.1a35216/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/fsac.1a35216/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/fsac.1a35216/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/fsac.1a35216/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/fsac.1a35216/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/fsac.1a35216/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/fsac.1a35216/?fo=json&st=text"
+  }
+}

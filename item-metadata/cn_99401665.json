@@ -1,0 +1,1905 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Cruikshank, G. (1809) <cite>The OP spectacles / Cruikshank del</cite>. Great Britain, 1809. [London: Pubd. by T. Tegg] [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/99401665/.",
+    "chicago": "Cruikshank, George, Artist. <cite>The OP spectacles / Cruikshank del</cite>. Great Britain, 1809. [London: Pubd. by T. Tegg] Photograph. https://www.loc.gov/item/99401665/.",
+    "mla": "Cruikshank, George, Artist. <cite>The OP spectacles / Cruikshank del</cite>. [London: Pubd. by T. Tegg] Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/99401665/&gt;."
+  },
+  "item": {
+    "_version_": 1730892730791362560,
+    "access_restricted": false,
+    "aka": [
+      "http://www.loc.gov/pictures/collection/cpbr/item/99401665/",
+      "http://www.loc.gov/item/99401665/",
+      "http://www.loc.gov/pictures/item/99401665/",
+      "https://hdl.loc.gov/loc.pnp/cph.3g06458",
+      "http://www.loc.gov/resource/cph.3g06458/",
+      "http://lccn.loc.gov/99401665"
+    ],
+    "call_number": "PC 1 - 11429 (A size) [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Cruikshank, George, 1792-1878, artist"
+    ],
+    "contributors": [
+      {
+        "cruikshank, george": "https://www.loc.gov/search/?fa=contributor:cruikshank,+george&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2016-04-21 06:01:55",
+    "created_published": [
+      "[London] : Pubd. by T. Tegg, 1809 Nov. 17."
+    ],
+    "created_published_date": "1809 Nov. 17.",
+    "date": "1809-01-01",
+    "description": [
+      "1 print : etching, hand-colored. | Satire showing head of Clifford with two circles representing huge spectacles, \"Old house old prices & no private boxes\" and \"Old house old prices & no pigeon holes,\" over his eyes. Each circle contains a symmetrical view of Covent Garden Theatre seen from the stage. Superimposed on the middle of one circle is a large O and in the other circle a large P."
+    ],
+    "digital_id": [
+      "cph 3g06458 //hdl.loc.gov/loc.pnp/cph.3g06458"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-09-01T23:03:45.827Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/cpbr/item/99401665/#cpbr",
+      "http://lccn.loc.gov/99401665#catalog-split-08"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Cartoons (Commentary)--British--1800-1810.",
+      "Etchings--Hand-colored--1800-1810."
+    ],
+    "genre": [
+      "Cartoons (Commentary)--British--1800-1810",
+      "Etchings--Hand-colored--1800-1810"
+    ],
+    "group": [
+      "cpbr",
+      "catalog-split-08",
+      "catalog",
+      "british-cartoon-prints",
+      "main-catalog-split-08",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/99401665/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06400/3g06458_150px.jpg#h=150&w=122",
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06400/3g06458t.gif#h=150&w=122",
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06400/3g06458r.jpg#h=640&w=519",
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06400/3g06458v.jpg#h=1024&w=831"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "PC 1 - 11429 (A size) [P&P]",
+      "contributors": [
+        "Cruikshank, George, 1792-1878, artist."
+      ],
+      "control_number": "99401665",
+      "created": "2016-04-21 06:01:55",
+      "created_published": "[London] : Pubd. by T. Tegg, 1809 Nov. 17.",
+      "created_published_date": "1809 Nov. 17.",
+      "creators": [
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=name&q=Cruikshank%2C%20George%2C%201792-1878&co=cpbr",
+          "role": "artist",
+          "title": "Cruikshank, George, 1792-1878"
+        }
+      ],
+      "date": "1809 Nov. 17.",
+      "digital_id": [
+        "cph 3g06458 //hdl.loc.gov/loc.pnp/cph.3g06458"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=format&q=Cartoons%20%28Commentary%29--British--1800-1810.&co=cpbr",
+          "title": "Cartoons (Commentary)--British--1800-1810."
+        },
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=format&q=Etchings--Hand-colored--1800-1810.&co=cpbr",
+          "title": "Etchings--Hand-colored--1800-1810."
+        }
+      ],
+      "genre": [
+        "Cartoons (Commentary)--British--1800-1810",
+        "Etchings--Hand-colored--1800-1810"
+      ],
+      "id": "99401665",
+      "link": "//www.loc.gov/pictures/item/99401665/",
+      "location": [
+        "Great Britain"
+      ],
+      "marc": "//www.loc.gov/pictures/item/99401665/marc/",
+      "medium": [
+        "1 print : etching, hand-colored."
+      ],
+      "medium_brief": "1 print :",
+      "mediums": [
+        "1 print : etching, hand-colored."
+      ],
+      "modified": "2016-04-21 06:01:55",
+      "notes": [
+        "Forms part of : British Cartoon Prints  Collection (Library of Congress).",
+        "Catalogue of prints and drawings in the British Museum. Division I, political and personal satires, v. 8, no. 11429"
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/99401665",
+        "https://www.loc.gov/item/11727702"
+      ],
+      "place": [
+        {
+          "latitude": "",
+          "link": "//www.loc.gov/pictures/related/?fi=place&q=Great%20Britain&co=cpbr",
+          "longitude": "",
+          "title": "Great Britain"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA",
+      "reproduction_number": "LC-USZC4-6458 (color film copy transparency)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/cph.3g06458"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06400/3g06458_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06400/3g06458r.jpg",
+      "sort_date": "1809",
+      "source_created": "1999-02-12 00:00:00",
+      "source_modified": "2006-07-20 16:42:56",
+      "stmt_of_responsibility": "Cruikshank del.",
+      "subject_headings": [
+        "Covent Garden Theatre--1800-1810.",
+        "Theaters--Great Britain--1800-1810.",
+        "Great Britain"
+      ],
+      "subjects": [
+        "Covent Garden Theatre--1800-1810",
+        "Theaters--Great Britain--1800-1810"
+      ],
+      "summary": "Satire showing head of Clifford with two circles representing huge spectacles, \"Old house old prices & no private boxes\" and \"Old house old prices & no pigeon holes,\" over his eyes. Each circle contains a symmetrical view of Covent Garden Theatre seen from the stage. Superimposed on the middle of one circle is a large O and in the other circle a large P.",
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06400/3g06458_150px.jpg",
+      "title": "The OP spectacles"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "latlong": [
+      52.05545,
+      0.77436
+    ],
+    "library_of_congress_control_number": "99401665",
+    "link": "//www.loc.gov/pictures/item/99401665/",
+    "location": [
+      "great britain"
+    ],
+    "location_str": "",
+    "locations": [
+      {
+        "great britain": "https://www.loc.gov/search/?fa=location:great+britain&fo=json"
+      }
+    ],
+    "locations_str": [
+      null
+    ],
+    "lonlat": [
+      0.77436,
+      52.05545
+    ],
+    "marc": "//www.loc.gov/pictures/item/99401665/marc/",
+    "medium": [
+      "1 print : etching, hand-colored."
+    ],
+    "medium_brief": "1 print :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2016-04-21 06:01:55",
+    "notes": [
+      "Forms part of : British Cartoon Prints  Collection (Library of Congress).",
+      "Catalogue of prints and drawings in the British Museum. Division I, political and personal satires, v. 8, no. 11429"
+    ],
+    "number": [
+      "2006-07-20t16:42:56",
+      "http://www.loc.gov/item/11727702",
+      "http://www.loc.gov/item/99401665",
+      "99401665"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/99401665",
+      "http://www.loc.gov/item/11727702"
+    ],
+    "number_lccn": [
+      "99401665"
+    ],
+    "number_source_modified": [
+      "2006-07-20t16:42:56"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/99401665/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/99401665/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/99401665/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 1026,
+        "title": "cartoon prints, british",
+        "url": "https://www.loc.gov/collections/british-cartoon-prints/?fo=json"
+      },
+      {
+        "count": 949513,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1082837,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1592516,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "//www.loc.gov/pictures/related/?fi=place&q=Great%20Britain&co=cpbr",
+        "longitude": "",
+        "title": "Great Britain"
+      }
+    ],
+    "related": {
+      "neighbors": "//www.loc.gov/pictures/related/?&co=cpbr&pk=99401665&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA"
+    ],
+    "reproduction_number": "LC-USZC4-6458 (color film copy transparency)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/cph.3g06458"
+    ],
+    "resources": [
+      {
+        "caption": "color film copy transparency",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06400/3g06458_150px.jpg",
+        "url": "https://www.loc.gov/resource/cph.3g06458/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress believes that many of the papers in the British Cartoon Prints collection are in the public domain or have no known copyright restrictions and are free to use and reuse. Researchers should watch for documents that may be copyrighted (for example, published in the United States less than 95 years ago, or unpublished and the author died less than 70 years ago).</p>\r\n<p>You are responsible for deciding whether your use of the items in this collection is legal. You will need written permission from the rightsholders to copy, distribute, or otherwise use copyrighted materials except as allowed by fair use or other statutory exemptions. Some materials may be protected under international law. You may also need permission from holders of other rights, such as publicity and/or privacy rights. </p>\r\n<p>Credit Line: Library of Congress, Prints and Photographs Division, Cartoon Prints, British.</p>\r\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a></p>\r\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>\r\n"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.206085,
+    "shard": "00",
+    "shelf_id": "PC 1 - 11429 (A size) [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1809",
+    "source_created": "1999-02-12 00:00:00",
+    "source_modified": "2006-07-20 16:42:56",
+    "stmt_of_responsibility": "Cruikshank del.",
+    "subject": [
+      "great britain",
+      "theaters",
+      "cartoons (commentary)",
+      "british",
+      "covent garden theatre",
+      "hand-colored",
+      "etchings"
+    ],
+    "subject_headings": [
+      "Covent Garden Theatre--1800-1810",
+      "Theaters--Great Britain--1800-1810"
+    ],
+    "subjects": [
+      {
+        "british": "https://www.loc.gov/search/?fa=subject:british&fo=json"
+      },
+      {
+        "cartoons (commentary)": "https://www.loc.gov/search/?fa=subject:cartoons+%28commentary%29&fo=json"
+      },
+      {
+        "covent garden theatre": "https://www.loc.gov/search/?fa=subject:covent+garden+theatre&fo=json"
+      },
+      {
+        "etchings": "https://www.loc.gov/search/?fa=subject:etchings&fo=json"
+      },
+      {
+        "great britain": "https://www.loc.gov/search/?fa=subject:great+britain&fo=json"
+      },
+      {
+        "hand-colored": "https://www.loc.gov/search/?fa=subject:hand-colored&fo=json"
+      },
+      {
+        "theaters": "https://www.loc.gov/search/?fa=subject:theaters&fo=json"
+      }
+    ],
+    "summary": "Satire showing head of Clifford with two circles representing huge spectacles, \"Old house old prices & no private boxes\" and \"Old house old prices & no pigeon holes,\" over his eyes. Each circle contains a symmetrical view of Covent Garden Theatre seen from the stage. Superimposed on the middle of one circle is a large O and in the other circle a large P.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06400/3g06458_150px.jpg",
+    "timestamp": "2022-04-23T09:58:58.608Z",
+    "title": "The OP spectacles / Cruikshank del.",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/99401665/"
+  },
+  "locations": [
+    [
+      {
+        "geometry": {
+          "coordinates": [
+            0.77436,
+            52.05545
+          ],
+          "type": "Point"
+        },
+        "properties": {
+          "admin": [
+            {
+              "alternate_names": "U.K. GBR United Kingdom of Great Britain and Northern Ireland",
+              "feature_code": "ADM0",
+              "id": "ea105dbfcf28ef22",
+              "name": "United Kingdom"
+            },
+            {
+              "alternate_names": "Suffolk",
+              "feature_code": "ADM1",
+              "id": "ee4f16dd43e7941b",
+              "name": "Suffolk"
+            }
+          ],
+          "alternate": [
+            {
+              "lang": "",
+              "name": "Waldingfield"
+            },
+            {
+              "lang": "",
+              "name": "Great Waldingfield"
+            },
+            {
+              "lang": "link",
+              "name": "http://en.wikipedia.org/wiki/Great_Waldingfield"
+            }
+          ],
+          "area": null,
+          "feature_code": "PPL",
+          "feature_code_name": "populated place",
+          "id": "a3c947f154b4ebb7",
+          "importance": null,
+          "is_composite": null,
+          "is_primary": true,
+          "name": "Great Waldingfield",
+          "population": null,
+          "timeframe": {},
+          "uris": [
+            "geonames.org/2647999"
+          ]
+        },
+        "type": "Feature"
+      }
+    ]
+  ],
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/cpbr/item/00652670/",
+        "http://www.loc.gov/item/00652670/",
+        "http://www.loc.gov/pictures/item/00652670/",
+        "https://hdl.loc.gov/loc.pnp/cph.3g06856",
+        "http://www.loc.gov/resource/cph.3g06856/",
+        "http://lccn.loc.gov/00652670"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "cruikshank, george"
+      ],
+      "date": "1817-01-01",
+      "description": [
+        "1 print : etching, hand-colored. | Cartoon shows three government ministers, Viscount Sidmouth, Thomas Reynolds and Viscount Castlereagh, sitting at a table with three agents or spies. On the table rests a large bag from which docketed papers protrude. John Bull looks through the window in horror at the proceedings."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T23:03:16.860Z",
+      "group": [
+        "cpbr",
+        "catalog-split-10",
+        "catalog",
+        "british-cartoon-prints",
+        "main-catalog-split-10",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652670/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06800/3g06856_150px.jpg#h=122&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06800/3g06856t.gif#h=122&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06800/3g06856r.jpg#h=519&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06800/3g06856v.jpg#h=830&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        52.05545,
+        0.77436
+      ],
+      "location": [
+        "great britain"
+      ],
+      "location_str": "",
+      "lonlat": [
+        0.77436,
+        52.05545
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2006-08-01t17:18:36",
+        "00652670",
+        "http://www.loc.gov/item/12212907",
+        "http://www.loc.gov/item/00652670"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints and photographs division",
+        "cartoon prints, british",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 42.02151,
+      "shelf_id": "PC 1 - 12887 (A size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "agents provocateurs",
+        "sidmouth, henry addington",
+        "great britain",
+        "castlereagh, robert stewart",
+        "cartoons (commentary)",
+        "british",
+        "government officials",
+        "viscount",
+        "ethics",
+        "spies",
+        "corruption",
+        "hand-colored",
+        "john bull (symbolic character)",
+        "etchings"
+      ],
+      "timestamp": "2022-04-23T09:30:47.707Z",
+      "title": "Conspirators; or, delegates in council",
+      "url": "https://www.loc.gov/item/00652670/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/cpbr/item/00652672/",
+        "http://www.loc.gov/item/00652672/",
+        "http://www.loc.gov/pictures/item/00652672/",
+        "https://hdl.loc.gov/loc.pnp/cph.3g06858",
+        "http://www.loc.gov/resource/cph.3g06858/",
+        "http://lccn.loc.gov/00652672"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "cruikshank, george"
+      ],
+      "date": "1816-01-01",
+      "description": [
+        "1 print : etching, hand-colored. | Cartoon shows ministers, among them Vansittart and Castlereagh, vomiting taxes into a large bag labeled \"budget.\" The Prince Regent stands nearby, supported on crutches labeled \"more money\" and \"increase in income\", holding rolled documents under his arms labeled with descriptions of some of his extravagant expenses."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T23:03:16.860Z",
+      "group": [
+        "cpbr",
+        "catalog-split-12",
+        "catalog",
+        "british-cartoon-prints",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652672/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06800/3g06858_150px.jpg#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06800/3g06858t.gif#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06800/3g06858r.jpg#h=514&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06800/3g06858v.jpg#h=823&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        52.05545,
+        0.77436
+      ],
+      "location": [
+        "great britain"
+      ],
+      "location_str": "",
+      "lonlat": [
+        0.77436,
+        52.05545
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/12212676",
+        "http://www.loc.gov/item/00652672",
+        "00652672",
+        "2006-08-18t12:45:19"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints and photographs division",
+        "cartoon prints, british",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 42.02151,
+      "shelf_id": "PC 1 - 12747 (A size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "great britain",
+        "iv",
+        "castlereagh, robert stewart",
+        "king of great britain",
+        "vomiting",
+        "cartoons (commentary)",
+        "british",
+        "george",
+        "economic policy",
+        "vansittart, nicholas",
+        "viscount",
+        "government officials",
+        "taxes",
+        "hand-colored",
+        "etchings"
+      ],
+      "timestamp": "2022-04-23T09:30:47.707Z",
+      "title": "Sick of the property tax or ministerial influnza (sic)",
+      "url": "https://www.loc.gov/item/00652672/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/cpbr/item/99401647/",
+        "http://www.loc.gov/item/99401647/",
+        "http://www.loc.gov/pictures/item/99401647/",
+        "https://hdl.loc.gov/loc.pnp/cph.3g06456",
+        "http://www.loc.gov/resource/cph.3g06456/",
+        "http://lccn.loc.gov/99401647"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "cruikshank, george"
+      ],
+      "date": "1812-01-01",
+      "description": [
+        "1 print : etching, hand-colored. | A satire on the Covent Garden pantomime of 1812-13, which caused a sensation by the performance of an elephant. The elephant crushes under a fore-foot a bust of Shakespeare and a number of open books. Baron Geramb, wearing an enormous moustache, bestrides the upper part of the trunk. On the elephant's back, in place of the 'Sultan of Cashmire,' sits John Kemble, who throws behind him his socks and ermine-bordered cloak inscribed \"King John's Mantle\" towards an actor, Elliston(?)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T23:03:45.827Z",
+      "group": [
+        "cpbr",
+        "catalog-split-08",
+        "catalog",
+        "british-cartoon-prints",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/99401647/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06400/3g06456_150px.jpg#h=122&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06400/3g06456t.gif#h=122&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06400/3g06456r.jpg#h=522&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06400/3g06456v.jpg#h=835&w=1024"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        52.05545,
+        0.77436
+      ],
+      "location": [
+        "great britain"
+      ],
+      "location_str": "",
+      "lonlat": [
+        0.77436,
+        52.05545
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2006-07-17t15:06:57",
+        "http://www.loc.gov/item/99401647",
+        "99401647",
+        "http://www.loc.gov/item/11727686"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints and photographs division",
+        "cartoon prints, british",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 42.02151,
+      "shelf_id": "PC 1 - 11935 (B size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "theatrical productions",
+        "great britain",
+        "geramb, marie joseph",
+        "cartoons (commentary)",
+        "british",
+        "hand-colored",
+        "kemble, john philip",
+        "(robert william)",
+        "elephants",
+        "elliston, r. w.",
+        "etchings"
+      ],
+      "timestamp": "2022-04-23T09:58:58.608Z",
+      "title": "The rehearsal or the baron and the elephant",
+      "url": "https://www.loc.gov/item/99401647/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/97514782/",
+        "http://www.loc.gov/resource/ppmsca.19467/",
+        "http://www.loc.gov/resource/cph.3a01875/",
+        "http://lccn.loc.gov/97514782",
+        "http://www.loc.gov/resource/cph.3g05289/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a01875",
+        "https://hdl.loc.gov/loc.pnp/cph.3g05289",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.19467",
+        "http://www.loc.gov/pictures/collection/cpbr/item/97514782/",
+        "http://www.loc.gov/pictures/item/97514782/"
+      ],
+      "campaigns": [],
+      "date": "1774-01-01",
+      "dates": [
+        "1774"
+      ],
+      "description": [
+        "Cartoon shows Lord North, with the \"Boston Port Bill\" extending from a pocket, forcing tea (the Intolerable Acts) down the throat of a partially draped Native female figure representing \"America\" whose arms are restrained by Lord Mansfield, while Lord Sandwich, a notorious womanizer, restrains her feet and peeks up her skirt. Britannia, standing behind \"America\", turns away and shields her face with her left hand."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-22T17:32:30.184Z",
+      "group": [
+        "awhbib",
+        "cpbr",
+        "catalog-split-11",
+        "catalog",
+        "american-womens-history",
+        "british-cartoon-prints",
+        "main-catalog-split-11",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/97514782/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/19400/19467_150px.jpg#h=94&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/19400/19467t.gif#h=94&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/19400/19467r.jpg#h=401&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/19400/19467v.jpg#h=642&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "boston",
+        "united states",
+        "massachusetts"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/97514782",
+        "97514782",
+        "http://www.loc.gov/item/11701935",
+        "2008-12-05t10:23:53"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "cartoon prints, british",
+        "american women: a gateway to library of congress resources for the study of women's history and culture in the united states",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 40.03818,
+      "shelf_id": "PC 1 - 5226 PC 1 - 5226A PC 1 - 5226B AP2.A2 R6 (Office)",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "boston port bill",
+        "united states",
+        "history",
+        "north, frederick",
+        "bute, john stuart",
+        "violence",
+        "cartoons (commentary)",
+        "lord",
+        "tea",
+        "sandwich, john montagu",
+        "massachusetts",
+        "women",
+        "etchings",
+        "boston",
+        "earl of",
+        "british",
+        "revolution",
+        "mansfield, william murray",
+        "britannia (symbolic character)"
+      ],
+      "timestamp": "2022-12-10T04:46:40.769Z",
+      "title": "The able doctor, or, America swallowing the bitter draught",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/97514782/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/cpbr/item/2002713061/",
+        "http://www.loc.gov/item/2002713061/",
+        "http://www.loc.gov/pictures/item/2002713061/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.01607",
+        "http://www.loc.gov/resource/ppmsca.01607/",
+        "http://lccn.loc.gov/2002713061"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "cruikshank, george"
+      ],
+      "date": "1812-01-01",
+      "description": [
+        "1 print : etching, hand-colored. | Funeral procession showing coffin labeled \"Vaccina aged 12 years\" on which stands a golden calf; four vignettes, two on each side, present realistic scenes related to cow pox."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T23:03:16.860Z",
+      "group": [
+        "cpbr",
+        "catalog-split-06",
+        "catalog",
+        "british-cartoon-prints",
+        "main-catalog-split-06",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2002713061/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/01600/01607_150px.jpg#h=108&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/01600/01607t.gif#h=108&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/01600/01607r.jpg#h=460&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/01600/01607v.jpg#h=737&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        17.99358,
+        -77.46606
+      ],
+      "location": [
+        "england"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -77.46606,
+        17.99358
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2007-10-30t18:41:55",
+        "2002713061",
+        "http://www.loc.gov/item/2002713061",
+        "http://www.loc.gov/item/12814213"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints and photographs division",
+        "cartoon prints, british",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 36.735462,
+      "shelf_id": "PC 1 - 11953 (A size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "funeral processions",
+        "vaccinations",
+        "smallpox",
+        "cartoons (commentary)",
+        "british",
+        "preventive medicine",
+        "hand-colored",
+        "england",
+        "etchings"
+      ],
+      "timestamp": "2022-04-23T09:30:47.707Z",
+      "title": "The cowpox tragedy - scene the last",
+      "url": "https://www.loc.gov/item/2002713061/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/cpbr/item/98514002/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a05345",
+        "http://www.loc.gov/item/98514002/",
+        "http://www.loc.gov/pictures/item/98514002/",
+        "https://hdl.loc.gov/loc.pnp/cph.3g05917",
+        "http://www.loc.gov/resource/cph.3g05917/",
+        "http://www.loc.gov/resource/cph.3a05345/",
+        "http://lccn.loc.gov/98514002"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "cruikshank, george"
+      ],
+      "date": "1812-01-01",
+      "dates": [
+        "1812"
+      ],
+      "description": [
+        "1 print : etching, hand-colored. | Gabriel blowing a message \"A bad news for you\" at James Madison, who is standing between Napoleon and the devil, as two women symbolizing Great Britain and America, and British soldiers look on."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T23:03:45.827Z",
+      "group": [
+        "cpbr",
+        "catalog-split-13",
+        "catalog",
+        "british-cartoon-prints",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/98514002/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g05000/3g05900/3g05917_150px.jpg#h=123&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g05000/3g05900/3g05917t.gif#h=123&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g05000/3g05900/3g05917r.jpg#h=524&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g05000/3g05900/3g05917v.jpg#h=839&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "98514002",
+        "http://www.loc.gov/item/11720609",
+        "http://www.loc.gov/item/98514002",
+        "2017-06-06t11:57:44"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints and photographs division",
+        "cartoon prints, british",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 36.735462,
+      "shelf_id": "PC 3 - 1812 - A sketch for the regents ... (A size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "i",
+        "war of 1812",
+        "united states",
+        "napoleon",
+        "cartoons (commentary)",
+        "british",
+        "hand-colored",
+        "emperor of the french",
+        "madison, james",
+        "history",
+        "etchings"
+      ],
+      "timestamp": "2022-04-23T09:58:58.608Z",
+      "title": "A sketch for the regents speech on Mad-ass-son's insanity",
+      "url": "https://www.loc.gov/item/98514002/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "cpbr",
+      "catalog-split-08",
+      "catalog",
+      "british-cartoon-prints",
+      "main-catalog-split-08",
+      "main-catalog",
+      "catalog-split-10",
+      "main-catalog-split-10",
+      "catalog-split-12",
+      "main-catalog-split-12",
+      "awhbib",
+      "catalog-split-11",
+      "american-womens-history",
+      "main-catalog-split-11",
+      "catalog-split-06",
+      "main-catalog-split-06",
+      "catalog-split-13",
+      "main-catalog-split-13",
+      "gdc/doab",
+      "directory-of-open-access-books",
+      "gdc/scd",
+      "general-collections-scan-on-demand-new",
+      "asianscd",
+      "catalog-split-02",
+      "asian-scan-on-demand",
+      "main-catalog-split-02",
+      "ll/llserialset/mono",
+      "catalog-split-09",
+      "ll/llserialset/monobatch",
+      "congressional-serial-set-document-level",
+      "main-catalog-split-09",
+      "congressional-serial-set-document-level-monobatch",
+      "globalgatewaybooks2",
+      "catalog-split-00",
+      "global-gateways-general-collections-books-batch-2",
+      "main-catalog-split-00"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "cph.3g06458",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 1.0058002471923828,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/cph.3g06458/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/cph.3g06458/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1734773615.6310656,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 53836322,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/cph/3g00000/3g06000/3g06400/3g06458u.tif",
+      "width": 0
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 6628,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06400/3g06458_150px.jpg",
+      "width": 122
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 16677,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06400/3g06458t.gif",
+      "width": 122
+    },
+    {
+      "height": 640,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 62252,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06400/3g06458r.jpg",
+      "width": 519
+    },
+    {
+      "height": 1024,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 257519,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06400/3g06458v.jpg",
+      "width": 831
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "//www.loc.gov/pictures/related/?&co=cpbr&pk=99401665&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2020719649",
+        "http://www.loc.gov/item/2020719649/",
+        "https://hdl.loc.gov/loc.gdc/gdcebookspublic.2020719649",
+        "http://www.loc.gov/resource/gdcebookspublic.2020719649/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "evans, julie"
+      ],
+      "date": "2003-01-01",
+      "dates": [
+        "2003"
+      ],
+      "description": [
+        "Includes bibliographical references and index. Description based on print version record; resource not viewed."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-09-14T18:34:53.006Z",
+      "group": [
+        "gdc/doab",
+        "catalog-split-08",
+        "catalog",
+        "directory-of-open-access-books",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020719649/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/96/49/2020719649/2020719649.gif",
+        "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/96/49/2020719649/2020719649.gif#h=475&w=319"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "great britain"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "number": [
+        "2020719649",
+        "2022-07-06t13:14:21",
+        "online resource"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "catalog",
+        "general collections",
+        "open access books"
+      ],
+      "score": 13.082963,
+      "shelf_id": "JV1035",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "colonies",
+        "great britain",
+        "foreign countries",
+        "20th century",
+        "british",
+        "race relations",
+        "history",
+        "indigenous peoples",
+        "politics and government",
+        "19th century"
+      ],
+      "timestamp": "2022-09-14T19:44:38.785Z",
+      "title": "Equal subjects, unequal rights : indigenous peoples in British settler colonies, 1830-1910",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2020719649/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2019667128",
+        "http://www.loc.gov/item/2019667128/",
+        "https://hdl.loc.gov/loc.gdc/gdcebookspublic.2019667128",
+        "http://www.loc.gov/resource/gdcebookspublic.2019667128/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "capelotti, p. j. (peter joseph)"
+      ],
+      "date": "2013-01-01",
+      "dates": [
+        "2013"
+      ],
+      "description": [
+        "Includes bibliographical references and index. Co-published by: Arctic Institute of North America. Description based on print version record; resource not viewed."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-03-04T14:27:59.545Z",
+      "group": [
+        "gdc/scd",
+        "catalog-split-10",
+        "catalog",
+        "general-collections-scan-on-demand-new",
+        "main-catalog-split-10",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2019667128/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/19/66/71/28/2019667128/2019667128.gif",
+        "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/19/66/71/28/2019667128/2019667128.gif#h=465&w=310"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "great britain",
+        "grande",
+        "arctique",
+        "bretagne",
+        "arctic regions"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "number": [
+        "online",
+        "2019667128",
+        "2023-02-16t13:42:06"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "catalog",
+        "general collections",
+        "open access books"
+      ],
+      "score": 13.082963,
+      "shelf_id": "G875.S578",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "explorers",
+        "great britain",
+        "19e siècle",
+        "19th century",
+        "grande-bretagne",
+        "arktisforschung",
+        "british",
+        "biographies",
+        "histoire",
+        "explorateurs",
+        "arctique",
+        "découverte et exploration britanniques",
+        "history",
+        "smith, benjamin leigh",
+        "arctic regions",
+        "biography",
+        "discovery and exploration"
+      ],
+      "timestamp": "2023-03-04T14:35:18.959Z",
+      "title": "Shipwreck at Cape Flora : the expeditions of Benjamin Leigh Smith, England's forgotten Arctic explorer",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2019667128/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2019276520",
+        "http://www.loc.gov/item/2019276520/",
+        "https://hdl.loc.gov/loc.asian/asianscd.2019276520",
+        "http://www.loc.gov/resource/asianscd.2019276520/",
+        "https://hdl.loc.gov/loc.asian/collasian.ad000003",
+        "http://www.loc.gov/resource/collasian.ad000003/",
+        "http://www.loc.gov/resource/asianscd.2019276520v01/",
+        "http://www.loc.gov/resource/asianscd.2019276520v02/",
+        "http://www.loc.gov/resource/asianscd.2019276520v03/",
+        "http://www.loc.gov/resource/asianscd.2019276520v04/",
+        "http://www.loc.gov/resource/asianscd.2019276520v05/",
+        "http://www.loc.gov/resource/asianscd.2019276520v06/",
+        "http://www.loc.gov/resource/asianscd.2019276520v07/",
+        "http://www.loc.gov/resource/asianscd.2019276520v07b/",
+        "http://www.loc.gov/resource/asianscd.2019276520v08/",
+        "http://www.loc.gov/resource/asianscd.2019276520v09/",
+        "http://www.loc.gov/resource/asianscd.2019276520v10/",
+        "http://www.loc.gov/resource/asianscd.2019276520v11/",
+        "http://www.loc.gov/resource/asianscd.2019276520v12/",
+        "http://www.loc.gov/resource/asianscd.2019276520v13/",
+        "http://www.loc.gov/resource/asianscd.2019276520v14/",
+        "http://www.loc.gov/resource/asianscd.2019276520v15/",
+        "http://www.loc.gov/resource/asianscd.2019276520v16/",
+        "http://www.loc.gov/resource/asianscd.2019276520v17/",
+        "http://www.loc.gov/resource/asianscd.2019276520v18/",
+        "http://www.loc.gov/resource/asianscd.2019276520v19/",
+        "http://www.loc.gov/resource/asianscd.2019276520v20/",
+        "http://www.loc.gov/resource/asianscd.2019276520v21/",
+        "http://www.loc.gov/resource/asianscd.2019276520v22/",
+        "http://www.loc.gov/resource/asianscd.2019276520v23/",
+        "http://www.loc.gov/resource/asianscd.2019276520v24/",
+        "http://www.loc.gov/resource/asianscd.2019276520v25/",
+        "http://www.loc.gov/resource/asianscd.2019276520v26/",
+        "http://www.loc.gov/resource/asianscd.2019276520v27/",
+        "http://www.loc.gov/resource/asianscd.2019276520v28/",
+        "http://www.loc.gov/resource/asianscd.2019276520v29/",
+        "http://www.loc.gov/resource/asianscd.2019276520v30/",
+        "http://www.loc.gov/resource/asianscd.2019276520v31/",
+        "http://www.loc.gov/resource/asianscd.2019276520v32/",
+        "http://www.loc.gov/resource/asianscd.2019276520v33/",
+        "http://www.loc.gov/resource/asianscd.2019276520v34/",
+        "http://www.loc.gov/resource/asianscd.2019276520v35/",
+        "http://www.loc.gov/resource/asianscd.2019276520v36/",
+        "http://www.loc.gov/resource/asianscd.2019276520v37/",
+        "http://www.loc.gov/resource/asianscd.2019276520v38/",
+        "http://www.loc.gov/resource/asianscd.2019276520v39/",
+        "http://www.loc.gov/resource/asianscd.2019276520v40/",
+        "http://www.loc.gov/resource/asianscd.2019276520v41/",
+        "http://www.loc.gov/resource/asianscd.2019276520v42/",
+        "http://www.loc.gov/resource/asianscd.2019276520v42h/",
+        "http://www.loc.gov/resource/asianscd.2019276520v43/",
+        "http://www.loc.gov/resource/asianscd.2019276520v44/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "southeast asian rare book collection (library of congress)",
+        "farquhar, william"
+      ],
+      "description": [
+        "Letters addressed chiefly to William Farquhar during his years as British Resident of Singapore from Malay kings and notables in Brunei, Cambodia, Indonesia, and Malaya.  Reflects his role in the founding of modern Singapore and his relationships with Malay rulers instrumental to the success of the East India Company's enterprise in Singapore.  Includes several letters between Malay notables and businessmen, Chinese among them, allowing a glimpse into the intercommunal connections that formed the larger context of the world in which Farquhar and Malay rulers operated.  Of note is a letter from Siti Fatimah binti Jamaluddin Abdul Rahman, Sultanah of Pammana, written as a reigning female monarch of the Malay-speaking world of that era.  Other correspondents include Hussein Muhammad Shah, Sultan of Singapore and Johor; Muhammad Kanzul Alam, Sultan of Brunei; Raja Jafar, Yang DiPertuan Muda of Riau; and Tun Ali, Datuk Bendahara Sewa Raja of Pahang."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-12-16T19:03:44.661Z",
+      "group": [
+        "asianscd",
+        "catalog-split-02",
+        "catalog",
+        "asian-scan-on-demand",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2019276520/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2019276520v01:0001/full/pct:3.125/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2019276520v01:0001/full/pct:3.125/0/default.jpg#h=257&w=251",
+        "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2019276520v01:0001/full/pct:6.25/0/default.jpg#h=514&w=503",
+        "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2019276520v01:0001/full/pct:12.5/0/default.jpg#h=1029&w=1006",
+        "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2019276520v01:0001/full/pct:25/0/default.jpg#h=2059&w=2012",
+        "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2019276520v01:0001/full/pct:50/0/default.jpg#h=4119&w=4024",
+        "https://tile.loc.gov/image-services/iiif/service:asian:asianscd:2019276520v01:0001/full/pct:100/0/default.jpg#h=8238&w=8048"
+      ],
+      "index": 3,
+      "language": [
+        "malay",
+        "english"
+      ],
+      "location": [
+        "great britain",
+        "malaysia",
+        "malacca",
+        "singapore",
+        "southeast asia",
+        "malaya",
+        "asia",
+        "indonesia"
+      ],
+      "mime_type": [
+        "application/pdf",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2022-10-19t13:29:12",
+        "2019276520"
+      ],
+      "online_format": [
+        "pdf",
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material",
+        "collection"
+      ],
+      "partof": [
+        "catalog",
+        "asian division",
+        "william farquhar correspondence"
+      ],
+      "score": 13.082963,
+      "shelf_id": "http://lccn.loc.gov/2019276520",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "sultans",
+        "kings, queens, rulers, etc",
+        "yang dipertuan muda of riau",
+        "southeast asia",
+        "siti fatimah binti jamaluddin abdul rahman",
+        "sultan of brunei",
+        "history",
+        "muhammad kanzul alam",
+        "commerce",
+        "colonies",
+        "sultanah of pammana",
+        "colonial administrators",
+        "colonial companies",
+        "malaya",
+        "hussein muhammad shah",
+        "politics and government",
+        "19th century",
+        "datuk bendahara sewa raja of pahang",
+        "tun ali",
+        "east india company",
+        "sultan of singapore and johor",
+        "indonesia",
+        "women heads of state",
+        "correspondence",
+        "great britain",
+        "malacca (malacca, malaysia)",
+        "singapore",
+        "british",
+        "raja jafar",
+        "foreign relations",
+        "asia"
+      ],
+      "timestamp": "2023-01-04T18:50:13.206Z",
+      "title": "William Farquhar correspondence and other Malay letters,",
+      "type": [
+        "manuscript"
+      ],
+      "url": "https://www.loc.gov/item/2019276520/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2024762927",
+        "http://www.loc.gov/item/2024762927/",
+        "https://hdl.loc.gov/loc.law/llserialsetce.00359_00_00-067-0344-0000",
+        "http://www.loc.gov/resource/llserialsetce.00359_00_00-067-0344-0000/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "united states congress. senate. committee on private land claims",
+        "united states. congress. senate",
+        "united states. government publishing office",
+        "linn, lewis fields"
+      ],
+      "date": "1840",
+      "dates": [
+        "1840"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-20T04:02:02.535Z",
+      "group": [
+        "ll/llserialset/mono",
+        "catalog-split-09",
+        "catalog",
+        "ll/llserialset/monobatch",
+        "congressional-serial-set-document-level",
+        "main-catalog-split-09",
+        "congressional-serial-set-document-level-monobatch"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2024762927/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/ll/llserialsetce/00/35/9_/00/_0/0/00359_00_00/00359_00_00-067-0344-0000/0531.gif",
+        "https://tile.loc.gov/storage-services/service/ll/llserialsetce/00/35/9_/00/_0/0/00359_00_00/00359_00_00-067-0344-0000/0531.gif#h=150&w=95",
+        "https://tile.loc.gov/image-services/iiif/service:ll:llserialsetce:00:35:9_:00:_0:0:00359_00_00:00359_00_00-067-0344-0000:0531/full/pct:12.5/0/default.jpg#h=425&w=268",
+        "https://tile.loc.gov/image-services/iiif/service:ll:llserialsetce:00:35:9_:00:_0:0:00359_00_00:00359_00_00-067-0344-0000:0531/full/pct:25/0/default.jpg#h=850&w=537",
+        "https://tile.loc.gov/image-services/iiif/service:ll:llserialsetce:00:35:9_:00:_0:0:00359_00_00:00359_00_00-067-0344-0000:0531/full/pct:50/0/default.jpg#h=1700&w=1075",
+        "https://tile.loc.gov/image-services/iiif/service:ll:llserialsetce:00:35:9_:00:_0:0:00359_00_00:00359_00_00-067-0344-0000:0531/full/pct:100/0/default.jpg#h=3400&w=2150"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "green bay",
+        "wisconsin",
+        "great britain",
+        "prairie du chien",
+        "michigan",
+        "michigan territory",
+        "sault sainte marie"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf",
+        "text/plain",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2024762927",
+        "online resource",
+        "2024-06-26t09:36:49"
+      ],
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "other_title": [
+        "Cited as: S. Doc. 26-344"
+      ],
+      "partof": [
+        "united states congressional serial set: serial no. 359",
+        "united states congressional serial set (bound house and senate documents and reports)",
+        "catalog",
+        "law library of congress",
+        "26th congress, 1st session"
+      ],
+      "score": 13.082963,
+      "shelf_id": "KF12",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "legislative amendments",
+        "great britain",
+        "legislative materials",
+        "land tenure",
+        "caddotte, jannette",
+        "michigan",
+        "sault sainte marie, michigan",
+        "land grants",
+        "british",
+        "recording and registration",
+        "prairie du chien, wisconsin",
+        "laws",
+        "legislation",
+        "michigan territory",
+        "green bay, wisconsin",
+        "land titles",
+        "government publication"
+      ],
+      "timestamp": "2024-10-20T08:23:26.259Z",
+      "title": "In Senate of the United States. March 31, 1840. Submitted, and ordered to be printed. Mr. Linn made the following report: (To accompany Bill S. No. 42.) The Committee on Private Land Claims, to whom was referred the bill from the Senate (No. 42) to amend an act entitled \"An Act Confirming Certain Land Claims in the State of Michigan,\" report",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2024762927/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://hdl.loc.gov/loc.gdc/gdclccn.2009655230",
+        "http://www.loc.gov/item/2009655230/",
+        "http://lccn.loc.gov/2009655230",
+        "http://www.loc.gov/resource/gdclccn.2009655230/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "evans, maurice s. (maurice smethurst)"
+      ],
+      "date": "1913-01-01",
+      "dates": [
+        "1913"
+      ],
+      "description": [
+        "In Fraktur"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T22:14:18.699Z",
+      "group": [
+        "gdc/scd",
+        "globalgatewaybooks2",
+        "catalog-split-00",
+        "catalog",
+        "general-collections-scan-on-demand-new",
+        "global-gateways-general-collections-books-batch-2",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2009655230/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdclccn:20:09:65:52:30:2009655230:0006/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdclccn:20:09:65:52:30:2009655230:0006/full/pct:12.5/0/default.jpg#h=300&w=178",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdclccn:20:09:65:52:30:2009655230:0006/full/pct:25/0/default.jpg#h=600&w=356",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdclccn:20:09:65:52:30:2009655230:0006/full/pct:50/0/default.jpg#h=1200&w=712",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdclccn:20:09:65:52:30:2009655230:0006/full/pct:100/0/default.jpg#h=2400&w=1424"
+      ],
+      "index": 5,
+      "language": [
+        "german"
+      ],
+      "location": [
+        "zimbabwe",
+        "great britain",
+        "natal",
+        "zambia",
+        "kwazulu",
+        "south africa",
+        "kenya",
+        "africa"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2",
+        "application/pdf",
+        "image/tiff"
+      ],
+      "number": [
+        "2009655230",
+        "2020-10-07t09:52:00",
+        "2020-02-27t11:10:29",
+        "2021-10-13t17:40:23"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "catalog",
+        "general collections",
+        "world digital library"
+      ],
+      "score": 13.082963,
+      "shelf_id": "HB5 .V4 vol. 147, pt. 3",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "europeans",
+        "zimbabwe",
+        "colonies",
+        "great britain",
+        "zambia",
+        "british",
+        "kenya",
+        "kwazulu-natal (south africa)",
+        "history",
+        "africa",
+        "colonization",
+        "19th century"
+      ],
+      "timestamp": "2022-12-10T08:47:50.991Z",
+      "title": "Natal, Rhodesien, Britisch-Ostafrika",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2009655230/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://hdl.loc.gov/loc.gdc/gdcebookspublic.2020690697",
+        "http://lccn.loc.gov/2020690697",
+        "http://www.loc.gov/resource/gdcebookspublic.2020690697/",
+        "http://www.loc.gov/item/2020690697/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "marshall, peter",
+        "williams, glyndwr"
+      ],
+      "date": "2017-01-01",
+      "dates": [
+        "2017"
+      ],
+      "description": [
+        "Includes bibliographical references. Description based on online resource; title from PDF title page (Site, viewed 11/24/2020)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-04-04T00:46:39.115Z",
+      "group": [
+        "gdc/scd",
+        "catalog-split-09",
+        "catalog",
+        "general-collections-scan-on-demand-new",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020690697/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/69/06/97/2020690697/2020690697.gif",
+        "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/69/06/97/2020690697/2020690697.gif#h=2465&w=1600"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "great britain",
+        "america",
+        "atlantic ocean region"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "number": [
+        "2021-03-19t09:07:29",
+        "online resource",
+        "2020690697"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "catalog",
+        "general collections",
+        "open access books",
+        "lc online resource"
+      ],
+      "score": 13.082963,
+      "shelf_id": "E188.5",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "colonies",
+        "great britain",
+        "america",
+        "18th century",
+        "17th century",
+        "atlantic ocean region",
+        "united states",
+        "colonial period",
+        "british",
+        "history"
+      ],
+      "timestamp": "2022-12-10T08:57:12.015Z",
+      "title": "The British Atlantic empire before the American Revolution",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2020690697/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \r\ndisplay only as thumbnails outside the Library of Congress because of rights \r\nconsiderations, but you have access to larger size images on site.)\r\n</p>\r\n\r\n<p>  \r\nAlternatively, you can purchase copies of various types through Library \r\nof Congress Duplication Services</a>.\r\n</p>\r\n\r\n<p> \r\n<ol>\r\n<p>\r\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \r\npartially depend on whether it was made from the original or an \r\nintermediate such as a copy negative or transparency. If the Reproduction \r\nNumber field above includes a reproduction number that starts with \r\nLC-DIG..., then there is a digital image that was made directly \r\nfrom the original and is of sufficient resolution for most publication\r\n purposes.\r\n</li> \r\n</p>\r\n\r\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \r\nYou can use the reproduction number to purchase a copy from Duplication \r\nServices.  It will be made from the source listed in the parentheses after\r\n the number.  \r\n<p> \r\nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \r\n desire a copy showing color or tint (assuming the original has any), \r\n you can generally purchase a quality copy of the original in color by \r\n citing the Call Number listed above and including the catalog record \r\n (&quot;About This Item&quot;) with your request.\r\n </p>\r\n</li>\r\n\r\n<li><strong>If there is no information listed in the Reproduction Number field \r\nabove:</strong> You can generally purchase a quality copy through \r\nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \r\n your request.\r\n</li>\r\n</ol>\r\n</p>\r\n\r\n<p> \r\nPrice lists, contact information, and order forms are available on the\r\n <a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>.  \r\n</p>\r\n\r\n\r\n\r\n",
+  "resource": {
+    "caption": "color film copy transparency",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06400/3g06458_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/cph.3g06458/"
+  },
+  "resources": [
+    {
+      "caption": "color film copy transparency",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g06000/3g06400/3g06458_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/cph.3g06458/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1734773616637,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/cph.3g06458/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/cph.3g06458/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/cph.3g06458/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/cph.3g06458/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/cph.3g06458/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/cph.3g06458/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/cph.3g06458/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/cph.3g06458/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/cph.3g06458/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/cph.3g06458/?fo=json&st=text"
+  }
+}

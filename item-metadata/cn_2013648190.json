@@ -1,0 +1,1499 @@
+{
+  "articles_and_essays": [
+    {
+      "score": 6.8680534,
+      "title": "Free to Use and Reuse: Glasses",
+      "url": "https://blogs.loc.gov/loc/2019/12/free-to-use-and-reuse-glasses/"
+    }
+  ],
+  "cite_this": {
+    "apa": "Baker'S Art Gallery, C. C. (1918) <cite>Theodore Roosevelt, head-and-shoulders portrait, facing front</cite>. , 1918. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2013648190/.",
+    "chicago": "Baker'S Art Gallery, Copyright Claimant. <cite>Theodore Roosevelt, head-and-shoulders portrait, facing front</cite>. , 1918. Photograph. https://www.loc.gov/item/2013648190/.",
+    "mla": "Baker'S Art Gallery, Copyright Claimant. <cite>Theodore Roosevelt, head-and-shoulders portrait, facing front</cite>. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2013648190/&gt;."
+  },
+  "item": {
+    "_version_": 1731694548206223360,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2013648190/",
+      "http://www.loc.gov/item/2013648190/",
+      "http://www.loc.gov/pictures/item/2013648190/",
+      "https://www.loc.gov/pictures/collection/cph/item/2013648190/",
+      "http://www.loc.gov/pictures/collection/cph/item/2013648190/",
+      "http://www.loc.gov/resource/ppmsca.35640/",
+      "http://lccn.loc.gov/2013648190",
+      "https://hdl.loc.gov/loc.pnp/ppmsca.35640"
+    ],
+    "call_number": "PRES FILE - Roosevelt, Theodore -- Portraits -- Photographs -- Bust [item] [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Baker's Art Gallery, copyright claimant"
+    ],
+    "contributors": [
+      {
+        "baker's art gallery": "https://www.loc.gov/search/?fa=contributor:baker%27s+art+gallery&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2016-04-20T11:26:29Z",
+    "created_published": [
+      "1918."
+    ],
+    "created_published_date": "1918.",
+    "date": "1918-01-01",
+    "dates": [
+      {
+        "1918": "https://www.loc.gov/search/?dates=1918/1918&fo=json"
+      }
+    ],
+    "description": [
+      "1 photographic print. | Photograph showing Theodore Roosevelt, ."
+    ],
+    "digital_id": [
+      "ppmsca 35640 //hdl.loc.gov/loc.pnp/ppmsca.35640"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-24T20:18:17.451Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/cph/item/2013648190/#cph",
+      "http://lccn.loc.gov/2013648190#catalog-split-02"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Photographic prints--1910-1920.",
+      "Portrait photographs--1910-1920."
+    ],
+    "genre": [
+      "Portrait photographs--1910-1920",
+      "Photographic prints--1910-1920"
+    ],
+    "group": [
+      "cph",
+      "catalog-split-02",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-02",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2013648190/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/35600/35640_150px.jpg#h=150&w=118",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/35600/35640t.gif#h=150&w=118",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/35600/35640r.jpg#h=640&w=504",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/35600/35640v.jpg#h=1024&w=806"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "PRES FILE - Roosevelt, Theodore -- Portraits -- Photographs -- Bust [item] [P&P]",
+      "contributor_names": [
+        "Baker's Art Gallery, copyright claimant "
+      ],
+      "contributors": [
+        "Baker's Art Gallery, copyright claimant."
+      ],
+      "control_number": "2013648190",
+      "created": "2016-04-20T11:26:29Z",
+      "created_published": "1918.",
+      "created_published_date": "1918.",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Baker%27s%20Art%20Gallery&co=cph",
+          "role": "copyright claimant",
+          "title": "Baker's Art Gallery"
+        }
+      ],
+      "date": "1918.",
+      "digital_id": [
+        "ppmsca 35640 //hdl.loc.gov/loc.pnp/ppmsca.35640"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1910-1920.&co=cph",
+          "title": "Photographic prints--1910-1920."
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Portrait%20photographs--1910-1920.&co=cph",
+          "title": "Portrait photographs--1910-1920."
+        }
+      ],
+      "genre": [
+        "Portrait photographs--1910-1920",
+        "Photographic prints--1910-1920"
+      ],
+      "id": "2013648190",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2013648190/",
+      "marc": "https://www.loc.gov/pictures/item/2013648190/marc/",
+      "medium": [
+        "1 photographic print."
+      ],
+      "medium_brief": "1 photographic print.",
+      "mediums": [
+        "1 photographic print."
+      ],
+      "modified": "2016-04-20T11:26:29Z",
+      "notes": [
+        "J234031 U.S. Copyright Office.",
+        "Title devised by Library staff.",
+        "Copyright 1918 by Baker Art Gallery, Columbus O."
+      ],
+      "other_control_numbers": [
+        "17856716"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-ppmsca-35640 (digital file from original item)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/ppmsca.35640"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/35600/35640_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/35600/35640r.jpg",
+      "sort_date": "1918",
+      "source_created": "2013-08-19T00:00:00Z",
+      "source_modified": "2013-08-26T11:49:44Z",
+      "subject_headings": [
+        "Roosevelt, Theodore,--1858-1919."
+      ],
+      "subjects": [
+        "Roosevelt, Theodore,--1858-1919"
+      ],
+      "summary": "Photograph showing Theodore Roosevelt, .",
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/35600/35640_150px.jpg",
+      "title": "[Theodore Roosevelt, head-and-shoulders portrait, facing front]"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2013648190",
+    "link": "https://www.loc.gov/pictures/item/2013648190/",
+    "marc": "https://www.loc.gov/pictures/item/2013648190/marc/",
+    "medium": [
+      "1 photographic print."
+    ],
+    "medium_brief": "1 photographic print.",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2016-04-20T11:26:29Z",
+    "notes": [
+      "J234031 U.S. Copyright Office.",
+      "Title devised by Library staff.",
+      "Copyright 1918 by Baker Art Gallery, Columbus O."
+    ],
+    "number": [
+      "http://www.loc.gov/item/17856716",
+      "2013648190",
+      "2013-08-26t11:49:44"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/17856716"
+    ],
+    "number_lccn": [
+      "2013648190"
+    ],
+    "number_source_modified": [
+      "2013-08-26t11:49:44"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "17856716"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2013648190/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2013648190/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2013648190/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 117172,
+        "title": "miscellaneous items in high demand",
+        "url": "https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json"
+      },
+      {
+        "count": 949513,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1082837,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1592516,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2013648190&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-ppmsca-35640 (digital file from original item)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/ppmsca.35640"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from original item",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/35600/35640_150px.jpg",
+        "url": "https://www.loc.gov/resource/ppmsca.35640/"
+      }
+    ],
+    "rights": [],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.206085,
+    "shard": "00",
+    "shelf_id": "PRES FILE - Roosevelt, Theodore -- Portraits -- Photographs -- Bust [item] [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1918",
+    "source_created": "2013-08-19T00:00:00Z",
+    "source_modified": "2013-08-26T11:49:44Z",
+    "subject": [
+      "portrait photographs",
+      "roosevelt, theodore",
+      "photographic prints"
+    ],
+    "subject_headings": [
+      "Roosevelt, Theodore,--1858-1919"
+    ],
+    "subjects": [
+      {
+        "photographic prints": "https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json"
+      },
+      {
+        "portrait photographs": "https://www.loc.gov/search/?fa=subject:portrait+photographs&fo=json"
+      },
+      {
+        "roosevelt, theodore": "https://www.loc.gov/search/?fa=subject:roosevelt,+theodore&fo=json"
+      }
+    ],
+    "summary": "Photograph showing Theodore Roosevelt, .",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/35600/35640_150px.jpg",
+    "timestamp": "2022-05-02T06:23:34.395Z",
+    "title": "[Theodore Roosevelt, head-and-shoulders portrait, facing front]",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2013648190/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/00652549",
+        "http://www.loc.gov/resource/cph.3a39529/",
+        "http://www.loc.gov/item/00652549/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a39529",
+        "https://www.loc.gov/pictures/item/00652549/",
+        "http://www.loc.gov/pictures/item/00652549/",
+        "https://www.loc.gov/pictures/collection/cph/item/00652549/",
+        "http://www.loc.gov/pictures/collection/cph/item/00652549/"
+      ],
+      "campaigns": [],
+      "date": "1911-01-01",
+      "dates": [
+        "1911"
+      ],
+      "description": [
+        "J152199 U.S. Copyright Office."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T04:39:43.666Z",
+      "group": [
+        "natfor",
+        "cph",
+        "catalog-split-15",
+        "catalog",
+        "recordings-from-world-war-i-and-the-1920-election",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652549/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a39000/3a39500/3a39529_150px.jpg#h=108&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a39000/3a39500/3a39529t.gif#h=108&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a39000/3a39500/3a39529r.jpg#h=462&w=640"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/00652549",
+        "2016-04-12t07:58:16",
+        "http://www.loc.gov/item/12210099",
+        "00652549"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american leaders speak: recordings from world war i",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand"
+      ],
+      "score": 29.010649,
+      "shelf_id": "BIOG FILE - Hitchcock, Gilbert M., 1859-1934 [item]",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "portrait photographs",
+        "gilbert monell)",
+        "hitchcock, gilbert m.",
+        "photographic prints"
+      ],
+      "timestamp": "2022-12-10T04:23:26.621Z",
+      "title": "[Gilbert M. Hitchcock, half-length portrait, standing, facing right, wearing overcoat and bowler]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/00652549/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/00652551",
+        "http://www.loc.gov/resource/cph.3a36598/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a36598",
+        "http://www.loc.gov/resource/ppmsc.03676/",
+        "https://hdl.loc.gov/loc.pnp/ppmsc.03676",
+        "http://www.loc.gov/item/00652551/",
+        "https://www.loc.gov/pictures/item/00652551/",
+        "http://www.loc.gov/pictures/item/00652551/",
+        "https://www.loc.gov/pictures/collection/cph/item/00652551/",
+        "http://www.loc.gov/pictures/collection/cph/item/00652551/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "macdonald, pirie"
+      ],
+      "date": "1916-01-01",
+      "dates": [
+        "1916"
+      ],
+      "description": [
+        "J210809 U.S. Copyright Office."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T04:39:43.666Z",
+      "group": [
+        "natfor",
+        "cph",
+        "catalog-split-08",
+        "catalog",
+        "recordings-from-world-war-i-and-the-1920-election",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652551/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03676_150px.jpg#h=150&w=101",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03676t.gif#h=150&w=101",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03676r.jpg#h=640&w=433",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03676v.jpg#h=1024&w=692"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/00652551",
+        "http://www.loc.gov/item/12210234",
+        "00652551",
+        "2016-04-12t07:59:10"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american leaders speak: recordings from world war i",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand"
+      ],
+      "score": 29.010649,
+      "shelf_id": "BIOG FILE - Lodge, Henry Cabot, 1850-1924 [item]",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "portrait photographs",
+        "lodge, henry cabot",
+        "photographic prints"
+      ],
+      "timestamp": "2022-12-10T04:23:26.621Z",
+      "title": "[Senator Henry Cabot Lodge, head-and-shoulders portrait, facing right]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/00652551/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/cph.3c27905/",
+        "http://lccn.loc.gov/00652552",
+        "http://www.loc.gov/item/00652552/",
+        "https://hdl.loc.gov/loc.pnp/ppmsc.03677",
+        "https://hdl.loc.gov/loc.pnp/cph.3c27905",
+        "http://www.loc.gov/resource/ppmsc.03677/",
+        "https://www.loc.gov/pictures/item/00652552/",
+        "http://www.loc.gov/pictures/item/00652552/",
+        "https://www.loc.gov/pictures/collection/cph/item/00652552/",
+        "http://www.loc.gov/pictures/collection/cph/item/00652552/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "harris & ewing"
+      ],
+      "date": "1918-01-01",
+      "dates": [
+        "1918"
+      ],
+      "description": [
+        "J230772 U.S. Copyright Office. Copyright by Harris & Ewing."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T04:39:43.666Z",
+      "group": [
+        "natfor",
+        "cph",
+        "catalog-split-09",
+        "catalog",
+        "recordings-from-world-war-i-and-the-1920-election",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652552/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03677_150px.jpg#h=150&w=105",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03677t.gif#h=150&w=105",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03677r.jpg#h=640&w=447",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03677v.jpg#h=1024&w=715"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2016-04-12t07:59:33",
+        "00652552",
+        "http://www.loc.gov/item/00652552",
+        "http://www.loc.gov/item/12210257"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american leaders speak: recordings from world war i",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand"
+      ],
+      "score": 29.010649,
+      "shelf_id": "BIOG FILE - Long, Breckinridge, 1881-1958 [item]",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "portrait photographs",
+        "long, breckinridge",
+        "photographic prints"
+      ],
+      "timestamp": "2022-12-10T04:23:26.621Z",
+      "title": "[Breckinridge Long, head-and-shoulders portrait, facing slightly right]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/00652552/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/00652553",
+        "https://hdl.loc.gov/loc.pnp/ppmsc.03678",
+        "http://www.loc.gov/item/00652553/",
+        "http://www.loc.gov/resource/ppmsc.03678/",
+        "http://www.loc.gov/resource/cph.3a33554/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a33554",
+        "https://www.loc.gov/pictures/item/00652553/",
+        "http://www.loc.gov/pictures/item/00652553/",
+        "https://www.loc.gov/pictures/collection/cph/item/00652553/",
+        "http://www.loc.gov/pictures/collection/cph/item/00652553/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "harris & ewing"
+      ],
+      "date": "1914-01-01",
+      "dates": [
+        "1914"
+      ],
+      "description": [
+        "J192945 U.S. Copyright Office. Copyright by Harris & Ewing."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T04:39:43.666Z",
+      "group": [
+        "natfor",
+        "cph",
+        "catalog-split-10",
+        "catalog",
+        "recordings-from-world-war-i-and-the-1920-election",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-10",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652553/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03678_150px.jpg#h=150&w=102",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03678t.gif#h=150&w=102",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03678r.jpg#h=640&w=436",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03678v.jpg#h=1024&w=697"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/00652553",
+        "00652553",
+        "2016-04-12t07:59:52",
+        "http://www.loc.gov/item/12210602"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american leaders speak: recordings from world war i",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand"
+      ],
+      "score": 29.010649,
+      "shelf_id": "BIOG FILE - McAdoo, Wm. Gibbs, 1863-1941 [item]",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "portrait photographs",
+        "mcadoo, w. g.",
+        "photographic prints",
+        "william gibbs)"
+      ],
+      "timestamp": "2022-12-10T04:23:26.621Z",
+      "title": "[William G. McAdoo, half-length portrait, facing slightly left]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/00652553/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/ppmsc.03679/",
+        "http://www.loc.gov/item/00652554/",
+        "http://lccn.loc.gov/00652554",
+        "https://hdl.loc.gov/loc.pnp/ppmsc.03679",
+        "https://www.loc.gov/pictures/item/00652554/",
+        "http://www.loc.gov/pictures/item/00652554/",
+        "https://www.loc.gov/pictures/collection/cph/item/00652554/",
+        "http://www.loc.gov/pictures/collection/cph/item/00652554/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "underwood & underwood"
+      ],
+      "date": "1922-01-01",
+      "dates": [
+        "1922"
+      ],
+      "description": [
+        "Robert Latham Owen, Senator from Oklahoma, bust portrait, facing left."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T04:39:43.666Z",
+      "group": [
+        "natfor",
+        "cph",
+        "catalog-split-11",
+        "catalog",
+        "recordings-from-world-war-i-and-the-1920-election",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-11",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652554/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03679t.gif#h=150&w=109",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03679_150px.jpg#h=150&w=110",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03679r.jpg#h=640&w=467",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03679v.jpg#h=1024&w=748"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "00652554",
+        "http://www.loc.gov/item/12210723",
+        "http://www.loc.gov/item/00652554",
+        "2016-04-12t08:00:22"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american leaders speak: recordings from world war i",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand"
+      ],
+      "score": 29.010649,
+      "shelf_id": "BIOG FILE - Owen, Robert Latham, 1856-1947 [item]",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "owen, robert l.",
+        "robert latham)",
+        "portrait photographs",
+        "photographic prints"
+      ],
+      "timestamp": "2022-12-10T04:23:26.621Z",
+      "title": "Thinks Europe can pay debts",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/00652554/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/00652556",
+        "http://www.loc.gov/resource/cph.3a36986/",
+        "http://www.loc.gov/item/00652556/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a36986",
+        "https://www.loc.gov/pictures/item/00652556/",
+        "http://www.loc.gov/pictures/item/00652556/",
+        "https://www.loc.gov/pictures/collection/cph/item/00652556/",
+        "http://www.loc.gov/pictures/collection/cph/item/00652556/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "patteson, harvey"
+      ],
+      "date": "1917-01-01",
+      "dates": [
+        "1917"
+      ],
+      "description": [
+        "J223435 U.S. Copyright Office. Copyright by Texas Motorist."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T04:39:43.666Z",
+      "group": [
+        "natfor",
+        "cph",
+        "catalog-split-13",
+        "catalog",
+        "recordings-from-world-war-i-and-the-1920-election",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652556/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a36000/3a36900/3a36986_150px.jpg#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a36000/3a36900/3a36986t.gif#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a36000/3a36900/3a36986r.jpg#h=506&w=640"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017-09-22t11:42:40",
+        "http://www.loc.gov/item/12210739",
+        "http://www.loc.gov/item/00652556",
+        "00652556"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american leaders speak: recordings from world war i",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "miscellaneous items in high demand"
+      ],
+      "score": 29.010649,
+      "shelf_id": "BIOG FILE - Pershing, Maj. Gen. John Joseph, 1860-1948 [item]",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "pershing, john j.",
+        "portrait photographs",
+        "john joseph)",
+        "photographic prints"
+      ],
+      "timestamp": "2022-12-10T04:23:26.621Z",
+      "title": "[Major General John J. Pershing, half-length portrait, seated at desk]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/00652556/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "cph",
+      "catalog-split-02",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-02",
+      "main-catalog",
+      "natfor",
+      "catalog-split-15",
+      "recordings-from-world-war-i-and-the-1920-election",
+      "main-catalog-split-15",
+      "catalog-split-08",
+      "main-catalog-split-08",
+      "catalog-split-09",
+      "main-catalog-split-09",
+      "catalog-split-10",
+      "main-catalog-split-10",
+      "catalog-split-11",
+      "main-catalog-split-11",
+      "catalog-split-13",
+      "main-catalog-split-13",
+      "cms",
+      "managed-content",
+      "collections-portal",
+      "wdlpartner",
+      "catalog-split-03",
+      "world-digital-library-partners",
+      "main-catalog-split-03"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "ppmsca.35640",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 1.6882591247558594,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/ppmsca.35640/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/ppmsca.35640/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1734773623.2683191,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 180212871,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/ppmsca/35600/35640u.tif",
+      "width": 0
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 5516,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/35600/35640_150px.jpg",
+      "width": 118
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 14217,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/35600/35640t.gif",
+      "width": 118
+    },
+    {
+      "height": 640,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 35173,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/35600/35640r.jpg",
+      "width": 504
+    },
+    {
+      "height": 1024,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 260049,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/35600/35640v.jpg",
+      "width": 806
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2013648190&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/national-photo-company/articles-and-essays/image-sampler/?st=gallery"
+      ],
+      "campaigns": [],
+      "date": "1850",
+      "dates": [
+        "[1850 TO 1945]"
+      ],
+      "description": [
+        "Top of page Skip to main content Library of Congress Search Everything Audio Recordings Books/Printed Material Films, Videos Legislation Manuscripts/Mixed Material Maps Notated Music Newspapers Periodicals Personal Narratives Photos, Prints, Drawings Software, E-Resources Web Archives"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:25:25.531Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/national-photo-company/articles-and-essays/image-sampler/?st=gallery",
+      "image_url": [
+        "https://www.loc.gov/static/collections/national-photo-company/500_500.jpg"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "national photo company collection"
+      ],
+      "score": 12.574047,
+      "shelf_id": "~/collections/national-photo-company/articles-and-essays/image-sampler/?st=gallery",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "photographic prints",
+        "national photo company",
+        "french, herbert e.",
+        "glass negatives",
+        "portrait photographs"
+      ],
+      "timestamp": "2024-12-21T06:52:11.397Z",
+      "title": "Image Sampler | Articles and Essays | National Photo Company Collection | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/national-photo-company/articles-and-essays/image-sampler/?st=gallery"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/federal-theatre-project-1935-to-1939/about-this-collection/",
+        "http://www.loc.gov/collections/ftp/",
+        "http://lccn.loc.gov/99401005",
+        "http://www.loc.gov/item/99401005/",
+        "https://hdl.loc.gov/loc.music/collmus.mu000005"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "gottlieb, william p."
+      ],
+      "count": 9217,
+      "date": "1938",
+      "dates": [
+        "1938"
+      ],
+      "description": [
+        "This online presentation includes items selected from the Federal Theatre Project Collection at the Library of Congress. Featured here are stage and costume designs, photographs, posters, playbills, programs, and playscripts, including productions of Macbeth and The Tragical History of Dr. Faustus as staged by Orson Welles, and Power, a topical drama of the period. Selected administrative documents from the project are also available."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:07:18.065Z",
+      "group": [
+        "collections-portal"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/federal-theatre-project-1935-to-1939/about-this-collection/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/federal-theatre-project-1935-to-1939/500_500.jpg"
+      ],
+      "index": 2,
+      "items": "https://www.loc.gov/collections/federal-theatre-project-1935-to-1939/",
+      "language": [
+        "english"
+      ],
+      "number": [
+        "http://www.loc.gov/item/11727143",
+        "2015-09-15t11:46:00",
+        "http://www.loc.gov/item/99401005",
+        "99401005"
+      ],
+      "original_format": [
+        "collection",
+        "manuscript/mixed material"
+      ],
+      "other_title": [
+        "Gottlieb photograph collection",
+        "William P. Gottlieb / Ira and Leonore S. Gershwin Fund Collection"
+      ],
+      "partof": [
+        "digital collections",
+        "federal theatre project, 1935 to 1939",
+        "music division"
+      ],
+      "score": 12.574047,
+      "shelf_id": "~/collections/federal-theatre-project-1935-to-1939/about-this-collection/",
+      "subject": [
+        "cityscape photographs",
+        "gelatin silver prints",
+        "color",
+        "contact prints",
+        "photographic prints",
+        "acetate negatives",
+        "portrait photographs",
+        "film transparencies",
+        "performing arts",
+        "nitrate negatives",
+        "film negatives",
+        "group portraits",
+        "art & architecture"
+      ],
+      "timestamp": "2024-12-21T06:49:00.439Z",
+      "title": "Federal Theatre Project, 1935 to 1939",
+      "type": [
+        "collection"
+      ],
+      "url": "https://www.loc.gov/collections/federal-theatre-project-1935-to-1939/about-this-collection/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/edward-s-curtis/articles-and-essays/edward-curtis-and-the-background-of-the-collection/"
+      ],
+      "campaigns": [],
+      "date": "1890",
+      "dates": [
+        "[1890 TO 1929]"
+      ],
+      "description": [
+        "Although unknown for many years, Edward S. Curtis is today one of the most well-recognized and celebrated photographers of Native people. Born near White Water, Wisconsin, on February 16, 1868, he became interested in the emerging art of photography when he was quite young, building his first camera when he was still an adolescent. In Seattle, where his family moved in 1887, he acquired part interest in a portrait photography studio and soon became sole owner of the successful business, renaming it Edward S. Curtis Photographer and Photoengraver."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:16:46.997Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/edward-s-curtis/articles-and-essays/edward-curtis-and-the-background-of-the-collection/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/edward-s-curtis/500_500.jpg"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "curtis (edward s.) collection"
+      ],
+      "score": 12.574047,
+      "shelf_id": "~/collections/edward-s-curtis/articles-and-essays/edward-curtis-and-the-background-of-the-collection/",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "portrait photographs",
+        "curtis, edward s.",
+        "indians of north america",
+        "photographic prints"
+      ],
+      "timestamp": "2024-12-21T06:50:32.956Z",
+      "title": "Edward Curtis and the Background of the Collection | Articles and Essays | Curtis (Edward S.) Collection | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/edward-s-curtis/articles-and-essays/edward-curtis-and-the-background-of-the-collection/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/edward-s-curtis/articles-and-essays/tribe-index/"
+      ],
+      "campaigns": [],
+      "date": "1890",
+      "dates": [
+        "[1890 TO 1929]"
+      ],
+      "description": [
+        "A-C    D - K    L - N    O - S    T - Z                   Tribe     Volume of      The North      American Indian     LOT      (Note: Each links retrieves a catalog record for the specific LOT (group). The LOT record, in turn, links to any images available online. An asterisk (*) indicates that one or more photographs are also in LOT 12331)             A - C             Achomawi     Vol. 13     LOT 12318-F             Acoma     Vol. 16     LOT 12316-A*             Algonquian Indians     Vol. 5, 6     LOT 12322             Apache     Vol. 1     LOT 12310*             Apsaroke     Vol. 4     LOT 12320*             Arapaho     Vol. 6     LOT 12322-B             Arikara     Vol."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:16:46.997Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/edward-s-curtis/articles-and-essays/tribe-index/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/edward-s-curtis/500_500.jpg"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "curtis (edward s.) collection"
+      ],
+      "score": 12.574047,
+      "shelf_id": "~/collections/edward-s-curtis/articles-and-essays/tribe-index/",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "portrait photographs",
+        "curtis, edward s.",
+        "indians of north america",
+        "photographic prints"
+      ],
+      "timestamp": "2024-12-21T06:50:32.956Z",
+      "title": "Tribe Index | Articles and Essays | Curtis (Edward S.) Collection | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/edward-s-curtis/articles-and-essays/tribe-index/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2021666642",
+        "https://hdl.loc.gov/loc.wdl/wdl.3083",
+        "http://www.loc.gov/item/2021666642/",
+        "http://www.loc.gov/resource/gdcwdl.wdl_03083/",
+        "http://www.loc.gov/resource/wdl.3083/",
+        "http://www.loc.gov/resource/gdcwdl.wdl_03083_001/",
+        "http://www.loc.gov/resource/gdcwdl.wdl_03083_002/",
+        "http://www.loc.gov/resource/gdcwdl.wdl_03083_003/",
+        "http://www.loc.gov/resource/gdcwdl.wdl_03083_004/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "thomson, john"
+      ],
+      "date": "1873-01-01",
+      "dates": [
+        "1873"
+      ],
+      "description": [
+        "John Thomson (1837-1921) was the first known photographer to document the people and landscape of China for publication and dissemination to the Western world. Between 1868 and 1872, he traveled over 6,500 kilometers with his camera, equipment, and darkroom, capturing all aspects of Chinese life. The photographs in these four volumes show the many sides of China: sweeping landscapes, royalty and ruling classes, merchants and economic activity, everyday life, and the faces of men, women, and children. Thomson was born in Edinburgh, Scotland, the son of a tobacco spinner and seller. He was apprenticed to an optician and scientific instrument maker in 1851, and attended evening classes to study science. In April 1862, he set out for Singapore, where his older brother William was a watchmaker and photographer. While jointly operating with his brother a business making chronometers and optical and nautical instruments, Thomson began using Singapore as a base from which to travel extensively throughout Asia, taking photographs and recording his observations. In 1868, he moved to Hong Kong and began his project to photograph the people of China. After a decade in Asia, he returned to Britain, where he published the results of his travels and operated a portrait studio in London."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-07-23T21:52:26.111Z",
+      "group": [
+        "wdlpartner",
+        "catalog-split-03",
+        "catalog",
+        "world-digital-library-partners",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2021666642/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:03:08:3_:00:1:wdl_03083_001:1128672/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:03:08:3_:00:1:wdl_03083_001:1128672/full/pct:6.25/0/default.jpg#h=493&w=366",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:03:08:3_:00:1:wdl_03083_001:1128672/full/pct:12.5/0/default.jpg#h=986&w=733",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:03:08:3_:00:1:wdl_03083_001:1128672/full/pct:25/0/default.jpg#h=1972&w=1466",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:03:08:3_:00:1:wdl_03083_001:1128672/full/pct:50/0/default.jpg#h=3944&w=2933",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:03:08:3_:00:1:wdl_03083_001:1128672/full/pct:100/0/default.jpg#h=7889&w=5867"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "china"
+      ],
+      "mime_type": [
+        "application/zip",
+        "application/pdf",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2021666642",
+        "2021-05-27t08:38:00"
+      ],
+      "online_format": [
+        "compressed data",
+        "pdf",
+        "image"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "world digital library",
+        "yale university library",
+        "catalog",
+        "world digital library - partner items"
+      ],
+      "score": 6.388604,
+      "shelf_id": "http://lccn.loc.gov/2021666642",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "china",
+        "description and travel",
+        "street scenes",
+        "portrait photographs",
+        "cities and towns",
+        "clothing and dress",
+        "group portraits",
+        "1873 to 1874"
+      ],
+      "timestamp": "2022-09-11T21:11:40.650Z",
+      "title": "Illustrations of China and Its People: A Series of Two Hundred Photographs, with Letterpress Descriptive of the Places and People Represented.",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2021666642/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/sikkim-photos/articles-and-essays/photographer-biography/"
+      ],
+      "campaigns": [],
+      "date": "1965",
+      "dates": [
+        "[1965 TO 1979]"
+      ],
+      "description": [
+        "Dr. Alice S. Kandell first visited Sikkim in 1965 to attend the coronation ceremony where Hope Cooke, a close friend from Sarah Lawrence College, became the first American-born queen. The chogyal (king) Palden Thondup Namgyal asked Dr. Kandell to use photography to document the indigenous cultures of Sikkim and to show how he and Hope were improving education and local businesses. With this special access, Dr. Kandell created a visual encyclopedia of Sikkimese life as it was before India absorbed the kingdom."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:28:02.140Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/sikkim-photos/articles-and-essays/photographer-biography/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/sikkim-photos/images/30901t.gif"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "india",
+        "sikkim"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "sikkim photos (kandell collection)"
+      ],
+      "score": 6.388604,
+      "shelf_id": "~/collections/sikkim-photos/articles-and-essays/photographer-biography/",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "buddhism",
+        "material culture",
+        "slides",
+        "prints",
+        "portrait photographs",
+        "india",
+        "kandell, alice s.",
+        "sikkim"
+      ],
+      "timestamp": "2024-12-21T06:52:50.221Z",
+      "title": "Photographer Biography | Articles and Essays | Sikkim Photos (Kandell Collection) | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/sikkim-photos/articles-and-essays/photographer-biography/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "digital file from original item",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/35600/35640_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/ppmsca.35640/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from original item",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/35600/35640_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/ppmsca.35640/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1734773624956,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/ppmsca.35640/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/ppmsca.35640/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/ppmsca.35640/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/ppmsca.35640/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/ppmsca.35640/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/ppmsca.35640/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/ppmsca.35640/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/ppmsca.35640/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/ppmsca.35640/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/ppmsca.35640/?fo=json&st=text"
+  }
+}

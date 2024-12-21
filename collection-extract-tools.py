@@ -239,6 +239,8 @@ def files_from_list(file_list: list, dir_path: Path = None) -> tuple:
 
 def main():
 
+    set_name = 'glasses'
+
     for i in [METADATA_DIR, ITEM_DIR]:
         try:
             i.mkdir()
@@ -246,26 +248,26 @@ def main():
         except FileExistsError:
             print(f"Directory '{i}' already exists.")
 
-    print("Fetching free-to-use LOC library info JSON...\n")
+    print(f"Fetching free-to-use {set_name} set JSON info...\n")
 
-    library_info = fetch_loc_url("https://www.loc.gov/free-to-use/libraries/", json_opt=True)
+    set_info = fetch_loc_url(f"https://www.loc.gov/free-to-use/{set_name}/", json_opt=True)
 
-    print("Saving library_info JSON as ftu-libraries-set-info.json...\n")
+    print(f"Saving set info JSON as ftu-{set_name}-set-info.json...\n")
 
-    save_to_file(library_info, "ftu-libraries-set-info", dir_path=COLLECTION_DATA_DIR)
-    content = library_info.json().get("content", {})
+    save_to_file(set_info, f"ftu-{set_name}-set-info", dir_path=COLLECTION_DATA_DIR)
+    content = set_info.json().get("content", {})
     set_info = content.get("set", {})
-    library_set_list = set_info.get("items", [])
+    final_set_list = set_info.get("items", [])
 
     print("\nWriting library_info set list to CSV as ftu-libraries-set-list.csv...")
-    if not dicts_to_csv(library_set_list, "ftu-libraries-set-list.csv", dir_path=COLLECTION_DATA_DIR):
+    if not dicts_to_csv(final_set_list, f"ftu-{set_name}-set-list.csv", dir_path=COLLECTION_DATA_DIR):
         raise Exception("Error writing to CSV.")
 
-    print("\nFetching metadata from ftu-library-set-list.csv...\n")
+    print(f"\nFetching metadata from ftu-{set_name}-set-list.csv...\n")
 
-    metadata_files_collected_successfully, metadata_fetch_errors, metadata_filesave_errors = metadata_from_csv("ftu-libraries-set-list.csv", COLLECTION_DATA_DIR, metadata_dir=METADATA_DIR)
+    metadata_files_collected_successfully, metadata_fetch_errors, metadata_filesave_errors = metadata_from_csv(f"ftu-{set_name}-set-list.csv", COLLECTION_DATA_DIR, metadata_dir=METADATA_DIR)
 
-    print(f"\nNumber of items in collection list: {len(library_set_list)}")
+    print(f"\nNumber of items in collection list: {len(final_set_list)}")
     print(f"Metadata files collected successfully: {metadata_files_collected_successfully}")
     print(f"Errors related to fetching metadata from API: {metadata_fetch_errors}")
     print(f"Errors related to writing metadata to file: {metadata_filesave_errors}")

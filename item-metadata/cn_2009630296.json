@@ -1,0 +1,1660 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "(1878) <cite>Horn-Rimmed Spectacles - Telescope</cite>. Japan, 1878. [?] [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2009630296/.",
+    "chicago": "<cite>Horn-Rimmed Spectacles - Telescope</cite>. Japan, 1878. [?] Photograph. https://www.loc.gov/item/2009630296/.",
+    "mla": "<cite>Horn-Rimmed Spectacles - Telescope</cite>. [?] Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2009630296/&gt;."
+  },
+  "item": {
+    "_version_": 1753102684533030912,
+    "access_advisory": "Restricted access; material extremely fragile; please use online digital image.",
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2009630296/",
+      "http://www.loc.gov/item/2009630296/",
+      "http://www.loc.gov/pictures/item/2009630296/",
+      "https://www.loc.gov/pictures/collection/jpd/item/2009630296/",
+      "http://www.loc.gov/pictures/collection/jpd/item/2009630296/",
+      "https://hdl.loc.gov/loc.pnp/jpd.02899",
+      "https://hdl.loc.gov/loc.pnp/jpd.02899",
+      "http://www.loc.gov/resource/jpd.02899/",
+      "http://lccn.loc.gov/2009630296"
+    ],
+    "call_number": "FP 2 - JPD, no. 1175a (A size) [P&P]",
+    "campaigns": [],
+    "control_number": "",
+    "created": "2022-12-20T05:49:36Z",
+    "created_published": [
+      "[1878?]"
+    ],
+    "created_published_date": "[1878?]",
+    "date": "1878-01-01",
+    "dates": [
+      {
+        "1878": "https://www.loc.gov/search/?dates=1878/1878&fo=json"
+      }
+    ],
+    "description": [
+      "1 drawing : ink ; 8.7 x 12.2 cm (sheet)"
+    ],
+    "digital_id": [
+      "jpd 02899 https://hdl.loc.gov/loc.pnp/jpd.02899"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2022-12-24T13:18:46.617Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/jpd/item/2009630296/#jpd",
+      "http://lccn.loc.gov/2009630296#catalog-split-05"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Ink drawings--Japanese--1870-1880."
+    ],
+    "genre": [
+      "Ink drawings--Japanese--1870-1880"
+    ],
+    "group": [
+      "jpd",
+      "catalog-split-05",
+      "catalog",
+      "japanese-fine-prints-pre-1915",
+      "main-catalog-split-05",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2009630296/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/jpd/02800/02899_150px.jpg#h=104&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/jpd/02800/02899t.gif#h=104&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/jpd/02800/02899r.jpg#h=445&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/jpd/02800/02899v.jpg#h=712&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "access_advisory": "Restricted access; material extremely fragile; please use online digital image.",
+      "call_number": "FP 2 - JPD, no. 1175a (A size) [P&P]",
+      "control_number": "2009630296",
+      "created": "2022-12-20T05:49:36Z",
+      "created_published": "[1878?]",
+      "created_published_date": "[1878?]",
+      "date": "[1878?]",
+      "digital_id": [
+        "jpd 02899 https://hdl.loc.gov/loc.pnp/jpd.02899"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Ink%20drawings--Japanese--1870-1880.&co=jpd",
+          "title": "Ink drawings--Japanese--1870-1880."
+        }
+      ],
+      "genre": [
+        "Ink drawings--Japanese--1870-1880"
+      ],
+      "id": "2009630296",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2009630296/",
+      "location": [
+        "Japan"
+      ],
+      "marc": "https://www.loc.gov/pictures/item/2009630296/marc/",
+      "medium": [
+        "1 drawing : ink ; 8.7 x 12.2 cm (sheet)"
+      ],
+      "medium_brief": "1 drawing :",
+      "mediums": [
+        "1 drawing : ink ; 8.7 x 12.2 cm (sheet)"
+      ],
+      "modified": "2022-12-20T05:49:36Z",
+      "notes": [
+        "No Japanese title in the picture.",
+        "Title from item.",
+        "Unsigned, possibly by Kano, 1878.",
+        "From the \"Medicine\" series.",
+        "Gift; Mrs. David Murray; 1909.",
+        "Forms part of: David Murray collection.",
+        "Forms part of: Japanese prints and drawings (Library of Congress)."
+      ],
+      "other_control_numbers": [
+        "15616924"
+      ],
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Japan&co=jpd",
+          "longitude": "",
+          "title": "Japan"
+        }
+      ],
+      "raw_collections": [
+        "diof",
+        "jpd",
+        "pp"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-jpd-02899 (digital file from original print)",
+      "resource_links": [
+        "https://hdl.loc.gov/loc.pnp/jpd.02899"
+      ],
+      "restriction": "Restricted access; material extremely fragile; please use online digital image.",
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/jpd/02800/02899_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/jpd/02800/02899r.jpg",
+      "sort_date": "1878",
+      "source_created": "2009-02-09T00:00:00Z",
+      "source_modified": "2022-12-19T15:20:23Z",
+      "subject_headings": [
+        "Eyeglasses--1870-1880.",
+        "Telescopes--Japan--1870-1880.",
+        "Manners & customs--Japan--1870-1880.",
+        "Japan"
+      ],
+      "subjects": [
+        "Eyeglasses--1870-1880",
+        "Telescopes--Japan--1870-1880",
+        "Manners & customs--Japan--1870-1880"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/jpd/02800/02899_150px.jpg",
+      "title": "Horn-rimmed spectacles - telescope"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2009630296",
+    "link": "https://www.loc.gov/pictures/item/2009630296/",
+    "location": [
+      "japan"
+    ],
+    "locations": [
+      {
+        "japan": "https://www.loc.gov/search/?fa=location:japan&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2009630296/marc/",
+    "medium": [
+      "1 drawing : ink ; 8.7 x 12.2 cm (sheet)"
+    ],
+    "medium_brief": "1 drawing :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2022-12-20T05:49:36Z",
+    "notes": [
+      "No Japanese title in the picture.",
+      "Title from item.",
+      "Unsigned, possibly by Kano, 1878.",
+      "From the \"Medicine\" series.",
+      "Gift; Mrs. David Murray; 1909.",
+      "Forms part of: David Murray collection.",
+      "Forms part of: Japanese prints and drawings (Library of Congress)."
+    ],
+    "number": [
+      "2022-12-19t15:20:23",
+      "http://www.loc.gov/item/15616924",
+      "2009630296"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/15616924"
+    ],
+    "number_lccn": [
+      "2009630296"
+    ],
+    "number_source_modified": [
+      "2022-12-19t15:20:23"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "15616924"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2009630296/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2009630296/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2009630296/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 2770,
+        "title": "fine prints: japanese, pre-1915",
+        "url": "https://www.loc.gov/collections/japanese-fine-prints-pre-1915/?fo=json"
+      },
+      {
+        "count": 949513,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1082837,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1592516,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Japan&co=jpd",
+        "longitude": "",
+        "title": "Japan"
+      }
+    ],
+    "raw_collections": [
+      "diof",
+      "jpd",
+      "pp"
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=jpd&pk=2009630296&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-jpd-02899 (digital file from original print)",
+    "reproductions": [],
+    "resource_links": [
+      "https://hdl.loc.gov/loc.pnp/jpd.02899"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from original print",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/jpd/02800/02899_150px.jpg",
+        "url": "https://www.loc.gov/resource/jpd.02899/"
+      }
+    ],
+    "restriction": "Restricted access; material extremely fragile; please use online digital image.",
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/371_japa.html\">Japanese Fine Prints and Drawings, pre-1915 - Rights and Restrictions Information</a> </p>\n \n"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.206085,
+    "shard": "00",
+    "shelf_id": "FP 2 - JPD, no. 1175a (A size) [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1878",
+    "source_created": "2009-02-09T00:00:00Z",
+    "source_modified": "2022-12-19T15:20:23Z",
+    "subject": [
+      "manners & customs",
+      "eyeglasses",
+      "telescopes",
+      "ink drawings",
+      "japanese",
+      "japan"
+    ],
+    "subject_headings": [
+      "Eyeglasses--1870-1880",
+      "Telescopes--Japan--1870-1880",
+      "Manners & customs--Japan--1870-1880"
+    ],
+    "subjects": [
+      {
+        "eyeglasses": "https://www.loc.gov/search/?fa=subject:eyeglasses&fo=json"
+      },
+      {
+        "ink drawings": "https://www.loc.gov/search/?fa=subject:ink+drawings&fo=json"
+      },
+      {
+        "japan": "https://www.loc.gov/search/?fa=subject:japan&fo=json"
+      },
+      {
+        "japanese": "https://www.loc.gov/search/?fa=subject:japanese&fo=json"
+      },
+      {
+        "manners & customs": "https://www.loc.gov/search/?fa=subject:manners+%26+customs&fo=json"
+      },
+      {
+        "telescopes": "https://www.loc.gov/search/?fa=subject:telescopes&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/jpd/02800/02899_150px.jpg",
+    "timestamp": "2022-12-24T13:36:43.766Z",
+    "title": "Horn-rimmed spectacles - telescope",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2009630296/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2009630173/",
+        "http://www.loc.gov/item/2009630173/",
+        "http://www.loc.gov/pictures/item/2009630173/",
+        "https://www.loc.gov/pictures/collection/jpd/item/2009630173/",
+        "http://www.loc.gov/pictures/collection/jpd/item/2009630173/",
+        "http://www.loc.gov/resource/jpd.01153/",
+        "http://lccn.loc.gov/2009630173",
+        "https://hdl.loc.gov/loc.pnp/jpd.01153"
+      ],
+      "campaigns": [],
+      "date": "1878-01-01",
+      "dates": [
+        "1878"
+      ],
+      "description": [
+        "1 drawing : ink ; 5.4 x 9.2 (image), 9.7 x 13.9 cm (sheet) | Drawing shows carpenters using a hand plane, adz, and a chalk line."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-11-12T13:18:52.429Z",
+      "group": [
+        "jpd",
+        "catalog-split-15",
+        "catalog",
+        "japanese-fine-prints-pre-1915",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2009630173/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01153_150px.jpg#h=150&w=103",
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01153t.gif#h=150&w=103",
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01153r.jpg#h=640&w=440",
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01153v.jpg#h=1024&w=705"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "japan"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2022-11-04t15:39:12",
+        "2009630173",
+        "http://www.loc.gov/item/15596228"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "fine prints: japanese, pre-1915",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 33.972454,
+      "shelf_id": "FP 2 - JPD, no. 1072 (A size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "carpenters",
+        "manners & customs",
+        "hand tools",
+        "ink drawings",
+        "japanese",
+        "carpentry",
+        "japan"
+      ],
+      "timestamp": "2022-11-12T13:29:46.026Z",
+      "title": "Carpenters at work",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2009630173/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2009630174/",
+        "http://www.loc.gov/item/2009630174/",
+        "http://www.loc.gov/pictures/item/2009630174/",
+        "https://www.loc.gov/pictures/collection/jpd/item/2009630174/",
+        "http://www.loc.gov/pictures/collection/jpd/item/2009630174/",
+        "http://www.loc.gov/resource/jpd.01154/",
+        "http://lccn.loc.gov/2009630174",
+        "https://hdl.loc.gov/loc.pnp/jpd.01154"
+      ],
+      "campaigns": [],
+      "date": "1878-01-01",
+      "dates": [
+        "1878"
+      ],
+      "description": [
+        "1 drawing : ink ; 7 x 9.1 (image), 13.6 x 19.3 cm (sheet) | Drawing shows two men using rods suspended by ropes to hit and force materials through a large press to extract oil."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-11-12T13:18:52.429Z",
+      "group": [
+        "jpd",
+        "catalog-split-00",
+        "catalog",
+        "japanese-fine-prints-pre-1915",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2009630174/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01154_150px.jpg#h=103&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01154t.gif#h=103&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01154r.jpg#h=440&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01154v.jpg#h=704&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "japan"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2009630174",
+        "http://www.loc.gov/item/15596250",
+        "2022-11-04t15:46:38"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "fine prints: japanese, pre-1915",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 33.972454,
+      "shelf_id": "FP 2 - JPD, no. 1073 (A size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "oils & fats",
+        "manners & customs",
+        "japanese",
+        "laborers",
+        "presses",
+        "ink drawings",
+        "japan"
+      ],
+      "timestamp": "2022-11-12T13:29:46.026Z",
+      "title": "Oil press",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2009630174/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2009630180/",
+        "http://www.loc.gov/item/2009630180/",
+        "http://www.loc.gov/pictures/item/2009630180/",
+        "https://www.loc.gov/pictures/collection/jpd/item/2009630180/",
+        "http://www.loc.gov/pictures/collection/jpd/item/2009630180/",
+        "http://www.loc.gov/resource/jpd.01160/",
+        "http://lccn.loc.gov/2009630180",
+        "https://hdl.loc.gov/loc.pnp/jpd.01160"
+      ],
+      "campaigns": [],
+      "date": "1878-01-01",
+      "dates": [
+        "1878"
+      ],
+      "description": [
+        "1 drawing : ink ; 6.7 x 9.1 (image), 10.1 x 13.4 cm (sheet) | Drawing shows an alcove with plant stand and vase, hanging vase, and hanging painted screen."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-11-12T13:18:52.429Z",
+      "group": [
+        "jpd",
+        "catalog-split-13",
+        "catalog",
+        "japanese-fine-prints-pre-1915",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2009630180/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01160_150px.jpg#h=150&w=104",
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01160t.gif#h=150&w=104",
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01160r.jpg#h=640&w=443",
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01160v.jpg#h=1024&w=709"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "japan"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/15596615",
+        "2022-11-07t12:45:12",
+        "2009630180"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "fine prints: japanese, pre-1915",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 33.972454,
+      "shelf_id": "FP 2 - JPD, no. 1079 (A size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "interior decoration",
+        "manners & customs",
+        "alcoves",
+        "ink drawings",
+        "japanese",
+        "japan"
+      ],
+      "timestamp": "2022-11-12T13:29:46.026Z",
+      "title": "Toko [i.e., an alcove] with customary ornaments",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2009630180/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2009630181/",
+        "http://www.loc.gov/item/2009630181/",
+        "http://www.loc.gov/pictures/item/2009630181/",
+        "https://www.loc.gov/pictures/collection/jpd/item/2009630181/",
+        "http://www.loc.gov/pictures/collection/jpd/item/2009630181/",
+        "http://www.loc.gov/resource/jpd.01161/",
+        "http://lccn.loc.gov/2009630181",
+        "https://hdl.loc.gov/loc.pnp/jpd.01161"
+      ],
+      "campaigns": [],
+      "date": "1878-01-01",
+      "dates": [
+        "1878"
+      ],
+      "description": [
+        "1 drawing : ink, color ; 8.1 x 5.2 cm (sheet) | Drawing shows a hand holding a small paint brush."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-11-12T13:18:52.429Z",
+      "group": [
+        "jpd",
+        "catalog-split-14",
+        "catalog",
+        "japanese-fine-prints-pre-1915",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2009630181/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01161_150px.jpg#h=150&w=102",
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01161t.gif#h=150&w=102",
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01161r.jpg#h=640&w=434",
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01161v.jpg#h=1024&w=694"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "japan"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2022-11-07t12:49:15",
+        "2009630181",
+        "http://www.loc.gov/item/15596629"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "fine prints: japanese, pre-1915",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 33.972454,
+      "shelf_id": "FP 2 - JPD, no. 1080 (A size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "paints & varnishes",
+        "manners & customs",
+        "painting",
+        "color",
+        "ink drawings",
+        "japanese",
+        "hands",
+        "japan"
+      ],
+      "timestamp": "2022-11-12T13:29:46.026Z",
+      "title": "Fine lacquer painting, fig. 4",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2009630181/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2009630195/",
+        "http://www.loc.gov/item/2009630195/",
+        "http://www.loc.gov/pictures/item/2009630195/",
+        "https://www.loc.gov/pictures/collection/jpd/item/2009630195/",
+        "http://www.loc.gov/pictures/collection/jpd/item/2009630195/",
+        "http://www.loc.gov/resource/jpd.01168/",
+        "http://lccn.loc.gov/2009630195",
+        "https://hdl.loc.gov/loc.pnp/jpd.01168"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "katsushika, isai"
+      ],
+      "date": "1878-01-01",
+      "dates": [
+        "1878"
+      ],
+      "description": [
+        "1 drawing : ink ; 1.3 x 10.3 (image), 8.8 x 13.5 cm (sheet)"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-11-12T13:18:52.429Z",
+      "group": [
+        "jpd",
+        "catalog-split-03",
+        "catalog",
+        "japanese-fine-prints-pre-1915",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2009630195/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01168_150px.jpg#h=150&w=101",
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01168t.gif#h=150&w=101",
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01168r.jpg#h=640&w=433",
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01168v.jpg#h=1024&w=692"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "japan"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/15606300",
+        "2022-11-07t13:25:51",
+        "2009630195"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "fine prints: japanese, pre-1915",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 33.972454,
+      "shelf_id": "FP 2 - JPD, no. 1087 (A size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "manners & customs",
+        "japanese",
+        "ink drawings",
+        "fishing",
+        "domestic life",
+        "men",
+        "japan"
+      ],
+      "timestamp": "2022-11-12T13:29:46.026Z",
+      "title": "[Vignette of a man fishing with long pole from the bank of a river]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2009630195/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2009630197/",
+        "http://www.loc.gov/item/2009630197/",
+        "http://www.loc.gov/pictures/item/2009630197/",
+        "https://www.loc.gov/pictures/collection/jpd/item/2009630197/",
+        "http://www.loc.gov/pictures/collection/jpd/item/2009630197/",
+        "http://www.loc.gov/resource/jpd.01170/",
+        "http://lccn.loc.gov/2009630197",
+        "https://hdl.loc.gov/loc.pnp/jpd.01170"
+      ],
+      "campaigns": [],
+      "date": "1878-01-01",
+      "dates": [
+        "1878"
+      ],
+      "description": [
+        "1 drawing : ink ; 6.1 x 6.1 cm (image), 13.5 x 10.5 cm (sheet)"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-11-12T13:18:52.429Z",
+      "group": [
+        "jpd",
+        "catalog-split-05",
+        "catalog",
+        "japanese-fine-prints-pre-1915",
+        "main-catalog-split-05",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2009630197/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01170_150px.jpg#h=150&w=102",
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01170t.gif#h=150&w=102",
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01170r.jpg#h=640&w=435",
+        "https://tile.loc.gov/storage-services/service/pnp/jpd/01100/01170v.jpg#h=1024&w=695"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "japan"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/15606399",
+        "2022-11-07t13:29:01",
+        "2009630197"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "fine prints: japanese, pre-1915",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 33.972454,
+      "shelf_id": "FP 2 - JPD, no. 1089 (A size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "graphic design",
+        "manners & customs",
+        "women",
+        "metalwork",
+        "ink drawings",
+        "japanese",
+        "gods",
+        "japan"
+      ],
+      "timestamp": "2022-11-12T13:29:46.026Z",
+      "title": "[Metalwork design in a circle showing a woman with wings, possibly a religious figure, holding stick and small drum]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2009630197/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "jpd",
+      "catalog-split-05",
+      "catalog",
+      "japanese-fine-prints-pre-1915",
+      "main-catalog-split-05",
+      "main-catalog",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "catalog-split-13",
+      "main-catalog-split-13",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "wdlpartner",
+      "catalog-split-09",
+      "world-digital-library-partners",
+      "main-catalog-split-09",
+      "paprika-gdc",
+      "ll/llserialset/mono",
+      "congressional-serial-set-document-level",
+      "gdc/scd",
+      "catalog-split-04",
+      "general-collections-scan-on-demand-new",
+      "main-catalog-split-04"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "jpd.02899",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.7137448787689209,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/jpd.02899/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/jpd.02899/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1734773634.4481575,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 104,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 2120,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/jpd/02800/02899_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 104,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 9265,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/jpd/02800/02899t.gif",
+      "width": 150
+    },
+    {
+      "height": 445,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 20737,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/jpd/02800/02899r.jpg",
+      "width": 640
+    },
+    {
+      "height": 712,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 68054,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/jpd/02800/02899v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=jpd&pk=2009630296&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2021667476",
+        "https://hdl.loc.gov/loc.wdl/wdl.14460",
+        "http://www.loc.gov/resource/wdl.14460/",
+        "http://www.loc.gov/resource/gdcwdl.wdl_14460/",
+        "http://www.loc.gov/item/2021667476/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "overseas development company limited (japan)"
+      ],
+      "date": "1926-01-01",
+      "dates": [
+        "1926"
+      ],
+      "description": [
+        "In 1922 the Japanese Home Ministry proposed an array of measures to encourage emigration to São Paulo, Brazil in order to solve the problems of overpopulation and unemployment in Japan. These included the dissemination of information about emigration through subsidies to a private emigration company (assumed to be the Overseas Development Company, established in 1916); the provision of educational and sanitary facilities in overseas destinations; discussions about industrial law; and financial assistance for travel by emigrants and for housing construction and living expenses. The Foreign Ministry, which was the main authority in charge of emigration, was opposed to providing financial assistance for travel expenses, as it believed that this would damage Japan's external relations without increasing the number of emigrants. It therefore decided not to fund emigrant travel expenses in 1923. In February 1924, government support for emigrants was increased to 200 yen for each person above the age of 12 years (20,000 yen for 100 people) as a temporary measure to incentivize victims of the Great Kanto Earthquake of September 1, 1923. The increase resulted in many more applicants seeking to emigrate to South America. The Overseas Development Company's business activities included emigration, reclamation, investment, and education. It dealt frequently with emigration to Brazil, and used this pamphlet to market itself and provide useful information. The document contained information about the required qualifications for emigration, details about jobs (salary and other matters), travel expenses, necessary preparations, application procedures, and financial support available for travel expenses."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-07-24T02:07:13.640Z",
+      "group": [
+        "wdlpartner",
+        "catalog-split-09",
+        "catalog",
+        "world-digital-library-partners",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2021667476/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:46:0:wdl_14460:002/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:46:0:wdl_14460:002/full/pct:12.5/0/default.jpg#h=184&w=372",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:46:0:wdl_14460:002/full/pct:25/0/default.jpg#h=369&w=744",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:46:0:wdl_14460:002/full/pct:50/0/default.jpg#h=738&w=1489",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:14:46:0:wdl_14460:002/full/pct:100/0/default.jpg#h=1477&w=2979"
+      ],
+      "index": 1,
+      "language": [
+        "japanese"
+      ],
+      "location": [
+        "brazil",
+        "japan"
+      ],
+      "mime_type": [
+        "application/zip",
+        "application/pdf",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2021667476",
+        "2021-05-27t18:17:47"
+      ],
+      "online_format": [
+        "compressed data",
+        "pdf",
+        "image"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "world digital library - partner items",
+        "catalog",
+        "national diet library",
+        "world digital library"
+      ],
+      "score": 12.71867,
+      "shelf_id": "http://lccn.loc.gov/2021667476",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "emigration and immigration",
+        "brazil",
+        "japanese",
+        "emigrants",
+        "japan"
+      ],
+      "timestamp": "2022-09-11T21:31:35.766Z",
+      "title": "Guidance for Families on How to Emigrate to Brazil.",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2021667476/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://hdl.loc.gov/loc.wdl/wdl.7377",
+        "http://www.loc.gov/resource/wdl.7377/",
+        "http://www.loc.gov/item/2021666356/",
+        "http://lccn.loc.gov/2021666356",
+        "http://www.loc.gov/resource/gdcwdl.wdl_07377/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "federation of immigration associations"
+      ],
+      "date": "1932-01-01",
+      "dates": [
+        "1932"
+      ],
+      "description": [
+        "This brochure was published by the Federation of Immigration Associations, which was supported by the Japanese government for the purpose of recruiting emigrants from Japan to other countries. It explains the conditions, preparations, and application process for emigration to Brazil. Japanese emigration to Brazil began in 1908, and reached its peak in 1926--35. Following the abolition of slavery in Brazil in 1888, the government of Brazil looked to immigrants to address a labor shortage in the increasingly important coffee industry. European immigrants, particularly Italians, filled the gap at first, but were later joined by immigrants from Japan, where rural poverty was widespread and the economy was struggling to modernize and to reabsorb soldiers returning after the Russo-Japanese War (1904--5)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-07-23T21:00:31.182Z",
+      "group": [
+        "wdlpartner",
+        "catalog-split-05",
+        "catalog",
+        "world-digital-library-partners",
+        "main-catalog-split-05",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2021666356/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:07:37:7:wdl_07377:042-005/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:07:37:7:wdl_07377:042-005/full/pct:12.5/0/default.jpg#h=274&w=369",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:07:37:7:wdl_07377:042-005/full/pct:25/0/default.jpg#h=548&w=738",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:07:37:7:wdl_07377:042-005/full/pct:50/0/default.jpg#h=1096&w=1476",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:07:37:7:wdl_07377:042-005/full/pct:100/0/default.jpg#h=2192&w=2952"
+      ],
+      "index": 2,
+      "language": [
+        "japanese"
+      ],
+      "location": [
+        "brazil",
+        "japan"
+      ],
+      "mime_type": [
+        "application/zip",
+        "application/pdf",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2021666356",
+        "2021-05-26t11:21:54"
+      ],
+      "online_format": [
+        "compressed data",
+        "pdf",
+        "image"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "world digital library - partner items",
+        "catalog",
+        "national diet library",
+        "world digital library"
+      ],
+      "score": 12.71867,
+      "shelf_id": "http://lccn.loc.gov/2021666356",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "emigration and immigration",
+        "brazil",
+        "japanese",
+        "emigrants",
+        "japan"
+      ],
+      "timestamp": "2022-09-11T21:05:36.571Z",
+      "title": "Guidance for Would-be Homesteaders on How to Emigrate to Brazil (1932 Edition).",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2021666356/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/gdc.0034076741A/",
+        "http://lccn.loc.gov/28031065",
+        "https://hdl.loc.gov/loc.gdc/28031065",
+        "http://www.loc.gov/item/28031065/",
+        "http://www.loc.gov/resource/28031065/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "national committee on american japanese relations",
+        "gulick, sidney lewis"
+      ],
+      "date": "1924",
+      "dates": [
+        "1924"
+      ],
+      "description": [
+        "Also available in digital form."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-08-02T06:56:21.585Z",
+      "group": [
+        "paprika-gdc",
+        "catalog-split-09",
+        "catalog",
+        "main-catalog-split-09"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/28031065/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:gdc:0034076741A:0034076741A_0001/full/pct:25.0/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/public:gdc:0034076741A:0034076741A_0001/full/pct:25.0/0/default.jpg#h=862&w=564",
+        "https://tile.loc.gov/image-services/iiif/public:gdc:0034076741A:0034076741A_0001/full/pct:50.0/0/default.jpg#h=1724&w=1128",
+        "https://tile.loc.gov/image-services/iiif/public:gdc:0034076741A:0034076741A_0001/full/pct:100.0/0/default.jpg#h=3448&w=2256"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "california",
+        "japan"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/jp2",
+        "text/plain",
+        "application/json",
+        "application/pdf"
+      ],
+      "number": [
+        "2023-04-14t11:28:49",
+        "28031065",
+        "5021686"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "selected digitized books",
+        "catalog",
+        "general collections"
+      ],
+      "score": 12.71867,
+      "shelf_id": "JV6884 .G8",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "california",
+        "emigration and immigration",
+        "japan",
+        "japanese"
+      ],
+      "timestamp": "2024-08-02T07:12:02.270Z",
+      "title": "New factors in American Japanese relations and a constructive proposal",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/28031065/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2024771930",
+        "http://www.loc.gov/item/2024771930/",
+        "https://hdl.loc.gov/loc.law/llserialsetce.03275_00_00-035-0036-0000",
+        "http://www.loc.gov/resource/llserialsetce.03275_00_00-035-0036-0000/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "united states. government publishing office",
+        "grover cleveland",
+        "united states. president ( : cleveland)",
+        "united states. department of state",
+        "cleveland, grover",
+        "united states. congress. senate",
+        "united states congress. senate"
+      ],
+      "date": "1895",
+      "dates": [
+        "1895"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-20T07:00:46.407Z",
+      "group": [
+        "ll/llserialset/mono",
+        "catalog-split-03",
+        "catalog",
+        "congressional-serial-set-document-level",
+        "main-catalog-split-03"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2024771930/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/ll/llserialsetce/03/27/5_/00/_0/0/03275_00_00/03275_00_00-035-0036-0000/0627.gif",
+        "https://tile.loc.gov/storage-services/service/ll/llserialsetce/03/27/5_/00/_0/0/03275_00_00/03275_00_00-035-0036-0000/0627.gif#h=150&w=92",
+        "https://tile.loc.gov/image-services/iiif/service:ll:llserialsetce:03:27:5_:00:_0:0:03275_00_00:03275_00_00-035-0036-0000:0627/full/pct:12.5/0/default.jpg#h=436&w=268",
+        "https://tile.loc.gov/image-services/iiif/service:ll:llserialsetce:03:27:5_:00:_0:0:03275_00_00:03275_00_00-035-0036-0000:0627/full/pct:25/0/default.jpg#h=872&w=536",
+        "https://tile.loc.gov/image-services/iiif/service:ll:llserialsetce:03:27:5_:00:_0:0:03275_00_00:03275_00_00-035-0036-0000:0627/full/pct:50/0/default.jpg#h=1745&w=1073",
+        "https://tile.loc.gov/image-services/iiif/service:ll:llserialsetce:03:27:5_:00:_0:0:03275_00_00:03275_00_00-035-0036-0000:0627/full/pct:100/0/default.jpg#h=3491&w=2146"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "china",
+        "japan"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf",
+        "text/plain",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "online resource",
+        "2024-08-29t09:18:43",
+        "2024771930"
+      ],
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "other_title": [
+        "Cited as: S. Ex. Doc. 53-36"
+      ],
+      "partof": [
+        "united states congressional serial set (bound house and senate documents and reports)",
+        "catalog",
+        "united states congressional serial set: serial no. 3275",
+        "law library of congress"
+      ],
+      "score": 12.71867,
+      "shelf_id": "KF12",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "diplomatic documents",
+        "government publication",
+        "foreign relations",
+        "diplomacy",
+        "sino-japanese war",
+        "japanese",
+        "executions and executioners",
+        "spies",
+        "china",
+        "international relations",
+        "legislative materials",
+        "arrest",
+        "exterritoriality",
+        "asylum, right of",
+        "diplomatic and consular service",
+        "torture",
+        "japan"
+      ],
+      "timestamp": "2024-10-20T09:48:40.944Z",
+      "title": "In the Senate of the United States. Message from the President of the United States, in response to the Senate resolution of January 3, 1895, transmitting a report from the Secretary of State, with accompanying papers, relating to the delivery by the United States consul at Shanghai of two Japanese citizens to the Chinese authorities, and other information called for in the resolution. January 15, 1895. -- Ordered to lie on the table and be printed",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2024771930/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/21026702",
+        "http://www.loc.gov/item/21026702/",
+        "https://hdl.loc.gov/loc.gdc/gdcscd.00337708493",
+        "http://www.loc.gov/resource/gdcscd.00337708493/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "japanese exclusion league of california",
+        "mcclatchy, valentine stuart"
+      ],
+      "date": "1921-01-01",
+      "dates": [
+        "1921"
+      ],
+      "description": [
+        "Also available in digital form on the Library of Congress Web site."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-01T15:19:06.412Z",
+      "group": [
+        "gdc/scd",
+        "catalog-split-04",
+        "catalog",
+        "general-collections-scan-on-demand-new",
+        "main-catalog-split-04",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/21026702/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gdc/gdcscd/00/33/77/08/49/3/00337708493/0001.gif",
+        "https://tile.loc.gov/storage-services/service/gdc/gdcscd/00/33/77/08/49/3/00337708493/0001.gif#h=150&w=97",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcscd:00:33:77:08:49:3:00337708493:0001/full/pct:12.5/0/default.jpg#h=342&w=221",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcscd:00:33:77:08:49:3:00337708493:0001/full/pct:25/0/default.jpg#h=684&w=443",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcscd:00:33:77:08:49:3:00337708493:0001/full/pct:50/0/default.jpg#h=1369&w=886",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcscd:00:33:77:08:49:3:00337708493:0001/full/pct:100/0/default.jpg#h=2738&w=1772"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "california",
+        "united states",
+        "japan"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "21026702",
+        "2021-12-17t16:45:48"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "catalog",
+        "general collections"
+      ],
+      "score": 12.71867,
+      "shelf_id": "JV6884 .M3 1921",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "emigration and immigration",
+        "united states",
+        "california",
+        "japanese",
+        "japan"
+      ],
+      "timestamp": "2022-12-10T09:01:21.889Z",
+      "title": "Japanese immigration and colonization.",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/21026702/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2020719555",
+        "http://www.loc.gov/item/2020719555/",
+        "https://hdl.loc.gov/loc.gdc/gdcebookspublic.2020719555",
+        "http://www.loc.gov/resource/gdcebookspublic.2020719555/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "niehaus, andreas",
+        "tagsold, christian"
+      ],
+      "date": "2016-01-01",
+      "dates": [
+        "2016"
+      ],
+      "description": [
+        "Includes bibliographical references. Description based on print version record; resource not viewed."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-11-19T15:28:46.050Z",
+      "group": [
+        "gdc/scd",
+        "catalog-split-04",
+        "catalog",
+        "general-collections-scan-on-demand-new",
+        "main-catalog-split-04",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020719555/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/95/55/2020719555/2020719555.gif",
+        "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/20/71/95/55/2020719555/2020719555.gif#h=440&w=310"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "fukushima",
+        "ken",
+        "foreign coutries",
+        "japan"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "number": [
+        "online resource",
+        "2022-11-04t14:25:06",
+        "2020719555"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "other_title": [
+        "Japanese outside Japan and the triple catastrophy of March 2011"
+      ],
+      "partof": [
+        "open access books",
+        "general collections",
+        "catalog"
+      ],
+      "score": 12.71867,
+      "shelf_id": "HV555.J3",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "foreign coutries",
+        "accidents",
+        "social aspects",
+        "disaster relief",
+        "tohoku earthquake and tsunami, japan",
+        "nuclear power plants",
+        "japanese",
+        "disasters",
+        "japan",
+        "fukushima-ken"
+      ],
+      "timestamp": "2022-12-10T08:58:41.844Z",
+      "title": "Diaspora and disaster : Japanese outside Japan and the triple catastrophy of March 2011",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2020719555/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"https://www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "digital file from original print",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/jpd/02800/02899_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/jpd.02899/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from original print",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/jpd/02800/02899_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/jpd.02899/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1734773635162,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/jpd.02899/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/jpd.02899/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/jpd.02899/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/jpd.02899/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/jpd.02899/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/jpd.02899/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/jpd.02899/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/jpd.02899/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/jpd.02899/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/jpd.02899/?fo=json&st=text"
+  }
+}

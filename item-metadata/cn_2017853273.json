@@ -1,0 +1,1756 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Siegel, A. S., photographer. (1943) <cite>Bethlehem-Fairfield shipyards, Baltimore, Maryland. A group of workers with their safety goggles</cite>. Maryland United States Baltimore, 1943. May. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2017853273/.",
+    "chicago": "Siegel, Arthur S, photographer. <cite>Bethlehem-Fairfield shipyards, Baltimore, Maryland. A group of workers with their safety goggles</cite>. Maryland United States Baltimore, 1943. May. Photograph. https://www.loc.gov/item/2017853273/.",
+    "mla": "Siegel, Arthur S, photographer. <cite>Bethlehem-Fairfield shipyards, Baltimore, Maryland. A group of workers with their safety goggles</cite>. May. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2017853273/&gt;."
+  },
+  "item": {
+    "_version_": 1731158404422959104,
+    "access_restricted": false,
+    "aka": [
+      "http://www.loc.gov/pictures/collection/fsa/item/2017853273/",
+      "http://www.loc.gov/item/2017853273/",
+      "http://www.loc.gov/pictures/item/2017853273/",
+      "https://hdl.loc.gov/loc.pnp/fsa.8d18143",
+      "http://www.loc.gov/resource/fsa.8d18143/",
+      "http://lccn.loc.gov/2017853273"
+    ],
+    "call_number": "LC-USW3- 026313-D [P&P] LOT 733 (corresponding photographic print)",
+    "campaigns": [],
+    "contributor_names": [
+      "Siegel, Arthur S., photographer"
+    ],
+    "contributors": [
+      {
+        "siegel, arthur s.": "https://www.loc.gov/search/?fa=contributor:siegel,+arthur+s.&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2017-09-26T04:08:27Z",
+    "created_published": [
+      "1943 May."
+    ],
+    "created_published_date": "1943 May.",
+    "date": "1943-01-01",
+    "dates": [
+      {
+        "1943": "https://www.loc.gov/search/?dates=1943/1943&fo=json"
+      }
+    ],
+    "description": [
+      "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+    ],
+    "digital_id": [
+      "fsa 8d18143 //hdl.loc.gov/loc.pnp/fsa.8d18143"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-09-01T20:21:00.621Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/fsa/item/2017853273/#fsa",
+      "http://lccn.loc.gov/2017853273#catalog-split-06"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Safety film negatives."
+    ],
+    "genre": [
+      "Safety film negatives"
+    ],
+    "group": [
+      "fsa",
+      "catalog-split-06",
+      "catalog",
+      "fsa-owi-black-and-white-negatives",
+      "main-catalog-split-06",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2017853273/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18100/8d18143_150px.jpg#h=115&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18100/8d18143t.gif#h=115&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18100/8d18143r.jpg#h=490&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18100/8d18143v.jpg#h=784&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-USW3- 026313-D [P&P] LOT 733 (corresponding photographic print)",
+      "contributors": [
+        "Siegel, Arthur S., photographer."
+      ],
+      "control_number": "2017853273",
+      "created": "2017-09-26T04:08:27Z",
+      "created_published": "1943 May.",
+      "created_published_date": "1943 May.",
+      "creators": [
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=name&q=Siegel%2C%20Arthur%20S.&co=fsa",
+          "role": "photographer",
+          "title": "Siegel, Arthur S."
+        }
+      ],
+      "date": "1943 May.",
+      "digital_id": [
+        "fsa 8d18143 //hdl.loc.gov/loc.pnp/fsa.8d18143"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=format&q=Safety%20film%20negatives.&co=fsa",
+          "title": "Safety film negatives."
+        }
+      ],
+      "genre": [
+        "Safety film negatives"
+      ],
+      "id": "2017853273",
+      "language": [
+        "eng"
+      ],
+      "link": "//www.loc.gov/pictures/item/2017853273/",
+      "marc": "//www.loc.gov/pictures/item/2017853273/marc/",
+      "medium": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "medium_brief": "1 negative :",
+      "mediums": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "modified": "2017-09-26T04:08:27Z",
+      "notes": [
+        "Title and other information from caption card.",
+        "Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944.",
+        "More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi",
+        "Temp. note: owibatch4",
+        "Film copy on SIS roll 9, frame 157."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2017853273",
+        "https://www.loc.gov/item/owi2001027004/PP"
+      ],
+      "other_control_numbers": [
+        "20032426",
+        "owi2001027004/PP"
+      ],
+      "other_number": "D 329184",
+      "part_of": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)",
+      "place": [
+        {
+          "latitude": "",
+          "link": "//www.loc.gov/pictures/related/?fi=place&q=Maryland--Baltimore&co=fsa",
+          "longitude": "",
+          "title": "Maryland--Baltimore"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-USW3-026313-D (b&w film neg.)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/fsa.8d18143"
+      ],
+      "rights_advisory": "No known restrictions. For information, see U.S. Farm Security Administration/Office of War Information Black & White Photographs https://www.loc.gov/rr/print/res/071_fsab.html",
+      "rights_information": "No known restrictions. For information, see U.S. Farm Security Administration/Office of War Information Black & White Photographs https://www.loc.gov/rr/print/res/071_fsab.html",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18100/8d18143_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18100/8d18143r.jpg",
+      "sort_date": "1943",
+      "source_collection": [
+        "Farm Security Administration - Office of War Information photograph collection (Library of Congress)"
+      ],
+      "source_created": "2001-08-03T00:00:00Z",
+      "source_modified": "2017-09-25T15:38:08Z",
+      "subject_headings": [
+        "United States--Maryland--Baltimore.",
+        "Maryland--Baltimore"
+      ],
+      "subjects": [
+        "United States--Maryland--Baltimore"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18100/8d18143_150px.jpg",
+      "title": "Bethlehem-Fairfield shipyards, Baltimore, Maryland. A group of workers with their safety goggles"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2017853273",
+    "link": "//www.loc.gov/pictures/item/2017853273/",
+    "location": [
+      "maryland",
+      "united states",
+      "baltimore"
+    ],
+    "location_city": [
+      "baltimore"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_state": [
+      "maryland"
+    ],
+    "locations": [
+      {
+        "baltimore": "https://www.loc.gov/search/?fa=location:baltimore&fo=json"
+      },
+      {
+        "maryland": "https://www.loc.gov/search/?fa=location:maryland&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "baltimore": "https://www.loc.gov/search/?fa=location_city:baltimore&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "maryland": "https://www.loc.gov/search/?fa=location_state:maryland&fo=json"
+      }
+    ],
+    "marc": "//www.loc.gov/pictures/item/2017853273/marc/",
+    "medium": [
+      "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+    ],
+    "medium_brief": "1 negative :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2017-09-26T04:08:27Z",
+    "notes": [
+      "Title and other information from caption card.",
+      "Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944.",
+      "More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi",
+      "Temp. note: owibatch4",
+      "Film copy on SIS roll 9, frame 157."
+    ],
+    "number": [
+      "http://www.loc.gov/item/20032426",
+      "http://www.loc.gov/item/owi2001027004/pp",
+      "2017853273",
+      "http://www.loc.gov/item/2017853273",
+      "2017-09-25t15:38:08"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/20032426",
+      "http://www.loc.gov/item/owi2001027004/pp",
+      "http://www.loc.gov/item/2017853273"
+    ],
+    "number_lccn": [
+      "2017853273"
+    ],
+    "number_source_modified": [
+      "2017-09-25t15:38:08"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "20032426",
+      "owi2001027004/PP"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2017853273/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2017853273/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2017853273/dc"
+      }
+    ],
+    "other_number": "D 329184",
+    "partof": [
+      {
+        "count": 82,
+        "title": "lot 733",
+        "url": "https://www.loc.gov/search/?fa=partof:lot+733&fo=json"
+      },
+      {
+        "count": 171046,
+        "title": "farm security administration/office of war information black-and-white negatives",
+        "url": "https://www.loc.gov/collections/fsa-owi-black-and-white-negatives/?fo=json"
+      },
+      {
+        "count": 437343,
+        "title": "american memory",
+        "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+      },
+      {
+        "count": 949513,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1082837,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1592516,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "//www.loc.gov/pictures/related/?fi=place&q=Maryland--Baltimore&co=fsa",
+        "longitude": "",
+        "title": "Maryland--Baltimore"
+      }
+    ],
+    "related": {
+      "group_record": "//www.loc.gov/pictures/search/?q=LOT 733&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+      "neighbors": "//www.loc.gov/pictures/related/?&co=fsa&pk=2017853273&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-USW3-026313-D (b&w film neg.)",
+    "reproductions": [
+      "<p> If an image is displaying, you can download it yourself. (Some images display only as thumbnails outside the Library of Congress because of rights considerations, but you have access to larger size images on site.) </p>\n<p> Alternatively, you can purchase copies of various types through Library  of Congress Duplication Services. </p>\n<ol class=\"margin-bottom-single-li\">\n\t<li> <strong>If a digital image is displaying:</strong> The qualities of the digital image partially depend on whether it was made from the original or an intermediate such as a copy negative or transparency. If the Reproduction Number field above includes a reproduction number that starts with LC-DIG..., then there is a digital image that was made directly from the original and is of sufficient resolution for most publication    purposes. </li>\n\t<li> <strong>If there is information listed in the Reproduction Number field above:</strong> You can use the reproduction number to purchase a copy from Duplication Services.  It will be made from the source listed in the parentheses after  the number.\n\t\t If only black-and-white (\"b&amp;w\") sources are listed and you desire a copy showing color or tint (assuming the original has any), you can generally purchase a quality copy of the original in color by citing the Call Number listed above and including the catalog record (\"About This Item\") with your request.\n\t</li>\n\t<li> <strong>If there is no information listed in the Reproduction Number field above:</strong> You can generally purchase a quality copy through Duplication Services. Cite the Call Number listed above and include the catalog record (\"About This Item\") with your request. </li>\n</ol>\n<p> Price lists, contact information, and order forms are available on the <a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>. </p>\n<h4>Expect Delays in Service of Nitrate Negatives </h4>\n<p>Reproductions of all types are available, but Duplication Services anticipates an  8-10 week turnaround in completing orders, as all negatives must be reproduced at  their off-site, cold storage facility. </p>\n<p> Clues that an FSA/OWI/OEM image may be affected are:<br />\n\t<strong>Medium</strong> field says \"1 negative : nitrate\" OR <br />\n\t<strong>Reproduction Number</strong> field begins with: LC-USF33- </p>\n<p> If either is the case, you may wish to consult with Prints and Photographs Division reference staff (202-707-6394). In certain instances, duplicate negatives are available for copying. </p>\n"
+    ],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/fsa.8d18143"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from intermediary roll film",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18100/8d18143_150px.jpg",
+        "url": "https://www.loc.gov/resource/fsa.8d18143/"
+      }
+    ],
+    "rights": [
+      "<p>The contents of the Library of Congress Farm Security Administration/Office of War Information Black-and-White Negatives are in the public domain and are free to use and reuse.</p>\r\n<p> Credit Line: Library of Congress, Prints &amp; Photographs Division, Farm Security Administration/Office of War Information Black-and-White Negatives.</p>\r\n<p>For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: <a href=\"https://www.loc.gov/rr/print/res/071_fsab.html\">U.S. Farm Security Administration/Office of War Information Black &amp; White Photographs - Rights and Restrictions Information</a>\r\n</p>\r\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a> </p>\r\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>"
+    ],
+    "rights_advisory": "No known restrictions. For information, see U.S. Farm Security Administration/Office of War Information Black & White Photographs https://www.loc.gov/rr/print/res/071_fsab.html",
+    "rights_information": "No known restrictions. For information, see U.S. Farm Security Administration/Office of War Information Black & White Photographs https://www.loc.gov/rr/print/res/071_fsab.html",
+    "score": 19.206085,
+    "shard": "00",
+    "shelf_id": "LC-USW3- 026313-D [P&P] LOT 733 (corresponding photographic print)",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1943",
+    "source_collection": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)",
+    "source_created": "2001-08-03T00:00:00Z",
+    "source_modified": "2017-09-25T15:38:08Z",
+    "subject": [
+      "maryland",
+      "united states",
+      "safety film negatives",
+      "baltimore"
+    ],
+    "subject_headings": [
+      "United States--Maryland--Baltimore"
+    ],
+    "subjects": [
+      {
+        "baltimore": "https://www.loc.gov/search/?fa=subject:baltimore&fo=json"
+      },
+      {
+        "maryland": "https://www.loc.gov/search/?fa=subject:maryland&fo=json"
+      },
+      {
+        "safety film negatives": "https://www.loc.gov/search/?fa=subject:safety+film+negatives&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18100/8d18143_150px.jpg",
+    "timestamp": "2022-04-26T08:21:47.786Z",
+    "title": "Bethlehem-Fairfield shipyards, Baltimore, Maryland. A group of workers with their safety goggles",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2017853273/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017851936/",
+        "http://www.loc.gov/item/2017851936/",
+        "http://www.loc.gov/pictures/item/2017851936/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8d17177",
+        "http://www.loc.gov/resource/fsa.8d17177/",
+        "http://lccn.loc.gov/2017851936"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "siegel, arthur s."
+      ],
+      "date": "1943-01-01",
+      "dates": [
+        "1943"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:20:54.274Z",
+      "group": [
+        "fsa",
+        "catalog-split-10",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-10",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017851936/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d17000/8d17100/8d17177_150px.jpg#h=115&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d17000/8d17100/8d17177t.gif#h=115&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d17000/8d17100/8d17177r.jpg#h=490&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d17000/8d17100/8d17177v.jpg#h=784&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "maryland",
+        "united states",
+        "baltimore"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2017851936",
+        "2017851936",
+        "http://www.loc.gov/item/20030985",
+        "2017-09-25t15:04:08",
+        "http://www.loc.gov/item/owi2001025666/pp"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 733",
+        "farm security administration/office of war information black-and-white negatives",
+        "prints and photographs division",
+        "american memory",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 42.83861,
+      "shelf_id": "LC-USW3- 024493-D [P&P] LOT 733 (Location of corresponding print.) (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "maryland",
+        "united states",
+        "safety film negatives",
+        "baltimore"
+      ],
+      "timestamp": "2022-04-26T08:07:36.506Z",
+      "title": "Baltimore, Maryland. A group of workers at the Bethlehem-Fairfield shipyards",
+      "url": "https://www.loc.gov/item/2017851936/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017851180/",
+        "http://www.loc.gov/item/2017851180/",
+        "http://www.loc.gov/pictures/item/2017851180/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8d16797",
+        "http://www.loc.gov/resource/fsa.8d16797/",
+        "http://lccn.loc.gov/2017851180"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "siegel, arthur s."
+      ],
+      "date": "1943-01-01",
+      "dates": [
+        "1943"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:20:50.476Z",
+      "group": [
+        "fsa",
+        "catalog-split-01",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-01",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017851180/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d16000/8d16700/8d16797_150px.jpg#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d16000/8d16700/8d16797t.gif#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d16000/8d16700/8d16797r.jpg#h=496&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d16000/8d16700/8d16797v.jpg#h=794&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "maryland",
+        "united states",
+        "baltimore"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017-09-22t12:29:27",
+        "http://www.loc.gov/item/2017851180",
+        "2017851180",
+        "http://www.loc.gov/item/20027721",
+        "http://www.loc.gov/item/owi2001024910/pp"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 733",
+        "farm security administration/office of war information black-and-white negatives",
+        "prints and photographs division",
+        "american memory",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 42.83861,
+      "shelf_id": "LC-USW3- 023625-D [P&P] LOT 733 (Location of corresponding print.) (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "maryland",
+        "united states",
+        "safety film negatives",
+        "baltimore"
+      ],
+      "timestamp": "2022-04-26T08:00:17.379Z",
+      "title": "Bethlehem-Fairfield shipyards, Baltimore, Maryland. Lunch time",
+      "url": "https://www.loc.gov/item/2017851180/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017851181/",
+        "http://www.loc.gov/item/2017851181/",
+        "http://www.loc.gov/pictures/item/2017851181/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8d16798",
+        "http://www.loc.gov/resource/fsa.8d16798/",
+        "http://lccn.loc.gov/2017851181"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "siegel, arthur s."
+      ],
+      "date": "1943-01-01",
+      "dates": [
+        "1943"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:20:50.476Z",
+      "group": [
+        "fsa",
+        "catalog-split-02",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017851181/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d16000/8d16700/8d16798_150px.jpg#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d16000/8d16700/8d16798t.gif#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d16000/8d16700/8d16798r.jpg#h=496&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d16000/8d16700/8d16798v.jpg#h=794&w=1024"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "maryland",
+        "united states",
+        "baltimore"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017851181",
+        "2017-09-22t12:29:28",
+        "http://www.loc.gov/item/20027722",
+        "http://www.loc.gov/item/2017851181",
+        "http://www.loc.gov/item/owi2001024911/pp"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 733",
+        "farm security administration/office of war information black-and-white negatives",
+        "prints and photographs division",
+        "american memory",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 42.83861,
+      "shelf_id": "LC-USW3- 023626-D [P&P] LOT 733 (Location of corresponding print.) (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "maryland",
+        "united states",
+        "safety film negatives",
+        "baltimore"
+      ],
+      "timestamp": "2022-04-26T08:00:17.379Z",
+      "title": "Bethlehem-Fairfield shipyards, Baltimore, Maryland. Shipyard workers",
+      "url": "https://www.loc.gov/item/2017851181/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017851182/",
+        "http://www.loc.gov/item/2017851182/",
+        "http://www.loc.gov/pictures/item/2017851182/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8d16799",
+        "http://www.loc.gov/resource/fsa.8d16799/",
+        "http://lccn.loc.gov/2017851182"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "siegel, arthur s."
+      ],
+      "date": "1943-01-01",
+      "dates": [
+        "1943"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:20:50.476Z",
+      "group": [
+        "fsa",
+        "catalog-split-03",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017851182/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d16000/8d16700/8d16799_150px.jpg#h=117&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d16000/8d16700/8d16799t.gif#h=117&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d16000/8d16700/8d16799r.jpg#h=498&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d16000/8d16700/8d16799v.jpg#h=797&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "maryland",
+        "united states",
+        "baltimore"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017851182",
+        "2017-09-22t12:29:28",
+        "http://www.loc.gov/item/2017851182",
+        "http://www.loc.gov/item/owi2001024912/pp",
+        "http://www.loc.gov/item/20027723"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 733",
+        "farm security administration/office of war information black-and-white negatives",
+        "prints and photographs division",
+        "american memory",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 42.83861,
+      "shelf_id": "LC-USW3- 023627-D [P&P] LOT 733 (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "maryland",
+        "united states",
+        "safety film negatives",
+        "baltimore"
+      ],
+      "timestamp": "2022-04-26T08:00:17.379Z",
+      "title": "Bethlehem-Fairfield shipyards, Baltimore, Maryland. Lunch time",
+      "url": "https://www.loc.gov/item/2017851182/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017851183/",
+        "http://www.loc.gov/item/2017851183/",
+        "http://www.loc.gov/pictures/item/2017851183/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8d16801",
+        "http://www.loc.gov/resource/fsa.8d16801/",
+        "http://lccn.loc.gov/2017851183"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "siegel, arthur s."
+      ],
+      "date": "1943-01-01",
+      "dates": [
+        "1943"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:20:50.476Z",
+      "group": [
+        "fsa",
+        "catalog-split-04",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-04",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017851183/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d16000/8d16800/8d16801_150px.jpg#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d16000/8d16800/8d16801t.gif#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d16000/8d16800/8d16801r.jpg#h=496&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d16000/8d16800/8d16801v.jpg#h=794&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "maryland",
+        "united states",
+        "baltimore"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/20027724",
+        "http://www.loc.gov/item/owi2001024913/pp",
+        "http://www.loc.gov/item/2017851183",
+        "2017-09-22t12:29:29",
+        "2017851183"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 733",
+        "farm security administration/office of war information black-and-white negatives",
+        "prints and photographs division",
+        "american memory",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 42.83861,
+      "shelf_id": "LC-USW3- 023628-D [P&P] LOT 733 (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "maryland",
+        "united states",
+        "safety film negatives",
+        "baltimore"
+      ],
+      "timestamp": "2022-04-26T08:00:17.379Z",
+      "title": "Bethlehem-Fairfield shipyards, Baltimore, Maryland. Lunch time discussion",
+      "url": "https://www.loc.gov/item/2017851183/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017851212/",
+        "http://www.loc.gov/item/2017851212/",
+        "http://www.loc.gov/pictures/item/2017851212/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8d16830",
+        "http://www.loc.gov/resource/fsa.8d16830/",
+        "http://lccn.loc.gov/2017851212"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "siegel, arthur s."
+      ],
+      "date": "1943-01-01",
+      "dates": [
+        "1943"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:20:50.476Z",
+      "group": [
+        "fsa",
+        "catalog-split-13",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017851212/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d16000/8d16800/8d16830_150px.jpg#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d16000/8d16800/8d16830t.gif#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d16000/8d16800/8d16830r.jpg#h=496&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d16000/8d16800/8d16830v.jpg#h=794&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "maryland",
+        "united states",
+        "baltimore"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2017851212",
+        "http://www.loc.gov/item/owi2001024942/pp",
+        "2017851212",
+        "2017-09-22t12:29:53",
+        "http://www.loc.gov/item/20027753"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 733",
+        "farm security administration/office of war information black-and-white negatives",
+        "prints and photographs division",
+        "american memory",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 42.83861,
+      "shelf_id": "LC-USW3- 023657-D [P&P] LOT 733 (Location of corresponding print.) (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "maryland",
+        "united states",
+        "safety film negatives",
+        "baltimore"
+      ],
+      "timestamp": "2022-04-26T08:00:17.379Z",
+      "title": "Bethlehem-Fairfield shipyards, Baltimore, Maryland. Bethlehem-Fairfield guards",
+      "url": "https://www.loc.gov/item/2017851212/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "fsa",
+      "catalog-split-06",
+      "catalog",
+      "fsa-owi-black-and-white-negatives",
+      "main-catalog-split-06",
+      "main-catalog",
+      "catalog-split-10",
+      "main-catalog-split-10",
+      "catalog-split-01",
+      "main-catalog-split-01",
+      "catalog-split-02",
+      "main-catalog-split-02",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "catalog-split-04",
+      "main-catalog-split-04",
+      "catalog-split-13",
+      "main-catalog-split-13",
+      "ndnp/iune",
+      "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "fsa.8d18143",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 1.0889580249786377,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/fsa.8d18143/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/fsa.8d18143/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1734773597.3204472,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 240938,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/fsa/8d18000/8d18100/8d18143u.tif",
+      "width": 0
+    },
+    {
+      "height": 115,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 6897,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18100/8d18143_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 115,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 19356,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18100/8d18143t.gif",
+      "width": 150
+    },
+    {
+      "height": 490,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 61991,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18100/8d18143r.jpg",
+      "width": 640
+    },
+    {
+      "height": 784,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 239081,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18100/8d18143v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": "//www.loc.gov/pictures/search/?q=LOT 733&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+    "lot_link": null,
+    "neighbors": "//www.loc.gov/pictures/related/?&co=fsa&pk=2017853273&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/83642426/1839-02-26/ed-1/",
+        "http://www.loc.gov/resource/83642426/1839-02-26/ed-1/"
+      ],
+      "batch": [
+        "iune_albatross_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of illinois at urbana-champaign library, urbana, il"
+      ],
+      "date": "1839-02-26",
+      "dates": [
+        "1839-02-26"
+      ],
+      "description": [
+        "Baltimore;Hennepin, Ill."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-06T01:13:35.459Z",
+      "group": [
+        "ndnp/iune",
+        "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/83642426/1839-02-26/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839022601:0004/full/pct:6.25/0/default.jpg#h=324&w=230",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839022601:0004/full/pct:12.5/0/default.jpg#h=648&w=461"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "illinois",
+        "putnam",
+        "united states",
+        "hennepin",
+        "putnam county",
+        "baltimore",
+        "maryland"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00514151088",
+        "83642426",
+        "1"
+      ],
+      "numeric_shelf_id": 183902261,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "genius of universal emancipation (baltimore;hennepin, ill.) 1826-1839",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 28.06241,
+      "shelf_id": "83642426, 1839-02-26, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "illinois",
+        "https://id.oclc.org/worldcat/entity/e39pbjtxgqxmwqmjmjjwxrhgrq",
+        "putnam",
+        "united states",
+        "hennepin",
+        "antislavery movements",
+        "https://id.oclc.org/worldcat/entity/e39pbjppgfkyyfrk6jqmpym8g3",
+        "baltimore (md.)",
+        "baltimore",
+        "maryland",
+        "https://id.oclc.org/worldcat/entity/e39pbjwtkmqjxwqpym8tgym773",
+        "hennepin (ill.)",
+        "putnam county",
+        "putnam county (ill.)",
+        "newspapers"
+      ],
+      "timestamp": "2024-10-06T01:33:27.298Z",
+      "title": "Genius of universal emancipation (Baltimore;Hennepin, Ill.), February 26, 1839",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/83642426/1839-02-26/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/83642426/1839-03-22/ed-1/",
+        "http://www.loc.gov/resource/83642426/1839-03-22/ed-1/"
+      ],
+      "batch": [
+        "iune_albatross_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of illinois at urbana-champaign library, urbana, il"
+      ],
+      "date": "1839-03-22",
+      "dates": [
+        "1839-03-22"
+      ],
+      "description": [
+        "Baltimore;Hennepin, Ill."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-06T01:13:35.459Z",
+      "group": [
+        "ndnp/iune",
+        "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/83642426/1839-03-22/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839032201:0008/full/pct:6.25/0/default.jpg#h=329&w=236",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839032201:0008/full/pct:12.5/0/default.jpg#h=659&w=472"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "illinois",
+        "putnam",
+        "united states",
+        "hennepin",
+        "putnam county",
+        "baltimore",
+        "maryland"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00514151088",
+        "83642426",
+        "1"
+      ],
+      "numeric_shelf_id": 183903221,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "genius of universal emancipation (baltimore;hennepin, ill.) 1826-1839",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 28.06241,
+      "shelf_id": "83642426, 1839-03-22, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "illinois",
+        "https://id.oclc.org/worldcat/entity/e39pbjtxgqxmwqmjmjjwxrhgrq",
+        "putnam",
+        "united states",
+        "hennepin",
+        "antislavery movements",
+        "https://id.oclc.org/worldcat/entity/e39pbjppgfkyyfrk6jqmpym8g3",
+        "baltimore (md.)",
+        "baltimore",
+        "maryland",
+        "https://id.oclc.org/worldcat/entity/e39pbjwtkmqjxwqpym8tgym773",
+        "hennepin (ill.)",
+        "putnam county",
+        "putnam county (ill.)",
+        "newspapers"
+      ],
+      "timestamp": "2024-10-06T01:33:27.298Z",
+      "title": "Genius of universal emancipation (Baltimore;Hennepin, Ill.), March 22, 1839",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/83642426/1839-03-22/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/83642426/1839-06-28/ed-1/",
+        "http://www.loc.gov/resource/83642426/1839-06-28/ed-1/"
+      ],
+      "batch": [
+        "iune_albatross_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of illinois at urbana-champaign library, urbana, il"
+      ],
+      "date": "1839-06-28",
+      "dates": [
+        "1839-06-28"
+      ],
+      "description": [
+        "Baltimore;Hennepin, Ill."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-06T01:13:35.459Z",
+      "group": [
+        "ndnp/iune",
+        "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/83642426/1839-06-28/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839062801:0012/full/pct:6.25/0/default.jpg#h=326&w=231",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839062801:0012/full/pct:12.5/0/default.jpg#h=653&w=463"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "illinois",
+        "putnam",
+        "united states",
+        "hennepin",
+        "putnam county",
+        "baltimore",
+        "maryland"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00514151088",
+        "83642426",
+        "1"
+      ],
+      "numeric_shelf_id": 183906281,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "genius of universal emancipation (baltimore;hennepin, ill.) 1826-1839",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 28.06241,
+      "shelf_id": "83642426, 1839-06-28, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "illinois",
+        "https://id.oclc.org/worldcat/entity/e39pbjtxgqxmwqmjmjjwxrhgrq",
+        "putnam",
+        "united states",
+        "hennepin",
+        "antislavery movements",
+        "https://id.oclc.org/worldcat/entity/e39pbjppgfkyyfrk6jqmpym8g3",
+        "baltimore (md.)",
+        "baltimore",
+        "maryland",
+        "https://id.oclc.org/worldcat/entity/e39pbjwtkmqjxwqpym8tgym773",
+        "hennepin (ill.)",
+        "putnam county",
+        "putnam county (ill.)",
+        "newspapers"
+      ],
+      "timestamp": "2024-10-06T01:33:27.298Z",
+      "title": "Genius of universal emancipation (Baltimore;Hennepin, Ill.), June 28, 1839",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/83642426/1839-06-28/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/83642426/1839-07-05/ed-1/",
+        "http://www.loc.gov/resource/83642426/1839-07-05/ed-1/"
+      ],
+      "batch": [
+        "iune_albatross_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of illinois at urbana-champaign library, urbana, il"
+      ],
+      "date": "1839-07-05",
+      "dates": [
+        "1839-07-05"
+      ],
+      "description": [
+        "Baltimore;Hennepin, Ill."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-06T01:13:35.459Z",
+      "group": [
+        "ndnp/iune",
+        "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/83642426/1839-07-05/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839070501:0016/full/pct:6.25/0/default.jpg#h=325&w=230",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839070501:0016/full/pct:12.5/0/default.jpg#h=650&w=460"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "illinois",
+        "putnam",
+        "united states",
+        "hennepin",
+        "putnam county",
+        "baltimore",
+        "maryland"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00514151088",
+        "83642426",
+        "1"
+      ],
+      "numeric_shelf_id": 183907051,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "genius of universal emancipation (baltimore;hennepin, ill.) 1826-1839",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 28.06241,
+      "shelf_id": "83642426, 1839-07-05, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "illinois",
+        "https://id.oclc.org/worldcat/entity/e39pbjtxgqxmwqmjmjjwxrhgrq",
+        "putnam",
+        "united states",
+        "hennepin",
+        "antislavery movements",
+        "https://id.oclc.org/worldcat/entity/e39pbjppgfkyyfrk6jqmpym8g3",
+        "baltimore (md.)",
+        "baltimore",
+        "maryland",
+        "https://id.oclc.org/worldcat/entity/e39pbjwtkmqjxwqpym8tgym773",
+        "hennepin (ill.)",
+        "putnam county",
+        "putnam county (ill.)",
+        "newspapers"
+      ],
+      "timestamp": "2024-10-06T01:33:27.298Z",
+      "title": "Genius of universal emancipation (Baltimore;Hennepin, Ill.), July 5, 1839",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/83642426/1839-07-05/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/83642426/1839-07-12/ed-1/",
+        "http://www.loc.gov/resource/83642426/1839-07-12/ed-1/"
+      ],
+      "batch": [
+        "iune_albatross_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of illinois at urbana-champaign library, urbana, il"
+      ],
+      "date": "1839-07-12",
+      "dates": [
+        "1839-07-12"
+      ],
+      "description": [
+        "Baltimore;Hennepin, Ill."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-06T01:13:35.459Z",
+      "group": [
+        "ndnp/iune",
+        "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/83642426/1839-07-12/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839071201:0020/full/pct:6.25/0/default.jpg#h=323&w=225",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839071201:0020/full/pct:12.5/0/default.jpg#h=646&w=450"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "illinois",
+        "putnam",
+        "united states",
+        "hennepin",
+        "putnam county",
+        "baltimore",
+        "maryland"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00514151088",
+        "83642426",
+        "1"
+      ],
+      "numeric_shelf_id": 183907121,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "genius of universal emancipation (baltimore;hennepin, ill.) 1826-1839",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 28.06241,
+      "shelf_id": "83642426, 1839-07-12, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "illinois",
+        "https://id.oclc.org/worldcat/entity/e39pbjtxgqxmwqmjmjjwxrhgrq",
+        "putnam",
+        "united states",
+        "hennepin",
+        "antislavery movements",
+        "https://id.oclc.org/worldcat/entity/e39pbjppgfkyyfrk6jqmpym8g3",
+        "baltimore (md.)",
+        "baltimore",
+        "maryland",
+        "https://id.oclc.org/worldcat/entity/e39pbjwtkmqjxwqpym8tgym773",
+        "hennepin (ill.)",
+        "putnam county",
+        "putnam county (ill.)",
+        "newspapers"
+      ],
+      "timestamp": "2024-10-06T01:33:27.298Z",
+      "title": "Genius of universal emancipation (Baltimore;Hennepin, Ill.), July 12, 1839",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/83642426/1839-07-12/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/83642426/1839-07-19/ed-1/",
+        "http://www.loc.gov/resource/83642426/1839-07-19/ed-1/"
+      ],
+      "batch": [
+        "iune_albatross_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of illinois at urbana-champaign library, urbana, il"
+      ],
+      "date": "1839-07-19",
+      "dates": [
+        "1839-07-19"
+      ],
+      "description": [
+        "Baltimore;Hennepin, Ill."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-06T01:13:35.459Z",
+      "group": [
+        "ndnp/iune",
+        "university-of-illinois-at-urbana-champaign-library-urbana-il-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/83642426/1839-07-19/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839071901:0024/full/pct:6.25/0/default.jpg#h=321&w=226",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:iune:batch_iune_albatross_ver01:data:83642426:00514151088:1839071901:0024/full/pct:12.5/0/default.jpg#h=643&w=453"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "illinois",
+        "putnam",
+        "united states",
+        "hennepin",
+        "putnam county",
+        "baltimore",
+        "maryland"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00514151088",
+        "83642426",
+        "1"
+      ],
+      "numeric_shelf_id": 183907191,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "genius of universal emancipation (baltimore;hennepin, ill.) 1826-1839",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 28.06241,
+      "shelf_id": "83642426, 1839-07-19, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "illinois",
+        "https://id.oclc.org/worldcat/entity/e39pbjtxgqxmwqmjmjjwxrhgrq",
+        "putnam",
+        "united states",
+        "hennepin",
+        "antislavery movements",
+        "https://id.oclc.org/worldcat/entity/e39pbjppgfkyyfrk6jqmpym8g3",
+        "baltimore (md.)",
+        "baltimore",
+        "maryland",
+        "https://id.oclc.org/worldcat/entity/e39pbjwtkmqjxwqpym8tgym773",
+        "hennepin (ill.)",
+        "putnam county",
+        "putnam county (ill.)",
+        "newspapers"
+      ],
+      "timestamp": "2024-10-06T01:33:27.298Z",
+      "title": "Genius of universal emancipation (Baltimore;Hennepin, Ill.), July 19, 1839",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/83642426/1839-07-19/ed-1/"
+    }
+  ],
+  "reproductions": "<p>\n    If an image is displaying, you can download it yourself. (Some images \n    display only as thumbnails outside the Library of Congress because of rights \n    considerations, but you have access to larger size images on site.)\n</p>\n<p>\nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n<p>\n    <ol>\n        <p>\n            <li>\n                <strong>If a digital image is displaying:</strong>\n                The qualities of the digital image \n                partially depend on whether it was made from the original or an  \n                intermediate such as a copy negative or transparency. If the Reproduction \n                Number field above includes a reproduction number that starts with  \n                LC-DIG..., then there is a digital image that was made directly \n                from the original and is of sufficient resolution for most publication\n                purposes.\n            </li>\n        </p>\n        <li>\n            <strong>If there is information listed in the Reproduction Number field above:</strong>\n            You can use the reproduction number to purchase a copy from Duplication \n            Services.  It will be made from the source listed in the parentheses after  \n            the number. \n            <table width=\"75%\" border=\"1\" align=\"center\" cellpadding=\"1\" bordercolor=\"#993333\">\n                <tr>\n                    <td>\n                        <p>\n                            <strong>\n                                <center>\n                                    Expect\n                                    Delays in Service of Nitrate Negatives\n                                </center>\n                            </strong>\n                        </p>\n\t\t\t\t\t\t\n<p>\t\t\t\t\t\t\nReproductions of all types are available, but Duplication Services anticipates an \n8-10 week turnaround in completing orders, as all negatives must be reproduced at \ntheir off-site, cold storage facility.\n</p>\n<p>\nClues that an FSA/OWI/OEM image may be affected are:<br />\n<strong>Medium</strong> field says \"1 negative : nitrate\" OR <br />\n<strong>Reproduction Number</strong> field begins with: LC-USF33- \n</p>\n              \n                        <p>\n                            If either is the case, you may wish to consult\n                            with Prints and Photographs Division reference staff\n                            (202-707-6394). In certain instances, duplicate\n                            negatives are available for copying.\n                        </p>\n                    </td>\n                </tr>\n            </table>\n            <p>\n                If only black-and-white (&quot;b&w&quot;) sources are listed and you \n                desire a copy showing color or tint (assuming the original has any),  \n                you can generally purchase a quality copy of the original in color by \n                citing the Call Number listed above and including the catalog record \n                (&quot;About This Item&quot;) with your request.\n            </p>\n        </li>\n        <li>\n            <strong>If there is no information listed in the Reproduction Number field \n                above:</strong>\n            You can generally purchase a quality copy through \n            Duplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n            your request.\n        </li>\n    </ol>\n</p>\n<p>\n    Price lists, contact information, and order forms are available on the<a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>. \n</p>\n",
+  "resource": {
+    "caption": "digital file from intermediary roll film",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18100/8d18143_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/fsa.8d18143/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from intermediary roll film",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18100/8d18143_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/fsa.8d18143/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1734773598409,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/fsa.8d18143/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/fsa.8d18143/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/fsa.8d18143/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/fsa.8d18143/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/fsa.8d18143/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/fsa.8d18143/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/fsa.8d18143/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/fsa.8d18143/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/fsa.8d18143/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/fsa.8d18143/?fo=json&st=text"
+  }
+}

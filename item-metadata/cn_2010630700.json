@@ -1,0 +1,1738 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Highsmith, C. M., photographer. (2007) <cite>Goggles carried by Lincoln's bodyguards during his train ride through Baltimore. Artifact in the museum collection, National Park Service, Ford's Theatre National Historic Site, Washington, D.C</cite>. Washington D.C. United States District of Columbia Washington D.C, 2007. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2010630700/.",
+    "chicago": "Highsmith, Carol M, photographer. <cite>Goggles carried by Lincoln's bodyguards during his train ride through Baltimore. Artifact in the museum collection, National Park Service, Ford's Theatre National Historic Site, Washington, D.C</cite>. Washington D.C. United States District of Columbia Washington D.C, 2007. Photograph. https://www.loc.gov/item/2010630700/.",
+    "mla": "Highsmith, Carol M, photographer. <cite>Goggles carried by Lincoln's bodyguards during his train ride through Baltimore. Artifact in the museum collection, National Park Service, Ford's Theatre National Historic Site, Washington, D.C</cite>. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2010630700/&gt;."
+  },
+  "item": {
+    "_version_": 1730897053951721473,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2010630700/",
+      "http://www.loc.gov/item/2010630700/",
+      "http://www.loc.gov/pictures/item/2010630700/",
+      "https://www.loc.gov/pictures/collection/highsm/item/2010630700/",
+      "http://www.loc.gov/pictures/collection/highsm/item/2010630700/",
+      "http://www.loc.gov/resource/highsm.04716/",
+      "http://lccn.loc.gov/2010630700",
+      "https://hdl.loc.gov/loc.pnp/highsm.04716"
+    ],
+    "call_number": "LC-DIG-highsm- 04716 (ONLINE) [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Highsmith, Carol M., 1946-, photographer"
+    ],
+    "contributors": [
+      {
+        "highsmith, carol m.": "https://www.loc.gov/search/?fa=contributor:highsmith,+carol+m.&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2016-04-21T07:55:19Z",
+    "created_published": [
+      "2007 May 28."
+    ],
+    "created_published_date": "2007 May 28.",
+    "date": "2007-01-01",
+    "dates": [
+      {
+        "2007": "https://www.loc.gov/search/?dates=2007/2007&fo=json"
+      }
+    ],
+    "description": [
+      "1 photograph : digital, TIFF file, color."
+    ],
+    "digital_id": [
+      "highsm 04716 //hdl.loc.gov/loc.pnp/highsm.04716"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-31T01:10:28.721Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/highsm/item/2010630700/#highsm",
+      "http://lccn.loc.gov/2010630700#catalog-split-03"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Digital photographs--Color--2000-2010."
+    ],
+    "genre": [
+      "Digital photographs--Color--2000-2010"
+    ],
+    "group": [
+      "highsm",
+      "catalog-split-03",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-03",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2010630700/",
+    "image_url": [
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04716/full/pct:6.25/0/default.jpg#h=262&w=365",
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04716/full/pct:12.5/0/default.jpg#h=525&w=730",
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04716/full/pct:25/0/default.jpg#h=1051&w=1461",
+      "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04716/full/pct:50/0/default.jpg#h=2102&w=2922"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-DIG-highsm- 04716 (ONLINE) [P&P]",
+      "contributors": [
+        "Highsmith, Carol M., 1946- photographer."
+      ],
+      "control_number": "2010630700",
+      "created": "2016-04-21T07:55:19Z",
+      "created_published": "2007 May 28.",
+      "created_published_date": "2007 May 28.",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Highsmith%2C%20Carol%20M.%2C%201946-&co=highsm",
+          "role": "photographer",
+          "title": "Highsmith, Carol M., 1946-"
+        }
+      ],
+      "date": "2007 May 28.",
+      "digital_id": [
+        "highsm 04716 //hdl.loc.gov/loc.pnp/highsm.04716"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Digital%20photographs--Color--2000-2010.&co=highsm",
+          "title": "Digital photographs--Color--2000-2010."
+        }
+      ],
+      "genre": [
+        "Digital photographs--Color--2000-2010"
+      ],
+      "id": "2010630700",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2010630700/",
+      "marc": "https://www.loc.gov/pictures/item/2010630700/marc/",
+      "medium": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "medium_brief": "1 photograph :",
+      "mediums": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "modified": "2016-04-21T07:55:20Z",
+      "notes": [
+        "Title from item; part of title from Ford's Theater Collection website.",
+        "Credit line: Carol M. Highsmith's America, Library of Congress, Prints and Photographs Division.",
+        "Gift and purchase; Carol M. Highsmith; 2009; (DLC/PP-2010:031).",
+        "Forms part of: Carol M. Highsmith's America Project in the Carol M. Highsmith Archive."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2010630700",
+        "https://www.loc.gov/item/hig2010000717"
+      ],
+      "other_control_numbers": [
+        "16078568",
+        "hig2010000717"
+      ],
+      "part_of": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=District%20of%20Columbia--Washington%20%28D.C.%29&co=highsm",
+          "longitude": "",
+          "title": "District of Columbia--Washington (D.C.)"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-highsm-04716 (original digital file)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/highsm.04716"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/highsm/04700/04716_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/highsm/04700/04716r.jpg",
+      "sort_date": "2007",
+      "source_collection": [
+        "Highsmith, Carol M., 1946- Carol M. Highsmith Archive."
+      ],
+      "source_created": "2010-01-05T00:00:00Z",
+      "source_modified": "2010-06-25T18:09:18Z",
+      "subject_headings": [
+        "United States--District of Columbia--Washington (D.C.)",
+        "Abraham Lincoln.",
+        "Ford's Theatre.",
+        "America.",
+        "District Of Columbia--Washington (D.C.)"
+      ],
+      "subjects": [
+        "United States--District of Columbia--Washington (D.C.)",
+        "Abraham Lincoln",
+        "Ford's Theatre",
+        "America"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/04700/04716_150px.jpg",
+      "title": "[Goggles carried by Lincoln's bodyguards during his train ride through Baltimore.] Artifact in the museum collection, National Park Service, Ford's Theatre National Historic Site, Washington, D.C."
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2010630700",
+    "link": "https://www.loc.gov/pictures/item/2010630700/",
+    "location": [
+      "washington (d.c.)",
+      "united states",
+      "district of columbia",
+      "washington d.c."
+    ],
+    "location_city": [
+      "washington (d.c.)"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_state": [
+      "district of columbia"
+    ],
+    "locations": [
+      {
+        "district of columbia": "https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      },
+      {
+        "washington (d.c.)": "https://www.loc.gov/search/?fa=location:washington+%28d.c.%29&fo=json"
+      },
+      {
+        "washington d.c.": "https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "washington (d.c.)": "https://www.loc.gov/search/?fa=location_city:washington+%28d.c.%29&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "district of columbia": "https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2010630700/marc/",
+    "medium": [
+      "1 photograph : digital, TIFF file, color."
+    ],
+    "medium_brief": "1 photograph :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2016-04-21T07:55:20Z",
+    "notes": [
+      "Title from item; part of title from Ford's Theater Collection website.",
+      "Credit line: Carol M. Highsmith's America, Library of Congress, Prints and Photographs Division.",
+      "Gift and purchase; Carol M. Highsmith; 2009; (DLC/PP-2010:031).",
+      "Forms part of: Carol M. Highsmith's America Project in the Carol M. Highsmith Archive."
+    ],
+    "number": [
+      "2010630700",
+      "http://www.loc.gov/item/16078568",
+      "2010-06-25t18:09:18",
+      "http://www.loc.gov/item/2010630700",
+      "http://www.loc.gov/item/hig2010000717"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/16078568",
+      "http://www.loc.gov/item/hig2010000717",
+      "http://www.loc.gov/item/2010630700"
+    ],
+    "number_lccn": [
+      "2010630700"
+    ],
+    "number_source_modified": [
+      "2010-06-25t18:09:18"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "16078568",
+      "hig2010000717"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2010630700/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2010630700/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2010630700/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 70224,
+        "title": "highsmith (carol m.) archive",
+        "url": "https://www.loc.gov/collections/carol-m-highsmith/?fo=json"
+      },
+      {
+        "count": 949513,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1082837,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1592516,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=District%20of%20Columbia--Washington%20%28D.C.%29&co=highsm",
+        "longitude": "",
+        "title": "District of Columbia--Washington (D.C.)"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2010630700&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-highsm-04716 (original digital file)",
+    "reproductions": [
+      "<p>Some images in this collection are described in groups; others are  described individually. In some cases, all of the images in the  group display online, in other cases they do not. </p>\r\n<p>You can download online images yourself.  Alternatively, you can  purchase copies of various types. </p>\r\n<ol class=\"margin-bottom-double-li\">\r\n\t<li><strong>Determine whether the desired materials can be retrieved  online.</strong>\r\n\t\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t\t<li>Look in the <strong>Medium</strong> field above to determine whether  the description is for one photograph or more than one.</li>\r\n\t\t\t<li>If the description is for a single item and it is displaying, you can download or purchase a print.  Cite the number that begins  with \"LC-DIG...\" when purchasing copies through Library of Congress Duplication Services. </li>\r\n\t\t\t<li>If the description is for more than one item and there is  a \"Click for more images\" icon displaying, select that.  Individual images will display; you can download or purchase prints.  Cite the number that begins with \"LC-DIG...\" when purchasing  copies through Library of Congress Duplication Services. </li>\r\n\t\t\t<li>If the description is for more than one item and there is no \"Click for more images\" icon displaying, return to the \"About this Item\" tab and select the \"<em>Check for online items from this group</em>\" link.  Then select the \"Obtaining Copies\" tab for any retrieved items that are of interest. </li>\r\n\t\t</ul>\r\n\t</li>\r\n\t<li><strong>If the images do not display online</strong> -- Select images for reproduction through one of these methods:\r\n\t\t<ul class=\"plain margin-bottom-single-li\">\r\n\t\t\t<li>Visit the Prints &amp; Photographs Reading Room and request to view  the group (general information about service in the reading room is  available at: <a href=\"//www.loc.gov/rr/print/info/001_ref.html\">http://www.loc.gov/rr/print/info/001_ref.html</a>).</li>\r\n\t\t\t<li>P&amp;P reading room staff can provide up to 15 photocopies of items  per calendar year. (Color images cannot be photocopied.) For assistance,  see our <a href=\"https://ask.loc.gov/prints-photographs/\">Ask a Librarian</a> page. OR</li>\r\n\t\t\t<li>Hire a freelance researcher to do further selection for you  (a list of researchers is available at: <a href=\"//www.loc.gov/rr/print/resource/013_pic.html\">http://www.loc.gov/rr/print/resource/013_pic.html</a>). </li>\r\n\t\t</ul>\r\n\t</li>\r\n</ol>\r\n<h4>Purchasing Copies</h4>\r\n<p>Library of Congress Duplication Services can make copies of various  types from images in Prints &amp; Photographs Division Collections.   Price lists, contact information, and order forms are available on the <a href=\"//www.loc.gov/preserv/pds/\">Duplication Services Web site</a>.</p>\r\n<p>Carol M. Highsmith sells prints of her photographs at: <a target=\"_blank\" href=\"http://photographsamerica.com/\">http://photographsamerica.com/ <i class=\"icon icon-external-link\"><span>External</span></i></a> .</p>\r\n"
+    ],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/highsm.04716"
+    ],
+    "resources": [
+      {
+        "caption": "original digital file",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/highsm/04700/04716t.gif",
+        "url": "https://www.loc.gov/resource/highsm.04716/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/482_high.html\">Carol M. Highsmith - Rights and Restrictions Information</a> </p>\n \n"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.206085,
+    "shard": "00",
+    "shelf_id": "LC-DIG-highsm- 04716 (ONLINE) [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "2007",
+    "source_collection": "Highsmith, Carol M., 1946- Carol M. Highsmith Archive.",
+    "source_created": "2010-01-05T00:00:00Z",
+    "source_modified": "2010-06-25T18:09:18Z",
+    "subject": [
+      "america",
+      "ford's theatre",
+      "united states",
+      "abraham lincoln",
+      "digital photographs",
+      "district of columbia",
+      "color",
+      "washington (d.c.)"
+    ],
+    "subject_headings": [
+      "United States--District of Columbia--Washington (D.C.)",
+      "Abraham Lincoln",
+      "Ford's Theatre",
+      "America"
+    ],
+    "subjects": [
+      {
+        "abraham lincoln": "https://www.loc.gov/search/?fa=subject:abraham+lincoln&fo=json"
+      },
+      {
+        "america": "https://www.loc.gov/search/?fa=subject:america&fo=json"
+      },
+      {
+        "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+      },
+      {
+        "digital photographs": "https://www.loc.gov/search/?fa=subject:digital+photographs&fo=json"
+      },
+      {
+        "district of columbia": "https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json"
+      },
+      {
+        "ford's theatre": "https://www.loc.gov/search/?fa=subject:ford%27s+theatre&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      },
+      {
+        "washington (d.c.)": "https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/highsm/04700/04716_150px.jpg",
+    "timestamp": "2022-04-23T11:07:41.530Z",
+    "title": "[Goggles carried by Lincoln's bodyguards during his train ride through Baltimore.] Artifact in the museum collection, National Park Service, Ford's Theatre National Historic Site, Washington, D.C.",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2010630700/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2010630697/",
+        "http://www.loc.gov/item/2010630697/",
+        "http://www.loc.gov/pictures/item/2010630697/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2010630697/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2010630697/",
+        "http://www.loc.gov/resource/highsm.04713/",
+        "http://lccn.loc.gov/2010630697",
+        "https://hdl.loc.gov/loc.pnp/highsm.04713"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2007-01-01",
+      "dates": [
+        "2007"
+      ],
+      "description": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T02:48:51.719Z",
+      "group": [
+        "highsm",
+        "catalog-split-02",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2010630697/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04713/full/pct:6.25/0/default.jpg#h=265&w=300",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04713/full/pct:12.5/0/default.jpg#h=531&w=600",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04713/full/pct:25/0/default.jpg#h=1063&w=1200",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04713/full/pct:50/0/default.jpg#h=2127&w=2400"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington (d.c.)",
+        "united states",
+        "district of columbia",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/hig2010000714",
+        "http://www.loc.gov/item/16078565",
+        "2010630697",
+        "http://www.loc.gov/item/2010630697",
+        "2010-06-25t18:11:50"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints and photographs division",
+        "highsmith (carol m.) archive",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 54.742867,
+      "shelf_id": "LC-DIG-highsm- 04713 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "america",
+        "ford's theatre",
+        "united states",
+        "abraham lincoln",
+        "digital photographs",
+        "district of columbia",
+        "color",
+        "washington (d.c.)"
+      ],
+      "timestamp": "2022-04-23T11:07:41.530Z",
+      "title": "Theatre tickets to Ford's Theatre the night Abraham Lincoln was assassinated. Artifacts in the museum collection, National Park Service, Ford's Theatre National Historic Site, Washington, D.C.",
+      "url": "https://www.loc.gov/item/2010630697/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2010630698/",
+        "http://www.loc.gov/item/2010630698/",
+        "http://www.loc.gov/pictures/item/2010630698/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2010630698/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2010630698/",
+        "http://www.loc.gov/resource/highsm.04714/",
+        "http://lccn.loc.gov/2010630698",
+        "https://hdl.loc.gov/loc.pnp/highsm.04714"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2007-01-01",
+      "dates": [
+        "2007"
+      ],
+      "description": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T01:10:28.721Z",
+      "group": [
+        "highsm",
+        "catalog-split-03",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2010630698/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04714/full/pct:6.25/0/default.jpg#h=210&w=302",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04714/full/pct:12.5/0/default.jpg#h=421&w=605",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04714/full/pct:25/0/default.jpg#h=842&w=1211",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04714/full/pct:50/0/default.jpg#h=1684&w=2422"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington (d.c.)",
+        "united states",
+        "district of columbia",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2010630698",
+        "http://www.loc.gov/item/hig2010000715",
+        "2010630698",
+        "2010-06-25t18:13:44",
+        "http://www.loc.gov/item/16078566"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints and photographs division",
+        "highsmith (carol m.) archive",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 54.742867,
+      "shelf_id": "LC-DIG-highsm- 04714 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "america",
+        "ford's theatre",
+        "united states",
+        "abraham lincoln",
+        "digital photographs",
+        "district of columbia",
+        "color",
+        "washington (d.c.)"
+      ],
+      "timestamp": "2022-04-23T11:07:41.530Z",
+      "title": "The compass used by John Wilkes Booth when he tried to escape Washington, D.C. after shooting President Abraham Lincoln. Artifact in the museum collection, National Park Service, Ford's Theatre National Historic Site, Washington, D.C.",
+      "url": "https://www.loc.gov/item/2010630698/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2010630701/",
+        "http://www.loc.gov/item/2010630701/",
+        "http://www.loc.gov/pictures/item/2010630701/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2010630701/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2010630701/",
+        "http://www.loc.gov/resource/highsm.04717/",
+        "http://lccn.loc.gov/2010630701",
+        "https://hdl.loc.gov/loc.pnp/highsm.04717"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2007-01-01",
+      "dates": [
+        "2007"
+      ],
+      "description": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T02:48:51.719Z",
+      "group": [
+        "highsm",
+        "catalog-split-04",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-04",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2010630701/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04717/full/pct:6.25/0/default.jpg#h=231&w=333",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04717/full/pct:12.5/0/default.jpg#h=462&w=667",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04717/full/pct:25/0/default.jpg#h=925&w=1334",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04717/full/pct:50/0/default.jpg#h=1851&w=2668"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington (d.c.)",
+        "united states",
+        "district of columbia",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2010-06-25t18:22:20",
+        "http://www.loc.gov/item/16078569",
+        "2010630701",
+        "http://www.loc.gov/item/2010630701",
+        "http://www.loc.gov/item/hig2010000718"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints and photographs division",
+        "highsmith (carol m.) archive",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 54.742867,
+      "shelf_id": "LC-DIG-highsm- 04717 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "america",
+        "ford's theatre",
+        "united states",
+        "abraham lincoln",
+        "digital photographs",
+        "district of columbia",
+        "color",
+        "washington (d.c.)"
+      ],
+      "timestamp": "2022-04-23T11:07:41.530Z",
+      "title": "Artifact in the museum collection, National Park Service, Ford's Theatre National Historic Site, Washington, D.C.",
+      "url": "https://www.loc.gov/item/2010630701/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2010630694/",
+        "http://www.loc.gov/item/2010630694/",
+        "http://www.loc.gov/pictures/item/2010630694/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2010630694/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2010630694/",
+        "http://www.loc.gov/resource/highsm.04710/",
+        "http://lccn.loc.gov/2010630694",
+        "https://hdl.loc.gov/loc.pnp/highsm.04710"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2007-01-01",
+      "dates": [
+        "2007"
+      ],
+      "description": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T02:48:51.719Z",
+      "group": [
+        "highsm",
+        "catalog-split-15",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2010630694/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04710/full/pct:12.5/0/default.jpg#h=354&w=497",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04710/full/pct:25/0/default.jpg#h=708&w=995",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04710/full/pct:50/0/default.jpg#h=1417&w=1991"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington (d.c.)",
+        "united states",
+        "district of columbia",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2010-06-25t18:10:16",
+        "http://www.loc.gov/item/2010630694",
+        "2010630694",
+        "http://www.loc.gov/item/hig2010000711",
+        "http://www.loc.gov/item/16078455"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints and photographs division",
+        "highsmith (carol m.) archive",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 54.742867,
+      "shelf_id": "LC-DIG-highsm- 04710 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "america",
+        "ford's theatre",
+        "united states",
+        "abraham lincoln",
+        "digital photographs",
+        "district of columbia",
+        "color",
+        "washington (d.c.)"
+      ],
+      "timestamp": "2022-04-23T11:07:41.530Z",
+      "title": "[Derringer gun John Wilkes Booth used to assassinate Abraham Lincoln.] Artifact in the museum collection, National Park Service, Ford's Theatre National Historic Site, Washington, D.C.",
+      "url": "https://www.loc.gov/item/2010630694/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2010630695/",
+        "http://www.loc.gov/item/2010630695/",
+        "http://www.loc.gov/pictures/item/2010630695/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2010630695/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2010630695/",
+        "http://www.loc.gov/resource/highsm.04711/",
+        "https://hdl.loc.gov/loc.pnp/highsm.04711",
+        "http://lccn.loc.gov/2010630695"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2007-01-01",
+      "dates": [
+        "2007"
+      ],
+      "description": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T01:10:28.721Z",
+      "group": [
+        "highsm",
+        "catalog-split-00",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2010630695/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04711/full/pct:6.25/0/default.jpg#h=190&w=301",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04711/full/pct:12.5/0/default.jpg#h=380&w=603",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04711/full/pct:25/0/default.jpg#h=760&w=1206",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04711/full/pct:50/0/default.jpg#h=1521&w=2413"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington (d.c.)",
+        "united states",
+        "district of columbia",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2010-06-25t18:10:07",
+        "http://www.loc.gov/item/16078457",
+        "http://www.loc.gov/item/hig2010000712",
+        "http://www.loc.gov/item/2010630695",
+        "2010630695"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints and photographs division",
+        "highsmith (carol m.) archive",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 54.742867,
+      "shelf_id": "LC-DIG-highsm- 04711 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "america",
+        "ford's theatre",
+        "united states",
+        "abraham lincoln",
+        "digital photographs",
+        "district of columbia",
+        "color",
+        "washington (d.c.)"
+      ],
+      "timestamp": "2022-04-23T11:07:41.530Z",
+      "title": "[Derringer gun John Wilkes Booth used to assassinate Abraham Lincoln.] Artifact in the museum collection, National Park Service, Ford's Theatre National Historic Site, Washington, D.C.",
+      "url": "https://www.loc.gov/item/2010630695/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2010630693/",
+        "http://www.loc.gov/item/2010630693/",
+        "http://www.loc.gov/pictures/item/2010630693/",
+        "https://www.loc.gov/pictures/collection/highsm/item/2010630693/",
+        "http://www.loc.gov/pictures/collection/highsm/item/2010630693/",
+        "http://www.loc.gov/resource/highsm.04709/",
+        "http://lccn.loc.gov/2010630693",
+        "https://hdl.loc.gov/loc.pnp/highsm.04709"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "highsmith, carol m."
+      ],
+      "date": "2007-01-01",
+      "dates": [
+        "2007"
+      ],
+      "description": [
+        "1 photograph : digital, TIFF file, color."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-31T02:48:51.719Z",
+      "group": [
+        "highsm",
+        "catalog-split-14",
+        "catalog",
+        "carol-m-highsmith",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2010630693/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04709/full/pct:12.5/0/default.jpg#h=472&w=290",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04709/full/pct:25/0/default.jpg#h=945&w=580",
+        "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04709/full/pct:50/0/default.jpg#h=1891&w=1160"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington (d.c.)",
+        "united states",
+        "district of columbia",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2010-06-25t18:08:36",
+        "2010630693",
+        "http://www.loc.gov/item/16078453",
+        "http://www.loc.gov/item/hig2010000710",
+        "http://www.loc.gov/item/2010630693"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints and photographs division",
+        "highsmith (carol m.) archive",
+        "prints & photographs online catalog (library of congress)"
+      ],
+      "score": 54.742867,
+      "shelf_id": "LC-DIG-highsm- 04709 (ONLINE) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "america",
+        "ford's theatre",
+        "united states",
+        "abraham lincoln",
+        "digital photographs",
+        "district of columbia",
+        "color",
+        "washington (d.c.)"
+      ],
+      "timestamp": "2022-04-23T11:07:41.530Z",
+      "title": "[Knife and Sheath: Horn-handled dagger used by John Wilkes Booth to stab Major Henry Rathbone after shooting Abraham Lincoln.] Artifact in the museum collection, National Park Service, Ford's Theatre National Historic Site, Washington, D.C.",
+      "url": "https://www.loc.gov/item/2010630693/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "highsm",
+      "catalog-split-03",
+      "catalog",
+      "carol-m-highsmith",
+      "main-catalog-split-03",
+      "main-catalog",
+      "catalog-split-02",
+      "main-catalog-split-02",
+      "catalog-split-04",
+      "main-catalog-split-04",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "ndnp/ncu",
+      "university-of-north-carolina-chapel-hill-library-awardee",
+      "sgpearlypress/dlc",
+      "early-press-of-the-nations-capitals"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "highsm.04716",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.956317663192749,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/highsm.04716/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/highsm.04716/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1734773602.6990447,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 262,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04716/full/pct:6.25/0/default.jpg",
+      "width": 365
+    },
+    {
+      "height": 525,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04716/full/pct:12.5/0/default.jpg",
+      "width": 730
+    },
+    {
+      "height": 1051,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04716/full/pct:25/0/default.jpg",
+      "width": 1461
+    },
+    {
+      "height": 2102,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04716/full/pct:50/0/default.jpg",
+      "width": 2922
+    },
+    {
+      "height": 4204,
+      "info": "https://tile.loc.gov/image-services/iiif/service:pnp:highsm:04700:04716/info.json",
+      "levels": 7,
+      "mimetype": "image/jp2",
+      "size": 4066333,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/highsm/04700/04716.jp2",
+      "width": 5845
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=highsm&pk=2010630700&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn96027351/1868-01-01/ed-1/",
+        "http://www.loc.gov/resource/sn96027351/1868-01-01/ed-1/"
+      ],
+      "batch": [
+        "ncu_appling_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of north carolina at chapel hill library, chapel hill, nc"
+      ],
+      "date": "1868-01-01",
+      "dates": [
+        "1868-01-01"
+      ],
+      "description": [
+        "Washington, D.C."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-12T17:31:13.321Z",
+      "group": [
+        "ndnp/ncu",
+        "university-of-north-carolina-chapel-hill-library-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn96027351/1868-01-01/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_appling_ver02:data:sn96027351:00332891613:1868010101:0001/full/pct:3.125/0/default.jpg#h=298&w=203",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_appling_ver02:data:sn96027351:00332891613:1868010101:0001/full/pct:6.25/0/default.jpg#h=597&w=407",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_appling_ver02:data:sn96027351:00332891613:1868010101:0001/full/pct:12.5/0/default.jpg#h=1194&w=815"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "united states",
+        "district of columbia",
+        "washington"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn96027351",
+        "00332891613",
+        "1"
+      ],
+      "numeric_shelf_id": 186801011,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "chronicling america",
+        "national savings bank (washington, d.c.) 1868-18?? [online resource]"
+      ],
+      "publication_frequency": [
+        "monthly"
+      ],
+      "score": 28.608194,
+      "shelf_id": "sn96027351, 1868-01-01, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "washington",
+        "african americans",
+        "united states",
+        "african american banks",
+        "district of columbia",
+        "african american",
+        "washington (d.c.)",
+        "newspapers"
+      ],
+      "timestamp": "2023-08-12T19:43:38.893Z",
+      "title": "National savings bank (Washington, D.C.), January 1, 1868",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn96027351/1868-01-01/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83045242/1806-08-27/ed-1/",
+        "http://www.loc.gov/resource/sn83045242/1806-08-27/ed-1/"
+      ],
+      "batch": [
+        "dlc_domestic_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1806-08-27",
+      "dates": [
+        "1806-08-27"
+      ],
+      "description": [
+        "Washington City [D.C.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T00:33:54.197Z",
+      "group": [
+        "sgpearlypress/dlc",
+        "early-press-of-the-nations-capitals"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83045242/1806-08-27/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806082701:0001/full/pct:6.25/0/default.jpg#h=461&w=289",
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806082701:0001/full/pct:12.5/0/default.jpg#h=923&w=579"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "united states",
+        "district of columbia",
+        "washington"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn83045242",
+        "1"
+      ],
+      "numeric_shelf_id": 180608271,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "National intelligencer & Washington advertiser",
+        "National intelligencer, Washington advertiser"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "the national intelligencer and washington advertiser (washington city [d.c.]) 1800-1810",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "triweekly"
+      ],
+      "score": 17.5796,
+      "shelf_id": "sn83045242, 1806-08-27, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "washington",
+        "united states",
+        "district of columbia",
+        "washington (d.c.)",
+        "newspapers"
+      ],
+      "timestamp": "2022-11-09T15:33:16.582Z",
+      "title": "The national intelligencer and Washington advertiser (Washington City [D.C.]), August 27, 1806",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83045242/1806-08-27/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83045242/1806-08-29/ed-1/",
+        "http://www.loc.gov/resource/sn83045242/1806-08-29/ed-1/"
+      ],
+      "batch": [
+        "dlc_domestic_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1806-08-29",
+      "dates": [
+        "1806-08-29"
+      ],
+      "description": [
+        "Washington City [D.C.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T00:33:54.197Z",
+      "group": [
+        "sgpearlypress/dlc",
+        "early-press-of-the-nations-capitals"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83045242/1806-08-29/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806082901:0001/full/pct:6.25/0/default.jpg#h=458&w=283",
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806082901:0001/full/pct:12.5/0/default.jpg#h=917&w=567"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "united states",
+        "district of columbia",
+        "washington"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn83045242",
+        "1"
+      ],
+      "numeric_shelf_id": 180608291,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "National intelligencer & Washington advertiser",
+        "National intelligencer, Washington advertiser"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "the national intelligencer and washington advertiser (washington city [d.c.]) 1800-1810",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "triweekly"
+      ],
+      "score": 17.5796,
+      "shelf_id": "sn83045242, 1806-08-29, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "washington",
+        "united states",
+        "district of columbia",
+        "washington (d.c.)",
+        "newspapers"
+      ],
+      "timestamp": "2022-11-09T15:33:16.582Z",
+      "title": "The national intelligencer and Washington advertiser (Washington City [D.C.]), August 29, 1806",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83045242/1806-08-29/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83045242/1806-09-01/ed-1/",
+        "http://www.loc.gov/resource/sn83045242/1806-09-01/ed-1/"
+      ],
+      "batch": [
+        "dlc_domestic_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1806-09-01",
+      "dates": [
+        "1806-09-01"
+      ],
+      "description": [
+        "Washington City [D.C.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T00:33:54.197Z",
+      "group": [
+        "sgpearlypress/dlc",
+        "early-press-of-the-nations-capitals"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83045242/1806-09-01/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806090101:0001/full/pct:6.25/0/default.jpg#h=459&w=289",
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806090101:0001/full/pct:12.5/0/default.jpg#h=919&w=579"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "united states",
+        "district of columbia",
+        "washington"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn83045242",
+        "1"
+      ],
+      "numeric_shelf_id": 180609011,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "National intelligencer & Washington advertiser",
+        "National intelligencer, Washington advertiser"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "the national intelligencer and washington advertiser (washington city [d.c.]) 1800-1810",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "triweekly"
+      ],
+      "score": 17.5796,
+      "shelf_id": "sn83045242, 1806-09-01, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "washington",
+        "united states",
+        "district of columbia",
+        "washington (d.c.)",
+        "newspapers"
+      ],
+      "timestamp": "2022-11-09T15:33:16.582Z",
+      "title": "The national intelligencer and Washington advertiser (Washington City [D.C.]), September 1, 1806",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83045242/1806-09-01/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83045242/1806-08-18/ed-1/",
+        "http://www.loc.gov/resource/sn83045242/1806-08-18/ed-1/"
+      ],
+      "batch": [
+        "dlc_domestic_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1806-08-18",
+      "dates": [
+        "1806-08-18"
+      ],
+      "description": [
+        "Washington City [D.C.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T00:33:54.197Z",
+      "group": [
+        "sgpearlypress/dlc",
+        "early-press-of-the-nations-capitals"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83045242/1806-08-18/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806081801:0001/full/pct:6.25/0/default.jpg#h=456&w=289",
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806081801:0001/full/pct:12.5/0/default.jpg#h=913&w=578"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "united states",
+        "district of columbia",
+        "washington"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn83045242",
+        "1"
+      ],
+      "numeric_shelf_id": 180608181,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "National intelligencer & Washington advertiser",
+        "National intelligencer, Washington advertiser"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "the national intelligencer and washington advertiser (washington city [d.c.]) 1800-1810",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "triweekly"
+      ],
+      "score": 17.5796,
+      "shelf_id": "sn83045242, 1806-08-18, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "washington",
+        "united states",
+        "district of columbia",
+        "washington (d.c.)",
+        "newspapers"
+      ],
+      "timestamp": "2022-11-09T15:33:16.582Z",
+      "title": "The national intelligencer and Washington advertiser (Washington City [D.C.]), August 18, 1806",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83045242/1806-08-18/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83045242/1806-08-20/ed-1/",
+        "http://www.loc.gov/resource/sn83045242/1806-08-20/ed-1/"
+      ],
+      "batch": [
+        "dlc_domestic_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1806-08-20",
+      "dates": [
+        "1806-08-20"
+      ],
+      "description": [
+        "Washington City [D.C.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T00:33:54.197Z",
+      "group": [
+        "sgpearlypress/dlc",
+        "early-press-of-the-nations-capitals"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83045242/1806-08-20/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806082001:0001/full/pct:6.25/0/default.jpg#h=456&w=290",
+        "https://tile.loc.gov/image-services/iiif/service:sgp:sgpbatches:batch_dlc_domestic_ver01:data:sn83045242:print:1806082001:0001/full/pct:12.5/0/default.jpg#h=913&w=581"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "united states",
+        "district of columbia",
+        "washington"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn83045242",
+        "1"
+      ],
+      "numeric_shelf_id": 180608201,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "National intelligencer & Washington advertiser",
+        "National intelligencer, Washington advertiser"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "the national intelligencer and washington advertiser (washington city [d.c.]) 1800-1810",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "triweekly"
+      ],
+      "score": 17.5796,
+      "shelf_id": "sn83045242, 1806-08-20, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "washington",
+        "united states",
+        "district of columbia",
+        "washington (d.c.)",
+        "newspapers"
+      ],
+      "timestamp": "2022-11-09T15:33:16.582Z",
+      "title": "The national intelligencer and Washington advertiser (Washington City [D.C.]), August 20, 1806",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83045242/1806-08-20/ed-1/"
+    }
+  ],
+  "reproductions": "<p>\nSome images in this collection are described in groups; others are \ndescribed individually. In some cases, all of the images in the \ngroup display online, in other cases they do not.\n</p>\n\n<p>\nYou can download online images yourself.  Alternatively, you can \npurchase copies of various types.\n</p>\n\n<ol>\n<p>\t\n<strong><li>Determine whether the desired materials can be retrieved \nonline.</strong>\n</p>\n<ul>\n<p>\t\n<li>Look in the <strong>Medium</strong> field above to determine whether\n the description is for one photograph or more than one.</li>\n </p>\n <p>\n<li>If the description is for a single item and it is displaying, \nyou can download or purchase a print.  Cite the number that begins \nwith &quot;LC-DIG...&quot; when purchasing copies through Library of \nCongress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is \na &quot;Click for more images&quot; icon displaying, select that. \nIndividual images will display; you can download or purchase prints. \nCite the number that begins with &quot;LC-DIG...&quot; when purchasing \ncopies through Library of Congress Duplication Services.\n</p>\n<p>\n<li>If the description is for more than one item and there is no\n &quot;Click for more images&quot; icon displaying, return to the\n  &quot;About this Item&quot; tab and select the &quot;<i>Check for \n  online items from this group</i>&quot; link.  Then select the \n  \"Obtaining Copies\" tab for any retrieved items that are of interest.\n</p>\n</ul>\n</li>\n\n<p>\n<strong><li>If the images do not display online</strong> -- Select images for reproduction through one of these methods:\n</p>\n<ul>\n<p>\t\n<li>Visit the Prints &amp; Photographs Reading Room and request to view \nthe group (general information about service in the reading room is \navailable at: <a href=\"//www.loc.gov/rr/print/info/001_ref.html\">https://www.loc.gov/rr/print/info/001_ref.html</a>).</li>  \n</p>\n<p>\n<li>P&amp;P reading room staff can provide up to 15 photocopies of items \nper calendar year. (Color images cannot be photocopied.) For assistance,\n see our <a href=\"//www.loc.gov/rr/askalib/ask-print.html\">Ask a Librarian</a> page. OR</li>\n</p>\n<p>\n<li>Hire a freelance researcher to do further selection for you \n(a list of researchers is available at: \n<a href=\"//www.loc.gov/rr/print/resource/013_pic.html\">https://www.loc.gov/rr/print/resource/013_pic.html</a>).\n</p>\n</ul>\n</li>\n</ol>\n\n<p>\n<strong>Purchasing Copies</strong>\n</p>\n\n<p>\nLibrary of Congress Duplication Services can make copies of various \ntypes from images in Prints & Photographs Division Collections.  \nPrice lists, contact information, and order forms are available on the \n<a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.\n</p>\n\n<p>\nCarol M. Highsmith sells prints of her photographs at: <a href=\"http://photographsamerica.com/\">http://photographsamerica.com/</a> .\n</p>  \n\n\n\n\n        ",
+  "resource": {
+    "caption": "original digital file",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/highsm/04700/04716t.gif",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/highsm.04716/"
+  },
+  "resources": [
+    {
+      "caption": "original digital file",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/highsm/04700/04716t.gif",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/highsm.04716/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1734773603655,
+  "type": "zoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/highsm.04716/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/highsm.04716/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/highsm.04716/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/highsm.04716/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/highsm.04716/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/highsm.04716/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/highsm.04716/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/highsm.04716/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/highsm.04716/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/highsm.04716/?fo=json&st=text"
+  }
+}

@@ -1,0 +1,1725 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Collins, M., photographer. (1943) <cite>Bell Aircraft Corporation, Niagara Falls, New York. Safety goggles and masks are worn by workers on operations where their eyes might be endangered by metal fragments</cite>. Niagara County Niagara Falls New York United States, 1943. May. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2017853099/.",
+    "chicago": "Collins, Marjory, photographer. <cite>Bell Aircraft Corporation, Niagara Falls, New York. Safety goggles and masks are worn by workers on operations where their eyes might be endangered by metal fragments</cite>. Niagara County Niagara Falls New York United States, 1943. May. Photograph. https://www.loc.gov/item/2017853099/.",
+    "mla": "Collins, Marjory, photographer. <cite>Bell Aircraft Corporation, Niagara Falls, New York. Safety goggles and masks are worn by workers on operations where their eyes might be endangered by metal fragments</cite>. May. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2017853099/&gt;."
+  },
+  "item": {
+    "_version_": 1731158337170440192,
+    "access_restricted": false,
+    "aka": [
+      "http://www.loc.gov/pictures/collection/fsa/item/2017853099/",
+      "http://www.loc.gov/item/2017853099/",
+      "http://www.loc.gov/pictures/item/2017853099/",
+      "https://hdl.loc.gov/loc.pnp/fsa.8d18009",
+      "http://www.loc.gov/resource/fsa.8d18009/",
+      "http://lccn.loc.gov/2017853099"
+    ],
+    "call_number": "LC-USW3- 026074-D [P&P] LOT 793 (corresponding photographic print)",
+    "campaigns": [],
+    "contributor_names": [
+      "Collins, Marjory, 1912-1985, photographer"
+    ],
+    "contributors": [
+      {
+        "collins, marjory": "https://www.loc.gov/search/?fa=contributor:collins,+marjory&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2017-09-26T04:39:49Z",
+    "created_published": [
+      "1943 May."
+    ],
+    "created_published_date": "1943 May.",
+    "date": "1943-01-01",
+    "dates": [
+      {
+        "1943": "https://www.loc.gov/search/?dates=1943/1943&fo=json"
+      }
+    ],
+    "description": [
+      "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+    ],
+    "digital_id": [
+      "fsa 8d18009 //hdl.loc.gov/loc.pnp/fsa.8d18009"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-09-01T20:20:59.254Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/fsa/item/2017853099/#fsa",
+      "http://lccn.loc.gov/2017853099#catalog-split-12"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Safety film negatives."
+    ],
+    "genre": [
+      "Safety film negatives"
+    ],
+    "group": [
+      "fsa",
+      "catalog-split-12",
+      "catalog",
+      "fsa-owi-black-and-white-negatives",
+      "main-catalog-split-12",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2017853099/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18000/8d18009_150px.jpg#h=150&w=116",
+      "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18000/8d18009t.gif#h=150&w=116",
+      "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18000/8d18009r.jpg#h=640&w=495",
+      "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18000/8d18009v.jpg#h=1024&w=792"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-USW3- 026074-D [P&P] LOT 793 (corresponding photographic print)",
+      "contributors": [
+        "Collins, Marjory, 1912-1985, photographer."
+      ],
+      "control_number": "2017853099",
+      "created": "2017-09-26T04:39:49Z",
+      "created_published": "1943 May.",
+      "created_published_date": "1943 May.",
+      "creators": [
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=name&q=Collins%2C%20Marjory%2C%201912-1985&co=fsa",
+          "role": "photographer",
+          "title": "Collins, Marjory, 1912-1985"
+        }
+      ],
+      "date": "1943 May.",
+      "digital_id": [
+        "fsa 8d18009 //hdl.loc.gov/loc.pnp/fsa.8d18009"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=format&q=Safety%20film%20negatives.&co=fsa",
+          "title": "Safety film negatives."
+        }
+      ],
+      "genre": [
+        "Safety film negatives"
+      ],
+      "id": "2017853099",
+      "language": [
+        "eng"
+      ],
+      "link": "//www.loc.gov/pictures/item/2017853099/",
+      "marc": "//www.loc.gov/pictures/item/2017853099/marc/",
+      "medium": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "medium_brief": "1 negative :",
+      "mediums": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "modified": "2017-09-26T04:39:50Z",
+      "notes": [
+        "Title and other information from caption card.",
+        "Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944.",
+        "More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi",
+        "Temp. note: owibatch4",
+        "Film copy on SIS roll 9, frame 24."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2017853099",
+        "https://www.loc.gov/item/owi2001026830/PP"
+      ],
+      "other_control_numbers": [
+        "20032242",
+        "owi2001026830/PP"
+      ],
+      "other_number": "D 8372",
+      "part_of": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)",
+      "place": [
+        {
+          "latitude": "",
+          "link": "//www.loc.gov/pictures/related/?fi=place&q=New%20York--Niagara%20County--Niagara%20Falls&co=fsa",
+          "longitude": "",
+          "title": "New York--Niagara County--Niagara Falls"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-USW3-026074-D (b&w film neg.)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/fsa.8d18009"
+      ],
+      "rights_advisory": "No known restrictions. For information, see U.S. Farm Security Administration/Office of War Information Black & White Photographs https://www.loc.gov/rr/print/res/071_fsab.html",
+      "rights_information": "No known restrictions. For information, see U.S. Farm Security Administration/Office of War Information Black & White Photographs https://www.loc.gov/rr/print/res/071_fsab.html",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18000/8d18009_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18000/8d18009r.jpg",
+      "sort_date": "1943",
+      "source_collection": [
+        "Farm Security Administration - Office of War Information photograph collection (Library of Congress)"
+      ],
+      "source_created": "2001-08-03T00:00:00Z",
+      "source_modified": "2017-09-25T15:33:09Z",
+      "subject_headings": [
+        "United States--New York--Niagara County--Niagara Falls.",
+        "New York--Niagara County--Niagara Falls"
+      ],
+      "subjects": [
+        "United States--New York--Niagara County--Niagara Falls"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18000/8d18009_150px.jpg",
+      "title": "Bell Aircraft Corporation, Niagara Falls, New York. Safety goggles and masks are worn by workers on operations where their eyes might be endangered by metal fragments"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2017853099",
+    "link": "//www.loc.gov/pictures/item/2017853099/",
+    "location": [
+      "niagara county",
+      "niagara falls",
+      "new york",
+      "united states"
+    ],
+    "location_city": [
+      "niagara falls"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_county": [
+      "niagara county"
+    ],
+    "location_state": [
+      "new york"
+    ],
+    "locations": [
+      {
+        "new york": "https://www.loc.gov/search/?fa=location:new+york&fo=json"
+      },
+      {
+        "niagara county": "https://www.loc.gov/search/?fa=location:niagara+county&fo=json"
+      },
+      {
+        "niagara falls": "https://www.loc.gov/search/?fa=location:niagara+falls&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "niagara falls": "https://www.loc.gov/search/?fa=location_city:niagara+falls&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_county": [
+      {
+        "niagara county": "https://www.loc.gov/search/?fa=location_county:niagara+county&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "new york": "https://www.loc.gov/search/?fa=location_state:new+york&fo=json"
+      }
+    ],
+    "marc": "//www.loc.gov/pictures/item/2017853099/marc/",
+    "medium": [
+      "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+    ],
+    "medium_brief": "1 negative :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2017-09-26T04:39:50Z",
+    "notes": [
+      "Title and other information from caption card.",
+      "Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944.",
+      "More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi",
+      "Temp. note: owibatch4",
+      "Film copy on SIS roll 9, frame 24."
+    ],
+    "number": [
+      "2017-09-25t15:33:09",
+      "http://www.loc.gov/item/2017853099",
+      "http://www.loc.gov/item/20032242",
+      "http://www.loc.gov/item/owi2001026830/pp",
+      "2017853099"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/20032242",
+      "http://www.loc.gov/item/owi2001026830/pp",
+      "http://www.loc.gov/item/2017853099"
+    ],
+    "number_lccn": [
+      "2017853099"
+    ],
+    "number_source_modified": [
+      "2017-09-25t15:33:09"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "20032242",
+      "owi2001026830/PP"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2017853099/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2017853099/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2017853099/dc"
+      }
+    ],
+    "other_number": "D 8372",
+    "partof": [
+      {
+        "count": 92,
+        "title": "lot 793",
+        "url": "https://www.loc.gov/search/?fa=partof:lot+793&fo=json"
+      },
+      {
+        "count": 171046,
+        "title": "farm security administration/office of war information black-and-white negatives",
+        "url": "https://www.loc.gov/collections/fsa-owi-black-and-white-negatives/?fo=json"
+      },
+      {
+        "count": 437343,
+        "title": "american memory",
+        "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+      },
+      {
+        "count": 949513,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1082837,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1592516,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "//www.loc.gov/pictures/related/?fi=place&q=New%20York--Niagara%20County--Niagara%20Falls&co=fsa",
+        "longitude": "",
+        "title": "New York--Niagara County--Niagara Falls"
+      }
+    ],
+    "related": {
+      "group_record": "//www.loc.gov/pictures/search/?q=LOT 793&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+      "neighbors": "//www.loc.gov/pictures/related/?&co=fsa&pk=2017853099&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-USW3-026074-D (b&w film neg.)",
+    "reproductions": [
+      "<p> If an image is displaying, you can download it yourself. (Some images display only as thumbnails outside the Library of Congress because of rights considerations, but you have access to larger size images on site.) </p>\n<p> Alternatively, you can purchase copies of various types through Library  of Congress Duplication Services. </p>\n<ol class=\"margin-bottom-single-li\">\n\t<li> <strong>If a digital image is displaying:</strong> The qualities of the digital image partially depend on whether it was made from the original or an intermediate such as a copy negative or transparency. If the Reproduction Number field above includes a reproduction number that starts with LC-DIG..., then there is a digital image that was made directly from the original and is of sufficient resolution for most publication    purposes. </li>\n\t<li> <strong>If there is information listed in the Reproduction Number field above:</strong> You can use the reproduction number to purchase a copy from Duplication Services.  It will be made from the source listed in the parentheses after  the number.\n\t\t If only black-and-white (\"b&amp;w\") sources are listed and you desire a copy showing color or tint (assuming the original has any), you can generally purchase a quality copy of the original in color by citing the Call Number listed above and including the catalog record (\"About This Item\") with your request.\n\t</li>\n\t<li> <strong>If there is no information listed in the Reproduction Number field above:</strong> You can generally purchase a quality copy through Duplication Services. Cite the Call Number listed above and include the catalog record (\"About This Item\") with your request. </li>\n</ol>\n<p> Price lists, contact information, and order forms are available on the <a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>. </p>\n<h4>Expect Delays in Service of Nitrate Negatives </h4>\n<p>Reproductions of all types are available, but Duplication Services anticipates an  8-10 week turnaround in completing orders, as all negatives must be reproduced at  their off-site, cold storage facility. </p>\n<p> Clues that an FSA/OWI/OEM image may be affected are:<br />\n\t<strong>Medium</strong> field says \"1 negative : nitrate\" OR <br />\n\t<strong>Reproduction Number</strong> field begins with: LC-USF33- </p>\n<p> If either is the case, you may wish to consult with Prints and Photographs Division reference staff (202-707-6394). In certain instances, duplicate negatives are available for copying. </p>\n"
+    ],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/fsa.8d18009"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from intermediary roll film",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18000/8d18009_150px.jpg",
+        "url": "https://www.loc.gov/resource/fsa.8d18009/"
+      }
+    ],
+    "rights": [
+      "<p>The contents of the Library of Congress Farm Security Administration/Office of War Information Black-and-White Negatives are in the public domain and are free to use and reuse.</p>\r\n<p> Credit Line: Library of Congress, Prints &amp; Photographs Division, Farm Security Administration/Office of War Information Black-and-White Negatives.</p>\r\n<p>For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: <a href=\"https://www.loc.gov/rr/print/res/071_fsab.html\">U.S. Farm Security Administration/Office of War Information Black &amp; White Photographs - Rights and Restrictions Information</a>\r\n</p>\r\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a> </p>\r\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>"
+    ],
+    "rights_advisory": "No known restrictions. For information, see U.S. Farm Security Administration/Office of War Information Black & White Photographs https://www.loc.gov/rr/print/res/071_fsab.html",
+    "rights_information": "No known restrictions. For information, see U.S. Farm Security Administration/Office of War Information Black & White Photographs https://www.loc.gov/rr/print/res/071_fsab.html",
+    "score": 19.206085,
+    "shard": "00",
+    "shelf_id": "LC-USW3- 026074-D [P&P] LOT 793 (corresponding photographic print)",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1943",
+    "source_collection": "Farm Security Administration - Office of War Information photograph collection (Library of Congress)",
+    "source_created": "2001-08-03T00:00:00Z",
+    "source_modified": "2017-09-25T15:33:09Z",
+    "subject": [
+      "niagara county",
+      "new york",
+      "united states",
+      "safety film negatives",
+      "niagara falls"
+    ],
+    "subject_headings": [
+      "United States--New York--Niagara County--Niagara Falls"
+    ],
+    "subjects": [
+      {
+        "new york": "https://www.loc.gov/search/?fa=subject:new+york&fo=json"
+      },
+      {
+        "niagara county": "https://www.loc.gov/search/?fa=subject:niagara+county&fo=json"
+      },
+      {
+        "niagara falls": "https://www.loc.gov/search/?fa=subject:niagara+falls&fo=json"
+      },
+      {
+        "safety film negatives": "https://www.loc.gov/search/?fa=subject:safety+film+negatives&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18000/8d18009_150px.jpg",
+    "timestamp": "2022-04-26T08:20:43.493Z",
+    "title": "Bell Aircraft Corporation, Niagara Falls, New York. Safety goggles and masks are worn by workers on operations where their eyes might be endangered by metal fragments",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2017853099/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017854253/",
+        "http://www.loc.gov/item/2017854253/",
+        "http://www.loc.gov/pictures/item/2017854253/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8d18664",
+        "http://www.loc.gov/resource/fsa.8d18664/",
+        "http://lccn.loc.gov/2017854253"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "collins, marjory"
+      ],
+      "date": "1943-01-01",
+      "dates": [
+        "1943"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:21:05.003Z",
+      "group": [
+        "fsa",
+        "catalog-split-05",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-05",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017854253/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18600/8d18664_150px.jpg#h=150&w=116",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18600/8d18664t.gif#h=150&w=116",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18600/8d18664r.jpg#h=640&w=495",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18600/8d18664v.jpg#h=1024&w=792"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "niagara county",
+        "niagara falls",
+        "new york",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2017854253",
+        "http://www.loc.gov/item/owi2001027984/pp",
+        "2017854253",
+        "http://www.loc.gov/item/20033456",
+        "2017-09-25t16:07:02"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "farm security administration/office of war information black-and-white negatives",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "lot 793",
+        "catalog"
+      ],
+      "score": 55.095314,
+      "shelf_id": "LC-USW3- 028418-D [P&P] LOT 793 (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "niagara county",
+        "new york",
+        "united states",
+        "safety film negatives",
+        "niagara falls"
+      ],
+      "timestamp": "2022-04-26T08:29:00.291Z",
+      "title": "Niagara Falls, New York. Nan Hannegan, a nineteen year old chemical operator at the Niacet chemical company, earning thity-nine dollars a week, taking a sample of acid from a still. She will put in brine to bring it to a freezing point",
+      "url": "https://www.loc.gov/item/2017854253/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017854262/",
+        "http://www.loc.gov/item/2017854262/",
+        "http://www.loc.gov/pictures/item/2017854262/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8d18673",
+        "http://www.loc.gov/resource/fsa.8d18673/",
+        "http://lccn.loc.gov/2017854262"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "collins, marjory"
+      ],
+      "date": "1943-01-01",
+      "dates": [
+        "1943"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:21:05.003Z",
+      "group": [
+        "fsa",
+        "catalog-split-05",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-05",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017854262/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18600/8d18673_150px.jpg#h=150&w=116",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18600/8d18673t.gif#h=150&w=116",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18600/8d18673r.jpg#h=640&w=494",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18600/8d18673v.jpg#h=1024&w=790"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "niagara county",
+        "niagara falls",
+        "new york",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/owi2001027993/pp",
+        "http://www.loc.gov/item/2017854262",
+        "2017854262",
+        "2017-09-25t16:07:19",
+        "http://www.loc.gov/item/20033467"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "farm security administration/office of war information black-and-white negatives",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "lot 793",
+        "catalog"
+      ],
+      "score": 55.095314,
+      "shelf_id": "LC-USW3- 028427-D [P&P] LOT 793 (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "niagara county",
+        "new york",
+        "united states",
+        "safety film negatives",
+        "niagara falls"
+      ],
+      "timestamp": "2022-04-26T08:29:00.291Z",
+      "title": "Niagara Falls, New York. Nan Hannegan, a nineteen year old chemical operator at the Niacet chemical company earning thirty-nine dollars a week, taking readings from dials and thermometers",
+      "url": "https://www.loc.gov/item/2017854262/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017854265/",
+        "http://www.loc.gov/item/2017854265/",
+        "http://www.loc.gov/pictures/item/2017854265/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8d18676",
+        "http://www.loc.gov/resource/fsa.8d18676/",
+        "http://lccn.loc.gov/2017854265"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "collins, marjory"
+      ],
+      "date": "1943-01-01",
+      "dates": [
+        "1943"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:21:05.003Z",
+      "group": [
+        "fsa",
+        "catalog-split-08",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017854265/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18600/8d18676_150px.jpg#h=150&w=116",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18600/8d18676t.gif#h=150&w=116",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18600/8d18676r.jpg#h=640&w=494",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18600/8d18676v.jpg#h=1024&w=790"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "niagara county",
+        "niagara falls",
+        "new york",
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/owi2001027996/pp",
+        "2017-09-25t16:07:25",
+        "http://www.loc.gov/item/20033471",
+        "2017854265",
+        "http://www.loc.gov/item/2017854265"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "farm security administration/office of war information black-and-white negatives",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "lot 793",
+        "catalog"
+      ],
+      "score": 55.095314,
+      "shelf_id": "LC-USW3- 028430-D [P&P] LOT 793 (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "niagara county",
+        "new york",
+        "united states",
+        "safety film negatives",
+        "niagara falls"
+      ],
+      "timestamp": "2022-04-26T08:29:00.291Z",
+      "title": "Niagara Falls, New York. Nan Hannegan a nineteen year old chemical operator at the Niacet chemical company, earning thirty-nine dollars a week, taking readings from dials and thermometers",
+      "url": "https://www.loc.gov/item/2017854265/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017873875/",
+        "http://www.loc.gov/item/2017873875/",
+        "http://www.loc.gov/pictures/item/2017873875/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8e05831",
+        "http://www.loc.gov/resource/fsa.8e05831/",
+        "http://lccn.loc.gov/2017873875"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "collins, marjory"
+      ],
+      "date": "1943-01-01",
+      "dates": [
+        "1943"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:22:26.587Z",
+      "group": [
+        "fsa",
+        "catalog-split-00",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017873875/",
+      "image_url": [],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "niagara county",
+        "niagara falls",
+        "new york",
+        "united states"
+      ],
+      "number": [
+        "http://www.loc.gov/item/20079762",
+        "http://www.loc.gov/item/2017873875",
+        "http://www.loc.gov/item/owi2001047609/pp",
+        "2017-10-18t15:42:48",
+        "2017873875"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "farm security administration/office of war information black-and-white negatives",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "lot 793",
+        "catalog"
+      ],
+      "score": 55.095314,
+      "shelf_id": "LC-USW38- 028430-D [P&P] LOT 793 (Location of corresponding print.) (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "niagara county",
+        "new york",
+        "united states",
+        "safety film negatives",
+        "niagara falls"
+      ],
+      "timestamp": "2022-04-26T11:30:17.974Z",
+      "title": "Niagara Falls, New York. Nan Hannegan a nineteen year old chemical operator at the Niacet chemical company, earning thirty-nine dollars a week, taking readings from dials and thermometers",
+      "url": "//lccn.loc.gov/2017873875"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017873834/",
+        "http://www.loc.gov/item/2017873834/",
+        "http://www.loc.gov/pictures/item/2017873834/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8e05791",
+        "http://www.loc.gov/resource/fsa.8e05791/",
+        "http://lccn.loc.gov/2017873834"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "collins, marjory"
+      ],
+      "date": "1943-01-01",
+      "dates": [
+        "1943"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:22:26.144Z",
+      "group": [
+        "fsa",
+        "catalog-split-11",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-11",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017873834/",
+      "image_url": [],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "niagara county",
+        "niagara falls",
+        "new york",
+        "united states"
+      ],
+      "number": [
+        "http://www.loc.gov/item/owi2001047568/pp",
+        "http://www.loc.gov/item/20079720",
+        "2017-10-18t15:41:27",
+        "2017873834",
+        "http://www.loc.gov/item/2017873834"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "farm security administration/office of war information black-and-white negatives",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "lot 793",
+        "catalog"
+      ],
+      "score": 55.095314,
+      "shelf_id": "LC-USW38- 026057-D [P&P] LOT 793 (Location of corresponding print.) (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "niagara county",
+        "new york",
+        "united states",
+        "safety film negatives",
+        "niagara falls"
+      ],
+      "timestamp": "2022-04-26T11:30:17.974Z",
+      "title": "Bell Aircraft Corporation. Niagara Falls, New York. Woman cutting a long piece of aluminum into shorter lengths with a metal cutter in the shearing department, as shorter pieces are easier for the machine operator to handle. The outlined shape on each piece is then cut out by machine",
+      "url": "//lccn.loc.gov/2017873834"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017873846/",
+        "http://www.loc.gov/item/2017873846/",
+        "http://www.loc.gov/pictures/item/2017873846/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8e05802",
+        "http://www.loc.gov/resource/fsa.8e05802/",
+        "http://lccn.loc.gov/2017873846"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "collins, marjory"
+      ],
+      "date": "1943-01-01",
+      "dates": [
+        "1943"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:22:26.144Z",
+      "group": [
+        "fsa",
+        "catalog-split-14",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017873846/",
+      "image_url": [],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "niagara county",
+        "niagara falls",
+        "new york",
+        "united states"
+      ],
+      "number": [
+        "http://www.loc.gov/item/20079732",
+        "http://www.loc.gov/item/owi2001047580/pp",
+        "2017-10-18t15:41:51",
+        "http://www.loc.gov/item/2017873846",
+        "2017873846"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "farm security administration/office of war information black-and-white negatives",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "lot 793",
+        "catalog"
+      ],
+      "score": 55.095314,
+      "shelf_id": "LC-USW38- 027733-D [P&P] LOT 793 (Location of corresponding print.) (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "niagara county",
+        "new york",
+        "united states",
+        "safety film negatives",
+        "niagara falls"
+      ],
+      "timestamp": "2022-04-26T11:30:17.974Z",
+      "title": "Bell Aircraft Corp. Niagara Falls, New York. Riveter on the final assembly line of Bell Airacobras",
+      "url": "//lccn.loc.gov/2017873846"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "fsa",
+      "catalog-split-12",
+      "catalog",
+      "fsa-owi-black-and-white-negatives",
+      "main-catalog-split-12",
+      "main-catalog",
+      "catalog-split-05",
+      "main-catalog-split-05",
+      "catalog-split-08",
+      "main-catalog-split-08",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "catalog-split-11",
+      "main-catalog-split-11",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "gmd.mar",
+      "general-maps",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "catalog-split-06",
+      "main-catalog-split-06",
+      "gmd/multimap",
+      "multimaps"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "fsa.8d18009",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.9336512088775635,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/fsa.8d18009/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/fsa.8d18009/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1734773631.9546475,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 243186,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/fsa/8d18000/8d18000/8d18009u.tif",
+      "width": 0
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 4570,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18000/8d18009_150px.jpg",
+      "width": 116
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 18713,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18000/8d18009t.gif",
+      "width": 116
+    },
+    {
+      "height": 640,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 41702,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18000/8d18009r.jpg",
+      "width": 495
+    },
+    {
+      "height": 1024,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 187137,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18000/8d18009v.jpg",
+      "width": 792
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": "//www.loc.gov/pictures/search/?q=LOT 793&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+    "lot_link": null,
+    "neighbors": "//www.loc.gov/pictures/related/?&co=fsa&pk=2017853099&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2013593261/",
+        "http://www.loc.gov/resource/g3803n.la00522/",
+        "https://hdl.loc.gov/loc.gmd/g3803n.la00522",
+        "http://www.loc.gov/resource/g3803n.la000522/",
+        "http://lccn.loc.gov/2013593261"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "geil, samuel",
+        "smith, robert pearsall",
+        "gifford, franklin"
+      ],
+      "date": "1852-01-01",
+      "dates": [
+        "1852"
+      ],
+      "description": [
+        "County map showing towns (townships), numbered town subsections, irregular landholdings, rural buildings, and householders' names. Also indicates the vertical and horizontal numbering system of the township/range land subdivision system. Relief shown by hachures and rock drawings. \"Entered according to act of Congress in the year 1852 by Robert P. Smith in the ... Eastern District of Pennsylvania.\" Hand colored to emphasize town boundaries, town territories, and Amerindian land reservations. Mounted in western/eastern segments (sheets). Originally printed on 4 sheets (now conjoined). LC copy imperfect: Mounted on cloth backing. missing small edge sections, sheets halved to enable folding. LC Land ownership maps, 522 Includes \"Description\" (text), statistical tables, and 3 landscape illustrations Street-map insets: Plan of Lockport -- Plan of the village of Lewiston, Niagara Co., N. York / by Sam'l Geil -- Plan of the village of Niagara-Falls, Niagara Co., New York / surveyed & drawn by Sam'l Geil -- Plan of the village of Wilson / drawn by Franklin Gifford, surveyor [with index of names[. Available also through the Library of Congress Web site as a raster image. 2 copies"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T23:19:01.089Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-00",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2013593261/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd380/g3803/g3803n/la000522.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd380/g3803/g3803n/la000522.gif#h=150&w=214",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd380:g3803:g3803n:la000522/full/pct:12.5/0/default.jpg#h=1509&w=2150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd380:g3803:g3803n:la000522/full/pct:25/0/default.jpg#h=3018&w=4300"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "niagara county",
+        "new york (state)",
+        "new york",
+        "united states",
+        "wilson",
+        "lewiston",
+        "maps",
+        "niagara falls",
+        "lockport"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/item/18525849",
+        "2015-05-11t11:37:05",
+        "http://www.loc.gov/item/2013593261",
+        "2013593261",
+        "sheet"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "cultural landscapes",
+        "county landownership maps",
+        "geography and map division",
+        "catalog"
+      ],
+      "score": 32.389595,
+      "shelf_id": "G3803.N5G46 1852 .G5 G3803.N5G46 1852 .G5 Copy 2",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "niagara county",
+        "new york (state)",
+        "lockport (n.y.)",
+        "real property",
+        "united states",
+        "cadastral maps",
+        "wilson",
+        "lewiston (n.y.)",
+        "niagara falls (n.y.)",
+        "niagara falls",
+        "surveys",
+        "administrative and political divisions",
+        "wilson (n.y.)",
+        "lewiston",
+        "maps",
+        "landowners",
+        "niagara county (n.y.)",
+        "lockport"
+      ],
+      "timestamp": "2022-12-10T05:47:10.883Z",
+      "title": "Map of Niagara County, New York",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2013593261/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2013593264/",
+        "https://hdl.loc.gov/loc.gmd/g3803n.la000523",
+        "http://www.loc.gov/resource/g3803n.la000523/",
+        "http://lccn.loc.gov/2013593264"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "dawson, a. r. z.",
+        "gray, o. w. (ormando wyllis)",
+        "gillette, john e."
+      ],
+      "date": "1860-01-01",
+      "dates": [
+        "1860"
+      ],
+      "description": [
+        "Shows numbered military survey districts, irregular land tracts, rural buildings, and householders' names; the principal city insets show land tracts, lot lines, and building coverage. \"Assist. publishers I.D. Peck, W.H. Green, A.Y. Peck, W.J. Tator, S.W. Treat, N.R. Wilbur, C.O. Titus, L.G. Dawson.\" \"Entered according to Act of Congress by John E. Gillette in the year 1859 in the ... Eastern District of Pennsylvania.\" Printed in western/eastern segments (sheets). LC copy imperfect: Brittle, fold-lined, torn, missing sections along top neatline, mounted on cloth backing, sheets thirded to enable folding. LC Land ownership maps, 523 Includes table of distances, local business directories, 46 city/village insets (including Albion, Lockport, and Niagara Falls), and illustrations of prominent buildings. Available also through the Library of Congress Web site as a raster image."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T20:54:55.646Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-03",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2013593264/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd380/g3803/g3803n/la000523.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd380/g3803/g3803n/la000523.gif#h=158&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd380:g3803:g3803n:la000523/full/pct:12.5/0/default.jpg#h=2288&w=2176",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd380:g3803:g3803n:la000523/full/pct:25/0/default.jpg#h=4577&w=4352"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "niagara county",
+        "orleans county",
+        "new york (state)",
+        "new york",
+        "united states",
+        "albion",
+        "niagara falls",
+        "lockport",
+        "albion (orleans county)"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2013593264",
+        "2013593264",
+        "sheet",
+        "2017-02-27t13:55:46",
+        "http://www.loc.gov/item/17995284"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "cultural landscapes",
+        "county landownership maps",
+        "geography and map division",
+        "catalog"
+      ],
+      "score": 32.389595,
+      "shelf_id": "G3803.N5G46 1860 .G7",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "niagara county",
+        "orleans county",
+        "new york (state)",
+        "villages",
+        "lockport (n.y.)",
+        "real property",
+        "albion (orleans county, n.y.)",
+        "united states",
+        "cadastral maps",
+        "orleans county (n.y.)",
+        "niagara falls",
+        "niagara falls (n.y.)",
+        "cities and towns",
+        "maps",
+        "landowners",
+        "niagara county (n.y.)",
+        "lockport",
+        "albion (orleans county)"
+      ],
+      "timestamp": "2022-12-10T05:47:10.883Z",
+      "title": "Map of Niagara and Orleans counties, New York",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2013593264/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/2009584046/",
+        "https://hdl.loc.gov/loc.gmd/g3800.ct002652",
+        "http://www.loc.gov/resource/g3800.ct002652/",
+        "http://lccn.loc.gov/2009584046"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ensigns & thayer"
+      ],
+      "date": "1849-01-01",
+      "dates": [
+        "1849"
+      ],
+      "description": [
+        "General-content state wall map. Does not show specific distances or administrative towns (townships). LC copy imperfect: Shellacked, very darkened, brittle, cracked, wooden hanging rods removed. Available also through the Library of Congress Web site as a raster image. Includes state coat-of-arms at head of title, ill. of Niagara Falls (cataracts), table of \"Length of rivers in the state\", statistical table of \"Principal canals in the state\", and diagram of heights of mountains with specific elevation data. Insets: Vicinity of the Falls of Niagara -- Vicinity of New York [present-day metropolitan area] -- City of New York [southern Manhattan Island showing wards]. Acquisitions control no.: 2003-068"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-30T01:43:11.359Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-06",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-06",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2009584046/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd380/g3800/g3800/ct002652.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd380/g3800/g3800/ct002652.gif#h=150&w=204",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd380:g3800:g3800:ct002652/full/pct:12.5/0/default.jpg#h=820&w=1115",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd380:g3800:g3800:ct002652/full/pct:25/0/default.jpg#h=1640&w=2230"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "new york (state)",
+        "new york",
+        "united states",
+        "new york metropolitan area",
+        "canada",
+        "ontario",
+        "new york city",
+        "niagara falls"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/item/15732930",
+        "2010-07-08t10:35:27",
+        "2009584046",
+        "http://www.loc.gov/item/2009584046"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "geography and map division",
+        "american memory",
+        "general maps",
+        "catalog"
+      ],
+      "score": 22.839058,
+      "shelf_id": "G3800 1849 .E5",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "new york (state)",
+        "new york",
+        "united states",
+        "new york (n.y.)",
+        "niagara falls (n.y. and ont.)",
+        "new york metropolitan area",
+        "canada",
+        "maps",
+        "ontario",
+        "niagara falls"
+      ],
+      "timestamp": "2022-12-10T05:41:44.443Z",
+      "title": "Distance map of the state of New York : containing all the towns in the state.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2009584046/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2022594517",
+        "http://www.loc.gov/item/2022594517/",
+        "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ny_122",
+        "http://www.loc.gov/resource/gmdtitlecolfold.ny_122/"
+      ],
+      "campaigns": [],
+      "date": "1808",
+      "dates": [
+        "1808"
+      ],
+      "description": [
+        "This record covers single maps covering counties of New York, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps may also show various subjects, such as roads, topography, geology, hydrology, and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-05-25T14:35:15.833Z",
+      "group": [
+        "gmd/multimap",
+        "multimaps"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2022594517/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ny:_1:22:ny_122:ny_122_00001/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ny:_1:22:ny_122:ny_122_00001/full/pct:12.5/0/default.jpg#h=464&w=307",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ny:_1:22:ny_122:ny_122_00001/full/pct:25/0/default.jpg#h=929&w=615"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "niagara county",
+        "new york",
+        "united states"
+      ],
+      "mime_type": [
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "sheet",
+        "2022594517",
+        "2024-05-11t21:12:50"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map",
+        "collection"
+      ],
+      "other_title": [
+        "Alternate supplied title: New York title collection--drawer 122",
+        "Alternate supplied title: New York title collection--counties Nat--Nz"
+      ],
+      "partof": [
+        "geography and map division",
+        "catalog",
+        "single sheet maps, title collection"
+      ],
+      "score": 21.139433,
+      "shelf_id": "G3803.N5 coll .M3 drawer 122",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "niagara county",
+        "roads",
+        "new york (state)",
+        "united states",
+        "new york",
+        "road maps",
+        "physical maps",
+        "topographic maps",
+        "maps",
+        "tourist maps",
+        "niagara county (n.y.)"
+      ],
+      "timestamp": "2024-05-25T14:48:35.560Z",
+      "title": "[Maps of New York--counties Nat--Nz]",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2022594517/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2022592960",
+        "http://www.loc.gov/item/2022592960/",
+        "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ny_210",
+        "http://www.loc.gov/resource/gmdtitlecolfold.ny_210/"
+      ],
+      "campaigns": [],
+      "date": "1936",
+      "dates": [
+        "1936"
+      ],
+      "description": [
+        "This record covers single maps of New York cities and towns, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps may also show various subjects, including landowners and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-05-25T14:33:26.921Z",
+      "group": [
+        "gmd/multimap",
+        "multimaps"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2022592960/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ny:_2:10:ny_210:ny_210_00001/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ny:_2:10:ny_210:ny_210_00001/full/pct:12.5/0/default.jpg#h=671&w=475",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ny:_2:10:ny_210:ny_210_00001/full/pct:25/0/default.jpg#h=1342&w=951"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "niagara falls",
+        "new york",
+        "united states"
+      ],
+      "mime_type": [
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "sheet",
+        "2024-05-11t21:04:18",
+        "2022592960"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map",
+        "collection"
+      ],
+      "other_title": [
+        "Alternate supplied title: New York title collection--drawer 210",
+        "Alternate supplied title: New York title collection--cities and towns Niagara Falls 1936-1970"
+      ],
+      "partof": [
+        "geography and map division",
+        "catalog",
+        "single sheet maps, title collection"
+      ],
+      "score": 20.40537,
+      "shelf_id": "G3804.N7 coll .M3 drawer 210",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "new york (state)",
+        "new york",
+        "united states",
+        "niagara falls",
+        "niagara falls (n.y.)",
+        "maps",
+        "tourist maps",
+        "landowners"
+      ],
+      "timestamp": "2024-05-25T14:47:59.249Z",
+      "title": "[Maps of New York--cities and towns Niagara Falls 1936-1970]",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2022592960/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2022592961",
+        "http://www.loc.gov/item/2022592961/",
+        "https://hdl.loc.gov/loc.gmd/gmdtitlecolfold.ny_211",
+        "http://www.loc.gov/resource/gmdtitlecolfold.ny_211/"
+      ],
+      "campaigns": [],
+      "date": "1892",
+      "dates": [
+        "1892"
+      ],
+      "description": [
+        "This record covers single maps of New York cities and towns, which are not represented in the LC database by separate catalog records. This collection includes single printed maps and photocopies of printed or manuscript single maps and may also include some multi-sheet single maps, plates from atlases, books or periodicals, and printed facsimiles. These maps may also show various subjects, including landowners and recreation and tourism. To request a specific map or for more information, contact a reference librarian in the Geography & Map Division (202) 707-6277 or through the \"Ask a librarian\" link through the Geography & Map Division website https://ask.loc.gov/map-geography/. Title supplied by cataloger."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-05-25T14:33:26.921Z",
+      "group": [
+        "gmd/multimap",
+        "multimaps"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2022592961/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ny:_2:11:ny_211:ny_211_00001/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ny:_2:11:ny_211:ny_211_00001/full/pct:12.5/0/default.jpg#h=671&w=481",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdtitlecolfold:ny:_2:11:ny_211:ny_211_00001/full/pct:25/0/default.jpg#h=1342&w=963"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "niagara falls",
+        "new york",
+        "united states"
+      ],
+      "mime_type": [
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "sheet",
+        "2022592961",
+        "2024-05-11t21:04:21"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map",
+        "collection"
+      ],
+      "other_title": [
+        "Alternate supplied title: New York title collection--drawer 211",
+        "Alternate supplied title: New York title collection--cities and towns Niagara Falls subjects A-Z"
+      ],
+      "partof": [
+        "geography and map division",
+        "catalog",
+        "single sheet maps, title collection"
+      ],
+      "score": 20.40537,
+      "shelf_id": "G3804.N7 coll .M3 drawer 211",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "new york (state)",
+        "new york",
+        "united states",
+        "niagara falls",
+        "niagara falls (n.y.)",
+        "maps",
+        "tourist maps",
+        "landowners"
+      ],
+      "timestamp": "2024-05-25T14:47:59.249Z",
+      "title": "[Maps of New York--cities and towns Niagara Falls subjects A-Z]",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2022592961/"
+    }
+  ],
+  "reproductions": "<p>\n    If an image is displaying, you can download it yourself. (Some images \n    display only as thumbnails outside the Library of Congress because of rights \n    considerations, but you have access to larger size images on site.)\n</p>\n<p>\nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n<p>\n    <ol>\n        <p>\n            <li>\n                <strong>If a digital image is displaying:</strong>\n                The qualities of the digital image \n                partially depend on whether it was made from the original or an  \n                intermediate such as a copy negative or transparency. If the Reproduction \n                Number field above includes a reproduction number that starts with  \n                LC-DIG..., then there is a digital image that was made directly \n                from the original and is of sufficient resolution for most publication\n                purposes.\n            </li>\n        </p>\n        <li>\n            <strong>If there is information listed in the Reproduction Number field above:</strong>\n            You can use the reproduction number to purchase a copy from Duplication \n            Services.  It will be made from the source listed in the parentheses after  \n            the number. \n            <table width=\"75%\" border=\"1\" align=\"center\" cellpadding=\"1\" bordercolor=\"#993333\">\n                <tr>\n                    <td>\n                        <p>\n                            <strong>\n                                <center>\n                                    Expect\n                                    Delays in Service of Nitrate Negatives\n                                </center>\n                            </strong>\n                        </p>\n\t\t\t\t\t\t\n<p>\t\t\t\t\t\t\nReproductions of all types are available, but Duplication Services anticipates an \n8-10 week turnaround in completing orders, as all negatives must be reproduced at \ntheir off-site, cold storage facility.\n</p>\n<p>\nClues that an FSA/OWI/OEM image may be affected are:<br />\n<strong>Medium</strong> field says \"1 negative : nitrate\" OR <br />\n<strong>Reproduction Number</strong> field begins with: LC-USF33- \n</p>\n              \n                        <p>\n                            If either is the case, you may wish to consult\n                            with Prints and Photographs Division reference staff\n                            (202-707-6394). In certain instances, duplicate\n                            negatives are available for copying.\n                        </p>\n                    </td>\n                </tr>\n            </table>\n            <p>\n                If only black-and-white (&quot;b&w&quot;) sources are listed and you \n                desire a copy showing color or tint (assuming the original has any),  \n                you can generally purchase a quality copy of the original in color by \n                citing the Call Number listed above and including the catalog record \n                (&quot;About This Item&quot;) with your request.\n            </p>\n        </li>\n        <li>\n            <strong>If there is no information listed in the Reproduction Number field \n                above:</strong>\n            You can generally purchase a quality copy through \n            Duplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n            your request.\n        </li>\n    </ol>\n</p>\n<p>\n    Price lists, contact information, and order forms are available on the<a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>. \n</p>\n",
+  "resource": {
+    "caption": "digital file from intermediary roll film",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18000/8d18009_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/fsa.8d18009/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from intermediary roll film",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/fsa/8d18000/8d18000/8d18009_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/fsa.8d18009/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1734773632888,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/fsa.8d18009/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/fsa.8d18009/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/fsa.8d18009/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/fsa.8d18009/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/fsa.8d18009/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/fsa.8d18009/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/fsa.8d18009/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/fsa.8d18009/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/fsa.8d18009/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/fsa.8d18009/?fo=json&st=text"
+  }
+}

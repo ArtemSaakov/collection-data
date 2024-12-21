@@ -1,0 +1,1683 @@
+{
+  "articles_and_essays": [
+    {
+      "score": 6.8680534,
+      "title": "Free to Use and Reuse: Glasses",
+      "url": "https://blogs.loc.gov/loc/2019/12/free-to-use-and-reuse-glasses/"
+    }
+  ],
+  "cite_this": {
+    "apa": "United States Office Of War Information. (1943) <cite>The latest in eye shields--for desert warfare. A shortage of non-inflammable celluloid has prompted the Union of South Africa government to utilize old photographic negatives to make eye shields needed for use in desert warfare. The original images in the shield can be seen by turning the picture upside down. The emulsion is washed off the negatives to make the shields transparent. More than a million such shields have been produced to protect United Nations soldier's eyes from wind, sand and dust. Margaret Bucci of Washington, D.C., demonstrated the shield</cite>. Washington D.C. United States District of Columbia Washington D.C, 1943. Mar. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2017696833/.",
+    "chicago": "United States Office Of War Information. <cite>The latest in eye shields--for desert warfare. A shortage of non-inflammable celluloid has prompted the Union of South Africa government to utilize old photographic negatives to make eye shields needed for use in desert warfare. The original images in the shield can be seen by turning the picture upside down. The emulsion is washed off the negatives to make the shields transparent. More than a million such shields have been produced to protect United Nations soldier's eyes from wind, sand and dust. Margaret Bucci of Washington, D.C., demonstrated the shield</cite>. Washington D.C. United States District of Columbia Washington D.C, 1943. Mar. Photograph. https://www.loc.gov/item/2017696833/.",
+    "mla": "United States Office Of War Information. <cite>The latest in eye shields--for desert warfare. A shortage of non-inflammable celluloid has prompted the Union of South Africa government to utilize old photographic negatives to make eye shields needed for use in desert warfare. The original images in the shield can be seen by turning the picture upside down. The emulsion is washed off the negatives to make the shields transparent. More than a million such shields have been produced to protect United Nations soldier's eyes from wind, sand and dust. Margaret Bucci of Washington, D.C., demonstrated the shield</cite>. Mar. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2017696833/&gt;."
+  },
+  "item": {
+    "_version_": 1731095033214402560,
+    "access_restricted": false,
+    "aka": [
+      "http://www.loc.gov/pictures/collection/fsa/item/2017696833/",
+      "https://hdl.loc.gov/loc.pnp/fsa.8b06193",
+      "http://www.loc.gov/item/2017696833/",
+      "http://www.loc.gov/pictures/item/2017696833/",
+      "https://hdl.loc.gov/loc.pnp/cph.3c39530",
+      "http://www.loc.gov/resource/cph.3c39530/",
+      "http://www.loc.gov/resource/fsa.8b06193/",
+      "http://lccn.loc.gov/2017696833"
+    ],
+    "call_number": "LC-USE6- D-009318 [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "United States. Office of War Information."
+    ],
+    "contributors": [
+      {
+        "united states. office of war information": "https://www.loc.gov/search/?fa=contributor:united+states.+office+of+war+information&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2017-05-16T05:24:05Z",
+    "created_published": [
+      "1943 Mar."
+    ],
+    "created_published_date": "1943 Mar.",
+    "date": "1943-01-01",
+    "dates": [
+      {
+        "1943": "https://www.loc.gov/search/?dates=1943/1943&fo=json"
+      }
+    ],
+    "description": [
+      "1 negative : safety ; 4 x 5 inches or smaller."
+    ],
+    "digital_id": [
+      "cph 3c39530 //hdl.loc.gov/loc.pnp/cph.3c39530",
+      "fsa 8b06193 //hdl.loc.gov/loc.pnp/fsa.8b06193"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-09-01T20:10:41.187Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/fsa/item/2017696833/#fsa",
+      "http://lccn.loc.gov/2017696833#catalog-split-13"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Safety film negatives."
+    ],
+    "genre": [
+      "Safety film negatives"
+    ],
+    "group": [
+      "fsa",
+      "catalog-split-13",
+      "catalog",
+      "fsa-owi-black-and-white-negatives",
+      "main-catalog-split-13",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2017696833/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39500/3c39530_150px.jpg#h=150&w=119",
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39500/3c39530r.jpg#h=640&w=509",
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39500/3c39530v.jpg#h=1024&w=814"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-USE6- D-009318 [P&P]",
+      "contributor_names": [
+        "United States. Office of War Information.,  "
+      ],
+      "contributors": [
+        "United States. Office of War Information."
+      ],
+      "control_number": "2017696833",
+      "created": "2017-05-16T05:24:05Z",
+      "created_published": "1943 Mar.",
+      "created_published_date": "1943 Mar.",
+      "creators": [
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=name&q=United%20States.%20Office%20of%20War%20Information.&co=fsa",
+          "role": "",
+          "title": "United States. Office of War Information."
+        }
+      ],
+      "date": "1943 Mar.",
+      "digital_id": [
+        "cph 3c39530 //hdl.loc.gov/loc.pnp/cph.3c39530",
+        "fsa 8b06193 //hdl.loc.gov/loc.pnp/fsa.8b06193"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "//www.loc.gov/pictures/related/?fi=format&q=Safety%20film%20negatives.&co=fsa",
+          "title": "Safety film negatives."
+        }
+      ],
+      "genre": [
+        "Safety film negatives"
+      ],
+      "id": "2017696833",
+      "language": [
+        "eng"
+      ],
+      "link": "//www.loc.gov/pictures/item/2017696833/",
+      "marc": "//www.loc.gov/pictures/item/2017696833/marc/",
+      "medium": [
+        "1 negative : safety ; 4 x 5 inches or smaller."
+      ],
+      "medium_brief": "1 negative :",
+      "mediums": [
+        "1 negative : safety ; 4 x 5 inches or smaller."
+      ],
+      "modified": "2017-05-16T05:24:06Z",
+      "notes": [
+        "Actual size of negative is C (approximately 4 x 5 inches).",
+        "File print missing series code; added Aug. 1999.",
+        "Title and other information from caption card.",
+        "Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944.",
+        "More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi",
+        "Film copy on SIS roll 32, frame 1346."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2017696833",
+        "https://www.loc.gov/item/oem2002007763/PP"
+      ],
+      "other_control_numbers": [
+        "19642401",
+        "oem2002007763/PP"
+      ],
+      "other_number": "D 8372",
+      "part_of": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)",
+      "place": [
+        {
+          "latitude": "",
+          "link": "//www.loc.gov/pictures/related/?fi=place&q=District%20of%20Columbia--Washington%20%28D.C.%29&co=fsa",
+          "longitude": "",
+          "title": "District of Columbia--Washington (D.C.)"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-USZ62-139530 (b&w film copy neg.)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/cph.3c39530",
+        "//hdl.loc.gov/loc.pnp/fsa.8b06193"
+      ],
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39500/3c39530_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39500/3c39530r.jpg",
+      "sort_date": "1943",
+      "source_collection": [
+        "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)"
+      ],
+      "source_created": "2002-01-29T00:00:00Z",
+      "source_modified": "2017-05-15T12:32:40Z",
+      "subject_headings": [
+        "United States--District of Columbia--Washington (D.C.)",
+        "District Of Columbia--Washington (D.C.)"
+      ],
+      "subjects": [
+        "United States--District of Columbia--Washington (D.C.)"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39500/3c39530_150px.jpg",
+      "title": "The latest in eye shields--for desert warfare. A shortage of non-inflammable celluloid has prompted the Union of South Africa government to utilize old photographic negatives to make eye shields needed for use in desert warfare. The original images in the shield can be seen by turning the picture upside down. The emulsion is washed off the negatives to make the shields transparent. More than a million such shields have been produced to protect United Nations soldier's eyes from wind, sand and dust. Margaret Bucci of Washington, D.C., demonstrated the shield"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2017696833",
+    "link": "//www.loc.gov/pictures/item/2017696833/",
+    "location": [
+      "washington (d.c.)",
+      "united states",
+      "district of columbia",
+      "washington d.c."
+    ],
+    "location_city": [
+      "washington (d.c.)"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_state": [
+      "district of columbia"
+    ],
+    "locations": [
+      {
+        "district of columbia": "https://www.loc.gov/search/?fa=location:district+of+columbia&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      },
+      {
+        "washington (d.c.)": "https://www.loc.gov/search/?fa=location:washington+%28d.c.%29&fo=json"
+      },
+      {
+        "washington d.c.": "https://www.loc.gov/search/?fa=location:washington+d.c.&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "washington (d.c.)": "https://www.loc.gov/search/?fa=location_city:washington+%28d.c.%29&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "district of columbia": "https://www.loc.gov/search/?fa=location_state:district+of+columbia&fo=json"
+      }
+    ],
+    "marc": "//www.loc.gov/pictures/item/2017696833/marc/",
+    "medium": [
+      "1 negative : safety ; 4 x 5 inches or smaller."
+    ],
+    "medium_brief": "1 negative :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2017-05-16T05:24:06Z",
+    "notes": [
+      "Actual size of negative is C (approximately 4 x 5 inches).",
+      "File print missing series code; added Aug. 1999.",
+      "Title and other information from caption card.",
+      "Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944.",
+      "More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi",
+      "Film copy on SIS roll 32, frame 1346."
+    ],
+    "number": [
+      "2017696833",
+      "2017-05-15t12:32:40",
+      "http://www.loc.gov/item/2017696833",
+      "http://www.loc.gov/item/oem2002007763/pp",
+      "http://www.loc.gov/item/19642401"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/19642401",
+      "http://www.loc.gov/item/oem2002007763/pp",
+      "http://www.loc.gov/item/2017696833"
+    ],
+    "number_lccn": [
+      "2017696833"
+    ],
+    "number_source_modified": [
+      "2017-05-15t12:32:40"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "19642401",
+      "oem2002007763/PP"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2017696833/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2017696833/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2017696833/dc"
+      }
+    ],
+    "other_number": "D 8372",
+    "partof": [
+      {
+        "count": 171046,
+        "title": "farm security administration/office of war information black-and-white negatives",
+        "url": "https://www.loc.gov/collections/fsa-owi-black-and-white-negatives/?fo=json"
+      },
+      {
+        "count": 437343,
+        "title": "american memory",
+        "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+      },
+      {
+        "count": 949513,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1082837,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1592516,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "//www.loc.gov/pictures/related/?fi=place&q=District%20of%20Columbia--Washington%20%28D.C.%29&co=fsa",
+        "longitude": "",
+        "title": "District of Columbia--Washington (D.C.)"
+      }
+    ],
+    "related": {
+      "neighbors": "//www.loc.gov/pictures/related/?&co=fsa&pk=2017696833&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-USZ62-139530 (b&w film copy neg.)",
+    "reproductions": [
+      "<p> If an image is displaying, you can download it yourself. (Some images display only as thumbnails outside the Library of Congress because of rights considerations, but you have access to larger size images on site.) </p>\n<p> Alternatively, you can purchase copies of various types through Library  of Congress Duplication Services. </p>\n<ol class=\"margin-bottom-single-li\">\n\t<li> <strong>If a digital image is displaying:</strong> The qualities of the digital image partially depend on whether it was made from the original or an intermediate such as a copy negative or transparency. If the Reproduction Number field above includes a reproduction number that starts with LC-DIG..., then there is a digital image that was made directly from the original and is of sufficient resolution for most publication    purposes. </li>\n\t<li> <strong>If there is information listed in the Reproduction Number field above:</strong> You can use the reproduction number to purchase a copy from Duplication Services.  It will be made from the source listed in the parentheses after  the number.\n\t\t If only black-and-white (\"b&amp;w\") sources are listed and you desire a copy showing color or tint (assuming the original has any), you can generally purchase a quality copy of the original in color by citing the Call Number listed above and including the catalog record (\"About This Item\") with your request.\n\t</li>\n\t<li> <strong>If there is no information listed in the Reproduction Number field above:</strong> You can generally purchase a quality copy through Duplication Services. Cite the Call Number listed above and include the catalog record (\"About This Item\") with your request. </li>\n</ol>\n<p> Price lists, contact information, and order forms are available on the <a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>. </p>\n<h4>Expect Delays in Service of Nitrate Negatives </h4>\n<p>Reproductions of all types are available, but Duplication Services anticipates an  8-10 week turnaround in completing orders, as all negatives must be reproduced at  their off-site, cold storage facility. </p>\n<p> Clues that an FSA/OWI/OEM image may be affected are:<br />\n\t<strong>Medium</strong> field says \"1 negative : nitrate\" OR <br />\n\t<strong>Reproduction Number</strong> field begins with: LC-USF33- </p>\n<p> If either is the case, you may wish to consult with Prints and Photographs Division reference staff (202-707-6394). In certain instances, duplicate negatives are available for copying. </p>\n"
+    ],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/cph.3c39530",
+      "//hdl.loc.gov/loc.pnp/fsa.8b06193"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from b&w film copy neg.",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39500/3c39530_150px.jpg",
+        "url": "https://www.loc.gov/resource/cph.3c39530/"
+      },
+      {
+        "caption": "intermediary roll film",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06100/8b06193_150px.jpg",
+        "url": "https://www.loc.gov/resource/fsa.8b06193/"
+      }
+    ],
+    "rights": [
+      "<p>The contents of the Library of Congress Farm Security Administration/Office of War Information Black-and-White Negatives are in the public domain and are free to use and reuse.</p>\r\n<p> Credit Line: Library of Congress, Prints &amp; Photographs Division, Farm Security Administration/Office of War Information Black-and-White Negatives.</p>\r\n<p>For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: <a href=\"https://www.loc.gov/rr/print/res/071_fsab.html\">U.S. Farm Security Administration/Office of War Information Black &amp; White Photographs - Rights and Restrictions Information</a>\r\n</p>\r\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a> </p>\r\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>"
+    ],
+    "score": 19.206085,
+    "shard": "00",
+    "shelf_id": "LC-USE6- D-009318 [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1943",
+    "source_collection": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)",
+    "source_created": "2002-01-29T00:00:00Z",
+    "source_modified": "2017-05-15T12:32:40Z",
+    "subject": [
+      "district of columbia",
+      "united states",
+      "washington (d.c.)",
+      "safety film negatives"
+    ],
+    "subject_headings": [
+      "United States--District of Columbia--Washington (D.C.)"
+    ],
+    "subjects": [
+      {
+        "district of columbia": "https://www.loc.gov/search/?fa=subject:district+of+columbia&fo=json"
+      },
+      {
+        "safety film negatives": "https://www.loc.gov/search/?fa=subject:safety+film+negatives&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      },
+      {
+        "washington (d.c.)": "https://www.loc.gov/search/?fa=subject:washington+%28d.c.%29&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39500/3c39530_150px.jpg",
+    "timestamp": "2022-04-25T15:34:32.217Z",
+    "title": "The latest in eye shields--for desert warfare. A shortage of non-inflammable celluloid has prompted the Union of South Africa government to utilize old photographic negatives to make eye shields needed for use in desert warfare. The original images in the shield can be seen by turning the picture upside down. The emulsion is washed off the negatives to make the shields transparent. More than a million such shields have been produced to protect United Nations soldier's eyes from wind, sand and dust. Margaret Bucci of Washington, D.C., demonstrated the shield",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2017696833/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2020630792/",
+        "http://www.loc.gov/item/2020630792/",
+        "http://www.loc.gov/pictures/item/2020630792/",
+        "https://www.loc.gov/pictures/collection/fsa/item/2020630792/",
+        "http://www.loc.gov/pictures/collection/fsa/item/2020630792/",
+        "http://www.loc.gov/resource/fsa.8b13021/",
+        "http://lccn.loc.gov/2020630792",
+        "https://hdl.loc.gov/loc.pnp/fsa.8b13021"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "duffy, edmund",
+        "united states. office of war information"
+      ],
+      "date": "1942-01-01",
+      "dates": [
+        "1942"
+      ],
+      "description": [
+        "1 negative : safety ; 5 x 7 inches or smaller. | Illustration shows a Nazi officer with the bodies of five people executed by hanging in the background."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:22:58.952Z",
+      "group": [
+        "fsa",
+        "catalog-split-15",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020630792/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b13000/8b13000/8b13021t.gif#h=107&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b13000/8b13000/8b13021r.jpg#h=455&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b13000/8b13000/8b13021v.jpg#h=728&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington (d.c.)",
+        "united states",
+        "district of columbia",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/21616039",
+        "2020-07-18t14:12:18",
+        "http://www.loc.gov/item/2020630792",
+        "http://www.loc.gov/item/oem2002011622/pp",
+        "2020630792"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "farm security administration/office of war information black-and-white negatives",
+        "prints and photographs division",
+        "american memory",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 34.23743,
+      "shelf_id": "LC-USE613- D-005109 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "district of columbia",
+        "united states",
+        "washington (d.c.)",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-04-26T11:59:00.098Z",
+      "title": "Sketch from \"The Unconquered People.\" One of the illustrations from \"The Unconquered People,\" a twelve page pamphlet published by the Office of War Information (OWI), Washington, D.C., describing the resistance to Hitler on the part of the people of the occupied countries of Europe",
+      "url": "https://www.loc.gov/item/2020630792/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2017697231",
+        "http://www.loc.gov/item/2017697231/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8b06412",
+        "http://www.loc.gov/resource/fsa.8b06412/",
+        "https://www.loc.gov/pictures/item/2017697231/",
+        "http://www.loc.gov/pictures/item/2017697231/",
+        "https://www.loc.gov/pictures/collection/fsa/item/2017697231/",
+        "http://www.loc.gov/pictures/collection/fsa/item/2017697231/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "smith, roger",
+        "united states. office of war information"
+      ],
+      "date": "1942-01-01",
+      "dates": [
+        "1942"
+      ],
+      "description": [
+        "Actual size of negative is C (approximately 4 x 5 inches). Title and other information from caption card. Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944. More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi Film copy on SIS roll 32, frame 1568."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-08-02T20:22:06.718Z",
+      "group": [
+        "catalog",
+        "fsa",
+        "catalog-split-06",
+        "main-catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-06"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017697231/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06400/8b06412_150px.jpg#h=122&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06400/8b06412t.gif#h=122&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06400/8b06412r.jpg#h=520&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b06000/8b06400/8b06412v.jpg#h=832&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "united states",
+        "district of columbia",
+        "washington (d.c.)"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2022-06-27t14:35:20",
+        "2017697231",
+        "http://www.loc.gov/item/oem2002008161/pp",
+        "http://www.loc.gov/item/19642833",
+        "http://www.loc.gov/item/2017697231"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "farm security administration/office of war information black-and-white negatives",
+        "lot 1407",
+        "prints and photographs division",
+        "american memory",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 34.23743,
+      "shelf_id": "LC-USE6- D-009725",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "district of columbia",
+        "united states",
+        "washington (d.c.)",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-08-02T20:24:37.595Z",
+      "title": "Latest addition to D.C. War Housing Program. Bulldozer grading the grounds of Wake and Midway Halls, now being completed by Samuel Plato, contractor, for 1,000 Negro women war workers in Washington, D.C.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017697231/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2017695076",
+        "http://www.loc.gov/item/2017695076/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8b05084",
+        "http://www.loc.gov/resource/fsa.8b05084/",
+        "http://www.loc.gov/pictures/collection/fsa/item/2017695076/",
+        "http://www.loc.gov/pictures/item/2017695076/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "united states. office of war information"
+      ],
+      "date": "1942-01-01",
+      "dates": [
+        "1942"
+      ],
+      "description": [
+        "Actual size of negative is C (approximately 4 x 5 inches). Additional number on caption card: WA-U-15-13309. Title and other information from caption card. Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944. More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi Film copy on SIS roll 32, frame 133."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-08-02T21:56:16.590Z",
+      "group": [
+        "catalog",
+        "fsa",
+        "catalog-split-11",
+        "main-catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-11"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017695076/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b05000/8b05000/8b05084_150px.jpg#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b05000/8b05000/8b05084t.gif#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b05000/8b05000/8b05084r.jpg#h=508&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b05000/8b05000/8b05084v.jpg#h=813&w=1024"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "united states",
+        "district of columbia",
+        "washington (d.c.)"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/oem2002006004/pp",
+        "2022-07-01t11:16:36",
+        "http://www.loc.gov/item/19640513",
+        "http://www.loc.gov/item/2017695076",
+        "2017695076"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "farm security administration/office of war information black-and-white negatives",
+        "prints and photographs division",
+        "american memory",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 34.23743,
+      "shelf_id": "LC-USE6- D-007496",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "district of columbia",
+        "united states",
+        "washington (d.c.)",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-08-02T21:59:19.303Z",
+      "title": "Uncle Sam's nieces. First photographs showing all four women's branches of the armed services in uniform. The photographs have been taken in compliance with a request to show the distinguishing features of each type of uniform and to aid the public in identifying each branch. Left to right: Second Lieutenant Doris Hyde of Lancaster, Pennsylvania, U.S. Army Nurse Corps; Ensign Mary E. Hill of Elizabeth City, North Carolina, U.S. Navy Nurse Corps; Lieutenant Marion R. Enright of Forest Hills, Long Island, New York, of the WAVES (Women Accepted to Voluntary Emergency Service); Lieutenant Alberta M. Holdsworth of Boston, Massachusetts, of the WAACs (Women's Army Auxiliary Corps). The photographs were taken at Washington, D.C.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017695076/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017689076/",
+        "http://www.loc.gov/item/2017689076/",
+        "http://www.loc.gov/pictures/item/2017689076/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8b08819",
+        "http://www.loc.gov/resource/fsa.8b08819/",
+        "http://lccn.loc.gov/2017689076"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "palmer, alfred t.",
+        "united states. office of war information"
+      ],
+      "date": "1942-01-01",
+      "dates": [
+        "1942"
+      ],
+      "description": [
+        "1 negative : safety ; 4 x 5 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:10:02.135Z",
+      "group": [
+        "fsa",
+        "catalog-split-14",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017689076/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b08000/8b08800/8b08819_150px.jpg#h=150&w=120",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b08000/8b08800/8b08819t.gif#h=150&w=120",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b08000/8b08800/8b08819r.jpg#h=640&w=510",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b08000/8b08800/8b08819v.jpg#h=1024&w=817"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington (d.c.)",
+        "united states",
+        "district of columbia",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/oem2002000003/pp",
+        "http://www.loc.gov/item/2017689076",
+        "2017689076",
+        "2017-05-08t10:23:25",
+        "http://www.loc.gov/item/19613723"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "farm security administration/office of war information black-and-white negatives",
+        "prints and photographs division",
+        "lot 2017",
+        "american memory",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 34.23743,
+      "shelf_id": "LC-USE6- D-000003 [P&P] LOT 2017 (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "district of columbia",
+        "united states",
+        "washington (d.c.)",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-04-25T15:13:55.202Z",
+      "title": "Cartridge drawing machine. Skilled worker drawing a five-inch cartridge case for the big anti-aircraft guns. The yard in which this work is performed is one of eleven Navy arsenals which are working at top speed to furnish ammunition needed for our two-ocean Navy",
+      "url": "https://www.loc.gov/item/2017689076/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017689077/",
+        "http://www.loc.gov/item/2017689077/",
+        "http://www.loc.gov/pictures/item/2017689077/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8b08820",
+        "http://www.loc.gov/resource/fsa.8b08820/",
+        "http://lccn.loc.gov/2017689077"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "palmer, alfred t.",
+        "united states. office of war information"
+      ],
+      "date": "1942-01-01",
+      "dates": [
+        "1942"
+      ],
+      "description": [
+        "1 negative : safety ; 4 x 5 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:10:02.135Z",
+      "group": [
+        "fsa",
+        "catalog-split-15",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017689077/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b08000/8b08800/8b08820_150px.jpg#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b08000/8b08800/8b08820t.gif#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b08000/8b08800/8b08820r.jpg#h=496&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b08000/8b08800/8b08820v.jpg#h=794&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington (d.c.)",
+        "united states",
+        "district of columbia",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/oem2002000004/pp",
+        "2017689077",
+        "http://www.loc.gov/item/19613721",
+        "2017-05-08t10:23:52",
+        "http://www.loc.gov/item/2017689077"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "farm security administration/office of war information black-and-white negatives",
+        "prints and photographs division",
+        "lot 2017",
+        "american memory",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 34.23743,
+      "shelf_id": "LC-USE6- D-000004 [P&P] LOT 2017 (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "district of columbia",
+        "united states",
+        "washington (d.c.)",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-04-25T15:13:55.202Z",
+      "title": "Torpedo tubes get coat of paint. Painters putting the finishing touches on torpedo tubes in production at an eastern Navy arsenal. All kinds of skilled workers are needed in the expanded war program. Production has been stepped up in this and ten other arsenals throughout the country",
+      "url": "https://www.loc.gov/item/2017689077/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/fsa/item/2017689078/",
+        "http://www.loc.gov/item/2017689078/",
+        "http://www.loc.gov/pictures/item/2017689078/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8b08821",
+        "http://www.loc.gov/resource/fsa.8b08821/",
+        "http://lccn.loc.gov/2017689078"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "palmer, alfred t.",
+        "united states. office of war information"
+      ],
+      "date": "1942-01-01",
+      "dates": [
+        "1942"
+      ],
+      "description": [
+        "1 negative : safety ; 4 x 5 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:10:02.135Z",
+      "group": [
+        "fsa",
+        "catalog-split-00",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017689078/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b08000/8b08800/8b08821_150px.jpg#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b08000/8b08800/8b08821t.gif#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b08000/8b08800/8b08821r.jpg#h=497&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8b08000/8b08800/8b08821v.jpg#h=795&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington (d.c.)",
+        "united states",
+        "district of columbia",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017689078",
+        "http://www.loc.gov/item/oem2002000005/pp",
+        "http://www.loc.gov/item/19613714",
+        "2017-05-08t10:24:19",
+        "http://www.loc.gov/item/2017689078"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "farm security administration/office of war information black-and-white negatives",
+        "prints and photographs division",
+        "lot 2017",
+        "american memory",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 34.23743,
+      "shelf_id": "LC-USE6- D-000005 [P&P] LOT 2017 (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "district of columbia",
+        "united states",
+        "washington (d.c.)",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-04-25T15:13:55.202Z",
+      "title": "Cooperation on a torpedo tube mount. Skilled workers in an eastern Navy yard arsenal putting the finishing touches on a torpedo tube mount. This arsenal is one of eleven working at top speed for the expanded war program of the Navy",
+      "url": "https://www.loc.gov/item/2017689078/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "fsa",
+      "catalog-split-13",
+      "catalog",
+      "fsa-owi-black-and-white-negatives",
+      "main-catalog-split-13",
+      "main-catalog",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "catalog-split-06",
+      "main-catalog-split-06",
+      "catalog-split-11",
+      "main-catalog-split-11",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "ndnp/ncu",
+      "university-of-north-carolina-chapel-hill-library-awardee",
+      "gmd_vhs.mar",
+      "virginia-historical-society-maps"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "cph.3c39530",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.8008863925933838,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/cph.3c39530/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/cph.3c39530/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1734769500.974948,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 26782212,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/cph/3c30000/3c39000/3c39500/3c39530u.tif",
+      "width": 0
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 12061,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39500/3c39530_150px.jpg",
+      "width": 119
+    },
+    {
+      "height": 640,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 44040,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39500/3c39530r.jpg",
+      "width": 509
+    },
+    {
+      "height": 1024,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 250937,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39500/3c39530v.jpg",
+      "width": 814
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "//www.loc.gov/pictures/related/?&co=fsa&pk=2017696833&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn96027351/1868-01-01/ed-1/",
+        "http://www.loc.gov/resource/sn96027351/1868-01-01/ed-1/"
+      ],
+      "batch": [
+        "ncu_appling_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "university of north carolina at chapel hill library, chapel hill, nc"
+      ],
+      "date": "1868-01-01",
+      "dates": [
+        "1868-01-01"
+      ],
+      "description": [
+        "Washington, D.C."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-12T17:31:13.321Z",
+      "group": [
+        "ndnp/ncu",
+        "university-of-north-carolina-chapel-hill-library-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn96027351/1868-01-01/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_appling_ver02:data:sn96027351:00332891613:1868010101:0001/full/pct:3.125/0/default.jpg#h=298&w=203",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_appling_ver02:data:sn96027351:00332891613:1868010101:0001/full/pct:6.25/0/default.jpg#h=597&w=407",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:ncu:batch_ncu_appling_ver02:data:sn96027351:00332891613:1868010101:0001/full/pct:12.5/0/default.jpg#h=1194&w=815"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "united states",
+        "district of columbia",
+        "washington"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn96027351",
+        "00332891613",
+        "1"
+      ],
+      "numeric_shelf_id": 186801011,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "chronicling america",
+        "national savings bank (washington, d.c.) 1868-18?? [online resource]"
+      ],
+      "publication_frequency": [
+        "monthly"
+      ],
+      "score": 28.608194,
+      "shelf_id": "sn96027351, 1868-01-01, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "washington",
+        "african americans",
+        "united states",
+        "african american banks",
+        "district of columbia",
+        "african american",
+        "washington (d.c.)",
+        "newspapers"
+      ],
+      "timestamp": "2023-08-12T19:43:38.893Z",
+      "title": "National savings bank (Washington, D.C.), January 1, 1868",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn96027351/1868-01-01/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/gvhs01.vhs00064/",
+        "http://www.loc.gov/item/001-CABIB20005856/",
+        "http://www.loc.gov/resource/gvhs01.vhs00064/",
+        "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00064"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "sneden, robert knox"
+      ],
+      "description": [
+        "Depicts the area between Lewinsville, in Fairfax County, and Georgetown in the north, and Alexandria in the south.  The location of the Loudoun and Hampshire Railroad is also indicated."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-23T16:30:12.764Z",
+      "group": [
+        "gmd_vhs.mar",
+        "virginia-historical-society-maps"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/gvhs01.vhs00064/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00064.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00064.gif#h=192&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdvhs:gvhs:gvhs01:vhs00064/full/pct:12.5/0/default.jpg#h=277&w=216",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdvhs:gvhs:gvhs01:vhs00064/full/pct:25/0/default.jpg#h=554&w=433"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "fairfax county",
+        "washington",
+        "washington metropolitan area",
+        "united states",
+        "district of columbia",
+        "virginia",
+        "alexandria"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2002-11-21t15:38:47"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "military battles and campaigns",
+        "civil war maps",
+        "geography and map division"
+      ],
+      "score": 19.068573,
+      "shelf_id": "http://www.loc.gov/item/001-CABIB20005856/",
+      "site": [
+        "ammem"
+      ],
+      "subject": [
+        "fairfax county",
+        "washington",
+        "alexandria (va.)",
+        "washington metropolitan area",
+        "united states",
+        "district of columbia",
+        "maps",
+        "history",
+        "washington (d.c.)",
+        "fairfax county (va.)",
+        "virginia",
+        "alexandria",
+        "civil war"
+      ],
+      "timestamp": "2022-03-30T06:52:22.796Z",
+      "title": "Map showing positions of Union and Rebel forces Septr 1861.",
+      "url": "https://www.loc.gov/item/gvhs01.vhs00064/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/gvhs01.vhs00032/",
+        "http://www.loc.gov/item/gvhs01.vhs00032/",
+        "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00032",
+        "http://www.loc.gov/item/001-CABIB20002753/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "sneden, robert knox"
+      ],
+      "date": "1861-01-01",
+      "dates": [
+        "1861"
+      ],
+      "description": [
+        "Illustrates Alexandria's central position in the defense of Washington, where at least 12 outlying forts surrounded the city. Military camps of various Union officers such as Samuel Peter Heintzelman are indicated on this map."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-23T16:30:09.205Z",
+      "group": [
+        "gmd_vhs.mar",
+        "virginia-historical-society-maps"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/gvhs01.vhs00032/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00032.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00032.gif#h=192&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdvhs:gvhs:gvhs01:vhs00032/full/pct:12.5/0/default.jpg#h=279&w=218",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdvhs:gvhs:gvhs01:vhs00032/full/pct:25/0/default.jpg#h=559&w=437"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "fort lyon",
+        "washington",
+        "united states",
+        "district of columbia",
+        "virginia",
+        "alexandria"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2001-12-29t15:29:00"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "military battles and campaigns",
+        "civil war maps",
+        "geography and map division"
+      ],
+      "score": 19.068573,
+      "shelf_id": "http://www.loc.gov/item/001-CABIB20002753/",
+      "site": [
+        "ammem"
+      ],
+      "subject": [
+        "fort lyon",
+        "washington",
+        "alexandria (va.)",
+        "united states",
+        "heintzelman, samuel peter",
+        "district of columbia",
+        "fort lyon (va.)",
+        "maps",
+        "history",
+        "washington (d.c.)",
+        "virginia",
+        "alexandria",
+        "civil war"
+      ],
+      "timestamp": "2022-03-30T06:52:22.796Z",
+      "title": "[Map of Alexandria, Virginia]",
+      "url": "https://www.loc.gov/item/gvhs01.vhs00032/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/gvhs01.vhs00240/",
+        "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00240",
+        "http://www.loc.gov/item/001-CABIB20007500/",
+        "http://www.loc.gov/resource/gvhs01.vhs00240/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "sneden, robert knox"
+      ],
+      "description": [
+        "Detail from a printed map of the Potomac River region of Maryland and Virginia, and including Washington, D.C., which Sneden has annotated to show the locations of Union forts and picket lines."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-23T16:30:30.444Z",
+      "group": [
+        "gmd_vhs.mar",
+        "virginia-historical-society-maps"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/gvhs01.vhs00240/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00240.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00240.gif#h=150&w=189",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdvhs:gvhs:gvhs01:vhs00240/full/pct:12.5/0/default.jpg#h=536&w=676",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdvhs:gvhs:gvhs01:vhs00240/full/pct:25/0/default.jpg#h=1072&w=1352"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "united states",
+        "district of columbia",
+        "maryland",
+        "virginia"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2003-04-24t10:28:27"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "military battles and campaigns",
+        "civil war maps",
+        "geography and map division"
+      ],
+      "score": 19.068573,
+      "shelf_id": "http://www.loc.gov/item/001-CABIB20007500/",
+      "site": [
+        "ammem"
+      ],
+      "subject": [
+        "fortification",
+        "washington (d.c.)",
+        "washington",
+        "united states",
+        "district of columbia",
+        "maps",
+        "history",
+        "maryland",
+        "civil war",
+        "virginia",
+        "pictorial works"
+      ],
+      "timestamp": "2022-03-30T06:52:35.344Z",
+      "title": "Topographical map of Washington, D.C., and vicinity. Showing the Union forts and defences built 1861-3.",
+      "url": "https://www.loc.gov/item/gvhs01.vhs00240/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/gvhs01.vhs00256/",
+        "http://www.loc.gov/item/001-CABIB20007590/",
+        "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00256",
+        "http://www.loc.gov/item/gvhs01.vhs00256/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "sneden, robert knox"
+      ],
+      "description": [
+        "As a diversionary measure to take some of the pressure off of besieged Petersburg, Confederate forces under Jubal Early launched a northern offensive beginning in late June 1864. After stops near Harper's Ferry and Shepherdstown, W. Va., and Frederick and Baltimore, Md., they reached the outskirts of Washington, D.C., by July 11. Reconnaissance showed the Union had begun some intensive reinforcement, so an attack planned for July 12 was postponed and then abandoned. Settling for several skirmishes near Fort Stevens, and burning the house of Montgomery Blair (Lincoln's Postmaster General), the Confederates withdrew the night of July 12th and recrossed the Potomac at Leesburg."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-23T16:30:32.232Z",
+      "group": [
+        "gmd_vhs.mar",
+        "virginia-historical-society-maps"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/gvhs01.vhs00256/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00256.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00256.gif#h=193&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdvhs:gvhs:gvhs01:vhs00256/full/pct:12.5/0/default.jpg#h=681&w=530",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdvhs:gvhs:gvhs01:vhs00256/full/pct:25/0/default.jpg#h=1363&w=1061"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "washington",
+        "united states",
+        "district of columbia",
+        "maryland"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2003-04-28t12:18:37"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "military battles and campaigns",
+        "civil war maps",
+        "geography and map division"
+      ],
+      "score": 19.068573,
+      "shelf_id": "http://www.loc.gov/item/001-CABIB20007590/",
+      "site": [
+        "ammem"
+      ],
+      "subject": [
+        "washington (d.c.)",
+        "washington",
+        "early, jubal anderson",
+        "united states",
+        "homes and haunts",
+        "blair, montgomery",
+        "district of columbia",
+        "maps",
+        "history",
+        "maryland campaign",
+        "maryland",
+        "civil war"
+      ],
+      "timestamp": "2022-03-30T06:52:35.344Z",
+      "title": "Plan of the Rebel attack on Washington, D.C., July 11th and 12th, 1864.",
+      "url": "https://www.loc.gov/item/gvhs01.vhs00256/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/001-CABIB20009768/",
+        "http://www.loc.gov/resource/gvhs01.vhs00171/",
+        "http://www.loc.gov/item/gvhs01.vhs00171/",
+        "https://hdl.loc.gov/loc.ndlpcoop/gvhs01.vhs00171"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "sneden, robert knox"
+      ],
+      "description": [
+        "Map shows the location of Union fortifications around Washington, D.C., and the presence of Confederate forces under Gordon, Ramseur and Rhodes poised on the outskirts of the city."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-23T16:30:53.469Z",
+      "group": [
+        "gmd_vhs.mar",
+        "virginia-historical-society-maps"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/gvhs01.vhs00171/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00171.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmdvhs/gvhs/gvhs01/vhs00171.gif#h=189&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdvhs:gvhs:gvhs01:vhs00171/full/pct:12.5/0/default.jpg#h=270&w=214",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmdvhs:gvhs:gvhs01:vhs00171/full/pct:25/0/default.jpg#h=541&w=429"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c.",
+        "united states",
+        "district of columbia",
+        "washington metropolitan region"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2003-10-07t16:51:42"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "military battles and campaigns",
+        "civil war maps",
+        "geography and map division"
+      ],
+      "score": 19.068573,
+      "shelf_id": "http://www.loc.gov/item/001-CABIB20009768/",
+      "site": [
+        "ammem"
+      ],
+      "subject": [
+        "washington metropolitan region",
+        "united states",
+        "district of columbia",
+        "maps",
+        "history",
+        "washington (d.c.)",
+        "civil war"
+      ],
+      "timestamp": "2022-03-30T06:52:52.845Z",
+      "title": "Plan of the Rebel attack on Washington, D.C., 11th & 12th July 1864.",
+      "url": "https://www.loc.gov/item/gvhs01.vhs00171/"
+    }
+  ],
+  "reproductions": "<p>\n    If an image is displaying, you can download it yourself. (Some images \n    display only as thumbnails outside the Library of Congress because of rights \n    considerations, but you have access to larger size images on site.)\n</p>\n<p>\nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n<p>\n    <ol>\n        <p>\n            <li>\n                <strong>If a digital image is displaying:</strong>\n                The qualities of the digital image \n                partially depend on whether it was made from the original or an  \n                intermediate such as a copy negative or transparency. If the Reproduction \n                Number field above includes a reproduction number that starts with  \n                LC-DIG..., then there is a digital image that was made directly \n                from the original and is of sufficient resolution for most publication\n                purposes.\n            </li>\n        </p>\n        <li>\n            <strong>If there is information listed in the Reproduction Number field above:</strong>\n            You can use the reproduction number to purchase a copy from Duplication \n            Services.  It will be made from the source listed in the parentheses after  \n            the number. \n            <table width=\"75%\" border=\"1\" align=\"center\" cellpadding=\"1\" bordercolor=\"#993333\">\n                <tr>\n                    <td>\n                        <p>\n                            <strong>\n                                <center>\n                                    Expect\n                                    Delays in Service of Nitrate Negatives\n                                </center>\n                            </strong>\n                        </p>\n\t\t\t\t\t\t\n<p>\t\t\t\t\t\t\nReproductions of all types are available, but Duplication Services anticipates an \n8-10 week turnaround in completing orders, as all negatives must be reproduced at \ntheir off-site, cold storage facility.\n</p>\n<p>\nClues that an FSA/OWI/OEM image may be affected are:<br />\n<strong>Medium</strong> field says \"1 negative : nitrate\" OR <br />\n<strong>Reproduction Number</strong> field begins with: LC-USF33- \n</p>\n              \n                        <p>\n                            If either is the case, you may wish to consult\n                            with Prints and Photographs Division reference staff\n                            (202-707-6394). In certain instances, duplicate\n                            negatives are available for copying.\n                        </p>\n                    </td>\n                </tr>\n            </table>\n            <p>\n                If only black-and-white (&quot;b&w&quot;) sources are listed and you \n                desire a copy showing color or tint (assuming the original has any),  \n                you can generally purchase a quality copy of the original in color by \n                citing the Call Number listed above and including the catalog record \n                (&quot;About This Item&quot;) with your request.\n            </p>\n        </li>\n        <li>\n            <strong>If there is no information listed in the Reproduction Number field \n                above:</strong>\n            You can generally purchase a quality copy through \n            Duplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n            your request.\n        </li>\n    </ol>\n</p>\n<p>\n    Price lists, contact information, and order forms are available on the<a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>. \n</p>\n",
+  "resource": {
+    "caption": "digital file from b&w film copy neg.",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39500/3c39530_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/cph.3c39530/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from b&w film copy neg.",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3c30000/3c39000/3c39500/3c39530_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/cph.3c39530/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1734769501776,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/cph.3c39530/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/cph.3c39530/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/cph.3c39530/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/cph.3c39530/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/cph.3c39530/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/cph.3c39530/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/cph.3c39530/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/cph.3c39530/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/cph.3c39530/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/cph.3c39530/?fo=json&st=text"
+  }
+}

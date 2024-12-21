@@ -1,0 +1,1506 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "(1918) <cite>Lieut. Walter Chalaire of New York, formerly a well-known newspaper reporter, was hit in an air fight at 12,000 feet. The German bullet landed in his cartridge belt, driving its way straight into one of the bullets in the belt, which thus saved his life. Another bullet hit Chalaire's goggles a glancing blow, smashing the glass and bending the steel wire frame. Chalaire is now Convalescent in the American Hospital at Dartford, London</cite>. Dartford England, 1918. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2017675749/.",
+    "chicago": "<cite>Lieut. Walter Chalaire of New York, formerly a well-known newspaper reporter, was hit in an air fight at 12,000 feet. The German bullet landed in his cartridge belt, driving its way straight into one of the bullets in the belt, which thus saved his life. Another bullet hit Chalaire's goggles a glancing blow, smashing the glass and bending the steel wire frame. Chalaire is now Convalescent in the American Hospital at Dartford, London</cite>. Dartford England, 1918. Photograph. https://www.loc.gov/item/2017675749/.",
+    "mla": "<cite>Lieut. Walter Chalaire of New York, formerly a well-known newspaper reporter, was hit in an air fight at 12,000 feet. The German bullet landed in his cartridge belt, driving its way straight into one of the bullets in the belt, which thus saved his life. Another bullet hit Chalaire's goggles a glancing blow, smashing the glass and bending the steel wire frame. Chalaire is now Convalescent in the American Hospital at Dartford, London</cite>. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2017675749/&gt;."
+  },
+  "collection": null,
+  "item": {
+    "_version_": 1774494752151961600,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2017675749/",
+      "http://www.loc.gov/item/2017675749/",
+      "http://www.loc.gov/pictures/item/2017675749/",
+      "https://hdl.loc.gov/loc.pnp/anrc.09986",
+      "https://hdl.loc.gov/loc.pnp/anrc.09986",
+      "http://www.loc.gov/resource/anrc.09986/",
+      "http://lccn.loc.gov/2017675749"
+    ],
+    "call_number": "LC-A6196- 55622 [P&P]",
+    "campaigns": [],
+    "control_number": "",
+    "created": "2017-02-28T04:27:07Z",
+    "created_published": [
+      "1918."
+    ],
+    "created_published_date": "1918.",
+    "date": "1918",
+    "dates": [
+      {
+        "1918": "https://www.loc.gov/search/?dates=1918/1918&fo=json"
+      }
+    ],
+    "description": [
+      "1 negative : glass ; 5 x 7 in."
+    ],
+    "digital_id": [
+      "anrc 09986 https://hdl.loc.gov/loc.pnp/anrc.09986"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2023-07-17T14:47:10.513Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/item/2017675749/#pp_other",
+      "http://lccn.loc.gov/2017675749#catalog-split-00"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Glass negatives."
+    ],
+    "genre": [
+      "Glass negatives"
+    ],
+    "group": [
+      "pp_other",
+      "catalog-split-00",
+      "catalog",
+      "prints-and-photographs-other",
+      "main-catalog-split-00"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2017675749/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/anrc/09900/09986_150px.jpg#h=109&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/anrc/09900/09986r.jpg#h=463&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/anrc/09900/09986v.jpg#h=741&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-A6196- 55622 [P&P]",
+      "control_number": "2017675749",
+      "created": "2017-02-28T04:27:07Z",
+      "created_published": "1918.",
+      "created_published_date": "1918.",
+      "date": "1918.",
+      "digital_id": [
+        "anrc 09986 https://hdl.loc.gov/loc.pnp/anrc.09986"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Glass%20negatives.",
+          "title": "Glass negatives."
+        }
+      ],
+      "genre": [
+        "Glass negatives"
+      ],
+      "id": "2017675749",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2017675749/",
+      "marc": "https://www.loc.gov/pictures/item/2017675749/marc/",
+      "medium": [
+        "1 negative : glass ; 5 x 7 in."
+      ],
+      "medium_brief": "1 negative :",
+      "mediums": [
+        "1 negative : glass ; 5 x 7 in."
+      ],
+      "modified": "2017-02-28T04:27:07Z",
+      "notes": [
+        "Title, date and notes from Red Cross caption card.",
+        "Photographer name or source of original from caption card or negative sleeve: ARC, American Red Cross Official Photograph.",
+        "Group title: General, U.S. in England.",
+        "On caption card: B-106.",
+        "Data: Atlantic Div. 11/14/18.",
+        "Gift; American National Red Cross 1944 and 1952.",
+        "General information about the American National Red Cross photograph collection is available at http://hdl.loc.gov/loc.pnp/pp.anrc",
+        "Temp note: Batch 21"
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2017675749",
+        "https://www.loc.gov/item/anrc2016009650"
+      ],
+      "other_control_numbers": [
+        "19515050",
+        "anrc2016009650"
+      ],
+      "part_of": "American National Red Cross photograph collection (Library of Congress)",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=England--Dartford",
+          "longitude": "",
+          "title": "England--Dartford"
+        }
+      ],
+      "raw_collections": [
+        "anrc",
+        "diof",
+        "minload",
+        "pp"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-anrc-09986 (digital file from original)",
+      "resource_links": [
+        "https://hdl.loc.gov/loc.pnp/anrc.09986"
+      ],
+      "rights_advisory": "No known restrictions on publication. For information, see \"American National Red Cross photograph collection,\" https://www.loc.gov/rr/print/res/717_anrc.html",
+      "rights_information": "No known restrictions on publication. For information, see \"American National Red Cross photograph collection,\" https://www.loc.gov/rr/print/res/717_anrc.html",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/anrc/09900/09986_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/anrc/09900/09986r.jpg",
+      "sort_date": "1918",
+      "source_collection": [
+        "American National Red Cross photograph collection (Library of Congress)"
+      ],
+      "source_created": "2016-12-07T00:00:00Z",
+      "source_modified": "2017-02-23T12:10:26Z",
+      "subject_headings": [
+        "American Red Cross.",
+        "England--Dartford.",
+        "England--Dartford"
+      ],
+      "subjects": [
+        "American Red Cross",
+        "England--Dartford"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/anrc/09900/09986_150px.jpg",
+      "title": "Lieut. Walter Chalaire of New York, formerly a well-known newspaper reporter, was hit in an air fight at 12,000 feet. The German bullet landed in his cartridge belt, driving its way straight into one of the bullets in the belt, which thus saved his life. Another bullet hit Chalaire's goggles a glancing blow, smashing the glass and bending the steel wire frame. Chalaire is now Convalescent in the American Hospital at Dartford, London"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2017675749",
+    "link": "https://www.loc.gov/pictures/item/2017675749/",
+    "location": [
+      "dartford",
+      "england"
+    ],
+    "location_city": [
+      "dartford"
+    ],
+    "location_country": [
+      "england"
+    ],
+    "locations": [
+      {
+        "dartford": "https://www.loc.gov/search/?fa=location:dartford&fo=json"
+      },
+      {
+        "england": "https://www.loc.gov/search/?fa=location:england&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "dartford": "https://www.loc.gov/search/?fa=location_city:dartford&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "england": "https://www.loc.gov/search/?fa=location_country:england&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2017675749/marc/",
+    "medium": [
+      "1 negative : glass ; 5 x 7 in."
+    ],
+    "medium_brief": "1 negative :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2017-02-28T04:27:07Z",
+    "notes": [
+      "Title, date and notes from Red Cross caption card.",
+      "Photographer name or source of original from caption card or negative sleeve: ARC, American Red Cross Official Photograph.",
+      "Group title: General, U.S. in England.",
+      "On caption card: B-106.",
+      "Data: Atlantic Div. 11/14/18.",
+      "Gift; American National Red Cross 1944 and 1952.",
+      "General information about the American National Red Cross photograph collection is available at http://hdl.loc.gov/loc.pnp/pp.anrc",
+      "Temp note: Batch 21"
+    ],
+    "number": [
+      "2017675749",
+      "sheet",
+      "http://www.loc.gov/item/anrc2016009650",
+      "http://www.loc.gov/item/2017675749",
+      "2017-02-23t12:10:26",
+      "http://www.loc.gov/item/19515050"
+    ],
+    "number_carrier_type": [
+      "sheet"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/19515050",
+      "http://www.loc.gov/item/anrc2016009650",
+      "http://www.loc.gov/item/2017675749"
+    ],
+    "number_lccn": [
+      "2017675749"
+    ],
+    "number_source_modified": [
+      "2017-02-23t12:10:26"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "19515050",
+      "anrc2016009650"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2017675749/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2017675749/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2017675749/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 949513,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1082837,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1592516,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=England--Dartford",
+        "longitude": "",
+        "title": "England--Dartford"
+      }
+    ],
+    "raw_collections": [
+      "anrc",
+      "diof",
+      "minload",
+      "pp"
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&pk=2017675749&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-anrc-09986 (digital file from original)",
+    "reproductions": [],
+    "resource_links": [
+      "https://hdl.loc.gov/loc.pnp/anrc.09986"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from original",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/anrc/09900/09986_150px.jpg",
+        "url": "https://www.loc.gov/resource/anrc.09986/"
+      }
+    ],
+    "rights": [],
+    "rights_advisory": "No known restrictions on publication. For information, see \"American National Red Cross photograph collection,\" https://www.loc.gov/rr/print/res/717_anrc.html",
+    "rights_information": "No known restrictions on publication. For information, see \"American National Red Cross photograph collection,\" https://www.loc.gov/rr/print/res/717_anrc.html",
+    "score": 18.247097,
+    "shard": "00",
+    "shelf_id": "LC-A6196- 55622 [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1918",
+    "source_collection": "American National Red Cross photograph collection (Library of Congress)",
+    "source_created": "2016-12-07T00:00:00Z",
+    "source_modified": "2000-01-01T12:00:00Z",
+    "subject": [
+      "dartford",
+      "american red cross",
+      "england",
+      "glass negatives"
+    ],
+    "subject_headings": [
+      "American Red Cross",
+      "England--Dartford"
+    ],
+    "subjects": [
+      {
+        "american red cross": "https://www.loc.gov/search/?fa=subject:american+red+cross&fo=json"
+      },
+      {
+        "dartford": "https://www.loc.gov/search/?fa=subject:dartford&fo=json"
+      },
+      {
+        "england": "https://www.loc.gov/search/?fa=subject:england&fo=json"
+      },
+      {
+        "glass negatives": "https://www.loc.gov/search/?fa=subject:glass+negatives&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/anrc/09900/09986_150px.jpg",
+    "timestamp": "2023-08-17T16:34:29.637Z",
+    "title": "Lieut. Walter Chalaire of New York, formerly a well-known newspaper reporter, was hit in an air fight at 12,000 feet. The German bullet landed in his cartridge belt, driving its way straight into one of the bullets in the belt, which thus saved his life. Another bullet hit Chalaire's goggles a glancing blow, smashing the glass and bending the steel wire frame. Chalaire is now Convalescent in the American Hospital at Dartford, London",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2017675749/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017675920/",
+        "http://www.loc.gov/item/2017675920/",
+        "http://www.loc.gov/pictures/item/2017675920/",
+        "https://hdl.loc.gov/loc.pnp/anrc.10164",
+        "https://hdl.loc.gov/loc.pnp/anrc.10164",
+        "http://www.loc.gov/resource/anrc.10164/",
+        "http://lccn.loc.gov/2017675920"
+      ],
+      "campaigns": [],
+      "date": "1918",
+      "dates": [
+        "1918"
+      ],
+      "description": [
+        "1 negative : glass ; 5 x 7 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-17T14:47:12.031Z",
+      "group": [
+        "pp_other",
+        "catalog-split-07",
+        "catalog",
+        "prints-and-photographs-other",
+        "main-catalog-split-07"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017675920/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/anrc/10100/10164_150px.jpg#h=150&w=109",
+        "https://tile.loc.gov/storage-services/service/pnp/anrc/10100/10164r.jpg#h=640&w=463",
+        "https://tile.loc.gov/storage-services/service/pnp/anrc/10100/10164v.jpg#h=1024&w=741"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "dartford",
+        "england"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/anrc2016009821",
+        "sheet",
+        "2017675920",
+        "http://www.loc.gov/item/2017675920",
+        "http://www.loc.gov/item/19515230",
+        "2017-02-23t12:17:19"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 30.709826,
+      "shelf_id": "LC-A6196- 55859 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "dartford",
+        "american red cross",
+        "england",
+        "glass negatives"
+      ],
+      "timestamp": "2023-08-17T16:34:46.515Z",
+      "title": "Group of American wounded at the American Hospital at Dartford, near London, with Mrs. Arthur Robinson, who is the chairman of the ARC visitors stationed at the Hospital. She comes from Baltimore",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017675920/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017675925/",
+        "http://www.loc.gov/item/2017675925/",
+        "http://www.loc.gov/pictures/item/2017675925/",
+        "https://hdl.loc.gov/loc.pnp/anrc.10170",
+        "https://hdl.loc.gov/loc.pnp/anrc.10170",
+        "http://www.loc.gov/resource/anrc.10170/",
+        "http://lccn.loc.gov/2017675925"
+      ],
+      "campaigns": [],
+      "date": "1918",
+      "dates": [
+        "1918"
+      ],
+      "description": [
+        "1 negative : glass ; 5 x 7 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-17T14:47:12.031Z",
+      "group": [
+        "pp_other",
+        "catalog-split-12",
+        "catalog",
+        "prints-and-photographs-other",
+        "main-catalog-split-12"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017675925/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/anrc/10100/10170_150px.jpg#h=109&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/anrc/10100/10170r.jpg#h=463&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/anrc/10100/10170v.jpg#h=741&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "dartford",
+        "england"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/19515235",
+        "sheet",
+        "2017675925",
+        "2017-02-23t12:17:32",
+        "http://www.loc.gov/item/anrc2016009826",
+        "http://www.loc.gov/item/2017675925"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 30.709826,
+      "shelf_id": "LC-A6196- 55865 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "dartford",
+        "american red cross",
+        "england",
+        "glass negatives"
+      ],
+      "timestamp": "2023-08-17T16:34:46.515Z",
+      "title": "Sargeant Claude C. Collins of Lewisburg N.C. explains how he was wounded in the arm at Epres to an admiring group of American nurses and their English guest at the big American hospital at Dartford. The woman in riding habit is Mrs. Percy Smith of Stone Castle, who rides her famous horse \"Tredagh\" to the hospital almost everyday to bring comforts to the soldiers. She is accompanied by her spaniel \"George X,\" a blue ribboner, on her daily two mile trip over the hills of Kent. The nurses, left to right, are Hanna Sullivan and Grace Brigsg of Glens Falls, N.Y., Annie Mack of Brooklyn; Margaret Wagle, Blairsville, Pa.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017675925/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017675968/",
+        "http://www.loc.gov/item/2017675968/",
+        "http://www.loc.gov/pictures/item/2017675968/",
+        "https://hdl.loc.gov/loc.pnp/anrc.10213",
+        "https://hdl.loc.gov/loc.pnp/anrc.10213",
+        "http://www.loc.gov/resource/anrc.10213/",
+        "http://lccn.loc.gov/2017675968"
+      ],
+      "campaigns": [],
+      "date": "1918",
+      "dates": [
+        "1918"
+      ],
+      "description": [
+        "1 negative : glass ; 5 x 7 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-17T14:47:12.031Z",
+      "group": [
+        "pp_other",
+        "catalog-split-03",
+        "catalog",
+        "prints-and-photographs-other",
+        "main-catalog-split-03"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017675968/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/anrc/10200/10213_150px.jpg#h=109&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/anrc/10200/10213r.jpg#h=463&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/anrc/10200/10213v.jpg#h=741&w=1024"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "dartford",
+        "england"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017-02-23t12:19:22",
+        "http://www.loc.gov/item/anrc2016009869",
+        "2017675968",
+        "sheet",
+        "http://www.loc.gov/item/19515280",
+        "http://www.loc.gov/item/2017675968"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 30.709826,
+      "shelf_id": "LC-A6196- 55909 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "dartford",
+        "american red cross",
+        "england",
+        "glass negatives"
+      ],
+      "timestamp": "2023-08-17T16:34:46.515Z",
+      "title": "Twas the night before Christmas and all through the hospital, not a creature was stirring. Just for old time's sake, hang up your socks, the nurses at the Dartford hospital told all the American boys and sure enough, by the time the morning sun began peeping in at the windows, the Red Cross Santa Claus has visited every bed and filled every stocking. On the splinted arm of Private Edward Davidson of Brooklyn, N.Y. Santa pinned an extra spray of holly, real English holly, picked in the hospital gardens. Davidson had lain six days in a shell hole and twelve weeks in a hospital unable to move while his injured arm was mending. \"Poor Lad\", said Santa, \"We must make it a good Christmas for him\"",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017675968/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017675969/",
+        "http://www.loc.gov/item/2017675969/",
+        "http://www.loc.gov/pictures/item/2017675969/",
+        "https://hdl.loc.gov/loc.pnp/anrc.10214",
+        "https://hdl.loc.gov/loc.pnp/anrc.10214",
+        "http://www.loc.gov/resource/anrc.10214/",
+        "http://lccn.loc.gov/2017675969"
+      ],
+      "campaigns": [],
+      "date": "1918",
+      "dates": [
+        "1918"
+      ],
+      "description": [
+        "1 negative : glass ; 5 x 7 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-17T14:47:12.031Z",
+      "group": [
+        "pp_other",
+        "catalog-split-04",
+        "catalog",
+        "prints-and-photographs-other",
+        "main-catalog-split-04"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017675969/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/anrc/10200/10214_150px.jpg#h=109&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/anrc/10200/10214r.jpg#h=463&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/anrc/10200/10214v.jpg#h=741&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "dartford",
+        "england"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/19515281",
+        "sheet",
+        "2017675969",
+        "http://www.loc.gov/item/2017675969",
+        "2017-02-23t12:19:24",
+        "http://www.loc.gov/item/anrc2016009870"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 30.709826,
+      "shelf_id": "LC-A6196- 55910 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "dartford",
+        "american red cross",
+        "england",
+        "glass negatives"
+      ],
+      "timestamp": "2023-08-17T16:34:46.515Z",
+      "title": "Christmas morning in the big American hospital at Dartford, near London. At seven o'clock the sunlight began to melt the fog from the windows. All the boys had hung up their socks, and Santa Claus the Red Cross Santa, had been there. The nurses and the Red Cross workers stood at one end of the fracture ward waiting for the boys to waken on their first Christmas morning in \"Blighty.\" Without warning, a whoop echoed through the ward. \"Wow!\" exclaimed Private Edward Davidson of Brooklyn as he reached for his sock. \"Wow! Wake up you guys! Santa Claus has been to Blighty!\"",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017675969/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017675970/",
+        "http://www.loc.gov/item/2017675970/",
+        "http://www.loc.gov/pictures/item/2017675970/",
+        "https://hdl.loc.gov/loc.pnp/anrc.10215",
+        "https://hdl.loc.gov/loc.pnp/anrc.10215",
+        "http://www.loc.gov/resource/anrc.10215/",
+        "http://lccn.loc.gov/2017675970"
+      ],
+      "campaigns": [],
+      "date": "1918",
+      "dates": [
+        "1918"
+      ],
+      "description": [
+        "1 negative : glass ; 5 x 7 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-17T14:47:12.031Z",
+      "group": [
+        "pp_other",
+        "catalog-split-12",
+        "catalog",
+        "prints-and-photographs-other",
+        "main-catalog-split-12"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017675970/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/anrc/10200/10215_150px.jpg#h=109&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/anrc/10200/10215r.jpg#h=463&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/anrc/10200/10215v.jpg#h=741&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "dartford",
+        "england"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "sheet",
+        "http://www.loc.gov/item/19515282",
+        "http://www.loc.gov/item/2017675970",
+        "http://www.loc.gov/item/anrc2016009871",
+        "2017-02-23t12:19:27",
+        "2017675970"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 30.709826,
+      "shelf_id": "LC-A6196- 55911 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "dartford",
+        "american red cross",
+        "england",
+        "glass negatives"
+      ],
+      "timestamp": "2023-08-17T16:34:46.515Z",
+      "title": "Miss Alice Leone Fleenor of San Francisco, enrolls the men of Ward A at the Dartford Hospital, London in the Red Cross for the Christmas membership drive. Miss Fleenor happened to be out at Dartford talking with the men. Some of the boys learned that she had been speakers in the drive in America last Spring. \"Why don't you make us a speech?\" suggested Private John Anderson of Nashville. She replied that she didn't have any speeches ready except Red Cross speeches. \"That's just what we want\", said the crowd. So the men gathered around and listened to a regular \"Drive\" speech. At the end of the speech a young sergeant suggested, \"But Miss, it don't seem right that just because we're over here we can't join the A.R.C. ain't there some way for us to be members\" All those who want to join hold up your hands.\" said Miss Fleenor, and every hand in the room shot up as a general scramble ensued the room to see which man would be first to join",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017675970/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017675989/",
+        "http://www.loc.gov/item/2017675989/",
+        "http://www.loc.gov/pictures/item/2017675989/",
+        "https://hdl.loc.gov/loc.pnp/anrc.10234",
+        "https://hdl.loc.gov/loc.pnp/anrc.10234",
+        "http://www.loc.gov/resource/anrc.10234/",
+        "http://lccn.loc.gov/2017675989"
+      ],
+      "campaigns": [],
+      "date": "1918",
+      "dates": [
+        "1918"
+      ],
+      "description": [
+        "1 negative : glass ; 5 x 7 in."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-17T14:47:12.979Z",
+      "group": [
+        "pp_other",
+        "catalog-split-06",
+        "catalog",
+        "prints-and-photographs-other",
+        "main-catalog-split-06"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017675989/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/anrc/10200/10234_150px.jpg#h=109&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/anrc/10200/10234r.jpg#h=463&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/anrc/10200/10234v.jpg#h=741&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "dartford",
+        "england"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017-02-23t12:20:12",
+        "http://www.loc.gov/item/2017675989",
+        "http://www.loc.gov/item/19515303",
+        "sheet",
+        "http://www.loc.gov/item/anrc2016009890",
+        "2017675989"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 30.709826,
+      "shelf_id": "LC-A6196- 55932 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "dartford",
+        "american red cross",
+        "england",
+        "glass negatives"
+      ],
+      "timestamp": "2023-08-17T16:34:46.515Z",
+      "title": "Victory Day at Dartford Hospital. The signing of the armistice was celebrated by everybody in the big American base hospital near London in noisy hilarious fashion. There was a big parade with 1500 wounded men in line. The hosptial nursing arranged a number of \"Victory floats\" which are used to caryy surgical dressings around the wards. The photograph shows one of these tiny floats",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017675989/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "pp_other",
+      "catalog-split-00",
+      "catalog",
+      "prints-and-photographs-other",
+      "main-catalog-split-00",
+      "catalog-split-07",
+      "main-catalog-split-07",
+      "catalog-split-12",
+      "main-catalog-split-12",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "catalog-split-04",
+      "main-catalog-split-04",
+      "catalog-split-06",
+      "main-catalog-split-06",
+      "veterans-mets-05",
+      "veterans-mets",
+      "veterans-mets-00",
+      "cms",
+      "managed-content"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "anrc.09986",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.5405280590057373,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/anrc.09986/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/anrc.09986/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1734773633.4677596,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 73542550,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/anrc/09900/09986u.tif",
+      "width": 0
+    },
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 147025638,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/anrc/09900/09986a.tif",
+      "width": 0
+    },
+    {
+      "height": 109,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 5257,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/anrc/09900/09986_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 463,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 49199,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/anrc/09900/09986r.jpg",
+      "width": 640
+    },
+    {
+      "height": 741,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 291162,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/anrc/09900/09986v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&pk=2017675749&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/afc2001001.100183/",
+        "file:///natlib/afc2001001/registry/mets/20/loc.natlib.afc2001001.100183.xml",
+        "https://tile.loc.gov/storage-services/natlib/afc2001001/vhp-stories/mets/loc.natlib.afc2001001.100183.xml",
+        "http://www.loc.gov/resource/afc2001001.100183.mv0001001/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lacayo, ana",
+        "university of north florida, brooks college of health, school of nursing",
+        "ana lacayo",
+        "keels, violet o.",
+        "forbes, eddie",
+        "gaspar, brittany"
+      ],
+      "date": "1940",
+      "dates": [
+        "[1940 TO 1945]"
+      ],
+      "description": [
+        "World War, 1939-1945 - England; France; Germany; European Theater."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-15T16:11:19.770Z",
+      "group": [
+        "veterans-mets-05",
+        "veterans-mets"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/afc2001001.100183/",
+      "image_url": [
+        "https://tile.loc.gov/streaming-services/iiif/service:vhp:1001:100183:afc2001001_100183_mv0001001_640x480_800/full/512,/0/90,0/default.jpg"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "european theater",
+        "germany",
+        "england",
+        "france",
+        "florida"
+      ],
+      "mime_type": [
+        "video/mp4"
+      ],
+      "number": [
+        "2024-11-10",
+        "afc/2001/001/100183",
+        "2015-08-27"
+      ],
+      "online_format": [
+        "video"
+      ],
+      "original_format": [
+        "film, video",
+        "personal narrative",
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "american folklife center",
+        "veterans history project collection"
+      ],
+      "score": 8.24625,
+      "shelf_id": "vhp:Keels, Violet O.",
+      "subject": [
+        "american red cross",
+        "world war, 1939-1945",
+        "civilian",
+        "world war",
+        "uso",
+        "female",
+        "personal narratives",
+        "keels, violet o."
+      ],
+      "timestamp": "2024-12-15T20:16:36.104Z",
+      "title": "Violet O. Keels Collection",
+      "type": [
+        "video || moving image || personal narrative || mixed material || moving image || personal narrative || mixed material || moving image || personal narrative || mixed material"
+      ],
+      "url": "https://www.loc.gov/item/afc2001001.100183/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/afc2001001.10895/",
+        "file:///natlib/afc2001001/registry/mets/02/loc.natlib.afc2001001.10895.xml",
+        "https://tile.loc.gov/storage-services/natlib/afc2001001/vhp-stories/mets/loc.natlib.afc2001001.10895.xml",
+        "http://www.loc.gov/resource/afc2001001.10895.sr0001001/",
+        "http://www.loc.gov/resource/afc2001001.10895.sr0001002/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "tabbers, carol ann",
+        "shields, jane church"
+      ],
+      "date": "1944",
+      "dates": [
+        "[1944 TO 1945]"
+      ],
+      "description": [
+        "World War, 1939-1945 - England; France; Holland; Belgium."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-15T19:19:40.226Z",
+      "group": [
+        "veterans-mets-00",
+        "veterans-mets"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/afc2001001.10895/",
+      "image_url": [
+        "https://www.loc.gov/static/images/original-format/personal-narrative.svg"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "holland",
+        "california",
+        "belgium",
+        "england",
+        "france"
+      ],
+      "mime_type": [
+        "audio/mp3"
+      ],
+      "number": [
+        "2004-07-01",
+        "2024-08-14",
+        "afc/2001/001/10895"
+      ],
+      "online_format": [
+        "audio"
+      ],
+      "original_format": [
+        "sound recording",
+        "personal narrative",
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "american folklife center",
+        "veterans history project collection"
+      ],
+      "score": 8.24625,
+      "shelf_id": "vhp:Shields, Jane Church",
+      "subject": [
+        "american red cross",
+        "world war, 1939-1945",
+        "civilian",
+        "world war",
+        "female",
+        "personal narratives",
+        "shields, jane church"
+      ],
+      "timestamp": "2024-12-15T21:28:47.356Z",
+      "title": "Jane Church Shields Collection",
+      "url": "https://www.loc.gov/item/afc2001001.10895/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/national-photo-company/articles-and-essays/image-sampler/?st=gallery"
+      ],
+      "campaigns": [],
+      "date": "1850",
+      "dates": [
+        "[1850 TO 1945]"
+      ],
+      "description": [
+        "Top of page Skip to main content Library of Congress Search Everything Audio Recordings Books/Printed Material Films, Videos Legislation Manuscripts/Mixed Material Maps Notated Music Newspapers Periodicals Personal Narratives Photos, Prints, Drawings Software, E-Resources Web Archives"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:25:25.531Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/national-photo-company/articles-and-essays/image-sampler/?st=gallery",
+      "image_url": [
+        "https://www.loc.gov/static/collections/national-photo-company/500_500.jpg"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "national photo company collection"
+      ],
+      "score": 7.8726273,
+      "shelf_id": "~/collections/national-photo-company/articles-and-essays/image-sampler/?st=gallery",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "photographic prints",
+        "national photo company",
+        "french, herbert e.",
+        "glass negatives",
+        "portrait photographs"
+      ],
+      "timestamp": "2024-12-21T06:52:11.397Z",
+      "title": "Image Sampler | Articles and Essays | National Photo Company Collection | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/national-photo-company/articles-and-essays/image-sampler/?st=gallery"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/prokudin-gorskii/articles-and-essays/biographic-information/"
+      ],
+      "campaigns": [],
+      "date": "1905",
+      "dates": [
+        "[1905 TO 1915]"
+      ],
+      "description": [
+        "Sergei Mikhailovich Prokudin-Gorskii Na drezini︠e︡ u Petrozavodska po Murm. zh.d. [On a handcar along the Murmansk railroad near Petrozavodsk]. Sergei Prokudin-Gorskii, photographer [1915]. Prints and Photographs Division, Library of Congress. LC-DIG-ppmsc-03951 Born in the settlement of Funikova gora, in rural Vladimir Province east of Moscow, in 1863, and educated as a chemist, Sergei Mikhailovich Prokudin-Gorskii devoted his career to the advancement of photography. He studied with renowned scientists in St. Petersburg, Berlin, and Paris. His own original research yielded patents for producing color film slides and for projecting color motion pictures."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:26:21.360Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/prokudin-gorskii/articles-and-essays/biographic-information/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/prokudin-gorskii/images/ProkudinG03951.jpg"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "russia"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "prokudin-gorskii collection"
+      ],
+      "score": 7.8726273,
+      "shelf_id": "~/collections/prokudin-gorskii/articles-and-essays/biographic-information/",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "russian empire",
+        "prokudin-gorskii, sergei mikhailovich",
+        "negatives",
+        "photographic prints",
+        "glass negatives",
+        "color separation negatives",
+        "slides"
+      ],
+      "timestamp": "2024-12-21T06:52:34.582Z",
+      "title": "Biographic Information | Articles and Essays | Prokudin-Gorskii Collection | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/prokudin-gorskii/articles-and-essays/biographic-information/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/prokudin-gorskii/articles-and-essays/color-photography-method/"
+      ],
+      "campaigns": [],
+      "date": "1905",
+      "dates": [
+        "[1905 TO 1915]"
+      ],
+      "description": [
+        "Introduction Lantern Projector from: Thomas Cradock Hepworth, Book of the Lantern. New York: Edward L. Wilson, 1889 Prokudin-Gorskii created his negatives by using a camera that exposed one oblong glass plate three times in rapid succession through three different color filters: blue, green, and red. For formal presentations, he printed positive glass slides of these negatives and projected them through a triple lens magic lantern. Prokudin-Gorskii would project the slide through the three lenses, and, with the use of color filters, superimpose the three exposures to form a full color image on a screen. (For more illustrations of Prokudin-Gorskii's methods, see the \"Making Color Images\" section of the exhibit, The Empire That Was Russia.)"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:26:21.360Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/prokudin-gorskii/articles-and-essays/color-photography-method/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/prokudin-gorskii/images/01011_moon_anim.gif"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "russia"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "prokudin-gorskii collection"
+      ],
+      "score": 7.8726273,
+      "shelf_id": "~/collections/prokudin-gorskii/articles-and-essays/color-photography-method/",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "russian empire",
+        "prokudin-gorskii, sergei mikhailovich",
+        "negatives",
+        "photographic prints",
+        "glass negatives",
+        "color separation negatives",
+        "slides"
+      ],
+      "timestamp": "2024-12-21T06:52:34.582Z",
+      "title": "Color Photography Method | Articles and Essays | Prokudin-Gorskii Collection | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/prokudin-gorskii/articles-and-essays/color-photography-method/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/civil-war-glass-negatives/articles-and-essays/1961-microfilm-edition-booklet/"
+      ],
+      "campaigns": [],
+      "date": "1861",
+      "dates": [
+        "[1861 TO 1865]"
+      ],
+      "description": [
+        "Editor's Note: Among the online Civil War Photographs are 1,047 that were originally published as a microfilm in 1961. The microfilm and an accompanying index were the work of two Library of Congress staff members: Hirst D. Milhollen of the Prints and Photographs Division and Donald H. Mugridge of the (then) General Reference and Bibliography Division."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:14:16.571Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/civil-war-glass-negatives/articles-and-essays/1961-microfilm-edition-booklet/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/civil-war-glass-negatives/500_500.jpg"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "civil war glass negatives and related prints"
+      ],
+      "score": 7.8726273,
+      "shelf_id": "~/collections/civil-war-glass-negatives/articles-and-essays/1961-microfilm-edition-booklet/",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "portrait photographs",
+        "glass negatives",
+        "civil war"
+      ],
+      "timestamp": "2024-12-21T06:50:10.041Z",
+      "title": "1961 Microfilm Edition Booklet | Articles and Essays | Civil War Glass Negatives and Related Prints | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/civil-war-glass-negatives/articles-and-essays/1961-microfilm-edition-booklet/"
+    }
+  ],
+  "reproductions": "",
+  "resource": {
+    "caption": "digital file from original",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/anrc/09900/09986_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/anrc.09986/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from original",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/anrc/09900/09986_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/anrc.09986/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1734773634008,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/anrc.09986/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/anrc.09986/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/anrc.09986/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/anrc.09986/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/anrc.09986/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/anrc.09986/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/anrc.09986/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/anrc.09986/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/anrc.09986/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/anrc.09986/?fo=json&st=text"
+  }
+}

@@ -1,0 +1,1706 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Delano, J., photographer. (1942) <cite>Ensenada, Puerto Rico. Laborer wearing goggles as protection against the fumes and vapors of hot molasses at the South Puerto Rico Sugar Company</cite>. United States Ensenada Ponce Municipality Puerto Rico, 1942. Jan. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2017798280/.",
+    "chicago": "Delano, Jack, photographer. <cite>Ensenada, Puerto Rico. Laborer wearing goggles as protection against the fumes and vapors of hot molasses at the South Puerto Rico Sugar Company</cite>. United States Ensenada Ponce Municipality Puerto Rico, 1942. Jan. Photograph. https://www.loc.gov/item/2017798280/.",
+    "mla": "Delano, Jack, photographer. <cite>Ensenada, Puerto Rico. Laborer wearing goggles as protection against the fumes and vapors of hot molasses at the South Puerto Rico Sugar Company</cite>. Jan. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2017798280/&gt;."
+  },
+  "item": {
+    "_version_": 1770855888650764288,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2017798280/",
+      "http://www.loc.gov/item/2017798280/",
+      "http://www.loc.gov/pictures/item/2017798280/",
+      "https://www.loc.gov/pictures/collection/fsa/item/2017798280/",
+      "http://www.loc.gov/pictures/collection/fsa/item/2017798280/",
+      "https://hdl.loc.gov/loc.pnp/fsa.8c08685",
+      "https://hdl.loc.gov/loc.pnp/fsa.8c08685",
+      "http://www.loc.gov/resource/fsa.8c08685/",
+      "http://lccn.loc.gov/2017798280"
+    ],
+    "call_number": "LC-USF34- 047868-D [P&P] LOT 2344 (corresponding photographic print)",
+    "campaigns": [],
+    "contributor_names": [
+      "Delano, Jack, 1914-1997, photographer"
+    ],
+    "contributors": [
+      {
+        "delano, jack": "https://www.loc.gov/search/?fa=contributor:delano,+jack&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2023-07-04T06:32:54Z",
+    "created_published": [
+      "1942 Jan."
+    ],
+    "created_published_date": "1942 Jan.",
+    "date": "1942",
+    "dates": [
+      {
+        "1942": "https://www.loc.gov/search/?dates=1942/1942&fo=json"
+      }
+    ],
+    "description": [
+      "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+    ],
+    "digital_id": [
+      "fsa 8c08685 https://hdl.loc.gov/loc.pnp/fsa.8c08685"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2023-07-08T12:35:01.527Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/fsa/item/2017798280/#fsa",
+      "http://lccn.loc.gov/2017798280#catalog-split-12"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Safety film negatives."
+    ],
+    "genre": [
+      "Safety film negatives"
+    ],
+    "group": [
+      "fsa",
+      "catalog-split-12",
+      "catalog",
+      "fsa-owi-black-and-white-negatives",
+      "main-catalog-split-12",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2017798280/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08685t.gif#h=150&w=115",
+      "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08685_150px.jpg#h=150&w=117",
+      "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08685r.jpg#h=640&w=500",
+      "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08685v.jpg#h=1024&w=801"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LC-USF34- 047868-D [P&P] LOT 2344 (corresponding photographic print)",
+      "contributors": [
+        "Delano, Jack, 1914-1997, photographer"
+      ],
+      "control_number": "2017798280",
+      "created": "2023-07-04T06:32:54Z",
+      "created_published": "1942 Jan.",
+      "created_published_date": "1942 Jan.",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Delano%2C%20Jack%2C%201914-1997&co=fsa",
+          "role": "photographer",
+          "title": "Delano, Jack, 1914-1997"
+        }
+      ],
+      "date": "1942 Jan.",
+      "digital_id": [
+        "fsa 8c08685 https://hdl.loc.gov/loc.pnp/fsa.8c08685"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Safety%20film%20negatives.&co=fsa",
+          "title": "Safety film negatives."
+        }
+      ],
+      "genre": [
+        "Safety film negatives"
+      ],
+      "id": "2017798280",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2017798280/",
+      "marc": "https://www.loc.gov/pictures/item/2017798280/marc/",
+      "medium": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "medium_brief": "1 negative :",
+      "mediums": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "modified": "2023-07-04T06:32:55Z",
+      "notes": [
+        "Title and other information from caption card.",
+        "Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944.",
+        "More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi",
+        "Temp. note: usf34batch5",
+        "Film copy on SIS roll 5, frame 120."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2017798280",
+        "https://www.loc.gov/item/fsa2000029457/PP"
+      ],
+      "other_control_numbers": [
+        "19924817",
+        "fsa2000029457/PP"
+      ],
+      "other_number": "K 6073",
+      "part_of": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Puerto%20Rico--Ponce%20Municipality--Ensenada&co=fsa",
+          "longitude": "",
+          "title": "Puerto Rico--Ponce Municipality--Ensenada"
+        }
+      ],
+      "raw_collections": [
+        "ammem",
+        "diof",
+        "fsa",
+        "pp"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-USF34-047868-D (b&w film neg.)",
+      "resource_links": [
+        "https://hdl.loc.gov/loc.pnp/fsa.8c08685"
+      ],
+      "rights_advisory": "No known restrictions. For information, see U.S. Farm Security Administration/Office of War Information Black & White Photographs https://www.loc.gov/rr/print/res/071_fsab.html",
+      "rights_information": "No known restrictions. For information, see U.S. Farm Security Administration/Office of War Information Black & White Photographs https://www.loc.gov/rr/print/res/071_fsab.html",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08685_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08685r.jpg",
+      "sort_date": "1942",
+      "source_collection": [
+        "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)"
+      ],
+      "source_created": "2000-09-19T00:00:00Z",
+      "source_modified": "2023-06-30T14:36:56Z",
+      "subject_headings": [
+        "United States--Puerto Rico--Ponce Municipality--Ensenada.",
+        "Puerto Rico--Ponce Municipality--Ensenada"
+      ],
+      "subjects": [
+        "United States--Puerto Rico--Ponce Municipality--Ensenada"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08685_150px.jpg",
+      "title": "Ensenada, Puerto Rico. Laborer wearing goggles as protection against the fumes and vapors of hot molasses at the South Puerto Rico Sugar Company"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2017798280",
+    "link": "https://www.loc.gov/pictures/item/2017798280/",
+    "location": [
+      "united states",
+      "ensenada",
+      "ponce municipality",
+      "puerto rico"
+    ],
+    "location_city": [
+      "ensenada"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_county": [
+      "ponce municipality"
+    ],
+    "location_state": [
+      "puerto rico"
+    ],
+    "locations": [
+      {
+        "ensenada": "https://www.loc.gov/search/?fa=location:ensenada&fo=json"
+      },
+      {
+        "ponce municipality": "https://www.loc.gov/search/?fa=location:ponce+municipality&fo=json"
+      },
+      {
+        "puerto rico": "https://www.loc.gov/search/?fa=location:puerto+rico&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "ensenada": "https://www.loc.gov/search/?fa=location_city:ensenada&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_county": [
+      {
+        "ponce municipality": "https://www.loc.gov/search/?fa=location_county:ponce+municipality&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "puerto rico": "https://www.loc.gov/search/?fa=location_state:puerto+rico&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2017798280/marc/",
+    "medium": [
+      "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+    ],
+    "medium_brief": "1 negative :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2023-07-04T06:32:55Z",
+    "notes": [
+      "Title and other information from caption card.",
+      "Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944.",
+      "More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi",
+      "Temp. note: usf34batch5",
+      "Film copy on SIS roll 5, frame 120."
+    ],
+    "number": [
+      "2023-06-30t14:36:56",
+      "http://www.loc.gov/item/fsa2000029457/pp",
+      "http://www.loc.gov/item/2017798280",
+      "http://www.loc.gov/item/19924817",
+      "2017798280"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/19924817",
+      "http://www.loc.gov/item/fsa2000029457/pp",
+      "http://www.loc.gov/item/2017798280"
+    ],
+    "number_lccn": [
+      "2017798280"
+    ],
+    "number_source_modified": [
+      "2023-06-30t14:36:56"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "19924817",
+      "fsa2000029457/PP"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2017798280/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2017798280/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2017798280/dc"
+      }
+    ],
+    "other_number": "K 6073",
+    "partof": [
+      {
+        "count": 729,
+        "title": "lot 2344",
+        "url": "https://www.loc.gov/search/?fa=partof:lot+2344&fo=json"
+      },
+      {
+        "count": 171046,
+        "title": "farm security administration/office of war information black-and-white negatives",
+        "url": "https://www.loc.gov/collections/fsa-owi-black-and-white-negatives/?fo=json"
+      },
+      {
+        "count": 437343,
+        "title": "american memory",
+        "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+      },
+      {
+        "count": 949513,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1082837,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1592516,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Puerto%20Rico--Ponce%20Municipality--Ensenada&co=fsa",
+        "longitude": "",
+        "title": "Puerto Rico--Ponce Municipality--Ensenada"
+      }
+    ],
+    "raw_collections": [
+      "ammem",
+      "diof",
+      "fsa",
+      "pp"
+    ],
+    "related": {
+      "group_record": "https://www.loc.gov/pictures/search/?q=LOT 2344&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=fsa&pk=2017798280&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-USF34-047868-D (b&w film neg.)",
+    "reproductions": [
+      "<p> If an image is displaying, you can download it yourself. (Some images display only as thumbnails outside the Library of Congress because of rights considerations, but you have access to larger size images on site.) </p>\n<p> Alternatively, you can purchase copies of various types through Library  of Congress Duplication Services. </p>\n<ol class=\"margin-bottom-single-li\">\n\t<li> <strong>If a digital image is displaying:</strong> The qualities of the digital image partially depend on whether it was made from the original or an intermediate such as a copy negative or transparency. If the Reproduction Number field above includes a reproduction number that starts with LC-DIG..., then there is a digital image that was made directly from the original and is of sufficient resolution for most publication    purposes. </li>\n\t<li> <strong>If there is information listed in the Reproduction Number field above:</strong> You can use the reproduction number to purchase a copy from Duplication Services.  It will be made from the source listed in the parentheses after  the number.\n\t\t If only black-and-white (\"b&amp;w\") sources are listed and you desire a copy showing color or tint (assuming the original has any), you can generally purchase a quality copy of the original in color by citing the Call Number listed above and including the catalog record (\"About This Item\") with your request.\n\t</li>\n\t<li> <strong>If there is no information listed in the Reproduction Number field above:</strong> You can generally purchase a quality copy through Duplication Services. Cite the Call Number listed above and include the catalog record (\"About This Item\") with your request. </li>\n</ol>\n<p> Price lists, contact information, and order forms are available on the <a href=\"//lcweb.loc.gov/preserv/pds/\">Duplication Services Web site</a>. </p>\n<h4>Expect Delays in Service of Nitrate Negatives </h4>\n<p>Reproductions of all types are available, but Duplication Services anticipates an  8-10 week turnaround in completing orders, as all negatives must be reproduced at  their off-site, cold storage facility. </p>\n<p> Clues that an FSA/OWI/OEM image may be affected are:<br />\n\t<strong>Medium</strong> field says \"1 negative : nitrate\" OR <br />\n\t<strong>Reproduction Number</strong> field begins with: LC-USF33- </p>\n<p> If either is the case, you may wish to consult with Prints and Photographs Division reference staff (202-707-6394). In certain instances, duplicate negatives are available for copying. </p>\n"
+    ],
+    "resource_links": [
+      "https://hdl.loc.gov/loc.pnp/fsa.8c08685"
+    ],
+    "resources": [
+      {
+        "caption": "intermediary roll film",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08685_150px.jpg",
+        "url": "https://www.loc.gov/resource/fsa.8c08685/"
+      }
+    ],
+    "rights": [
+      "<p>The contents of the Library of Congress Farm Security Administration/Office of War Information Black-and-White Negatives are in the public domain and are free to use and reuse.</p>\r\n<p> Credit Line: Library of Congress, Prints &amp; Photographs Division, Farm Security Administration/Office of War Information Black-and-White Negatives.</p>\r\n<p>For information about reproducing, publishing, and citing material from this collection, as well as access to the original items, see: <a href=\"https://www.loc.gov/rr/print/res/071_fsab.html\">U.S. Farm Security Administration/Office of War Information Black &amp; White Photographs - Rights and Restrictions Information</a>\r\n</p>\r\n<p>More about <a href=\"/legal/\">Copyright and other Restrictions</a> </p>\r\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing Primary Sources</a>.</p>"
+    ],
+    "rights_advisory": "No known restrictions. For information, see U.S. Farm Security Administration/Office of War Information Black & White Photographs https://www.loc.gov/rr/print/res/071_fsab.html",
+    "rights_information": "No known restrictions. For information, see U.S. Farm Security Administration/Office of War Information Black & White Photographs https://www.loc.gov/rr/print/res/071_fsab.html",
+    "score": 19.206085,
+    "shard": "00",
+    "shelf_id": "LC-USF34- 047868-D [P&P] LOT 2344 (corresponding photographic print)",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1942",
+    "source_collection": "Farm Security Administration - Office of War Information Photograph Collection (Library of Congress)",
+    "source_created": "2000-09-19T00:00:00Z",
+    "source_modified": "2000-01-01T12:00:00Z",
+    "subject": [
+      "united states",
+      "puerto rico",
+      "ensenada",
+      "ponce municipality",
+      "safety film negatives"
+    ],
+    "subject_headings": [
+      "United States--Puerto Rico--Ponce Municipality--Ensenada"
+    ],
+    "subjects": [
+      {
+        "ensenada": "https://www.loc.gov/search/?fa=subject:ensenada&fo=json"
+      },
+      {
+        "ponce municipality": "https://www.loc.gov/search/?fa=subject:ponce+municipality&fo=json"
+      },
+      {
+        "puerto rico": "https://www.loc.gov/search/?fa=subject:puerto+rico&fo=json"
+      },
+      {
+        "safety film negatives": "https://www.loc.gov/search/?fa=subject:safety+film+negatives&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08685_150px.jpg",
+    "timestamp": "2023-07-08T12:36:18.903Z",
+    "title": "Ensenada, Puerto Rico. Laborer wearing goggles as protection against the fumes and vapors of hot molasses at the South Puerto Rico Sugar Company",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2017798280/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017798231/",
+        "http://www.loc.gov/item/2017798231/",
+        "http://www.loc.gov/pictures/item/2017798231/",
+        "https://www.loc.gov/pictures/collection/fsa/item/2017798231/",
+        "http://www.loc.gov/pictures/collection/fsa/item/2017798231/",
+        "http://www.loc.gov/resource/fsa.8c08636/",
+        "http://lccn.loc.gov/2017798231",
+        "https://hdl.loc.gov/loc.pnp/fsa.8c08636"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "delano, jack"
+      ],
+      "date": "1942-01-01",
+      "dates": [
+        "1942"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:30:56.756Z",
+      "group": [
+        "fsa",
+        "catalog-split-08",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017798231/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08636_150px.jpg#h=115&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08636t.gif#h=112&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08636r.jpg#h=489&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08636v.jpg#h=782&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "ponce municipality",
+        "ensenada",
+        "puerto rico"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2021-08-17t11:40:10",
+        "http://www.loc.gov/item/19924767",
+        "2017798231",
+        "http://www.loc.gov/item/fsa2000029408/pp",
+        "http://www.loc.gov/item/2017798231"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "farm security administration/office of war information black-and-white negatives",
+        "lot 2344"
+      ],
+      "score": 59.95479,
+      "shelf_id": "LC-USF34- 047819-D [P&P] LOT 2344 (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "puerto rico",
+        "ensenada",
+        "ponce municipality",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-04-25T22:14:12.546Z",
+      "title": "Ensenada, Puerto Rico. Workmen at the South Puerto Rico Sugar Company waiting for more bags of sugar to come down for them to store in this warehouse",
+      "url": "https://www.loc.gov/item/2017798231/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017798232/",
+        "http://www.loc.gov/item/2017798232/",
+        "http://www.loc.gov/pictures/item/2017798232/",
+        "https://www.loc.gov/pictures/collection/fsa/item/2017798232/",
+        "http://www.loc.gov/pictures/collection/fsa/item/2017798232/",
+        "http://www.loc.gov/resource/fsa.8c08637/",
+        "http://lccn.loc.gov/2017798232",
+        "https://hdl.loc.gov/loc.pnp/fsa.8c08637"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "delano, jack"
+      ],
+      "date": "1942-01-01",
+      "dates": [
+        "1942"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:30:58.792Z",
+      "group": [
+        "fsa",
+        "catalog-split-09",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017798232/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08637t.gif#h=150&w=113",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08637_150px.jpg#h=150&w=114",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08637r.jpg#h=640&w=488",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08637v.jpg#h=1024&w=781"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "ponce municipality",
+        "ensenada",
+        "puerto rico"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017798232",
+        "http://www.loc.gov/item/2017798232",
+        "http://www.loc.gov/item/fsa2000029409/pp",
+        "http://www.loc.gov/item/19924768",
+        "2021-08-12t16:00:59"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "farm security administration/office of war information black-and-white negatives",
+        "lot 2344"
+      ],
+      "score": 59.95479,
+      "shelf_id": "LC-USF34- 047820-D [P&P] LOT 2344 (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "puerto rico",
+        "ensenada",
+        "ponce municipality",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-04-25T22:14:12.546Z",
+      "title": "Ensenada, Puerto Rico. Unloading a carload of sugar cane at the South Puerto Rico Sugar Company mill",
+      "url": "https://www.loc.gov/item/2017798232/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017798234/",
+        "http://www.loc.gov/item/2017798234/",
+        "http://www.loc.gov/pictures/item/2017798234/",
+        "https://www.loc.gov/pictures/collection/fsa/item/2017798234/",
+        "http://www.loc.gov/pictures/collection/fsa/item/2017798234/",
+        "http://www.loc.gov/resource/fsa.8c08639/",
+        "http://lccn.loc.gov/2017798234",
+        "https://hdl.loc.gov/loc.pnp/fsa.8c08639"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "delano, jack"
+      ],
+      "date": "1942-01-01",
+      "dates": [
+        "1942"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:30:58.792Z",
+      "group": [
+        "fsa",
+        "catalog-split-11",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-11",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017798234/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08639_150px.jpg#h=150&w=115",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08639t.gif#h=150&w=115",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08639r.jpg#h=640&w=490",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08639v.jpg#h=1024&w=785"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "ponce municipality",
+        "ensenada",
+        "puerto rico"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/fsa2000029411/pp",
+        "http://www.loc.gov/item/19924770",
+        "2021-08-12t13:45:12",
+        "http://www.loc.gov/item/2017798234",
+        "2017798234"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "farm security administration/office of war information black-and-white negatives",
+        "lot 2344"
+      ],
+      "score": 59.95479,
+      "shelf_id": "LC-USF34- 047822-D [P&P] LOT 2344 (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "puerto rico",
+        "ensenada",
+        "ponce municipality",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-04-25T22:14:12.546Z",
+      "title": "Ensenada, Puerto Rico. Carloads of sugar cane at the South Puerto Rico Sugar Company",
+      "url": "https://www.loc.gov/item/2017798234/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017798250/",
+        "http://www.loc.gov/item/2017798250/",
+        "http://www.loc.gov/pictures/item/2017798250/",
+        "https://www.loc.gov/pictures/collection/fsa/item/2017798250/",
+        "http://www.loc.gov/pictures/collection/fsa/item/2017798250/",
+        "http://www.loc.gov/resource/fsa.8c08655/",
+        "http://lccn.loc.gov/2017798250",
+        "https://hdl.loc.gov/loc.pnp/fsa.8c08655"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "delano, jack"
+      ],
+      "date": "1942-01-01",
+      "dates": [
+        "1942"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:30:58.792Z",
+      "group": [
+        "fsa",
+        "catalog-split-09",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017798250/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08655_150px.jpg#h=114&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08655t.gif#h=112&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08655r.jpg#h=487&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08655v.jpg#h=779&w=1024"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "ponce municipality",
+        "ensenada",
+        "puerto rico"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/fsa2000029427/pp",
+        "http://www.loc.gov/item/19924786",
+        "http://www.loc.gov/item/2017798250",
+        "2021-08-12t16:07:05",
+        "2017798250"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "farm security administration/office of war information black-and-white negatives",
+        "lot 2344"
+      ],
+      "score": 59.95479,
+      "shelf_id": "LC-USF34- 047838-D [P&P] LOT 2344 (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "puerto rico",
+        "ensenada",
+        "ponce municipality",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-04-25T22:14:12.546Z",
+      "title": "Ensenada, Puerto Rico. Carloads of sugar cane at the South Puerto Rico Sugar Company",
+      "url": "https://www.loc.gov/item/2017798250/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017798257/",
+        "http://www.loc.gov/item/2017798257/",
+        "http://www.loc.gov/pictures/item/2017798257/",
+        "https://www.loc.gov/pictures/collection/fsa/item/2017798257/",
+        "http://www.loc.gov/pictures/collection/fsa/item/2017798257/",
+        "http://www.loc.gov/resource/fsa.8c08662/",
+        "https://hdl.loc.gov/loc.pnp/fsa.8c08662",
+        "http://lccn.loc.gov/2017798257"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "delano, jack"
+      ],
+      "date": "1942-01-01",
+      "dates": [
+        "1942"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:30:58.792Z",
+      "group": [
+        "fsa",
+        "catalog-split-00",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017798257/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08662_150px.jpg#h=150&w=115",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08662t.gif#h=150&w=117",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08662r.jpg#h=640&w=490",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08662v.jpg#h=1024&w=784"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "ponce municipality",
+        "ensenada",
+        "puerto rico"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2017798257",
+        "2017798257",
+        "2021-08-12t15:29:16",
+        "http://www.loc.gov/item/fsa2000029434/pp",
+        "http://www.loc.gov/item/19924793"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "farm security administration/office of war information black-and-white negatives",
+        "lot 2344"
+      ],
+      "score": 59.95479,
+      "shelf_id": "LC-USF34- 047845-D [P&P] LOT 2344 (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "puerto rico",
+        "ensenada",
+        "ponce municipality",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-04-25T22:14:12.546Z",
+      "title": "Ensenada, Puerto Rico. One of the mills in the South Puerto Rico Sugar Company's plant",
+      "url": "https://www.loc.gov/item/2017798257/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017798281/",
+        "http://www.loc.gov/item/2017798281/",
+        "http://www.loc.gov/pictures/item/2017798281/",
+        "https://www.loc.gov/pictures/collection/fsa/item/2017798281/",
+        "http://www.loc.gov/pictures/collection/fsa/item/2017798281/",
+        "http://www.loc.gov/resource/fsa.8c08686/",
+        "http://lccn.loc.gov/2017798281",
+        "https://hdl.loc.gov/loc.pnp/fsa.8c08686"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "delano, jack"
+      ],
+      "date": "1942-01-01",
+      "dates": [
+        "1942"
+      ],
+      "description": [
+        "1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T20:30:58.792Z",
+      "group": [
+        "fsa",
+        "catalog-split-13",
+        "catalog",
+        "fsa-owi-black-and-white-negatives",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017798281/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08686t.gif#h=150&w=115",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08686_150px.jpg#h=150&w=117",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08686r.jpg#h=640&w=498",
+        "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08686v.jpg#h=1024&w=797"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "ponce municipality",
+        "ensenada",
+        "puerto rico"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2017798281",
+        "2021-08-16t10:30:46",
+        "http://www.loc.gov/item/19924818",
+        "http://www.loc.gov/item/2017798281",
+        "http://www.loc.gov/item/fsa2000029458/pp"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "farm security administration/office of war information black-and-white negatives",
+        "lot 2344"
+      ],
+      "score": 59.95479,
+      "shelf_id": "LC-USF34- 047869-D [P&P] LOT 2344 (corresponding photographic print)",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "puerto rico",
+        "ensenada",
+        "ponce municipality",
+        "safety film negatives"
+      ],
+      "timestamp": "2022-04-25T22:14:12.546Z",
+      "title": "Ensenada, Puerto Rico. Vats for boiling and crystalizing the syrup in the South Puerto Rico Sugar Company",
+      "url": "https://www.loc.gov/item/2017798281/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "fsa",
+      "catalog-split-12",
+      "catalog",
+      "fsa-owi-black-and-white-negatives",
+      "main-catalog-split-12",
+      "main-catalog",
+      "catalog-split-08",
+      "main-catalog-split-08",
+      "catalog-split-09",
+      "main-catalog-split-09",
+      "catalog-split-11",
+      "main-catalog-split-11",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "catalog-split-13",
+      "main-catalog-split-13",
+      "gmd.mar",
+      "general-maps",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "catalog-split-10",
+      "main-catalog-split-10",
+      "afccal",
+      "american-english-dialect-recordings"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "fsa.8c08685",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 1.0890796184539795,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/fsa.8c08685/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/fsa.8c08685/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1734773630.3516047,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 153011332,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/fsa/8c08000/8c08600/8c08685u.tif",
+      "width": 0
+    },
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 306290201,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/fsa/8c08000/8c08600/8c08685a.tif",
+      "width": 0
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 20253,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08685t.gif",
+      "width": 115
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 18916,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08685_150px.jpg",
+      "width": 117
+    },
+    {
+      "height": 640,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 104149,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08685r.jpg",
+      "width": 500
+    },
+    {
+      "height": 1024,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 221386,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08685v.jpg",
+      "width": 801
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": "https://www.loc.gov/pictures/search/?q=LOT 2344&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=fsa&pk=2017798280&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/g4974s.ct001347/",
+        "http://www.loc.gov/item/74690595/",
+        "https://hdl.loc.gov/loc.gmd/g4974s.ct001347",
+        "http://lccn.loc.gov/74690595"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "lópez de vargas machuca, tomás"
+      ],
+      "date": "1785-01-01",
+      "dates": [
+        "1785"
+      ],
+      "description": [
+        "Scale [ca. 1:20,000]. Depths shown by soundings. Includes index to points of interest, descriptive notes, and inset of \"Plano de la Aguada nueva de Puerto-Rico.\" Available also through the Library of Congress Web site as a raster image. Vault AACR2"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-29T21:50:10.204Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-13",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/74690595/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd4/g4974/g4974s/ct001347.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd4/g4974/g4974s/ct001347.gif#h=150&w=185",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd4:g4974:g4974s:ct001347/full/pct:12.5/0/default.jpg#h=591&w=729",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd4:g4974:g4974s:ct001347/full/pct:25/0/default.jpg#h=1183&w=1459"
+      ],
+      "index": 1,
+      "language": [
+        "spanish"
+      ],
+      "location": [
+        "san juan",
+        "united states",
+        "puerto rico"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "74690595",
+        "2004-12-10t11:30:04",
+        "http://www.loc.gov/item/5414966",
+        "http://www.loc.gov/item/74690595"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "cities and towns",
+        "geography and map division"
+      ],
+      "score": 12.956197,
+      "shelf_id": "G4974.S5 1785 .L6",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "early works to 1800",
+        "maps",
+        "united states",
+        "san juan (p.r.)",
+        "puerto rico",
+        "san juan",
+        "harbors"
+      ],
+      "timestamp": "2022-12-10T05:51:16.883Z",
+      "title": "Plano de Puerto-Rico: Dale a Luz.",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/74690595/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://hdl.loc.gov/loc.gmd/g4974s.ct001338",
+        "http://www.loc.gov/item/2004629255/",
+        "http://www.loc.gov/resource/g4974s.ct001338/",
+        "http://lccn.loc.gov/2004629255"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "churruca y elorza, cosme damián de",
+        "wilson, h."
+      ],
+      "date": "1805-01-01",
+      "dates": [
+        "1805"
+      ],
+      "description": [
+        "Relief shown by hachures. Includes index and shows notes, remarks, situation of shoals, and directions for entering the harbour of Porto [sic] Rico. \"Republished on the scale of the original plan by W. Faden, geographer to his majesty & to his Royal Highness the Prince of Wales.\" Available also through the Library of Congress Web site as a raster image."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-30T01:25:20.102Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-03",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2004629255/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd4/g4974/g4974s/ct001338.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd4/g4974/g4974s/ct001338.gif#h=150&w=196",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd4:g4974:g4974s:ct001338/full/pct:12.5/0/default.jpg#h=726&w=951",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd4:g4974:g4974s:ct001338/full/pct:25/0/default.jpg#h=1452&w=1903"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "san juan",
+        "united states",
+        "puerto rico"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/item/2004629255",
+        "http://www.loc.gov/item/13827832",
+        "2012-12-31t10:12:51",
+        "2004629255"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "catalog",
+        "cities and towns",
+        "geography and map division"
+      ],
+      "score": 12.956197,
+      "shelf_id": "G4974.S5 1805 .C4",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "maps",
+        "united states",
+        "san juan (p.r.)",
+        "puerto rico",
+        "san juan",
+        "harbors"
+      ],
+      "timestamp": "2022-12-10T05:30:01.372Z",
+      "title": "Geometrical plan of the principal harbour in the island of Porto [sic] Rico",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/2004629255/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/g3861d.ct008841/",
+        "http://www.loc.gov/item/94685550/",
+        "https://hdl.loc.gov/loc.gmd/g3861d.ct008841",
+        "http://lccn.loc.gov/94685550"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "united states. animal and plant health inspection service. plant protection and quarantine programs"
+      ],
+      "date": "1989-01-01",
+      "dates": [
+        "1989"
+      ],
+      "description": [
+        "Includes notes. Quarantine regulations listed on verso. Available also through the Library of Congress Web site as a raster image."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-10-30T01:21:19.961Z",
+      "group": [
+        "gmd.mar",
+        "catalog-split-10",
+        "catalog",
+        "general-maps",
+        "main-catalog-split-10",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/94685550/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd386/g3861/g3861d/ct008841.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd386/g3861/g3861d/ct008841.gif#h=85&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd386:g3861:g3861d:ct008841/full/pct:12.5/0/default.jpg#h=423&w=749",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd386:g3861:g3861d:ct008841/full/pct:25/0/default.jpg#h=846&w=1498"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "southern states",
+        "puerto rico"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "94685550",
+        "http://www.loc.gov/item/5542105",
+        "2018-02-22t10:28:49",
+        "http://www.loc.gov/item/94685550",
+        "20949239"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "american memory",
+        "general maps",
+        "additional conservation and environment cartographic items",
+        "catalog",
+        "geography and map division"
+      ],
+      "score": 12.956197,
+      "shelf_id": "G3861.D4 1989 .U5",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "fire ants",
+        "maps",
+        "control",
+        "law and legislation",
+        "united states",
+        "puerto rico",
+        "insect pests",
+        "southern states"
+      ],
+      "timestamp": "2022-12-10T06:04:34.642Z",
+      "title": "Imported fire ant quarantines : [south and southeastern United States and Puerto Rico].",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/94685550/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/afccal000272/",
+        "https://hdl.loc.gov/loc.afc/afc1986022.sr40a01",
+        "http://www.loc.gov/resource/afc1986022.afc1986022_sr40a01/",
+        "http://www.loc.gov/item/afc1986022.afc1986022_sr40a01/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "unidentified",
+        "jones, morgan"
+      ],
+      "date": "1958-07",
+      "dates": [
+        "1958-07"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-03-02T16:30:36.373Z",
+      "group": [
+        "afccal",
+        "american-english-dialect-recordings"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/afccal000272/",
+      "image_url": [],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "puerto rico"
+      ],
+      "mime_type": [
+        "audio/wav",
+        "application/x-audio"
+      ],
+      "online_format": [
+        "audio"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "center for applied linguistics collection",
+        "american english dialect recordings: the center for applied linguistics collection",
+        "american memory",
+        "american folklife center"
+      ],
+      "score": 12.563812,
+      "shelf_id": "AFC 1986/022:  AFS 24,338 a01",
+      "subject": [
+        "language",
+        "image analysis",
+        "women",
+        "men",
+        "dialects",
+        "english language",
+        "interviews",
+        "picture interpretation",
+        "language surveys",
+        "puerto rico",
+        "puerto ricans"
+      ],
+      "timestamp": "2023-03-10T20:59:31.668Z",
+      "title": "Descriptions of pictures, male, Puerto Rico",
+      "type": [
+        "sound recording"
+      ],
+      "url": "https://www.loc.gov/item/afccal000272/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/afccal000273/",
+        "https://hdl.loc.gov/loc.afc/afc1986022.sr40a02",
+        "http://www.loc.gov/resource/afc1986022.afc1986022_sr40a02/",
+        "http://www.loc.gov/item/afc1986022.afc1986022_sr40a02/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "unidentified",
+        "jones, morgan"
+      ],
+      "date": "1958-07",
+      "dates": [
+        "1958-07"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-03-02T16:30:36.373Z",
+      "group": [
+        "afccal",
+        "american-english-dialect-recordings"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/afccal000273/",
+      "image_url": [],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "puerto rico"
+      ],
+      "mime_type": [
+        "audio/wav",
+        "application/x-audio"
+      ],
+      "online_format": [
+        "audio"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "center for applied linguistics collection",
+        "american english dialect recordings: the center for applied linguistics collection",
+        "american memory",
+        "american folklife center"
+      ],
+      "score": 12.563812,
+      "shelf_id": "AFC 1986/022:  AFS 24,338 a02",
+      "subject": [
+        "language",
+        "image analysis",
+        "women",
+        "men",
+        "dialects",
+        "english language",
+        "interviews",
+        "picture interpretation",
+        "language surveys",
+        "puerto rico",
+        "puerto ricans"
+      ],
+      "timestamp": "2023-03-10T20:59:31.668Z",
+      "title": "Descriptions of pictures, female, Puerto Rico",
+      "type": [
+        "sound recording"
+      ],
+      "url": "https://www.loc.gov/item/afccal000273/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/afccal000274/",
+        "https://hdl.loc.gov/loc.afc/afc1986022.sr40a03",
+        "http://www.loc.gov/resource/afc1986022.afc1986022_sr40a03/",
+        "http://www.loc.gov/item/afc1986022.afc1986022_sr40a03/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "unidentified",
+        "jones, morgan"
+      ],
+      "date": "1958-07",
+      "dates": [
+        "1958-07"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-03-02T16:30:36.373Z",
+      "group": [
+        "afccal",
+        "american-english-dialect-recordings"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/afccal000274/",
+      "image_url": [],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "puerto rico"
+      ],
+      "mime_type": [
+        "audio/wav",
+        "application/x-audio"
+      ],
+      "online_format": [
+        "audio"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "center for applied linguistics collection",
+        "american english dialect recordings: the center for applied linguistics collection",
+        "american memory",
+        "american folklife center"
+      ],
+      "score": 12.563812,
+      "shelf_id": "AFC 1986/022:  AFS 24,338 a03",
+      "subject": [
+        "language",
+        "image analysis",
+        "women",
+        "men",
+        "dialects",
+        "english language",
+        "interviews",
+        "picture interpretation",
+        "language surveys",
+        "puerto rico",
+        "puerto ricans"
+      ],
+      "timestamp": "2023-03-10T20:59:31.668Z",
+      "title": "Descriptions of pictures, male, Puerto Rico",
+      "type": [
+        "sound recording"
+      ],
+      "url": "https://www.loc.gov/item/afccal000274/"
+    }
+  ],
+  "reproductions": "<p>\n    If an image is displaying, you can download it yourself. (Some images \n    display only as thumbnails outside the Library of Congress because of rights \n    considerations, but you have access to larger size images on site.)\n</p>\n<p>\nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n<p>\n    <ol>\n        <p>\n            <li>\n                <strong>If a digital image is displaying:</strong>\n                The qualities of the digital image \n                partially depend on whether it was made from the original or an  \n                intermediate such as a copy negative or transparency. If the Reproduction \n                Number field above includes a reproduction number that starts with  \n                LC-DIG..., then there is a digital image that was made directly \n                from the original and is of sufficient resolution for most publication\n                purposes.\n            </li>\n        </p>\n        <li>\n            <strong>If there is information listed in the Reproduction Number field above:</strong>\n            You can use the reproduction number to purchase a copy from Duplication \n            Services.  It will be made from the source listed in the parentheses after  \n            the number. \n            <table width=\"75%\" border=\"1\" align=\"center\" cellpadding=\"1\" bordercolor=\"#993333\">\n                <tr>\n                    <td>\n                        <p>\n                            <strong>\n                                <center>\n                                    Expect\n                                    Delays in Service of Nitrate Negatives\n                                </center>\n                            </strong>\n                        </p>\n\t\t\t\t\t\t\n<p>\t\t\t\t\t\t\nReproductions of all types are available, but Duplication Services anticipates an \n8-10 week turnaround in completing orders, as all negatives must be reproduced at \ntheir off-site, cold storage facility.\n</p>\n<p>\nClues that an FSA/OWI/OEM image may be affected are:<br />\n<strong>Medium</strong> field says \"1 negative : nitrate\" OR <br />\n<strong>Reproduction Number</strong> field begins with: LC-USF33- \n</p>\n              \n                        <p>\n                            If either is the case, you may wish to consult\n                            with Prints and Photographs Division reference staff\n                            (202-707-6394). In certain instances, duplicate\n                            negatives are available for copying.\n                        </p>\n                    </td>\n                </tr>\n            </table>\n            <p>\n                If only black-and-white (&quot;b&w&quot;) sources are listed and you \n                desire a copy showing color or tint (assuming the original has any),  \n                you can generally purchase a quality copy of the original in color by \n                citing the Call Number listed above and including the catalog record \n                (&quot;About This Item&quot;) with your request.\n            </p>\n        </li>\n        <li>\n            <strong>If there is no information listed in the Reproduction Number field \n                above:</strong>\n            You can generally purchase a quality copy through \n            Duplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n            your request.\n        </li>\n    </ol>\n</p>\n<p>\n    Price lists, contact information, and order forms are available on the<a href=\"https://www.loc.gov/duplicationservices/\">Duplication Services Web site</a>. \n</p>\n",
+  "resource": {
+    "caption": "intermediary roll film",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08685_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/fsa.8c08685/"
+  },
+  "resources": [
+    {
+      "caption": "intermediary roll film",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/fsa/8c08000/8c08600/8c08685_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/fsa.8c08685/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1734773631441,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/fsa.8c08685/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/fsa.8c08685/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/fsa.8c08685/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/fsa.8c08685/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/fsa.8c08685/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/fsa.8c08685/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/fsa.8c08685/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/fsa.8c08685/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/fsa.8c08685/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/fsa.8c08685/?fo=json&st=text"
+  }
+}

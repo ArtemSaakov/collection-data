@@ -1,0 +1,1772 @@
+{
+  "articles_and_essays": [
+    {
+      "score": 6.2381325,
+      "title": "Sojourner Truth and the Power of a Portrait",
+      "url": "https://blogs.loc.gov/teachers/2018/03/sojourner-truth-and-the-power-of-a-portrait/"
+    },
+    {
+      "score": 6.2381325,
+      "title": "Ain’t I a Woman? A Suffrage Story for Black History Month",
+      "url": "https://blogs.loc.gov/teachers/2019/02/aint-i-a-woman-a-suffrage-story-for-black-history-month/"
+    },
+    {
+      "score": 6.2381325,
+      "title": "Sojourner Truth’s Most Famous Speech",
+      "url": "https://blogs.loc.gov/headlinesandheroes/2021/04/sojourner-truths-most-famous-speech/"
+    }
+  ],
+  "cite_this": {
+    "apa": "(1863) <cite>Sojourner Truth seated with photograph of her grandson, James Caldwell of Co. H, 54th Massachusetts Infantry Regiment, on her lap</cite>. United States, 1863. [Battle Creek, Michigan: Publisher not identified] [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2017648645/.",
+    "chicago": "<cite>Sojourner Truth seated with photograph of her grandson, James Caldwell of Co. H, 54th Massachusetts Infantry Regiment, on her lap</cite>. United States, 1863. [Battle Creek, Michigan: Publisher not identified] Photograph. https://www.loc.gov/item/2017648645/.",
+    "mla": "<cite>Sojourner Truth seated with photograph of her grandson, James Caldwell of Co. H, 54th Massachusetts Infantry Regiment, on her lap</cite>. [Battle Creek, Michigan: Publisher not identified] Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2017648645/&gt;."
+  },
+  "item": {
+    "_version_": 1731570337591590912,
+    "access_advisory": "Use digital images. Original served only by appointment. For more information see: (https://www.loc.gov/rr/print/info/617_apptonly.html)",
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2017648645/",
+      "http://www.loc.gov/item/2017648645/",
+      "http://www.loc.gov/pictures/item/2017648645/",
+      "https://www.loc.gov/pictures/collection/ph/item/2017648645/",
+      "http://www.loc.gov/pictures/collection/ph/item/2017648645/",
+      "http://www.loc.gov/resource/ppmsca.52069/",
+      "http://www.loc.gov/resource/ppmsca.52165/",
+      "https://www.loc.gov/pictures/collection/lilj/item/2017648645/",
+      "http://www.loc.gov/pictures/collection/lilj/item/2017648645/",
+      "http://lccn.loc.gov/2017648645",
+      "https://hdl.loc.gov/loc.pnp/ppmsca.52069",
+      "https://hdl.loc.gov/loc.pnp/ppmsca.52165"
+    ],
+    "call_number": "PH - Unattributed, no. 51 (AA size) [P&P]",
+    "campaigns": [],
+    "control_number": "",
+    "created": "2020-07-07T06:08:24Z",
+    "created_published": [
+      "[Battle Creek, Michigan] : [Publisher not identified], [1863]"
+    ],
+    "created_published_date": "[1863]",
+    "date": "1863-01-01",
+    "dates": [
+      {
+        "1863": "https://www.loc.gov/search/?dates=1863/1863&fo=json"
+      }
+    ],
+    "description": [
+      "1 photograph : albumen print on card mount ; mount 7 x 11 cm (carte de visite format) | Photograph shows portrait of abolitionist Sojourner Truth wearing polka dotted dress and holding cased photograph of her grandson, who was a prisoner-of-war at James Island, South Carolina between 1863 and 1865."
+    ],
+    "digital_id": [
+      "ppmsca 52069 //hdl.loc.gov/loc.pnp/ppmsca.52069",
+      "ppmsca 52165 //hdl.loc.gov/loc.pnp/ppmsca.52165"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-09-01T22:27:43.355Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/ph/item/2017648645/#ph",
+      "http://www.loc.gov/pictures/collection/lilj/item/2017648645/#lilj",
+      "http://lccn.loc.gov/2017648645#catalog-split-11"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Albumen prints--1860-1870.",
+      "Cartes de visite--1860-1870.",
+      "Portrait photographs--1860-1870."
+    ],
+    "genre": [
+      "Portrait photographs--1860-1870",
+      "Albumen prints--1860-1870",
+      "Cartes de visite--1860-1870"
+    ],
+    "group": [
+      "ph",
+      "lilj",
+      "catalog-split-11",
+      "catalog",
+      "ph-filing-series",
+      "liljenquist-civil-war",
+      "main-catalog-split-11",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2017648645/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/52000/52069r.jpg#h=640&w=404",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/52000/52069v.jpg#h=1024&w=647"
+    ],
+    "index": 1,
+    "item": {
+      "access_advisory": "Use digital images. Original served only by appointment. For more information see: (https://www.loc.gov/rr/print/info/617_apptonly.html)",
+      "call_number": "PH - Unattributed, no. 51 (AA size) [P&P]",
+      "control_number": "2017648645",
+      "created": "2020-07-07T06:08:24Z",
+      "created_published": "[Battle Creek, Michigan] : [Publisher not identified], [1863]",
+      "created_published_date": "[1863]",
+      "date": "[1863]",
+      "digital_id": [
+        "ppmsca 52069 //hdl.loc.gov/loc.pnp/ppmsca.52069",
+        "ppmsca 52165 //hdl.loc.gov/loc.pnp/ppmsca.52165"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Albumen%20prints--1860-1870.&co=ph",
+          "title": "Albumen prints--1860-1870."
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Cartes%20de%20visite--1860-1870.&co=ph",
+          "title": "Cartes de visite--1860-1870."
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Portrait%20photographs--1860-1870.&co=ph",
+          "title": "Portrait photographs--1860-1870."
+        }
+      ],
+      "genre": [
+        "Portrait photographs--1860-1870",
+        "Albumen prints--1860-1870",
+        "Cartes de visite--1860-1870"
+      ],
+      "id": "2017648645",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2017648645/",
+      "location": [
+        "United States"
+      ],
+      "marc": "https://www.loc.gov/pictures/item/2017648645/marc/",
+      "medium": [
+        "1 photograph : albumen print on card mount ; mount 7 x 11 cm (carte de visite format)"
+      ],
+      "medium_brief": "1 photograph :",
+      "mediums": [
+        "1 photograph : albumen print on card mount ; mount 7 x 11 cm (carte de visite format)"
+      ],
+      "modified": "2020-07-07T06:08:24Z",
+      "notes": [
+        "Title devised by Library staff.",
+        "Date and place of publication from Grigsby, Darcy Grimaldo. Enduring Truths : Sojourner's shadows and substance. Chicago : The University of Chicago Press, 2015, pages 52-53.",
+        "Gift; Tom Liljenquist; 2017; (DLC/PP-2017:171, formerly deposit D073)",
+        "Purchased from: Swann Auction Galleries, New York, March 2017.",
+        "Forms part of: Liljenquist Family Collection of Civil War Photographs (Library of Congress).",
+        "pp/liljpaper"
+      ],
+      "other_control_numbers": [
+        "19611147"
+      ],
+      "part_of": "Liljenquist Family collection (Library of Congress)",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=United%20States&co=ph",
+          "longitude": "",
+          "title": "United States"
+        }
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-ppmsca-52069 (digital file from original, front)\nLC-DIG-ppmsca-52165 (digital file from original, back)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/ppmsca.52069",
+        "//hdl.loc.gov/loc.pnp/ppmsca.52165"
+      ],
+      "restriction": "Use digital images. Original served only by appointment. For more information see: (https://www.loc.gov/rr/print/info/617_apptonly.html)",
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/52000/52069_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/52000/52069r.jpg",
+      "sort_date": "1863",
+      "source_collection": [
+        "Liljenquist Family collection (Library of Congress)"
+      ],
+      "source_created": "2017-04-26T00:00:00Z",
+      "source_modified": "2020-06-30T10:06:11Z",
+      "subject_headings": [
+        "Truth, Sojourner,--1799-1883.",
+        "Caldwell, James,--approximately 1844-",
+        "African Americans--Civil rights--1860-1870.",
+        "Abolitionists--1860-1870.",
+        "Photographs--1860-1870.",
+        "United States--History--Civil War, 1861-1865.",
+        "United States"
+      ],
+      "subjects": [
+        "Truth, Sojourner,--1799-1883",
+        "Caldwell, James,--approximately 1844",
+        "African Americans--Civil rights--1860-1870",
+        "Abolitionists--1860-1870",
+        "Photographs--1860-1870",
+        "United States--History--Civil War, 1861-1865"
+      ],
+      "summary": "Photograph shows portrait of abolitionist Sojourner Truth wearing polka dotted dress and holding cased photograph of her grandson, who was a prisoner-of-war at James Island, South Carolina between 1863 and 1865.",
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/52000/52069_150px.jpg",
+      "title": "[Sojourner Truth seated with photograph of her grandson, James Caldwell of Co. H, 54th Massachusetts Infantry Regiment, on her lap]"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2017648645",
+    "link": "https://www.loc.gov/pictures/item/2017648645/",
+    "location": [
+      "united states"
+    ],
+    "locations": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2017648645/marc/",
+    "medium": [
+      "1 photograph : albumen print on card mount ; mount 7 x 11 cm (carte de visite format)"
+    ],
+    "medium_brief": "1 photograph :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2020-07-07T06:08:24Z",
+    "notes": [
+      "Title devised by Library staff.",
+      "Date and place of publication from Grigsby, Darcy Grimaldo. Enduring Truths : Sojourner's shadows and substance. Chicago : The University of Chicago Press, 2015, pages 52-53.",
+      "Gift; Tom Liljenquist; 2017; (DLC/PP-2017:171, formerly deposit D073)",
+      "Purchased from: Swann Auction Galleries, New York, March 2017.",
+      "Forms part of: Liljenquist Family Collection of Civil War Photographs (Library of Congress).",
+      "pp/liljpaper"
+    ],
+    "number": [
+      "sheet",
+      "2020-06-30t10:06:11",
+      "http://www.loc.gov/item/19611147",
+      "2017648645"
+    ],
+    "number_carrier_type": [
+      "sheet"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/19611147"
+    ],
+    "number_lccn": [
+      "2017648645"
+    ],
+    "number_source_modified": [
+      "2020-06-30t10:06:11"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "19611147"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2017648645/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2017648645/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2017648645/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 1759,
+        "title": "ph filing series photographs",
+        "url": "https://www.loc.gov/collections/ph-filing-series-photographs/?fo=json"
+      },
+      {
+        "count": 7923,
+        "title": "liljenquist family collection of civil war photographs",
+        "url": "https://www.loc.gov/collections/liljenquist-civil-war-photographs/?fo=json"
+      },
+      {
+        "count": 20521,
+        "title": "civil war",
+        "url": "https://www.loc.gov/collections/civil-war/?fo=json"
+      },
+      {
+        "count": 949513,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1082837,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1592516,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=United%20States&co=ph",
+        "longitude": "",
+        "title": "United States"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=ph&pk=2017648645&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-ppmsca-52069 (digital file from original, front)\nLC-DIG-ppmsca-52165 (digital file from original, back)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/ppmsca.52069",
+      "//hdl.loc.gov/loc.pnp/ppmsca.52165"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from original, front",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/master/pnp/ppmsca/52000/52069_150px.jpg",
+        "url": "https://www.loc.gov/resource/ppmsca.52069/"
+      },
+      {
+        "caption": "digital file from original, back",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/master/pnp/ppmsca/52100/52165_150px.jpg",
+        "url": "https://www.loc.gov/resource/ppmsca.52165/"
+      }
+    ],
+    "restriction": "Use digital images. Original served only by appointment. For more information see: (https://www.loc.gov/rr/print/info/617_apptonly.html)",
+    "rights": [
+      "<p>The Library of Congress does not&nbsp;own rights to material  in its collections. Therefore, it does not license or charge permission fees  for use of such material and cannot grant or deny permission to publish or  otherwise distribute the material. </p>\n<p>Ultimately, it is the researcher's obligation to assess copyright or other use restrictions and  obtain permission from third parties when necessary before publishing or  otherwise distributing materials found in the Library's collections. </p>\n<p>For information about reproducing,  publishing, and citing material from this collection, as well as access to the  original items, see: <a href=\"//www.loc.gov/rr/print/res/636_lilj.html\">Liljenquist Family Collection of Civil War Photographs - Rights and Restrictions Information</a> </p>\n \n"
+    ],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.206085,
+    "shard": "00",
+    "shelf_id": "PH - Unattributed, no. 51 (AA size) [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1863",
+    "source_collection": "Liljenquist Family collection (Library of Congress)",
+    "source_created": "2017-04-26T00:00:00Z",
+    "source_modified": "2020-06-30T10:06:11Z",
+    "subject": [
+      "cartes de visite",
+      "photographs",
+      "united states",
+      "civil rights",
+      "truth, sojourner",
+      "approximately 1844",
+      "civil war",
+      "caldwell, james",
+      "history",
+      "african americans",
+      "portrait photographs",
+      "abolitionists",
+      "albumen prints"
+    ],
+    "subject_headings": [
+      "Truth, Sojourner,--1799-1883",
+      "Caldwell, James,--approximately 1844",
+      "African Americans--Civil rights--1860-1870",
+      "Abolitionists--1860-1870",
+      "Photographs--1860-1870",
+      "United States--History--Civil War, 1861-1865"
+    ],
+    "subjects": [
+      {
+        "abolitionists": "https://www.loc.gov/search/?fa=subject:abolitionists&fo=json"
+      },
+      {
+        "african americans": "https://www.loc.gov/search/?fa=subject:african+americans&fo=json"
+      },
+      {
+        "albumen prints": "https://www.loc.gov/search/?fa=subject:albumen+prints&fo=json"
+      },
+      {
+        "approximately 1844": "https://www.loc.gov/search/?fa=subject:approximately+1844&fo=json"
+      },
+      {
+        "caldwell, james": "https://www.loc.gov/search/?fa=subject:caldwell,+james&fo=json"
+      },
+      {
+        "cartes de visite": "https://www.loc.gov/search/?fa=subject:cartes+de+visite&fo=json"
+      },
+      {
+        "civil rights": "https://www.loc.gov/search/?fa=subject:civil+rights&fo=json"
+      },
+      {
+        "civil war": "https://www.loc.gov/search/?fa=subject:civil+war&fo=json"
+      },
+      {
+        "history": "https://www.loc.gov/search/?fa=subject:history&fo=json"
+      },
+      {
+        "photographs": "https://www.loc.gov/search/?fa=subject:photographs&fo=json"
+      },
+      {
+        "portrait photographs": "https://www.loc.gov/search/?fa=subject:portrait+photographs&fo=json"
+      },
+      {
+        "truth, sojourner": "https://www.loc.gov/search/?fa=subject:truth,+sojourner&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      }
+    ],
+    "summary": "Photograph shows portrait of abolitionist Sojourner Truth wearing polka dotted dress and holding cased photograph of her grandson, who was a prisoner-of-war at James Island, South Carolina between 1863 and 1865.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/52000/52069_150px.jpg",
+    "timestamp": "2022-04-30T21:29:17.893Z",
+    "title": "[Sojourner Truth seated with photograph of her grandson, James Caldwell of Co. H, 54th Massachusetts Infantry Regiment, on her lap]",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2017648645/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2021630803/",
+        "http://www.loc.gov/item/2021630803/",
+        "http://www.loc.gov/pictures/item/2021630803/",
+        "https://www.loc.gov/pictures/collection/lilj/item/2021630803/",
+        "http://www.loc.gov/pictures/collection/lilj/item/2021630803/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.75139",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.75139",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.75140",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.75140",
+        "http://www.loc.gov/resource/ppmsca.75139/",
+        "http://www.loc.gov/resource/ppmsca.75140/",
+        "http://lccn.loc.gov/2021630803"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "kimberly bros"
+      ],
+      "date": "1862",
+      "dates": [
+        "1862"
+      ],
+      "description": [
+        "1 photograph : albumen print on card mount ; mount 101 x 61 mm (carte de visite format) | Photograph shows identified soldier."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-05-06T12:25:00.235Z",
+      "group": [
+        "lilj",
+        "catalog-split-09",
+        "catalog",
+        "liljenquist-civil-war",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021630803/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/75100/75139_150px.jpg#h=150&w=93",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/75100/75139r.jpg#h=640&w=398",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/75100/75139v.jpg#h=1024&w=636"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "sheet",
+        "2023-04-28t14:11:19",
+        "2021630803",
+        "http://www.loc.gov/item/22276116"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 15158",
+        "civil war",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "liljenquist family collection of civil war photographs",
+        "catalog"
+      ],
+      "score": 41.73737,
+      "shelf_id": "LOT 15158-1, no. 711 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "army",
+        "cartes de visite",
+        "albumen prints",
+        "united states",
+        "soldiers",
+        "union",
+        "military uniforms",
+        "colored cavalry regiment, 2nd",
+        "approximately 1844",
+        "civil war",
+        "massachusetts infantry regiment, 6th",
+        "people",
+        "history",
+        "spaulding, franklin martin",
+        "portrait photographs",
+        "military personnel"
+      ],
+      "timestamp": "2023-05-06T12:33:20.583Z",
+      "title": "[Major Franklin Martin Spaulding of Co. G, 6th Massachusetts Infantry Regiment and 2nd U.S. Colored Troops Cavalry Regiment in uniform]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2021630803/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2021631028/",
+        "http://www.loc.gov/item/2021631028/",
+        "http://www.loc.gov/pictures/item/2021631028/",
+        "https://www.loc.gov/pictures/collection/lilj/item/2021631028/",
+        "http://www.loc.gov/pictures/collection/lilj/item/2021631028/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.77169",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.77169",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.77170",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.77170",
+        "http://www.loc.gov/resource/ppmsca.77169/",
+        "http://www.loc.gov/resource/ppmsca.77170/",
+        "http://lccn.loc.gov/2021631028"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "anderson & turner"
+      ],
+      "date": "1861",
+      "dates": [
+        "1861"
+      ],
+      "description": [
+        "1 photograph : albumen print on card mount ; mount 102 x 62 mm (carte de visite format) | Photograph shows identified soldier."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-05-20T12:24:12.091Z",
+      "group": [
+        "lilj",
+        "catalog-split-09",
+        "catalog",
+        "liljenquist-civil-war",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021631028/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/77100/77169_150px.jpg#h=150&w=92",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/77100/77169r.jpg#h=640&w=394",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/77100/77169v.jpg#h=1024&w=631"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "sheet",
+        "2021631028",
+        "http://www.loc.gov/item/22335501",
+        "2023-05-12t08:16:08"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 15158",
+        "civil war",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "liljenquist family collection of civil war photographs",
+        "catalog"
+      ],
+      "score": 41.73737,
+      "shelf_id": "LOT 15158-1, no. 913 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "clarke, james",
+        "army",
+        "confederate states of america",
+        "albumen prints",
+        "soldiers",
+        "united states",
+        "confederate",
+        "cartes de visite",
+        "approximately 1844",
+        "civil war",
+        "louisiana light artillery, washington battery",
+        "people",
+        "history",
+        "portrait photographs",
+        "military personnel"
+      ],
+      "timestamp": "2023-05-20T12:33:14.665Z",
+      "title": "[Private James Clarke of Co. 5, Washington Louisiana Light Artillery Battery wearing a Washington Artillery pin]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2021631028/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2022631540/",
+        "http://www.loc.gov/item/2022631540/",
+        "http://www.loc.gov/pictures/item/2022631540/",
+        "https://www.loc.gov/pictures/collection/lilj/item/2022631540/",
+        "http://www.loc.gov/pictures/collection/lilj/item/2022631540/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.83340",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.83340",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.83341",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.83341",
+        "http://www.loc.gov/resource/ppmsca.83340/",
+        "http://www.loc.gov/resource/ppmsca.83341/",
+        "http://lccn.loc.gov/2022631540"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "phillips, h. c. (henry c.)"
+      ],
+      "date": "1862",
+      "dates": [
+        "1862"
+      ],
+      "description": [
+        "1 photograph : albumen print on card mount ; mount 103 x 62 mm (carte de visite format) | Photograph shows identified soldier."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-07-20T12:33:23.422Z",
+      "group": [
+        "lilj",
+        "catalog-split-09",
+        "catalog",
+        "liljenquist-civil-war",
+        "main-catalog-split-09"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2022631540/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/83300/83340_150px.jpg#h=150&w=91",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/83300/83340r.jpg#h=640&w=390",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/83300/83340v.jpg#h=1024&w=623"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "sheet",
+        "2022631540",
+        "2024-07-12t08:29:48",
+        "http://www.loc.gov/item/22734288"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "lot 15158",
+        "civil war",
+        "prints and photographs division",
+        "liljenquist family collection of civil war photographs",
+        "catalog"
+      ],
+      "score": 39.93858,
+      "shelf_id": "LOT 15158-1, no. 1692 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "ohio infantry regiment, 50th",
+        "army",
+        "cartes de visite",
+        "albumen prints",
+        "united states",
+        "soldiers",
+        "union",
+        "military uniforms",
+        "approximately 1844",
+        "civil war",
+        "colored infantry regiment, 40th",
+        "people",
+        "history",
+        "colored infantry regiment, 22nd",
+        "portrait photographs",
+        "daggers & swords",
+        "military personnel",
+        "stone, harry l."
+      ],
+      "timestamp": "2024-07-20T12:34:04.362Z",
+      "title": "[Captain Harry L. Stone of Co. A, 50th Ohio Infantry regiment, Co. B, 22nd U.S. Colored Troops Infantry Regiment and Co. B, 40th U.S. Colored Troops Infantry Regiment in uniform with sword]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2022631540/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/gladstone-african-american-photographs/about-this-collection/",
+        "http://www.loc.gov/collections/gld/",
+        "http://lccn.loc.gov/2010647749",
+        "http://www.loc.gov/item/2010647749/",
+        "https://hdl.loc.gov/loc.pnp/pp.gld"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ball, james presley",
+        "kellogg brothers",
+        "mcpherson & oliver",
+        "kimball, m. h.",
+        "m'clees, jas. e. (james e.)",
+        "moore, henry p.",
+        "paxson, chas. (charles)",
+        "gladstone, william a."
+      ],
+      "count": 332,
+      "date": "1861",
+      "dates": [
+        "[1860 TO 1945]",
+        "1861"
+      ],
+      "description": [
+        "The William A. Gladstone Collection of African American Photographs provides almost 350 images showing African Americans and related military and social history. The Civil War era is the primary time period covered, with scattered examples through 1945. Most of the images are photographs, including 270 cartes de visite. For the list of approximately 100 different photographers, see the Creator/Related Names Index."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:08:27.259Z",
+      "group": [
+        "collections-portal"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/gladstone-african-american-photographs/about-this-collection/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/gladstone-african-american-photographs/500_500.jpg"
+      ],
+      "index": 4,
+      "items": "https://www.loc.gov/collections/gladstone-african-american-photographs/",
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "number": [
+        "2013-06-06t13:11:23",
+        "2010647749"
+      ],
+      "original_format": [
+        "collection",
+        "photo, print, drawing"
+      ],
+      "other_title": [
+        "Gladstone collection (Library of Congress)",
+        "William A. Gladstone collection of African American photographs (Library of Congress)"
+      ],
+      "partof": [
+        "gladstone collection of african american photographs",
+        "digital collections",
+        "prints and photographs division"
+      ],
+      "score": 38.30321,
+      "shelf_id": "~/collections/gladstone-african-american-photographs/about-this-collection/",
+      "subject": [
+        "cartes de visite",
+        "tintypes",
+        "ambrotypes",
+        "photographic prints",
+        "arts and culture",
+        "american history",
+        "civil war",
+        "ephemera",
+        "african-american history",
+        "african american history",
+        "war & military",
+        "african americans",
+        "photographs, prints & posters",
+        "portrait photographs",
+        "albumen prints"
+      ],
+      "timestamp": "2024-12-21T06:49:19.731Z",
+      "title": "Gladstone Collection of African American Photographs",
+      "type": [
+        "collection"
+      ],
+      "url": "https://www.loc.gov/collections/gladstone-african-american-photographs/about-this-collection/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/98507952/",
+        "http://lccn.loc.gov/98507952",
+        "http://www.loc.gov/resource/cph.3g07983/",
+        "https://hdl.loc.gov/loc.pnp/cph.3g07983",
+        "http://www.loc.gov/pictures/collection/cwp/item/98507952/",
+        "http://www.loc.gov/pictures/item/98507952/"
+      ],
+      "campaigns": [],
+      "date": "1862-01-01",
+      "dates": [
+        "1862"
+      ],
+      "description": [
+        "Woman with sleeves rolled up holding basket, posed in front of tent with a soldier (possibly her husband) and three children, other soldiers in the background."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-22T19:00:47.882Z",
+      "group": [
+        "awhbib",
+        "cwp",
+        "catalog-split-13",
+        "catalog",
+        "american-womens-history",
+        "civil-war-glass-negatives",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/98507952/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g07000/3g07900/3g07983_150px.jpg#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g07000/3g07900/3g07983t.gif#h=120&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g07000/3g07900/3g07983r.jpg#h=513&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3g00000/3g07000/3g07900/3g07983v.jpg#h=821&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2011-03-31t09:21:54",
+        "http://www.loc.gov/item/98507952",
+        "98507952",
+        "http://www.loc.gov/item/11715105"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "civil war glass negatives and related prints",
+        "american memory",
+        "american women: a gateway to library of congress resources for the study of women's history and culture in the united states",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "civil war",
+        "lot 4172",
+        "catalog"
+      ],
+      "score": 37.52476,
+      "shelf_id": "LOT 4172-C <item>",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "united states",
+        "military life",
+        "union",
+        "group portraits",
+        "women",
+        "civil war",
+        "military facilities",
+        "history",
+        "portrait photographs",
+        "albumen prints"
+      ],
+      "timestamp": "2022-12-10T04:46:40.769Z",
+      "title": "Camp of 31st Pennsylvania Infantry near Washington, D.C.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/98507952/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2017660624/",
+        "http://www.loc.gov/item/2017660624/",
+        "http://www.loc.gov/pictures/item/2017660624/",
+        "https://www.loc.gov/pictures/collection/lilj/item/2017660624/",
+        "http://www.loc.gov/pictures/collection/lilj/item/2017660624/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.53262",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.53262",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.53263",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.53263",
+        "http://www.loc.gov/resource/ppmsca.53262/",
+        "http://www.loc.gov/resource/ppmsca.53263/",
+        "http://lccn.loc.gov/2017660624"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "loomis, g. h. (grove hinman)"
+      ],
+      "date": "1860-01-01",
+      "dates": [
+        "1860"
+      ],
+      "description": [
+        "1 photograph : albumen print on card mount ; mount 11 x 6 cm (carte de visite format) | Photograph shows portrait of Rev. Grimes in church robes with his hand on a book, probably a Bible."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-03-14T21:57:38.283Z",
+      "group": [
+        "lilj",
+        "catalog-split-02",
+        "catalog",
+        "liljenquist-civil-war",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2017660624/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/53200/53262_150px.jpg#h=150&w=88",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/53200/53262r.jpg#h=640&w=378",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/53200/53262v.jpg#h=1024&w=604"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "sheet",
+        "http://www.loc.gov/item/19900838",
+        "2017660624",
+        "2022-12-21t09:41:01"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "civil war",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "liljenquist family collection of civil war photographs",
+        "lot 14043",
+        "catalog"
+      ],
+      "score": 36.173332,
+      "shelf_id": "LOT 14043-2, no. 524 [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "cartes de visite",
+        "grimes, leonard a.",
+        "clergy",
+        "civil rights",
+        "underground railroad system",
+        "spiritual life",
+        "african americans",
+        "portrait photographs",
+        "abolitionists",
+        "albumen prints"
+      ],
+      "timestamp": "2023-03-14T22:06:05.083Z",
+      "title": "[Reverend Leonard Grimes, abolitionist, conductor on the Underground Railroad, and first pastor of Twelfth Baptist Church (\"The Fugitives Church\"), Boston]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2017660624/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "ph",
+      "lilj",
+      "catalog-split-11",
+      "catalog",
+      "ph-filing-series",
+      "liljenquist-civil-war",
+      "main-catalog-split-11",
+      "main-catalog",
+      "catalog-split-09",
+      "main-catalog-split-09",
+      "collections-portal",
+      "awhbib",
+      "cwp",
+      "catalog-split-13",
+      "american-womens-history",
+      "civil-war-glass-negatives",
+      "main-catalog-split-13",
+      "catalog-split-02",
+      "main-catalog-split-02",
+      "classroom-materials-portal",
+      "ndnp/wvu",
+      "west-virginia-university-awardee"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "ppmsca.52069",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 1.1650326251983643,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/ppmsca.52069/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/ppmsca.52069/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1734773620.3130884,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 137134398,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/ppmsca/52000/52069u.tif",
+      "width": 0
+    },
+    {
+      "height": 640,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 124474,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/52000/52069r.jpg",
+      "width": 404
+    },
+    {
+      "height": 1024,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 438594,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/52000/52069v.jpg",
+      "width": 647
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=ph&pk=2017648645&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/classroom-materials/jim-crow-segregation/",
+        "http://www.loc.gov/classroom-materials/pss/jim-crow/"
+      ],
+      "campaigns": [],
+      "date": "1865",
+      "dates": [
+        "[1865 TO 1965]"
+      ],
+      "description": [
+        "A selection of Library of Congress primary sources exploring Jim Crow in the US. This set also includes a Teacher's Guide with historical context and teaching suggestions."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:06:15.341Z",
+      "group": [
+        "classroom-materials-portal"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/classroom-materials/jim-crow-segregation/",
+      "image_url": [
+        "https://www.loc.gov/static/classroom-materials/jim-crow-segregation/500_500.jpg"
+      ],
+      "index": 1,
+      "partof": [
+        "classroom materials at the library of congress",
+        "primary source set"
+      ],
+      "score": 17.042282,
+      "shelf_id": "~/classroom-materials/jim-crow-segregation/",
+      "subject": [
+        "african american",
+        "songs",
+        "postwar united states, 1945 to present",
+        "freedmen",
+        "abolitionists",
+        "slavery",
+        "grades 9-12",
+        "government, law and politics",
+        "desegregation",
+        "progressive era to new era, 1900 to 1929",
+        "civil war",
+        "great depression & world war ii, 1929 to 1945",
+        "rise of industrial america, 1876 to 1900",
+        "segregation",
+        "grades 6-8",
+        "social integration",
+        "civil rights",
+        "abolition",
+        "civil war and reconstruction, 1861-1877",
+        "slaves",
+        "minstrels",
+        "african american history",
+        "african america"
+      ],
+      "timestamp": "2024-12-21T06:48:50.659Z",
+      "title": "Jim Crow and Segregation",
+      "type": [
+        "classroom material"
+      ],
+      "url": "https://www.loc.gov/classroom-materials/jim-crow-segregation/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn85059834/1862-09-29/ed-1/",
+        "http://www.loc.gov/resource/sn85059834/1862-09-29/ed-1/"
+      ],
+      "batch": [
+        "wvu_gorn_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "west virginia university"
+      ],
+      "date": "1862-09-29",
+      "dates": [
+        "1862-09-29"
+      ],
+      "description": [
+        "Charleston, Va. [W. Va.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-03-18T22:41:22.144Z",
+      "group": [
+        "ndnp/wvu",
+        "west-virginia-university-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn85059834/1862-09-29/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059834:00271767663:1862092901:0007/full/pct:6.25/0/default.jpg#h=294&w=221",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059834:00271767663:1862092901:0007/full/pct:12.5/0/default.jpg#h=588&w=442",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059834:00271767663:1862092901:0007/full/pct:25/0/default.jpg#h=1177&w=885"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "charleston",
+        "united states",
+        "west virginia",
+        "kanawha"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn85059834",
+        "00271767663"
+      ],
+      "numeric_shelf_id": 186209291,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "the guerilla (charleston, va. [w. va.]) 1862-186?",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "daily"
+      ],
+      "score": 16.037436,
+      "shelf_id": "sn85059834, 1862-09-29, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "united states",
+        "charleston",
+        "newspapers",
+        "kanawha",
+        "charleston (w. va.)",
+        "civil war",
+        "history",
+        "american civil war",
+        "west virginia"
+      ],
+      "timestamp": "2024-03-24T17:27:37.862Z",
+      "title": "The guerilla (Charleston, Va. [W. Va.]), September 29, 1862",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn85059834/1862-09-29/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn85059834/1862-10-03/ed-1/",
+        "http://www.loc.gov/resource/sn85059834/1862-10-03/ed-1/"
+      ],
+      "batch": [
+        "wvu_gorn_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "west virginia university"
+      ],
+      "date": "1862-10-03",
+      "dates": [
+        "1862-10-03"
+      ],
+      "description": [
+        "Charleston, Va. [W. Va.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-03-18T22:41:22.144Z",
+      "group": [
+        "ndnp/wvu",
+        "west-virginia-university-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn85059834/1862-10-03/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059834:00271767663:1862100301:0011/full/pct:12.5/0/default.jpg#h=486&w=384",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_gorn_ver01:data:sn85059834:00271767663:1862100301:0011/full/pct:25/0/default.jpg#h=972&w=769"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "charleston",
+        "united states",
+        "west virginia",
+        "kanawha"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn85059834",
+        "00271767663"
+      ],
+      "numeric_shelf_id": 186210031,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "chronicling america",
+        "the guerilla (charleston, va. [w. va.]) 1862-186?",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "daily"
+      ],
+      "score": 16.037436,
+      "shelf_id": "sn85059834, 1862-10-03, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "united states",
+        "charleston",
+        "newspapers",
+        "kanawha",
+        "charleston (w. va.)",
+        "civil war",
+        "history",
+        "american civil war",
+        "west virginia"
+      ],
+      "timestamp": "2024-03-24T17:27:37.862Z",
+      "title": "The guerilla (Charleston, Va. [W. Va.]), October 3, 1862",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn85059834/1862-10-03/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn85059536/1863-03-24/ed-1/",
+        "http://www.loc.gov/resource/sn85059536/1863-03-24/ed-1/"
+      ],
+      "batch": [
+        "wvu_irwin_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "west virginia university"
+      ],
+      "date": "1863-03-24",
+      "dates": [
+        "1863-03-24"
+      ],
+      "description": [
+        "Martinsburg, Va."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-03-18T22:44:32.464Z",
+      "group": [
+        "ndnp/wvu",
+        "west-virginia-university-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn85059536/1863-03-24/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn85059536:print:1863032401:0001/full/pct:6.25/0/default.jpg#h=383&w=260",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_irwin_ver01:data:sn85059536:print:1863032401:0001/full/pct:12.5/0/default.jpg#h=767&w=520"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "berkeley",
+        "martinsburg",
+        "united states",
+        "west virginia"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "sn85059536"
+      ],
+      "numeric_shelf_id": 186303241,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "weekly gazette (martinsburg, va.) 1863-186?",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 16.037436,
+      "shelf_id": "sn85059536, 1863-03-24, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "united states",
+        "newspapers",
+        "martinsburg (w. va.)",
+        "civil war",
+        "berkeley",
+        "martinsburg",
+        "history",
+        "american civil war",
+        "west virginia"
+      ],
+      "timestamp": "2024-03-24T19:59:08.928Z",
+      "title": "Weekly gazette (Martinsburg, Va.), March 24, 1863",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn85059536/1863-03-24/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn84026772/1861-07-04/ed-1/",
+        "http://www.loc.gov/resource/sn84026772/1861-07-04/ed-1/"
+      ],
+      "batch": [
+        "wvu_kuwait_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "west virginia university"
+      ],
+      "date": "1861-07-04",
+      "dates": [
+        "1861-07-04"
+      ],
+      "description": [
+        "Martinsburg, Va. [W. Va.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-03-18T22:43:05.466Z",
+      "group": [
+        "ndnp/wvu",
+        "west-virginia-university-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn84026772/1861-07-04/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn84026772:00202192476:1861070401:0007/full/pct:6.25/0/default.jpg#h=273&w=178",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn84026772:00202192476:1861070401:0007/full/pct:12.5/0/default.jpg#h=546&w=356",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn84026772:00202192476:1861070401:0007/full/pct:25/0/default.jpg#h=1092&w=713"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "berkeley",
+        "martinsburg",
+        "united states",
+        "west virginia"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "00202192476",
+        "sn84026772"
+      ],
+      "numeric_shelf_id": 186107041,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the american union (martinsburg, va. [w. va.]) 1861-1861",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "irregular"
+      ],
+      "score": 16.037436,
+      "shelf_id": "sn84026772, 1861-07-04, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "united states",
+        "newspapers",
+        "martinsburg (w. va.)",
+        "civil war",
+        "berkeley",
+        "martinsburg",
+        "history",
+        "american civil war",
+        "west virginia"
+      ],
+      "timestamp": "2024-03-25T00:49:06.876Z",
+      "title": "The American union (Martinsburg, Va. [W. Va.]), July 4, 1861",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn84026772/1861-07-04/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn84026772/1861-07-05/ed-1/",
+        "http://www.loc.gov/resource/sn84026772/1861-07-05/ed-1/"
+      ],
+      "batch": [
+        "wvu_kuwait_ver02"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "west virginia university"
+      ],
+      "date": "1861-07-05",
+      "dates": [
+        "1861-07-05"
+      ],
+      "description": [
+        "Martinsburg, Va. [W. Va.]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-03-18T22:43:05.466Z",
+      "group": [
+        "ndnp/wvu",
+        "west-virginia-university-awardee"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn84026772/1861-07-05/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn84026772:00202192476:1861070501:0011/full/pct:6.25/0/default.jpg#h=312&w=217",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:wvu:batch_wvu_kuwait_ver02:data:sn84026772:00202192476:1861070501:0011/full/pct:12.5/0/default.jpg#h=625&w=435"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "berkeley",
+        "martinsburg",
+        "united states",
+        "west virginia"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "1",
+        "00202192476",
+        "sn84026772"
+      ],
+      "numeric_shelf_id": 186107051,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "the american union (martinsburg, va. [w. va.]) 1861-1861",
+        "chronicling america",
+        "serial and government publications division"
+      ],
+      "publication_frequency": [
+        "irregular"
+      ],
+      "score": 16.037436,
+      "shelf_id": "sn84026772, 1861-07-05, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "united states",
+        "newspapers",
+        "martinsburg (w. va.)",
+        "civil war",
+        "berkeley",
+        "martinsburg",
+        "history",
+        "american civil war",
+        "west virginia"
+      ],
+      "timestamp": "2024-03-25T00:49:06.876Z",
+      "title": "The American union (Martinsburg, Va. [W. Va.]), July 5, 1861",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn84026772/1861-07-05/ed-1/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "digital file from original, front",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/52000/52069_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/ppmsca.52069/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from original, front",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/52000/52069_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/ppmsca.52069/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1734773621478,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/ppmsca.52069/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/ppmsca.52069/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/ppmsca.52069/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/ppmsca.52069/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/ppmsca.52069/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/ppmsca.52069/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/ppmsca.52069/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/ppmsca.52069/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/ppmsca.52069/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/ppmsca.52069/?fo=json&st=text"
+  }
+}

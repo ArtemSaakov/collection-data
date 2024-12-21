@@ -1,0 +1,1452 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "(ca. 1898) <cite>Lillian Russell, -1922</cite>. , ca. 1898. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2002697538/.",
+    "chicago": "<cite>Lillian Russell, -1922</cite>. , ca. 1898. Photograph. https://www.loc.gov/item/2002697538/.",
+    "mla": "<cite>Lillian Russell, -1922</cite>. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2002697538/&gt;."
+  },
+  "item": {
+    "_version_": 1731652131775053824,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2002697538/",
+      "http://www.loc.gov/item/2002697538/",
+      "http://www.loc.gov/pictures/item/2002697538/",
+      "https://www.loc.gov/pictures/collection/cph/item/2002697538/",
+      "http://www.loc.gov/pictures/collection/cph/item/2002697538/",
+      "http://www.loc.gov/resource/cph.3b22589/",
+      "http://lccn.loc.gov/2002697538",
+      "https://hdl.loc.gov/loc.pnp/cph.3b22589"
+    ],
+    "call_number": "BIOG FILE - Russell, Lillian, 1861-1922 [item] [P&P]",
+    "campaigns": [],
+    "control_number": "",
+    "created": "2016-04-20T14:50:22Z",
+    "created_published": [
+      "c1898."
+    ],
+    "created_published_date": "c1898.",
+    "date": "1898-01-01",
+    "dates": [
+      {
+        "1898": "https://www.loc.gov/search/?dates=1898/1898&fo=json"
+      }
+    ],
+    "description": [
+      "1 photographic print. | Half lgth., facing left; wearing monacle and feather hat."
+    ],
+    "digital_id": [
+      "cph 3b22589 //hdl.loc.gov/loc.pnp/cph.3b22589"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-25T19:36:19.107Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/cph/item/2002697538/#cph",
+      "http://lccn.loc.gov/2002697538#catalog-split-10"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "group": [
+      "cph",
+      "catalog-split-10",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-10",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2002697538/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b22000/3b22500/3b22589_150px.jpg#h=150&w=108",
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b22000/3b22500/3b22589t.gif#h=150&w=108",
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b22000/3b22500/3b22589r.jpg#h=640&w=459"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "BIOG FILE - Russell, Lillian, 1861-1922 [item] [P&P]",
+      "control_number": "2002697538",
+      "created": "2016-04-20T14:50:22Z",
+      "created_published": "c1898.",
+      "created_published_date": "c1898.",
+      "date": "c1898.",
+      "digital_id": [
+        "cph 3b22589 //hdl.loc.gov/loc.pnp/cph.3b22589"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "id": "2002697538",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2002697538/",
+      "marc": "https://www.loc.gov/pictures/item/2002697538/marc/",
+      "medium": [
+        "1 photographic print."
+      ],
+      "medium_brief": "1 photographic print.",
+      "mediums": [
+        "1 photographic print."
+      ],
+      "modified": "2016-04-20T14:50:22Z",
+      "notes": [
+        "Photoprint copyrighted by J. Schloss.",
+        "No. 78.",
+        "This record contains unverified data from caption card.",
+        "Caption card tracings: Hats; Photog. I.; BI; Eyeglasses; Shelf."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2002697538",
+        "https://www.loc.gov/item/12645217"
+      ],
+      "other_control_numbers": [
+        "12645217"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA",
+      "reproduction_number": "LC-USZ62-75388 (b&w film copy neg.)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/cph.3b22589"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b22000/3b22500/3b22589_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b22000/3b22500/3b22589r.jpg",
+      "sort_date": "1898",
+      "source_created": "2002-01-15T00:00:00Z",
+      "source_modified": "2004-01-22T09:40:42Z",
+      "summary": "Half lgth., facing left; wearing monacle and feather hat.",
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b22000/3b22500/3b22589_150px.jpg",
+      "title": "Lillian Russell, 1861-1922"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2002697538",
+    "link": "https://www.loc.gov/pictures/item/2002697538/",
+    "marc": "https://www.loc.gov/pictures/item/2002697538/marc/",
+    "medium": [
+      "1 photographic print."
+    ],
+    "medium_brief": "1 photographic print.",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2016-04-20T14:50:22Z",
+    "notes": [
+      "Photoprint copyrighted by J. Schloss.",
+      "No. 78.",
+      "This record contains unverified data from caption card.",
+      "Caption card tracings: Hats; Photog. I.; BI; Eyeglasses; Shelf."
+    ],
+    "number": [
+      "http://www.loc.gov/item/2002697538",
+      "2002697538",
+      "http://www.loc.gov/item/12645217",
+      "2004-01-22t09:40:42"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/12645217",
+      "http://www.loc.gov/item/2002697538"
+    ],
+    "number_lccn": [
+      "2002697538"
+    ],
+    "number_source_modified": [
+      "2004-01-22t09:40:42"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "12645217"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2002697538/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2002697538/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2002697538/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 117172,
+        "title": "miscellaneous items in high demand",
+        "url": "https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json"
+      },
+      {
+        "count": 949513,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1082837,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1592516,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2002697538&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA"
+    ],
+    "reproduction_number": "LC-USZ62-75388 (b&w film copy neg.)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/cph.3b22589"
+    ],
+    "resources": [
+      {
+        "caption": "b&w film copy neg.",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b22000/3b22500/3b22589_150px.jpg",
+        "url": "https://www.loc.gov/resource/cph.3b22589/"
+      }
+    ],
+    "rights": [],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.206085,
+    "shard": "00",
+    "shelf_id": "BIOG FILE - Russell, Lillian, 1861-1922 [item] [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1898",
+    "source_created": "2002-01-15T00:00:00Z",
+    "source_modified": "2004-01-22T09:40:42Z",
+    "summary": "Half lgth., facing left; wearing monacle and feather hat.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b22000/3b22500/3b22589_150px.jpg",
+    "timestamp": "2022-05-01T19:09:22.895Z",
+    "title": "Lillian Russell, 1861-1922",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2002697538/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/00652549",
+        "http://www.loc.gov/resource/cph.3a39529/",
+        "http://www.loc.gov/item/00652549/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a39529",
+        "https://www.loc.gov/pictures/item/00652549/",
+        "http://www.loc.gov/pictures/item/00652549/",
+        "https://www.loc.gov/pictures/collection/cph/item/00652549/",
+        "http://www.loc.gov/pictures/collection/cph/item/00652549/"
+      ],
+      "campaigns": [],
+      "date": "1911-01-01",
+      "dates": [
+        "1911"
+      ],
+      "description": [
+        "J152199 U.S. Copyright Office."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T04:39:43.666Z",
+      "group": [
+        "natfor",
+        "cph",
+        "catalog-split-15",
+        "catalog",
+        "recordings-from-world-war-i-and-the-1920-election",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652549/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a39000/3a39500/3a39529_150px.jpg#h=108&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a39000/3a39500/3a39529t.gif#h=108&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a30000/3a39000/3a39500/3a39529r.jpg#h=462&w=640"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/00652549",
+        "2016-04-12t07:58:16",
+        "http://www.loc.gov/item/12210099",
+        "00652549"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american leaders speak: recordings from world war i",
+        "prints & photographs online catalog (library of congress)",
+        "catalog",
+        "miscellaneous items in high demand"
+      ],
+      "score": 16.436602,
+      "shelf_id": "BIOG FILE - Hitchcock, Gilbert M., 1859-1934 [item]",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "photographic prints",
+        "hitchcock, gilbert m.",
+        "gilbert monell)",
+        "portrait photographs"
+      ],
+      "timestamp": "2022-12-10T04:23:26.621Z",
+      "title": "[Gilbert M. Hitchcock, half-length portrait, standing, facing right, wearing overcoat and bowler]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/00652549/"
+    },
+    {
+      "access_restricted": true,
+      "aka": [
+        "https://hdl.loc.gov/loc.pnp/ppmsc.03675",
+        "http://www.loc.gov/resource/ppmsc.03675/",
+        "http://www.loc.gov/item/00652550/",
+        "http://lccn.loc.gov/00652550",
+        "https://www.loc.gov/pictures/item/00652550/",
+        "http://www.loc.gov/pictures/item/00652550/",
+        "https://www.loc.gov/pictures/collection/cph/item/00652550/",
+        "http://www.loc.gov/pictures/collection/cph/item/00652550/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "betts, louis"
+      ],
+      "date": "1960-01-01",
+      "dates": [
+        "1960"
+      ],
+      "description": [
+        "Photograph of a painting by Louis Betts. Architect of the Capitol collection."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T04:39:43.666Z",
+      "group": [
+        "natfor",
+        "cph",
+        "catalog-split-07",
+        "catalog",
+        "recordings-from-world-war-i-and-the-1920-election",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-07",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652550/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03675_150px.jpg#h=150&w=122"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/12210111",
+        "2016-04-12t07:58:47",
+        "00652550",
+        "http://www.loc.gov/item/00652550"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american leaders speak: recordings from world war i",
+        "prints & photographs online catalog (library of congress)",
+        "catalog",
+        "miscellaneous items in high demand"
+      ],
+      "score": 16.436602,
+      "shelf_id": "BIOG FILE - Lewis, James Hamilton, 1863-1939 [item]",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "reproductions",
+        "portrait paintings",
+        "photographic prints",
+        "lewis, james"
+      ],
+      "timestamp": "2022-12-10T04:23:26.621Z",
+      "title": "[James Hamilton Lewis, first Democratic whip of the Senate, half-length portrait, seated, facing front]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/00652550/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/00652551",
+        "http://www.loc.gov/resource/cph.3a36598/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a36598",
+        "http://www.loc.gov/resource/ppmsc.03676/",
+        "https://hdl.loc.gov/loc.pnp/ppmsc.03676",
+        "http://www.loc.gov/item/00652551/",
+        "https://www.loc.gov/pictures/item/00652551/",
+        "http://www.loc.gov/pictures/item/00652551/",
+        "https://www.loc.gov/pictures/collection/cph/item/00652551/",
+        "http://www.loc.gov/pictures/collection/cph/item/00652551/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "macdonald, pirie"
+      ],
+      "date": "1916-01-01",
+      "dates": [
+        "1916"
+      ],
+      "description": [
+        "J210809 U.S. Copyright Office."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T04:39:43.666Z",
+      "group": [
+        "natfor",
+        "cph",
+        "catalog-split-08",
+        "catalog",
+        "recordings-from-world-war-i-and-the-1920-election",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652551/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03676_150px.jpg#h=150&w=101",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03676t.gif#h=150&w=101",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03676r.jpg#h=640&w=433",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03676v.jpg#h=1024&w=692"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2016-04-12t07:59:10",
+        "00652551",
+        "http://www.loc.gov/item/00652551",
+        "http://www.loc.gov/item/12210234"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american leaders speak: recordings from world war i",
+        "prints & photographs online catalog (library of congress)",
+        "catalog",
+        "miscellaneous items in high demand"
+      ],
+      "score": 16.436602,
+      "shelf_id": "BIOG FILE - Lodge, Henry Cabot, 1850-1924 [item]",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "photographic prints",
+        "lodge, henry cabot",
+        "portrait photographs"
+      ],
+      "timestamp": "2022-12-10T04:23:26.621Z",
+      "title": "[Senator Henry Cabot Lodge, head-and-shoulders portrait, facing right]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/00652551/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/cph.3c27905/",
+        "http://lccn.loc.gov/00652552",
+        "http://www.loc.gov/item/00652552/",
+        "https://hdl.loc.gov/loc.pnp/ppmsc.03677",
+        "https://hdl.loc.gov/loc.pnp/cph.3c27905",
+        "http://www.loc.gov/resource/ppmsc.03677/",
+        "https://www.loc.gov/pictures/item/00652552/",
+        "http://www.loc.gov/pictures/item/00652552/",
+        "https://www.loc.gov/pictures/collection/cph/item/00652552/",
+        "http://www.loc.gov/pictures/collection/cph/item/00652552/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "harris & ewing"
+      ],
+      "date": "1918-01-01",
+      "dates": [
+        "1918"
+      ],
+      "description": [
+        "J230772 U.S. Copyright Office. Copyright by Harris & Ewing."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T04:39:43.666Z",
+      "group": [
+        "natfor",
+        "cph",
+        "catalog-split-09",
+        "catalog",
+        "recordings-from-world-war-i-and-the-1920-election",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652552/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03677_150px.jpg#h=150&w=105",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03677t.gif#h=150&w=105",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03677r.jpg#h=640&w=447",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03677v.jpg#h=1024&w=715"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2016-04-12t07:59:33",
+        "http://www.loc.gov/item/12210257",
+        "00652552",
+        "http://www.loc.gov/item/00652552"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american leaders speak: recordings from world war i",
+        "prints & photographs online catalog (library of congress)",
+        "catalog",
+        "miscellaneous items in high demand"
+      ],
+      "score": 16.436602,
+      "shelf_id": "BIOG FILE - Long, Breckinridge, 1881-1958 [item]",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "long, breckinridge",
+        "photographic prints",
+        "portrait photographs"
+      ],
+      "timestamp": "2022-12-10T04:23:26.621Z",
+      "title": "[Breckinridge Long, head-and-shoulders portrait, facing slightly right]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/00652552/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/00652553",
+        "https://hdl.loc.gov/loc.pnp/ppmsc.03678",
+        "http://www.loc.gov/item/00652553/",
+        "http://www.loc.gov/resource/ppmsc.03678/",
+        "http://www.loc.gov/resource/cph.3a33554/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a33554",
+        "https://www.loc.gov/pictures/item/00652553/",
+        "http://www.loc.gov/pictures/item/00652553/",
+        "https://www.loc.gov/pictures/collection/cph/item/00652553/",
+        "http://www.loc.gov/pictures/collection/cph/item/00652553/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "harris & ewing"
+      ],
+      "date": "1914-01-01",
+      "dates": [
+        "1914"
+      ],
+      "description": [
+        "J192945 U.S. Copyright Office. Copyright by Harris & Ewing."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T04:39:43.666Z",
+      "group": [
+        "natfor",
+        "cph",
+        "catalog-split-10",
+        "catalog",
+        "recordings-from-world-war-i-and-the-1920-election",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-10",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652553/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03678_150px.jpg#h=150&w=102",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03678t.gif#h=150&w=102",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03678r.jpg#h=640&w=436",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03678v.jpg#h=1024&w=697"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "00652553",
+        "http://www.loc.gov/item/12210602",
+        "http://www.loc.gov/item/00652553",
+        "2016-04-12t07:59:52"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american leaders speak: recordings from world war i",
+        "prints & photographs online catalog (library of congress)",
+        "catalog",
+        "miscellaneous items in high demand"
+      ],
+      "score": 16.436602,
+      "shelf_id": "BIOG FILE - McAdoo, Wm. Gibbs, 1863-1941 [item]",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "photographic prints",
+        "mcadoo, w. g.",
+        "william gibbs)",
+        "portrait photographs"
+      ],
+      "timestamp": "2022-12-10T04:23:26.621Z",
+      "title": "[William G. McAdoo, half-length portrait, facing slightly left]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/00652553/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/ppmsc.03679/",
+        "http://www.loc.gov/item/00652554/",
+        "http://lccn.loc.gov/00652554",
+        "https://hdl.loc.gov/loc.pnp/ppmsc.03679",
+        "https://www.loc.gov/pictures/item/00652554/",
+        "http://www.loc.gov/pictures/item/00652554/",
+        "https://www.loc.gov/pictures/collection/cph/item/00652554/",
+        "http://www.loc.gov/pictures/collection/cph/item/00652554/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "underwood & underwood"
+      ],
+      "date": "1922-01-01",
+      "dates": [
+        "1922"
+      ],
+      "description": [
+        "Robert Latham Owen, Senator from Oklahoma, bust portrait, facing left."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T04:39:43.666Z",
+      "group": [
+        "natfor",
+        "cph",
+        "catalog-split-11",
+        "catalog",
+        "recordings-from-world-war-i-and-the-1920-election",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-11",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00652554/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03679t.gif#h=150&w=109",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03679_150px.jpg#h=150&w=110",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03679r.jpg#h=640&w=467",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsc/03600/03679v.jpg#h=1024&w=748"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2016-04-12t08:00:22",
+        "http://www.loc.gov/item/12210723",
+        "http://www.loc.gov/item/00652554",
+        "00652554"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "american leaders speak: recordings from world war i",
+        "prints & photographs online catalog (library of congress)",
+        "catalog",
+        "miscellaneous items in high demand"
+      ],
+      "score": 16.436602,
+      "shelf_id": "BIOG FILE - Owen, Robert Latham, 1856-1947 [item]",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "photographic prints",
+        "robert latham)",
+        "owen, robert l.",
+        "portrait photographs"
+      ],
+      "timestamp": "2022-12-10T04:23:26.621Z",
+      "title": "Thinks Europe can pay debts",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/00652554/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "cph",
+      "catalog-split-10",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-10",
+      "main-catalog",
+      "natfor",
+      "catalog-split-15",
+      "recordings-from-world-war-i-and-the-1920-election",
+      "main-catalog-split-15",
+      "catalog-split-07",
+      "main-catalog-split-07",
+      "catalog-split-08",
+      "main-catalog-split-08",
+      "catalog-split-09",
+      "main-catalog-split-09",
+      "catalog-split-11",
+      "main-catalog-split-11",
+      "paprika-iabooks",
+      "catalog-split-02",
+      "main-catalog-split-02",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "geospatial_applications",
+      "geospatial-applications"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "cph.3b22589",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.5240414142608643,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/cph.3b22589/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/cph.3b22589/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1734773614.6384318,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 1694882,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/cph/3b20000/3b22000/3b22500/3b22589u.tif",
+      "width": 0
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 4246,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b22000/3b22500/3b22589_150px.jpg",
+      "width": 108
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 17102,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b22000/3b22500/3b22589t.gif",
+      "width": 108
+    },
+    {
+      "height": 640,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 24916,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b22000/3b22500/3b22589r.jpg",
+      "width": 459
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2002697538&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/a18000717",
+        "http://www.loc.gov/item/a18000717/",
+        "http://www.loc.gov/resource/gdcmassbookdig.pictorialsketchb00elib/",
+        "http://www.loc.gov/resource/scd0001.00143123856/",
+        "https://hdl.loc.gov/loc.gdc/scd0001.00143123856"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "bowen, eli",
+        "joseph meredith toner collection (library of congress)"
+      ],
+      "date": "1852",
+      "dates": [
+        "1852"
+      ],
+      "description": [
+        "The fourth part has separate t.-p.: Locomotive sketches, with pen and pencil. From Philadelphia to Pittsburg. (13-192 p.) \"Illustrated with over two hundred engravings and a colored map.\" LC copy 3 forms part of the personal library materials in the Joseph and Elizabeth Robins Pennell Collection. Also available in digital form. Form AACR2: vj46 12/15/83. LAC brd 2019-05-28 no edits (2 cards) LAC nsk 2020-10-23 no edits (2 cards) LAC ecr 2020-11-06 review"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-07-23T21:55:45.618Z",
+      "group": [
+        "paprika-iabooks",
+        "catalog-split-09",
+        "catalog",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/a18000717/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:pictorialsketchb00elib:pictorialsketchb00elib_0007/full/pct:25.0/0/default.jpg#h=804&w=495",
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:pictorialsketchb00elib:pictorialsketchb00elib_0007/full/pct:50.0/0/default.jpg#h=1609&w=990",
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:pictorialsketchb00elib:pictorialsketchb00elib_0007/full/pct:100.0/0/default.jpg#h=3219&w=1981"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "pennsylvania"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/jp2",
+        "application/pdf",
+        "application/json",
+        "text/plain"
+      ],
+      "number": [
+        "a18000717",
+        "2020-11-06t13:37:53"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "other_title": [
+        "Pictorial sketch-book of Pennsylvania",
+        "Its scenery, internal improvements, resources, and agriculture, populary described"
+      ],
+      "partof": [
+        "general collections",
+        "prints and photographs division",
+        "selected digitized books",
+        "catalog"
+      ],
+      "score": 4.130199,
+      "shelf_id": "F153 .B783 1852 F153 .B783 1852 Copy 2",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "mines and mineral resources",
+        "railroads",
+        "description and travel",
+        "pennsylvania"
+      ],
+      "timestamp": "2023-06-03T13:41:51.259Z",
+      "title": "The pictorial sketch-book of Pennsylvania, or, Its scenery, internal improvements, resources, and agriculture, populary described,",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/a18000717/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/a20000771",
+        "http://www.loc.gov/item/a20000771/",
+        "http://www.loc.gov/resource/gdcmassbookdig.yucatecansceness00kels/",
+        "https://hdl.loc.gov/loc.gdc/scd0001.00001373031",
+        "http://www.loc.gov/resource/scd0001.00001373031/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "kelsey, albert",
+        "numismatic and antiquarian society of philadelphia"
+      ],
+      "date": "1919",
+      "dates": [
+        "1919"
+      ],
+      "description": [
+        "LC copy 2 forms part of the personal library materials in the Joseph and Elizabeth Robins Pennell Collection. Also available in digital form."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-09-12T17:29:44.464Z",
+      "group": [
+        "paprika-iabooks",
+        "catalog-split-02",
+        "catalog",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/a20000771/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:yucatecansceness00kels:yucatecansceness00kels_0007/full/pct:25.0/0/default.jpg#h=919&w=605",
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:yucatecansceness00kels:yucatecansceness00kels_0007/full/pct:50.0/0/default.jpg#h=1838&w=1211",
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:yucatecansceness00kels:yucatecansceness00kels_0007/full/pct:100.0/0/default.jpg#h=3676&w=2422"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "mexico",
+        "yucatán"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/jp2",
+        "application/pdf",
+        "application/json",
+        "text/plain"
+      ],
+      "number": [
+        "2019-01-26t10:16:37",
+        "1369366",
+        "a20000771"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "general collections",
+        "prints and photographs division",
+        "selected digitized books",
+        "catalog"
+      ],
+      "score": 4.130199,
+      "shelf_id": "F1376 .K4",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "description and travel",
+        "yucatán (mexico : state)"
+      ],
+      "timestamp": "2023-06-05T05:58:06.551Z",
+      "title": "Yucatecan scenes and sounds;",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/a20000771/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/sf98085624",
+        "http://www.loc.gov/item/sf98085624/",
+        "http://www.loc.gov/resource/gdcmassbookdig.reportofboardofc01newy/",
+        "https://hdl.loc.gov/loc.gdc/scd0001.00001258187",
+        "http://www.loc.gov/resource/scd0001.00001258187/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "new york (n.y.). board of commissioners of the central park"
+      ],
+      "date": "1858",
+      "dates": [
+        "[1858 TO 1869]"
+      ],
+      "description": [
+        "Annual 2nd (1858)-13th (1869). Continues: New York (N.Y.). Board of Commissioners of the Central Park. Annual report on the improvement of the Central Park, New York. Continued by: New York (N.Y.). Board of Commissioners of the Central Park. Report of the Board of Commissioners of the Central Park. New York (N.Y.). Board of Commissioners of the Central Park. Report of the Board of Commissioners of the Central Park (DLC)   08003313 (OCoLC)6118591 ESL shelf mark: 626 09 A009 b2"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-10-15T16:10:37.865Z",
+      "group": [
+        "paprika-iabooks",
+        "catalog-split-03",
+        "catalog",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sf98085624/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:reportofboardofc01newy:reportofboardofc01newy_0013/full/pct:25.0/0/default.jpg#h=808&w=491",
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:reportofboardofc01newy:reportofboardofc01newy_0013/full/pct:50.0/0/default.jpg#h=1617&w=982",
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:reportofboardofc01newy:reportofboardofc01newy_0013/full/pct:100.0/0/default.jpg#h=3235&w=1964"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "new york",
+        "central park"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/jp2",
+        "text/plain",
+        "application/json",
+        "application/pdf"
+      ],
+      "number": [
+        "2022-10-13t06:57:13",
+        "sf98085624",
+        "28014961",
+        "6118415",
+        "08003313"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "periodical"
+      ],
+      "partof": [
+        "catalog",
+        "prints and photographs division",
+        "selected digitized books",
+        "annual report of the board of commissioners of the central park ([new york]) 1858-1869"
+      ],
+      "publication_frequency": [
+        "other"
+      ],
+      "score": 4.130199,
+      "shelf_id": "SB483 .N55",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "periodicals",
+        "central park",
+        "annual reports",
+        "central park (new york, n.y.)",
+        "new york",
+        "v",
+        "new york (state)"
+      ],
+      "timestamp": "2023-06-04T20:36:26.594Z",
+      "title": "Annual report of the Board of Commissioners of the Central Park.",
+      "type": [
+        "periodical"
+      ],
+      "url": "https://www.loc.gov/item/sf98085624/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/08016451",
+        "http://www.loc.gov/item/08016451/",
+        "http://www.loc.gov/resource/gdcmassbookdig.viewsreviews00jame/",
+        "https://hdl.loc.gov/loc.gdc/scd0001.0013137690A",
+        "http://www.loc.gov/resource/scd0001.0013137690A/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "phillips, leroy",
+        "ralph ellison collection (library of congress)",
+        "james, henry",
+        "henry james collection (library of congress)"
+      ],
+      "date": "1908",
+      "dates": [
+        "1908"
+      ],
+      "description": [
+        "Also available in digital form. LAC tnb 2021-10-26 update (1 card) LAC tnb 2019-11-21 no edits (1 card)"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-09-03T23:06:07.097Z",
+      "group": [
+        "paprika-iabooks",
+        "catalog-split-09",
+        "catalog",
+        "main-catalog-split-09",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/08016451/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:viewsreviews00jame:viewsreviews00jame_0009/full/pct:25.0/0/default.jpg#h=853&w=517",
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:viewsreviews00jame:viewsreviews00jame_0009/full/pct:50.0/0/default.jpg#h=1707&w=1035",
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:viewsreviews00jame:viewsreviews00jame_0009/full/pct:100.0/0/default.jpg#h=3414&w=2071"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "text/xml",
+        "image/jpeg",
+        "image/jp2",
+        "application/pdf",
+        "application/json",
+        "text/plain"
+      ],
+      "number": [
+        "08016451",
+        "2021-10-26t12:50:45"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "general collections",
+        "prints and photographs division",
+        "selected digitized books",
+        "catalog"
+      ],
+      "score": 4.130199,
+      "shelf_id": "PR463 .J2 A/VIII/4 Copy 1",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "english literature",
+        "19th century",
+        "history and criticism"
+      ],
+      "timestamp": "2023-06-05T01:28:23.622Z",
+      "title": "Views and reviews,",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/08016451/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://LOC.maps.arcgis.com/apps/instant/media/index.html?appid=3c525318a2bf4898bc376fdb10f7d07b",
+        "https://loc.maps.arcgis.com/sharing/rest/content/items/3c525318a2bf4898bc376fdb10f7d07b?f=json"
+      ],
+      "campaigns": [],
+      "date": "2024-09-24",
+      "dates": [
+        "2024-09-24T19:05:40Z"
+      ],
+      "description": [
+        "Explore Panoramic Maps held at the Library of Congress."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-09T21:59:15.315Z",
+      "group": [
+        "geospatial_applications",
+        "geospatial-applications"
+      ],
+      "hassegments": false,
+      "id": "https://LOC.maps.arcgis.com/apps/instant/media/index.html?appid=3c525318a2bf4898bc376fdb10f7d07b",
+      "image_url": [
+        "https://loc.maps.arcgis.com/sharing/rest/content/items/3c525318a2bf4898bc376fdb10f7d07b/info/thumbnail/thumbnail1666892339961.png"
+      ],
+      "index": 5,
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "geospatial applications",
+        "web maps",
+        "geography and map division"
+      ],
+      "score": 4.0499797,
+      "shelf_id": "https://LOC.maps.arcgis.com/apps/instant/media/index.html?appid=3c525318a2bf4898bc376fdb10f7d07b",
+      "subject": [
+        "american cities",
+        "landscape maps",
+        "panorama maps",
+        "bird's eye",
+        "panoramic maps"
+      ],
+      "timestamp": "2024-12-09T22:03:05.368Z",
+      "title": "View from Above: Exploring the Panoramic Map Collection",
+      "url": "https://LOC.maps.arcgis.com/apps/instant/media/index.html?appid=3c525318a2bf4898bc376fdb10f7d07b"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://LOC.maps.arcgis.com/apps/instant/media/index.html?appid=732ada00e5f947c39c7cf951d135921e",
+        "https://loc.maps.arcgis.com/sharing/rest/content/items/732ada00e5f947c39c7cf951d135921e?f=json"
+      ],
+      "campaigns": [],
+      "date": "2024-12-04",
+      "dates": [
+        "2024-12-04T20:34:21Z"
+      ],
+      "description": [
+        "This application maps over 60,000 photographs from the Carol M. Highsmith Collection. Highsmith's photographs span several decades document the American landscape and its people."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-09T21:59:15.315Z",
+      "group": [
+        "geospatial_applications",
+        "geospatial-applications"
+      ],
+      "hassegments": false,
+      "id": "https://LOC.maps.arcgis.com/apps/instant/media/index.html?appid=732ada00e5f947c39c7cf951d135921e",
+      "image_url": [
+        "https://loc.maps.arcgis.com/sharing/rest/content/items/732ada00e5f947c39c7cf951d135921e/info/thumbnail/thumbnail1719582445169.png"
+      ],
+      "index": 6,
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "geospatial applications",
+        "web maps",
+        "geography and map division"
+      ],
+      "score": 4.0499797,
+      "shelf_id": "https://LOC.maps.arcgis.com/apps/instant/media/index.html?appid=732ada00e5f947c39c7cf951d135921e",
+      "subject": [
+        "photography",
+        "prints and photographs division",
+        "carol highsmith",
+        "highsmith archive"
+      ],
+      "timestamp": "2024-12-09T22:03:05.368Z",
+      "title": "Carol Highsmith Photo Archive App",
+      "url": "https://LOC.maps.arcgis.com/apps/instant/media/index.html?appid=732ada00e5f947c39c7cf951d135921e"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "b&w film copy neg.",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b22000/3b22500/3b22589_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/cph.3b22589/"
+  },
+  "resources": [
+    {
+      "caption": "b&w film copy neg.",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3b20000/3b22000/3b22500/3b22589_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/cph.3b22589/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1734773615163,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/cph.3b22589/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/cph.3b22589/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/cph.3b22589/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/cph.3b22589/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/cph.3b22589/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/cph.3b22589/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/cph.3b22589/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/cph.3b22589/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/cph.3b22589/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/cph.3b22589/?fo=json&st=text"
+  }
+}

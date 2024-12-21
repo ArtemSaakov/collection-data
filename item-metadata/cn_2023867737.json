@@ -1,0 +1,1389 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Gottlieb, W. P., photographer. (1947) <cite>Portrait of Dizzy Gillespie, New York, N.Y., ca. May</cite>. , 1947. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2023867737/.",
+    "chicago": "Gottlieb, William P, photographer. <cite>Portrait of Dizzy Gillespie, New York, N.Y., ca. May</cite>. , 1947. Photograph. https://www.loc.gov/item/2023867737/.",
+    "mla": "Gottlieb, William P, photographer. <cite>Portrait of Dizzy Gillespie, New York, N.Y., ca. May</cite>. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2023867737/&gt;."
+  },
+  "item": {
+    "_version_": 1801914831976005632,
+    "access_restricted": false,
+    "aka": [
+      "http://lccn.loc.gov/2023867737",
+      "http://www.loc.gov/item/2023867737/",
+      "https://hdl.loc.gov/loc.music/gottlieb.03141",
+      "http://www.loc.gov/resource/music.musgottlieb-03141/"
+    ],
+    "campaigns": [],
+    "contributor_names": [
+      "Gottlieb, William P., photographer"
+    ],
+    "contributors": [
+      {
+        "gottlieb, william p.": "https://www.loc.gov/search/?fa=contributor:gottlieb,+william+p.&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created_published": [
+      "1947."
+    ],
+    "date": "1947",
+    "dates": [
+      {
+        "1947": "https://www.loc.gov/search/?dates=1947/1947&fo=json"
+      }
+    ],
+    "description": [
+      "Gottlieb Collection Assignment No. 524 Reference print available in Music Division, Library of Congress. Original negative or transparency: 1 negative : b&w ; 3 1/4 x 4 1/4 in. Library of Congress Prints and Photographs Division. Originals not served. Originals Purchase; William P. Gottlieb, 1995-1997 Record created through migration from the Performing Arts Encyclopedia Database."
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2024-06-15T08:22:50.705Z",
+    "extract_urls": [
+      "http://lccn.loc.gov/2023867737#catalog-split-13",
+      "https://repo.loc.gov/access/public/music/musgottlieb-03141/.resource.json#paprika-music"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "genre": [
+      "Portrait photographs--1940-1950"
+    ],
+    "group": [
+      "catalog-split-13",
+      "catalog",
+      "paprika-music",
+      "main-catalog-split-13"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2023867737/",
+    "image_url": [
+      "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03141:0001/full/pct:12.5/0/default.jpg",
+      "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03141:0001/full/pct:12.5/0/default.jpg#h=667&w=510",
+      "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03141:0001/full/pct:25.0/0/default.jpg#h=1335&w=1020",
+      "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03141:0001/full/pct:50.0/0/default.jpg#h=2671&w=2040",
+      "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03141:0001/full/pct:100.0/0/default.jpg#h=5342&w=4080"
+    ],
+    "index": 1,
+    "item": {
+      "contributors": [
+        "Gottlieb, William P., photographer"
+      ],
+      "created_published": [
+        "1947."
+      ],
+      "date": "1947",
+      "format": [
+        "still image"
+      ],
+      "genre": [
+        "Portrait photographs--1940-1950"
+      ],
+      "medium": [
+        "1 online resource."
+      ],
+      "notes": [
+        "Gottlieb Collection Assignment No. 524",
+        "Reference print available in Music Division, Library of Congress.",
+        "Original negative or transparency: 1 negative : b&w ; 3 1/4 x 4 1/4 in. Library of Congress Prints and Photographs Division. Originals not served.",
+        "Originals Purchase; William P. Gottlieb, 1995-1997",
+        "Record created through migration from the Performing Arts Encyclopedia Database."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2023867737",
+        "https://www.loc.gov/item/gottlieb.03141"
+      ],
+      "repository": [
+        "c-Music Electronic resource"
+      ],
+      "rights_advisory": [
+        "Mr. Gottlieb has dedicated these works to the public domain, but rights of privacy and publicity may apply."
+      ],
+      "subjects": [
+        "Jazz musicians--1940-1950",
+        "Trumpet players--1940-1950",
+        "Gillespie, Dizzy, 1917"
+      ],
+      "title": "[Portrait of Dizzy Gillespie, New York, N.Y., ca. May 1947]"
+    },
+    "library_of_congress_control_number": "2023867737",
+    "medium": [
+      "1 online resource."
+    ],
+    "mime_type": [
+      "image/jpeg",
+      "image/jp2"
+    ],
+    "notes": [
+      "Gottlieb Collection Assignment No. 524",
+      "Reference print available in Music Division, Library of Congress.",
+      "Original negative or transparency: 1 negative : b&w ; 3 1/4 x 4 1/4 in. Library of Congress Prints and Photographs Division. Originals not served.",
+      "Originals Purchase; William P. Gottlieb, 1995-1997",
+      "Record created through migration from the Performing Arts Encyclopedia Database."
+    ],
+    "number": [
+      "2024-06-13t10:16:33",
+      "http://www.loc.gov/item/gottlieb.03141",
+      "http://www.loc.gov/resource/gottlieb.03141.0",
+      "online resource",
+      "2023867737",
+      "http://www.loc.gov/item/2023867737"
+    ],
+    "number_carrier_type": [
+      "online resource"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/2023867737",
+      "http://www.loc.gov/item/gottlieb.03141",
+      "http://www.loc.gov/resource/gottlieb.03141.0"
+    ],
+    "number_lccn": [
+      "2023867737"
+    ],
+    "number_source_modified": [
+      "2024-06-13t10:16:33"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2023867737/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2023867737/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2023867737/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 1793,
+        "title": "william p. gottlieb collection",
+        "url": "https://www.loc.gov/collections/jazz-photography-of-william-p-gottlieb/?fo=json"
+      },
+      {
+        "count": 165066,
+        "title": "music division",
+        "url": "https://www.loc.gov/search/?fa=partof:music+division&fo=json"
+      },
+      {
+        "count": 1592516,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "repository": [
+      "c-Music Electronic resource"
+    ],
+    "resources": [
+      {
+        "files": 1,
+        "image": "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03141:0001/full/pct:12.5/0/default.jpg",
+        "paprika_resource_path": "/sets/music/musgottlieb-03141",
+        "url": "https://www.loc.gov/resource/music.musgottlieb-03141/"
+      }
+    ],
+    "rights": [
+      "<p>In accordance with the wishes of William Gottlieb, the photographs in this collection entered into the public domain on February 16, 2010, but rights of privacy and publicity may apply. Privacy and publicity rights protect the interests of the person(s) who may be the subject(s) of the work or intellectual creation. Users of photographs in the Gottlieb collection are responsible for clearing any privacy or publicity rights associated with the use of the images.</p>\n<p>The following items are included in the William P. Gottlieb Collection with permission as noted:</p>\n<p>Articles from <em>Down Beat</em> magazine by William Gottlieb and others, Ed Enright, Editor, <em>Down Beat</em> magazine, 102 North Haven Road, Elmhurst, IL 60126-3370.</p>\n<p>\"The Faces of Jazz,\" by W. Royal Stokes, <em>Civilization</em>, vol. 2, no. 5, September-October 1995, <em>Civilizaton</em>, Attn. Managing Editor, 666 Pennsylvania Ave. SE, Suite 303, Washington, D.C. 20003. Reproduced by permission. All rights reserved.</p>\n<p>Credit Line: William P. Gottlieb/Ira and Leonore S. Gershwin Fund Collection, Music Division, Library of Congress.</p>"
+    ],
+    "rights_advisory": [
+      "Mr. Gottlieb has dedicated these works to the public domain, but rights of privacy and publicity may apply."
+    ],
+    "score": 15.797474,
+    "shard": "08",
+    "shelf_id": "http://lccn.loc.gov/2023867737",
+    "site": [
+      "catalog"
+    ],
+    "source_modified": "2000-01-01T12:00:00Z",
+    "subject": [
+      "trumpet players",
+      "jazz musicians",
+      "portrait photographs",
+      "gillespie, dizzy"
+    ],
+    "subject_headings": [
+      "Jazz musicians--1940-1950",
+      "Trumpet players--1940-1950",
+      "Gillespie, Dizzy, 1917"
+    ],
+    "subjects": [
+      {
+        "gillespie, dizzy": "https://www.loc.gov/search/?fa=subject:gillespie,+dizzy&fo=json"
+      },
+      {
+        "jazz musicians": "https://www.loc.gov/search/?fa=subject:jazz+musicians&fo=json"
+      },
+      {
+        "portrait photographs": "https://www.loc.gov/search/?fa=subject:portrait+photographs&fo=json"
+      },
+      {
+        "trumpet players": "https://www.loc.gov/search/?fa=subject:trumpet+players&fo=json"
+      }
+    ],
+    "timestamp": "2024-06-15T08:24:55.430Z",
+    "title": "[Portrait of Dizzy Gillespie, New York, N.Y., ca. May 1947]",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "url": "https://www.loc.gov/item/2023867737/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023867741",
+        "http://www.loc.gov/item/2023867741/",
+        "https://hdl.loc.gov/loc.music/gottlieb.03181",
+        "http://www.loc.gov/resource/music.musgottlieb-03181/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "gottlieb, william p."
+      ],
+      "date": "1946",
+      "dates": [
+        "1946"
+      ],
+      "description": [
+        "Gottlieb Collection Assignment No. 524 Reference print available in Music Division, Library of Congress. Original negative or transparency: 1 negative : b&w ; 3 1/4 x 4 1/4 in. Library of Congress Prints and Photographs Division. Originals not served. Originals Purchase; William P. Gottlieb, 1995-1997 Record created through migration from the Performing Arts Encyclopedia Database."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-06-15T08:22:23.788Z",
+      "group": [
+        "catalog-split-08",
+        "catalog",
+        "paprika-music",
+        "main-catalog-split-08"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2023867741/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03181:0001/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03181:0001/full/pct:12.5/0/default.jpg#h=510&w=669",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03181:0001/full/pct:25.0/0/default.jpg#h=1021&w=1339",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03181:0001/full/pct:50.0/0/default.jpg#h=2042&w=2679",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03181:0001/full/pct:100.0/0/default.jpg#h=4085&w=5358"
+      ],
+      "index": 1,
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2023867741",
+        "http://www.loc.gov/item/gottlieb.03181",
+        "http://www.loc.gov/resource/gottlieb.03181.0",
+        "2024-06-13t10:16:35",
+        "http://www.loc.gov/item/2023867741",
+        "online resource"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "william p. gottlieb collection",
+        "music division"
+      ],
+      "score": 41.444996,
+      "shelf_id": "http://lccn.loc.gov/2023867741",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "jazz musicians",
+        "big bands",
+        "conductors (music)",
+        "portrait photographs",
+        "gillespie, dizzy",
+        "trumpet players",
+        "cityscape photographs"
+      ],
+      "timestamp": "2024-06-15T08:24:36.975Z",
+      "title": "[Portrait of Dizzy Gillespie, New York, N.Y., between 1946 and 1948]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2023867741/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023867750",
+        "http://www.loc.gov/item/2023867750/",
+        "https://hdl.loc.gov/loc.music/gottlieb.03261",
+        "http://www.loc.gov/resource/music.musgottlieb-03261/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "gottlieb, william p."
+      ],
+      "date": "1946",
+      "dates": [
+        "1946"
+      ],
+      "description": [
+        "Caption from Down Beat: Hied myself, with pencil and camera, to 52nd Street's dungeons (Spotlite Club cell) where lives one Dizzy Gillespie, trumpet player of repute & innovator of Horn-Meets-Goatee Gottlieb Collection Assignment No. 528 In: \"Posin',\" Down Beat, v. 13, no. 12 (June 3, 1946), p. 3. Reference print available in Music Division, Library of Congress. Original negative or transparency: 1 negative : b&w ; 3 1/4 x 4 1/4 in. Library of Congress Prints and Photographs Division. Originals not served. Originals Purchase; William P. Gottlieb, 1995-1997 Record created through migration from the Performing Arts Encyclopedia Database."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-06-15T08:22:23.788Z",
+      "group": [
+        "catalog-split-08",
+        "catalog",
+        "paprika-music",
+        "main-catalog-split-08"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2023867750/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03261:0001/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03261:0001/full/pct:12.5/0/default.jpg#h=677&w=513",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03261:0001/full/pct:25.0/0/default.jpg#h=1354&w=1026",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03261:0001/full/pct:50.0/0/default.jpg#h=2708&w=2053",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03261:0001/full/pct:100.0/0/default.jpg#h=5417&w=4107"
+      ],
+      "index": 2,
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2024-06-13t10:16:37",
+        "2023867750",
+        "http://www.loc.gov/resource/gottlieb.03261.0",
+        "http://www.loc.gov/item/gottlieb.03261",
+        "http://www.loc.gov/item/2023867750",
+        "online resource"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "william p. gottlieb collection",
+        "music division"
+      ],
+      "score": 41.444996,
+      "shelf_id": "http://lccn.loc.gov/2023867750",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "jazz musicians",
+        "famous door",
+        "fifty-second street (new york, n.y.)",
+        "portrait photographs",
+        "gillespie, dizzy",
+        "trumpet players"
+      ],
+      "timestamp": "2024-06-15T08:24:36.975Z",
+      "title": "[Portrait of Dizzy Gillespie, Famous Door, New York, N.Y., ca. June 1946]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2023867750/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023868146",
+        "http://www.loc.gov/item/2023868146/",
+        "https://hdl.loc.gov/loc.music/gottlieb.06861",
+        "http://www.loc.gov/resource/music.musgottlieb-06861-001/",
+        "http://www.loc.gov/resource/music.musgottlieb-06861-002/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "gottlieb, william p."
+      ],
+      "date": "1947",
+      "dates": [
+        "1947"
+      ],
+      "description": [
+        "Gottlieb Collection Assignment No. 435 Reference print available in Music Division, Library of Congress. Original negative or transparency: 1 negative : b&w ; 2 1/4 x 2 1/4 in. Library of Congress Prints and Photographs Division. Originals not served. Originals Purchase; William P. Gottlieb, 1995-1997 Record created through migration from the Performing Arts Encyclopedia Database."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-06-15T08:22:24.717Z",
+      "group": [
+        "catalog-split-08",
+        "catalog",
+        "paprika-music",
+        "main-catalog-split-08"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2023868146/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-06861-001:0001/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-06861-001:0001/full/pct:12.5/0/default.jpg#h=749&w=688",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-06861-001:0001/full/pct:25.0/0/default.jpg#h=1499&w=1376",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-06861-001:0001/full/pct:50.0/0/default.jpg#h=2998&w=2753",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-06861-001:0001/full/pct:100.0/0/default.jpg#h=5997&w=5507"
+      ],
+      "index": 3,
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2023868146",
+        "http://www.loc.gov/item/gottlieb.06861",
+        "http://www.loc.gov/resource/gottlieb.06861.1",
+        "http://www.loc.gov/resource/gottlieb.06861.0",
+        "2024-06-13t10:18:20",
+        "http://www.loc.gov/item/2023868146",
+        "online resource"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "william p. gottlieb collection",
+        "music division"
+      ],
+      "score": 41.444996,
+      "shelf_id": "http://lccn.loc.gov/2023868146",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "jazz musicians",
+        "hyams, margie",
+        "trumpet players",
+        "portrait photographs",
+        "parker, charlie",
+        "gillespie, dizzy",
+        "group portraits",
+        "saxophonists",
+        "rodney, red",
+        "wayne, chuck",
+        "downbeat"
+      ],
+      "timestamp": "2024-06-15T08:24:36.975Z",
+      "title": "[Portrait of Charlie Parker, Red Rodney, Dizzy Gillespie, Margie Hyams, and Chuck Wayne, Downbeat, New York, N.Y., ca. 1947]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2023868146/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023867705",
+        "http://www.loc.gov/item/2023867705/",
+        "https://hdl.loc.gov/loc.music/gottlieb.02851",
+        "http://www.loc.gov/resource/music.musgottlieb-02851/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "gottlieb, william p."
+      ],
+      "date": "1947",
+      "dates": [
+        "1947"
+      ],
+      "description": [
+        "Gottlieb Collection Assignment No. 366 Reference print available in Music Division, Library of Congress. Original negative or transparency: 1 negative : b&w ; 2 1/4 x 2 1/4 in. Library of Congress Prints and Photographs Division. Originals not served. Originals Purchase; William P. Gottlieb, 1995-1997 Record created through migration from the Performing Arts Encyclopedia Database."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-06-15T08:22:23.788Z",
+      "group": [
+        "catalog-split-08",
+        "catalog",
+        "paprika-music",
+        "main-catalog-split-08"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2023867705/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-02851:0001/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-02851:0001/full/pct:12.5/0/default.jpg#h=647&w=660",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-02851:0001/full/pct:25.0/0/default.jpg#h=1295&w=1321",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-02851:0001/full/pct:50.0/0/default.jpg#h=2590&w=2642",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-02851:0001/full/pct:100.0/0/default.jpg#h=5181&w=5284"
+      ],
+      "index": 4,
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/resource/gottlieb.02851.0",
+        "http://www.loc.gov/item/2023867705",
+        "2024-06-13t10:16:25",
+        "online resource",
+        "http://www.loc.gov/item/gottlieb.02851",
+        "2023867705"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "william p. gottlieb collection",
+        "music division"
+      ],
+      "score": 41.444996,
+      "shelf_id": "http://lccn.loc.gov/2023867705",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "jazz musicians",
+        "jackson, milt (milton)",
+        "jazz singers",
+        "rosenkrantz, timmie",
+        "women jazz musicians",
+        "fitzgerald, ella",
+        "fifty-second street (new york, n.y.)",
+        "brown, ray",
+        "portrait photographs",
+        "gillespie, dizzy",
+        "group portraits",
+        "trumpet players",
+        "downbeat"
+      ],
+      "timestamp": "2024-06-15T08:24:36.975Z",
+      "title": "[Portrait of Ella Fitzgerald, Dizzy Gillespie, Ray Brown, Milt (Milton) Jackson, and Timmie Rosenkrantz, Downbeat, New York, N.Y., ca. Sept. 1947]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2023867705/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023867742",
+        "http://www.loc.gov/item/2023867742/",
+        "https://hdl.loc.gov/loc.music/gottlieb.03191",
+        "http://www.loc.gov/resource/music.musgottlieb-03191/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "gottlieb, william p."
+      ],
+      "date": "1947",
+      "dates": [
+        "1947"
+      ],
+      "description": [
+        "Caption from Down Beat: This is what the customers miss when the Diz directs his band, back to the audience. In the first photo we find an appealing, lullaby-like attitude, indicating the gentle treatment. Picture two makes one wonder what good the mike would do inside Gillespie. Climax comes in the third shot. It seems a little hard for Dizzy to believe what he hears. Last, the final bow of exhaustion, and the work on one number is over Gottlieb Collection Assignment No. 525 In: \"Gillespie's gyrations and gestures get his band going,\" Down Beat, v. 14, no. 18 (Aug. 27, 1947), p. 2. Reference print available in Music Division, Library of Congress. Original negative or transparency: 1 negative : b&w ; 2 1/4 x 2 1/4 in. Library of Congress Prints and Photographs Division. Originals not served. Originals Purchase; William P. Gottlieb, 1995-1997 Record created through migration from the Performing Arts Encyclopedia Database."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-06-15T08:22:31.042Z",
+      "group": [
+        "catalog-split-09",
+        "catalog",
+        "paprika-music",
+        "main-catalog-split-09"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2023867742/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03191:0001/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03191:0001/full/pct:12.5/0/default.jpg#h=686&w=689",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03191:0001/full/pct:25.0/0/default.jpg#h=1372&w=1379",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03191:0001/full/pct:50.0/0/default.jpg#h=2744&w=2759",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03191:0001/full/pct:100.0/0/default.jpg#h=5488&w=5518"
+      ],
+      "index": 5,
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/resource/gottlieb.03191.0",
+        "http://www.loc.gov/item/2023867742",
+        "2024-06-13t10:16:35",
+        "2023867742",
+        "online resource",
+        "http://www.loc.gov/item/gottlieb.03191"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "william p. gottlieb collection",
+        "music division"
+      ],
+      "score": 41.444996,
+      "shelf_id": "http://lccn.loc.gov/2023867742",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "jazz musicians",
+        "fifty-second street (new york, n.y.)",
+        "portrait photographs",
+        "gillespie, dizzy",
+        "group portraits",
+        "trumpet players",
+        "downbeat"
+      ],
+      "timestamp": "2024-06-15T08:24:38.571Z",
+      "title": "[Portrait of Dizzy Gillespie, Downbeat, New York, N.Y., ca. Aug. 1947]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2023867742/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023868680",
+        "http://www.loc.gov/item/2023868680/",
+        "https://hdl.loc.gov/loc.music/gottlieb.11871",
+        "http://www.loc.gov/resource/music.musgottlieb-11871/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "gottlieb, william p."
+      ],
+      "date": "1946",
+      "dates": [
+        "1946"
+      ],
+      "description": [
+        "Gottlieb Collection Assignment No. 523 Original negative or transparency: 1 negative : b&w ; 2 1/4 x 2 1/4 in. Library of Congress Prints and Photographs Division. Originals not served. Originals Purchase; William P. Gottlieb, 1995-1997 Record created through migration from the Performing Arts Encyclopedia Database."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-06-15T08:22:45.747Z",
+      "group": [
+        "catalog-split-11",
+        "catalog",
+        "paprika-music",
+        "main-catalog-split-11"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2023868680/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-11871:0001/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-11871:0001/full/pct:12.5/0/default.jpg#h=696&w=684",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-11871:0001/full/pct:25.0/0/default.jpg#h=1392&w=1368",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-11871:0001/full/pct:50.0/0/default.jpg#h=2784&w=2737",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-11871:0001/full/pct:100.0/0/default.jpg#h=5568&w=5475"
+      ],
+      "index": 6,
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/item/gottlieb.11871",
+        "2023868680",
+        "http://www.loc.gov/resource/gottlieb.11871.0",
+        "http://www.loc.gov/item/2023868680",
+        "2024-06-13t10:20:44",
+        "online resource"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "william p. gottlieb collection",
+        "music division"
+      ],
+      "score": 41.444996,
+      "shelf_id": "http://lccn.loc.gov/2023868680",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "jazz musicians",
+        "fifty-second street (new york, n.y.)",
+        "portrait photographs",
+        "gillespie, dizzy",
+        "trumpet players"
+      ],
+      "timestamp": "2024-06-15T08:24:53.069Z",
+      "title": "[Portrait of Dizzy Gillespie, 52nd Street, New York, N.Y., between 1946 and 1948]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2023868680/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "catalog-split-13",
+      "catalog",
+      "paprika-music",
+      "main-catalog-split-13",
+      "catalog-split-08",
+      "main-catalog-split-08",
+      "catalog-split-09",
+      "main-catalog-split-09",
+      "catalog-split-11",
+      "main-catalog-split-11",
+      "collections-portal"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "music.musgottlieb-03141",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.5091118812561035,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/music.musgottlieb-03141/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/music.musgottlieb-03141/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1734773601.5829852,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": "5342",
+      "info": "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03141:0001/info.json",
+      "levels": "5",
+      "mimetype": "image/jp2",
+      "other_name": "0001.jp2",
+      "size": 1086812,
+      "url": "https://tile.loc.gov/storage-services/public/music/musgottlieb-03141/0001.jp2",
+      "width": "4080"
+    },
+    {
+      "height": 5342,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03141:0001/full/pct:100.0/0/default.jpg",
+      "width": 4080
+    },
+    {
+      "height": 2671,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03141:0001/full/pct:50.0/0/default.jpg",
+      "width": 2040
+    },
+    {
+      "height": 1335,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03141:0001/full/pct:25.0/0/default.jpg",
+      "width": 1020
+    },
+    {
+      "height": 667,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03141:0001/full/pct:12.5/0/default.jpg",
+      "width": 510
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/federal-theatre-project-1935-to-1939/about-this-collection/",
+        "http://www.loc.gov/collections/ftp/",
+        "http://lccn.loc.gov/99401005",
+        "http://www.loc.gov/item/99401005/",
+        "https://hdl.loc.gov/loc.music/collmus.mu000005"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "gottlieb, william p."
+      ],
+      "count": 9217,
+      "date": "1938",
+      "dates": [
+        "1938"
+      ],
+      "description": [
+        "This online presentation includes items selected from the Federal Theatre Project Collection at the Library of Congress. Featured here are stage and costume designs, photographs, posters, playbills, programs, and playscripts, including productions of Macbeth and The Tragical History of Dr. Faustus as staged by Orson Welles, and Power, a topical drama of the period. Selected administrative documents from the project are also available."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:07:18.065Z",
+      "group": [
+        "collections-portal"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/federal-theatre-project-1935-to-1939/about-this-collection/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/federal-theatre-project-1935-to-1939/500_500.jpg"
+      ],
+      "index": 1,
+      "items": "https://www.loc.gov/collections/federal-theatre-project-1935-to-1939/",
+      "language": [
+        "english"
+      ],
+      "number": [
+        "99401005",
+        "http://www.loc.gov/item/11727143",
+        "http://www.loc.gov/item/99401005",
+        "2015-09-15t11:46:00"
+      ],
+      "original_format": [
+        "collection",
+        "manuscript/mixed material"
+      ],
+      "other_title": [
+        "Gottlieb photograph collection",
+        "William P. Gottlieb / Ira and Leonore S. Gershwin Fund Collection"
+      ],
+      "partof": [
+        "federal theatre project, 1935 to 1939",
+        "digital collections",
+        "music division"
+      ],
+      "score": 17.952309,
+      "shelf_id": "~/collections/federal-theatre-project-1935-to-1939/about-this-collection/",
+      "subject": [
+        "color",
+        "film negatives",
+        "art & architecture",
+        "photographic prints",
+        "portrait photographs",
+        "performing arts",
+        "group portraits",
+        "acetate negatives",
+        "cityscape photographs",
+        "nitrate negatives",
+        "film transparencies",
+        "gelatin silver prints",
+        "contact prints"
+      ],
+      "timestamp": "2024-12-21T06:49:00.439Z",
+      "title": "Federal Theatre Project, 1935 to 1939",
+      "type": [
+        "collection"
+      ],
+      "url": "https://www.loc.gov/collections/federal-theatre-project-1935-to-1939/about-this-collection/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023867732",
+        "http://www.loc.gov/item/2023867732/",
+        "https://hdl.loc.gov/loc.music/gottlieb.030",
+        "http://www.loc.gov/resource/music.musgottlieb-030/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "gottlieb, william p."
+      ],
+      "date": "1946",
+      "dates": [
+        "1946"
+      ],
+      "description": [
+        "In: \"Gabler Revives Jam Sessions,\" Down Beat 13, no. 25 (Dec. 2, 1946):2. Used with permission from Ed Enright, Editor, Down Beat magazine, 102 North Haven Road, Elmhurst, IL 60126-3370 Record created through migration from the Performing Arts Encyclopedia Database."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-06-15T08:22:23.788Z",
+      "group": [
+        "catalog-split-08",
+        "catalog",
+        "paprika-music",
+        "main-catalog-split-08"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2023867732/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-030:0001/full/pct:50.0/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-030:0001/full/pct:50.0/0/default.jpg#h=679&w=300",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-030:0001/full/pct:100.0/0/default.jpg#h=1359&w=600"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/resource/gottlieb.030.0",
+        "http://www.loc.gov/item/2023867732",
+        "2024-06-13t10:16:32",
+        "http://www.loc.gov/item/gottlieb.030",
+        "online resource",
+        "2023867732"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "catalog",
+        "william p. gottlieb collection",
+        "music division"
+      ],
+      "score": 13.55425,
+      "shelf_id": "http://lccn.loc.gov/2023867732",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "clippings (information artifacts)"
+      ],
+      "timestamp": "2024-06-15T08:24:36.975Z",
+      "title": "Gabler Revives Jam Sessions",
+      "type": [
+        "manuscript"
+      ],
+      "url": "https://www.loc.gov/item/2023867732/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023867930",
+        "http://www.loc.gov/item/2023867930/",
+        "https://hdl.loc.gov/loc.music/gottlieb.048",
+        "http://www.loc.gov/resource/music.musgottlieb-048/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "gottlieb, william p."
+      ],
+      "date": "1947",
+      "dates": [
+        "1947"
+      ],
+      "description": [
+        "In: \"Posin',\" Down Beat 14, no. 6 (Mar. 12, 1947):2. Used with permission from Ed Enright, Editor, Down Beat magazine, 102 North Haven Road, Elmhurst, IL 60126-3370 Record created through migration from the Performing Arts Encyclopedia Database."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-06-15T08:22:24.717Z",
+      "group": [
+        "catalog-split-08",
+        "catalog",
+        "paprika-music",
+        "main-catalog-split-08"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2023867930/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-048:0001/full/pct:25.0/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-048:0001/full/pct:25.0/0/default.jpg#h=894&w=150",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-048:0001/full/pct:50.0/0/default.jpg#h=1788&w=300",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-048:0001/full/pct:100.0/0/default.jpg#h=3576&w=600"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2024-06-13t10:17:23",
+        "http://www.loc.gov/item/gottlieb.048",
+        "2023867930",
+        "http://www.loc.gov/item/2023867930",
+        "online resource",
+        "http://www.loc.gov/resource/gottlieb.048.0"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "catalog",
+        "william p. gottlieb collection",
+        "music division"
+      ],
+      "score": 13.55425,
+      "shelf_id": "http://lccn.loc.gov/2023867930",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "clippings (information artifacts)"
+      ],
+      "timestamp": "2024-06-15T08:24:36.975Z",
+      "title": "Posin'",
+      "type": [
+        "manuscript"
+      ],
+      "url": "https://www.loc.gov/item/2023867930/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023868029",
+        "http://www.loc.gov/item/2023868029/",
+        "https://hdl.loc.gov/loc.music/gottlieb.057",
+        "http://www.loc.gov/resource/music.musgottlieb-057/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "gottlieb, william p."
+      ],
+      "date": "1947",
+      "dates": [
+        "1947"
+      ],
+      "description": [
+        "In: \"Fair Sex Cops Honors at Concert,\" Down Beat 14, no. 9 (Apr. 23, 1947):2. Used with permission from Ed Enright, Editor, Down Beat magazine, 102 North Haven Road, Elmhurst, IL 60126-3370 Record created through migration from the Performing Arts Encyclopedia Database."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-06-15T08:22:24.717Z",
+      "group": [
+        "catalog-split-08",
+        "catalog",
+        "paprika-music",
+        "main-catalog-split-08"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2023868029/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-057:0001/full/pct:100.0/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-057:0001/full/pct:100.0/0/default.jpg#h=968&w=1000"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/resource/gottlieb.057.0",
+        "2024-06-13t10:17:49",
+        "online resource",
+        "http://www.loc.gov/item/gottlieb.057",
+        "http://www.loc.gov/item/2023868029",
+        "2023868029"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "catalog",
+        "william p. gottlieb collection",
+        "music division"
+      ],
+      "score": 13.55425,
+      "shelf_id": "http://lccn.loc.gov/2023868029",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "clippings (information artifacts)"
+      ],
+      "timestamp": "2024-06-15T08:24:36.975Z",
+      "title": "Fair Sex Cops Honors at Concert",
+      "type": [
+        "manuscript"
+      ],
+      "url": "https://www.loc.gov/item/2023868029/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023868128",
+        "http://www.loc.gov/item/2023868128/",
+        "https://hdl.loc.gov/loc.music/gottlieb.066",
+        "http://www.loc.gov/resource/music.musgottlieb-066/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "gottlieb, william p."
+      ],
+      "date": "1947",
+      "dates": [
+        "1947"
+      ],
+      "description": [
+        "In: \"Posin',\" Down Beat 14, no. 11 (May 21, 1947):7. Used with permission from Ed Enright, Editor, Down Beat magazine, 102 North Haven Road, Elmhurst, IL 60126-3370 Record created through migration from the Performing Arts Encyclopedia Database."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-06-15T08:22:24.717Z",
+      "group": [
+        "catalog-split-08",
+        "catalog",
+        "paprika-music",
+        "main-catalog-split-08"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2023868128/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-066:0001/full/pct:25.0/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-066:0001/full/pct:25.0/0/default.jpg#h=930&w=150",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-066:0001/full/pct:50.0/0/default.jpg#h=1861&w=300",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-066:0001/full/pct:100.0/0/default.jpg#h=3722&w=600"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2024-06-13t10:18:15",
+        "2023868128",
+        "http://www.loc.gov/item/gottlieb.066",
+        "http://www.loc.gov/resource/gottlieb.066.0",
+        "http://www.loc.gov/item/2023868128",
+        "online resource"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "catalog",
+        "william p. gottlieb collection",
+        "music division"
+      ],
+      "score": 13.55425,
+      "shelf_id": "http://lccn.loc.gov/2023868128",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "clippings (information artifacts)"
+      ],
+      "timestamp": "2024-06-15T08:24:36.975Z",
+      "title": "Posin'",
+      "type": [
+        "manuscript"
+      ],
+      "url": "https://www.loc.gov/item/2023868128/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023867447",
+        "http://www.loc.gov/item/2023867447/",
+        "https://hdl.loc.gov/loc.music/gottlieb.004",
+        "http://www.loc.gov/resource/music.musgottlieb-004/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "gottlieb, william p."
+      ],
+      "date": "1946",
+      "dates": [
+        "1946"
+      ],
+      "description": [
+        "In: \"Through the Looking Glass!,\" Down Beat 13, no. 13 (June 17, 1946):14. Used with permission from Ed Enright, Editor, Down Beat magazine, 102 North Haven Road, Elmhurst, IL 60126-3370 Record created through migration from the Performing Arts Encyclopedia Database."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-06-15T08:22:42.546Z",
+      "group": [
+        "catalog-split-11",
+        "catalog",
+        "paprika-music",
+        "main-catalog-split-11"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2023867447/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-004:0001/full/pct:100.0/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-004:0001/full/pct:100.0/0/default.jpg#h=795&w=600"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "http://www.loc.gov/resource/gottlieb.004.0",
+        "2023867447",
+        "http://www.loc.gov/item/gottlieb.004",
+        "online resource",
+        "2024-06-13t10:15:19",
+        "http://www.loc.gov/item/2023867447"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "catalog",
+        "william p. gottlieb collection",
+        "music division"
+      ],
+      "score": 13.55425,
+      "shelf_id": "http://lccn.loc.gov/2023867447",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "clippings (information artifacts)"
+      ],
+      "timestamp": "2024-06-15T08:24:37.633Z",
+      "title": "Through the Looking Glass!",
+      "type": [
+        "manuscript"
+      ],
+      "url": "https://www.loc.gov/item/2023867447/"
+    }
+  ],
+  "resource": {
+    "caption": null,
+    "image": "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03141:0001/full/pct:12.5/0/default.jpg",
+    "paprika_resource_path": "/sets/music/musgottlieb-03141",
+    "representative_index": 0,
+    "resourceOrder": null,
+    "resource_items": null,
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/music.musgottlieb-03141/",
+    "version": 0
+  },
+  "resources": [
+    {
+      "caption": null,
+      "image": "https://tile.loc.gov/image-services/iiif/public:music:musgottlieb-03141:0001/full/pct:12.5/0/default.jpg",
+      "paprika_resource_path": "/sets/music/musgottlieb-03141",
+      "representative_index": 0,
+      "resourceOrder": null,
+      "resource_items": null,
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/music.musgottlieb-03141/",
+      "version": 0
+    }
+  ],
+  "timestamp": 1734773602092,
+  "type": "zoom",
+  "views": {
+    "brief": "https://www.loc.gov/resource/music.musgottlieb-03141/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/music.musgottlieb-03141/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/music.musgottlieb-03141/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/music.musgottlieb-03141/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/music.musgottlieb-03141/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/music.musgottlieb-03141/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/music.musgottlieb-03141/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/music.musgottlieb-03141/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/music.musgottlieb-03141/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/music.musgottlieb-03141/?fo=json&st=text"
+  }
+}

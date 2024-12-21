@@ -1,0 +1,1728 @@
+{
+  "articles_and_essays": [
+    {
+      "score": 6.2381325,
+      "title": "Cooking Up History: A Turkey Time of Year",
+      "url": "https://blogs.loc.gov/families/2021/11/cooking-up-history-a-turkey-time-of-year/"
+    },
+    {
+      "score": 6.2381325,
+      "title": "New Online: Benjamin Franklin Papers",
+      "url": "https://blogs.loc.gov/loc/2018/04/new-online-benjamin-franklin-papers/"
+    },
+    {
+      "score": 6.2381325,
+      "title": "The Role of Inventions in Changing Our Daily Lives",
+      "url": "https://blogs.loc.gov/teachers/2020/02/the-role-of-inventions-in-changing-our-daily-lives/"
+    }
+  ],
+  "cite_this": {
+    "apa": "Franklin, B. (1784) <cite>Benjamin Franklin Papers: Series II, -1818; 1784, Jan. 12-1785, May 23 vol. 22</cite>. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mss21451024/.",
+    "chicago": "Franklin, Benjamin. <cite>Benjamin Franklin Papers: Series II, -1818; 1784, Jan. 12-1785, May 23 vol. 22</cite>. 1784. Manuscript/Mixed Material. https://www.loc.gov/item/mss21451024/.",
+    "mla": "Franklin, Benjamin. <cite>Benjamin Franklin Papers: Series II, -1818; 1784, Jan. 12-1785, May 23 vol. 22</cite>. 1784. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;www.loc.gov/item/mss21451024/&gt;."
+  },
+  "item": {
+    "_version_": 1730887159714414592,
+    "access_restricted": false,
+    "aka": [
+      "http://www.loc.gov/item/mss21451024/",
+      "https://hdl.loc.gov/loc.mss/ms003048.mss21451.024",
+      "http://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/",
+      "http://www.loc.gov/item/mss21451.mss21451-008_00005_00333/"
+    ],
+    "call_number": [
+      "series: Series II, 1726-1818",
+      "mss21451, box 22; reel 8"
+    ],
+    "campaigns": [],
+    "contributor_names": [
+      "Franklin, Benjamin, 1706-1790"
+    ],
+    "contributors": [
+      {
+        "franklin, benjamin": "https://www.loc.gov/search/?fa=contributor:franklin,+benjamin&fo=json"
+      }
+    ],
+    "created_published": [
+      ""
+    ],
+    "date": "1784-01-12",
+    "dates": [
+      {
+        "1784-01-12 to 1785-05-23": "https://www.loc.gov/search/?dates=1784-01-12/1785-05-23&fo=json"
+      }
+    ],
+    "digital_id": [
+      "http://hdl.loc.gov/loc.mss/ms003048.mss21451.024"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2020-09-19T03:05:36.679Z",
+    "extract_urls": [
+      "http://hdl.loc.gov/loc.mss/ms003048.mss21451.024#mss21451"
+    ],
+    "format": [
+      {
+        "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format:manuscript/mixed+material&fo=json"
+      }
+    ],
+    "genre": [
+      "Manuscripts"
+    ],
+    "group": [
+      "mss21451",
+      "benjamin-franklin-papers"
+    ],
+    "hassegments": true,
+    "id": "http://www.loc.gov/item/mss21451024/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/mss/mss21451/mss21451-008/00008.gif#h=111&w=150",
+      "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00008/full/pct:6.25/0/default.jpg#h=270&w=362",
+      "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00008/full/pct:12.5/0/default.jpg#h=540&w=725",
+      "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00008/full/pct:25/0/default.jpg#h=1080&w=1450",
+      "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00008/full/pct:50/0/default.jpg#h=2160&w=2901",
+      "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00008/full/pct:100/0/default.jpg#h=4321&w=5803"
+    ],
+    "index": 328,
+    "item": {
+      "call_number": [
+        "series: Series II, 1726-1818",
+        "mss21451, box 22; reel 8"
+      ],
+      "contributors": [
+        "Franklin, Benjamin, 1706-1790"
+      ],
+      "created_published": [
+        ""
+      ],
+      "date": "17840112/17850523",
+      "digital_id": [
+        "http://hdl.loc.gov/loc.mss/ms003048.mss21451.024"
+      ],
+      "format": "mixed material",
+      "genre": [
+        "Manuscripts"
+      ],
+      "language": [
+        "eng"
+      ],
+      "location": [
+        "United States"
+      ],
+      "related_items": [
+        {
+          "title": "View Benjamin Franklin Papers Finding Aid",
+          "url": "http://hdl.loc.gov/loc.mss/ms003048.mss21451.024_bak"
+        }
+      ],
+      "repository": "Manuscript Division",
+      "rights": "No known restrictions on use or reproduction.",
+      "source_collection": "Benjamin Franklin Papers",
+      "subjects": [
+        "United States--History--Revolution, 1775-1783.",
+        "Great Britain--Foreign relations--United States.",
+        "United States--Foreign relations--Great Britain.",
+        "Diplomatic and consular service, American--France.",
+        "United States--Foreign relations--France.",
+        "Diplomats.",
+        "Great Britain. Treaties, etc. United States, 1783 September 3.",
+        "United States--Foreign relations--1775-1783.",
+        "United States--History--Revolution, 1775-1783--Peace.",
+        "Scientists.",
+        "Manuscripts",
+        "United States"
+      ],
+      "title": "Benjamin Franklin Papers: Series II, 1726-1818; 1784, Jan. 12-1785, May 23 (vol. 22)"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "location": [
+      "united states"
+    ],
+    "locations": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      }
+    ],
+    "mime_type": [
+      "image/gif",
+      "image/tiff",
+      "image/jpeg",
+      "image/jp2"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "manuscript/mixed material"
+    ],
+    "other_formats": [],
+    "partof": [
+      {
+        "count": 16,
+        "title": "benjamin franklin papers: series ii, 1726-1818",
+        "url": "https://www.loc.gov/search/?fa=partof:benjamin+franklin+papers:+series+ii,+1726-1818&fo=json"
+      },
+      {
+        "count": 41,
+        "title": "benjamin franklin papers",
+        "url": "https://www.loc.gov/collections/benjamin-franklin-papers/?fo=json"
+      },
+      {
+        "count": 169544,
+        "title": "manuscript division",
+        "url": "https://www.loc.gov/search/?fa=partof:manuscript+division&fo=json"
+      }
+    ],
+    "related_items": [
+      {
+        "title": "View Benjamin Franklin Papers Finding Aid",
+        "url": "http://hdl.loc.gov/loc.mss/ms003048.mss21451.024_bak"
+      }
+    ],
+    "repository": [
+      "Manuscript Division"
+    ],
+    "resources": [
+      {
+        "files": 329,
+        "image": "https://tile.loc.gov/storage-services/service/mss/mss21451/mss21451-008/00005.gif",
+        "representative_index": 3,
+        "url": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress's digital scans of the papers of Benjamin Franklin are in the public domain.</p>\r\n<p>Credit Line: Library of Congress, Manuscript Division, Benjamin Franklin Papers.</p>\r\n<p>More about <a href=\"/legal/\">Copyright and other  Restrictions</a>.</p>\r\n<p>For guidance about compiling full citations consult <a href=\"https://www.loc.gov/teachers/usingprimarysources/citing.html\">Citing  Primary Sources</a>.</p>\r\n"
+    ],
+    "score": 19.206085,
+    "shard": "00",
+    "shelf_id": "mss21451024",
+    "source_collection": "Benjamin Franklin Papers",
+    "subject": [
+      "scientists",
+      "united states",
+      "great britain",
+      "diplomats",
+      "revolution",
+      "great britain. treaties, etc. united states, september 3",
+      "foreign relations",
+      "peace",
+      "history",
+      "france",
+      "diplomatic and consular service, american",
+      "manuscripts"
+    ],
+    "subject_headings": [
+      "United States--History--Revolution, 1775-1783",
+      "Great Britain--Foreign relations--United States",
+      "United States--Foreign relations--Great Britain",
+      "Diplomatic and consular service, American--France",
+      "United States--Foreign relations--France",
+      "Diplomats",
+      "Great Britain. Treaties, etc. United States, 1783 September 3",
+      "United States--Foreign relations--1775-1783",
+      "United States--History--Revolution, 1775-1783--Peace",
+      "Scientists",
+      "Manuscripts",
+      "United States"
+    ],
+    "subjects": [
+      {
+        "diplomatic and consular service, american": "https://www.loc.gov/search/?fa=subject:diplomatic+and+consular+service,+american&fo=json"
+      },
+      {
+        "diplomats": "https://www.loc.gov/search/?fa=subject:diplomats&fo=json"
+      },
+      {
+        "foreign relations": "https://www.loc.gov/search/?fa=subject:foreign+relations&fo=json"
+      },
+      {
+        "france": "https://www.loc.gov/search/?fa=subject:france&fo=json"
+      },
+      {
+        "great britain": "https://www.loc.gov/search/?fa=subject:great+britain&fo=json"
+      },
+      {
+        "great britain. treaties, etc. united states, september 3": "https://www.loc.gov/search/?fa=subject:great+britain.+treaties,+etc.+united+states,+september+3&fo=json"
+      },
+      {
+        "history": "https://www.loc.gov/search/?fa=subject:history&fo=json"
+      },
+      {
+        "manuscripts": "https://www.loc.gov/search/?fa=subject:manuscripts&fo=json"
+      },
+      {
+        "peace": "https://www.loc.gov/search/?fa=subject:peace&fo=json"
+      },
+      {
+        "revolution": "https://www.loc.gov/search/?fa=subject:revolution&fo=json"
+      },
+      {
+        "scientists": "https://www.loc.gov/search/?fa=subject:scientists&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      }
+    ],
+    "timestamp": "2022-04-23T08:30:27.453Z",
+    "title": "Benjamin Franklin Papers: Series II, 1726-1818; 1784, Jan. 12-1785, May 23 (vol. 22)",
+    "type": [
+      "manuscript/mixed material"
+    ],
+    "url": "https://www.loc.gov/item/mss21451024/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mss21451027/",
+        "https://hdl.loc.gov/loc.mss/ms003048.mss21451.027",
+        "http://www.loc.gov/resource/mss21451.mss21451-009_00243_00594/",
+        "http://www.loc.gov/item/mss21451.mss21451-009_00243_00594/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "franklin, benjamin"
+      ],
+      "date": "1789-04-01",
+      "dates": [
+        "[1789-04 TO 1790]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T03:05:36.679Z",
+      "group": [
+        "mss21451",
+        "benjamin-franklin-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mss21451027/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mss21451/mss21451-009/00246.gif#h=150&w=108",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-009:00246/full/pct:6.25/0/default.jpg#h=260&w=187",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-009:00246/full/pct:12.5/0/default.jpg#h=521&w=375",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-009:00246/full/pct:25/0/default.jpg#h=1043&w=751",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-009:00246/full/pct:50/0/default.jpg#h=2086&w=1502",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-009:00246/full/pct:100/0/default.jpg#h=4173&w=3005"
+      ],
+      "index": 328,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "benjamin franklin papers",
+        "benjamin franklin papers: series ii, 1726-1818"
+      ],
+      "score": 50.398853,
+      "shelf_id": "mss21451027",
+      "subject": [
+        "scientists",
+        "united states",
+        "great britain",
+        "diplomats",
+        "revolution",
+        "great britain. treaties, etc. united states, september 3",
+        "foreign relations",
+        "peace",
+        "history",
+        "france",
+        "diplomatic and consular service, american",
+        "manuscripts"
+      ],
+      "timestamp": "2022-04-23T08:30:27.453Z",
+      "title": "Benjamin Franklin Papers: Series II, 1726-1818; 1789, Apr.-1790, undated (vol. 25)",
+      "url": "https://www.loc.gov/item/mss21451027/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mss21451028/",
+        "https://hdl.loc.gov/loc.mss/ms003048.mss21451.028",
+        "http://www.loc.gov/resource/mss21451.mss21451-010_00005_00297/",
+        "http://www.loc.gov/item/mss21451.mss21451-010_00005_00297/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "franklin, benjamin"
+      ],
+      "date": "1726-01-01",
+      "dates": [
+        "[1726 TO 1818]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T03:05:36.679Z",
+      "group": [
+        "mss21451",
+        "benjamin-franklin-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mss21451028/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mss21451/mss21451-010/00008.gif#h=108&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-010:00008/full/pct:6.25/0/default.jpg#h=266&w=369",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-010:00008/full/pct:12.5/0/default.jpg#h=533&w=739",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-010:00008/full/pct:25/0/default.jpg#h=1067&w=1479",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-010:00008/full/pct:50/0/default.jpg#h=2134&w=2958",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-010:00008/full/pct:100/0/default.jpg#h=4268&w=5917"
+      ],
+      "index": 329,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "benjamin franklin papers",
+        "benjamin franklin papers: series ii, 1726-1818"
+      ],
+      "score": 50.398853,
+      "shelf_id": "mss21451028",
+      "subject": [
+        "scientists",
+        "united states",
+        "great britain",
+        "diplomats",
+        "revolution",
+        "great britain. treaties, etc. united states, september 3",
+        "foreign relations",
+        "peace",
+        "history",
+        "france",
+        "diplomatic and consular service, american",
+        "manuscripts"
+      ],
+      "timestamp": "2022-04-23T08:30:27.453Z",
+      "title": "Benjamin Franklin Papers: Series II, 1726-1818; Undated (vol. 26)",
+      "url": "https://www.loc.gov/item/mss21451028/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mss21451025/",
+        "https://hdl.loc.gov/loc.mss/ms003048.mss21451.025",
+        "http://www.loc.gov/resource/mss21451.mss21451-008_00334_00582/",
+        "http://www.loc.gov/item/mss21451.mss21451-008_00334_00582/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "franklin, benjamin"
+      ],
+      "date": "1785-05-26",
+      "dates": [
+        "[1785-05-26 TO 1786-12-10]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T03:05:36.679Z",
+      "group": [
+        "mss21451",
+        "benjamin-franklin-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mss21451025/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mss21451/mss21451-008/00337.gif#h=110&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00337/full/pct:6.25/0/default.jpg#h=265&w=358",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00337/full/pct:12.5/0/default.jpg#h=531&w=717",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00337/full/pct:25/0/default.jpg#h=1062&w=1435",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00337/full/pct:50/0/default.jpg#h=2124&w=2870",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00337/full/pct:100/0/default.jpg#h=4248&w=5741"
+      ],
+      "index": 330,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "benjamin franklin papers",
+        "benjamin franklin papers: series ii, 1726-1818"
+      ],
+      "score": 50.398853,
+      "shelf_id": "mss21451025",
+      "subject": [
+        "scientists",
+        "united states",
+        "great britain",
+        "diplomats",
+        "revolution",
+        "great britain. treaties, etc. united states, september 3",
+        "foreign relations",
+        "peace",
+        "history",
+        "france",
+        "diplomatic and consular service, american",
+        "manuscripts"
+      ],
+      "timestamp": "2022-04-23T08:30:27.453Z",
+      "title": "Benjamin Franklin Papers: Series II, 1726-1818; 1785, May 26-1786, Dec. 10 (vol. 23)",
+      "url": "https://www.loc.gov/item/mss21451025/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mss21451026/",
+        "https://hdl.loc.gov/loc.mss/ms003048.mss21451.026",
+        "http://www.loc.gov/resource/mss21451.mss21451-009_00005_00242/",
+        "http://www.loc.gov/item/mss21451.mss21451-009_00005_00242/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "franklin, benjamin"
+      ],
+      "date": "1786-12-15",
+      "dates": [
+        "[1786-12-15 TO 1789-03-02]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T03:05:36.679Z",
+      "group": [
+        "mss21451",
+        "benjamin-franklin-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mss21451026/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mss21451/mss21451-009/00008.gif#h=110&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-009:00008/full/pct:6.25/0/default.jpg#h=259&w=354",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-009:00008/full/pct:12.5/0/default.jpg#h=519&w=708",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-009:00008/full/pct:25/0/default.jpg#h=1039&w=1416",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-009:00008/full/pct:50/0/default.jpg#h=2078&w=2832",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-009:00008/full/pct:100/0/default.jpg#h=4157&w=5665"
+      ],
+      "index": 331,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "benjamin franklin papers",
+        "benjamin franklin papers: series ii, 1726-1818"
+      ],
+      "score": 50.398853,
+      "shelf_id": "mss21451026",
+      "subject": [
+        "scientists",
+        "united states",
+        "great britain",
+        "diplomats",
+        "revolution",
+        "great britain. treaties, etc. united states, september 3",
+        "foreign relations",
+        "peace",
+        "history",
+        "france",
+        "diplomatic and consular service, american",
+        "manuscripts"
+      ],
+      "timestamp": "2022-04-23T08:30:27.453Z",
+      "title": "Benjamin Franklin Papers: Series II, 1726-1818; 1786, Dec. 15-1789, Mar. 2 (vol. 24)",
+      "url": "https://www.loc.gov/item/mss21451026/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mss21451029/",
+        "https://hdl.loc.gov/loc.mss/ms003048.mss21451.029",
+        "http://www.loc.gov/resource/mss21451.mss21451-010_00298_00569/",
+        "http://www.loc.gov/item/mss21451.mss21451-010_00298_00569/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "franklin, benjamin"
+      ],
+      "date": "1778-01-01",
+      "dates": [
+        "[1778 TO 1786]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T03:05:36.679Z",
+      "group": [
+        "mss21451",
+        "benjamin-franklin-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mss21451029/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mss21451/mss21451-010/00301.gif#h=111&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-010:00301/full/pct:6.25/0/default.jpg#h=279&w=376",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-010:00301/full/pct:12.5/0/default.jpg#h=558&w=752",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-010:00301/full/pct:25/0/default.jpg#h=1116&w=1505",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-010:00301/full/pct:50/0/default.jpg#h=2233&w=3011",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-010:00301/full/pct:100/0/default.jpg#h=4466&w=6022"
+      ],
+      "index": 332,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "benjamin franklin papers",
+        "benjamin franklin papers: series ii, 1726-1818"
+      ],
+      "score": 50.398853,
+      "shelf_id": "mss21451029",
+      "subject": [
+        "scientists",
+        "united states",
+        "great britain",
+        "diplomats",
+        "revolution",
+        "great britain. treaties, etc. united states, september 3",
+        "foreign relations",
+        "peace",
+        "history",
+        "france",
+        "diplomatic and consular service, american",
+        "manuscripts"
+      ],
+      "timestamp": "2022-04-23T08:30:27.453Z",
+      "title": "Benjamin Franklin Papers: Series II, 1726-1818; Miscellaneous material in French, 1778-1786 , undated (vol. 27)",
+      "url": "https://www.loc.gov/item/mss21451029/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mss21451031/",
+        "https://hdl.loc.gov/loc.mss/ms003048.mss21451.031",
+        "http://www.loc.gov/resource/mss21451.mss21451-011_00005_00415/",
+        "http://www.loc.gov/item/mss21451.mss21451-011_00005_00415/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "franklin, benjamin"
+      ],
+      "date": "1781-01-01",
+      "dates": [
+        "[1781 TO 1818]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T03:05:36.679Z",
+      "group": [
+        "mss21451",
+        "benjamin-franklin-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mss21451031/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mss21451/mss21451-011/00008.gif#h=110&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-011:00008/full/pct:6.25/0/default.jpg#h=270&w=366",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-011:00008/full/pct:12.5/0/default.jpg#h=540&w=733",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-011:00008/full/pct:25/0/default.jpg#h=1081&w=1466",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-011:00008/full/pct:50/0/default.jpg#h=2163&w=2932",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-011:00008/full/pct:100/0/default.jpg#h=4326&w=5865"
+      ],
+      "index": 333,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "benjamin franklin papers",
+        "benjamin franklin papers: series ii, 1726-1818"
+      ],
+      "score": 50.398853,
+      "shelf_id": "mss21451031",
+      "subject": [
+        "scientists",
+        "united states",
+        "great britain",
+        "diplomats",
+        "revolution",
+        "great britain. treaties, etc. united states, september 3",
+        "foreign relations",
+        "peace",
+        "history",
+        "france",
+        "diplomatic and consular service, american",
+        "manuscripts"
+      ],
+      "timestamp": "2022-04-23T08:30:27.453Z",
+      "title": "Benjamin Franklin Papers: Series II, 1726-1818; Franklin, William Temple, papers; Correspondence, 1781-1818 , undated (vol. 29)",
+      "url": "https://www.loc.gov/item/mss21451031/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "mss21451",
+      "benjamin-franklin-papers",
+      "catalog-split-11",
+      "catalog",
+      "main-catalog-split-11",
+      "bdsbib.mar",
+      "catalog-split-03",
+      "continental-congress-and-the-constitutional-convention",
+      "main-catalog-split-03",
+      "main-catalog",
+      "catalog-split-06",
+      "cpbr",
+      "main-catalog-split-06",
+      "british-cartoon-prints",
+      "catalog-split-15",
+      "main-catalog-split-15",
+      "ll/llserialset/mono",
+      "congressional-serial-set-document-level"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "mss21451.mss21451-008_00005_00333",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 1.383471965789795,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/mss21451.mss21451-008_00005_00333/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json&sp=328",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ],
+      "sp": [
+        "328"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=328",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": 328,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1734773592.9486132,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 262,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00332/full/pct:6.25/0/default.jpg",
+      "width": 384
+    },
+    {
+      "height": 524,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00332/full/pct:12.5/0/default.jpg",
+      "width": 769
+    },
+    {
+      "height": 1049,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00332/full/pct:25/0/default.jpg",
+      "width": 1539
+    },
+    {
+      "height": 2098,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00332/full/pct:50/0/default.jpg",
+      "width": 3078
+    },
+    {
+      "height": 4196,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00332/full/pct:100/0/default.jpg",
+      "width": 6157
+    },
+    {
+      "height": 4196,
+      "info": "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00332/info.json",
+      "levels": 6,
+      "mimetype": "image/jp2",
+      "size": 3875189,
+      "url": "https://tile.loc.gov/storage-services/service/mss/mss21451/mss21451-008/00332.jp2",
+      "width": 6157
+    },
+    {
+      "height": 102,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 9608,
+      "url": "https://tile.loc.gov/storage-services/service/mss/mss21451/mss21451-008/00332.gif",
+      "width": 150
+    },
+    {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 25835171,
+      "url": "https://tile.loc.gov/storage-services/master/mss/mss21451/mss21451-008/00332.tif",
+      "width": null
+    }
+  ],
+  "pagination": {
+    "current": 328,
+    "first": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=1",
+    "from": 328,
+    "last": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=329",
+    "next": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=329",
+    "of": 329,
+    "page_list": [
+      {
+        "number": 1,
+        "url": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=1"
+      },
+      {
+        "number": "...",
+        "url": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=325"
+      },
+      {
+        "number": 326,
+        "url": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=326"
+      },
+      {
+        "number": 327,
+        "url": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=327"
+      },
+      {
+        "number": 328,
+        "url": null
+      },
+      {
+        "number": 329,
+        "url": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=329"
+      }
+    ],
+    "perpage": 1,
+    "perpage_options": [
+      25,
+      50,
+      100,
+      150
+    ],
+    "previous": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=327",
+    "results": "328 - 328",
+    "to": 328,
+    "total": 329
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/07006437",
+        "http://www.loc.gov/item/07006437/",
+        "https://catalog.hathitrust.org/Record/100274905"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "dickinson, john",
+        "franklin, benjamin",
+        "barbeu du bourg, (jacques)",
+        "miscellaneous pamphlet collection (library of congress)"
+      ],
+      "date": "1769",
+      "dates": [
+        "1769"
+      ],
+      "description": [
+        "Attributed to John Dickenson. Translated and edited by Jacques Barbeu-Dubourg. Cf. Barbier. False imprint. Actually published in Paris. Cf. Weller. Signatures: a⁸ b⁶ A-Q⁸. Barbier, A. A.  Ouvrages anonymes, II, column 1238c Weller, E.O.  Falsche Druckorte, v. 2, p. 183 Ford, P.L.  Franklin bibliography, 304 Includes translation of the preface written by Benjamin Franklin. Cf. Ford. LAC scc 2019-04-15 no edits (1 card)"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-03-06T09:48:25.051Z",
+      "group": [
+        "catalog-split-11",
+        "catalog",
+        "main-catalog-split-11"
+      ],
+      "hassegments": false,
+      "id": "http://lccn.loc.gov/07006437",
+      "image_url": [],
+      "index": 328,
+      "language": [
+        "french"
+      ],
+      "location": [
+        "america",
+        "great britain",
+        "united states",
+        "netherlands",
+        "france",
+        "paris",
+        "amsterdam"
+      ],
+      "number": [
+        "2024-03-04t07:22:51",
+        "07006437"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "rare book and special collections division",
+        "catalog"
+      ],
+      "score": 16.38629,
+      "shelf_id": "E215.5 .D554 AC901 .M5 vol. 977, no. 2",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "america",
+        "united states",
+        "causes",
+        "great britain",
+        "revolution",
+        "early works to 1800",
+        "netherlands",
+        "history",
+        "colonies",
+        "france",
+        "paris",
+        "amsterdam"
+      ],
+      "timestamp": "2024-03-06T09:49:37.427Z",
+      "title": "Lettres d'un fermier de Pensylvanie, aux habitans de l'Amérique Septentrionale : traduites de l'anglois",
+      "type": [
+        "text"
+      ],
+      "url": "//lccn.loc.gov/07006437"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/bdsdcc.08401/",
+        "https://hdl.loc.gov/loc.rbc/bdsdcc.08401",
+        "http://memory.loc.gov/cgi-bin/query/r?ammem/AMALL:@field(NUMBER+@band(bdsdcc+08401))",
+        "http://www.loc.gov/item/90898287/",
+        "http://lccn.loc.gov/90898287"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "great britain",
+        "continental congress broadside collection (library of congress)",
+        "boudinot, elias",
+        "franklin, benjamin",
+        "claypoole, david c.",
+        "united states. continental congress"
+      ],
+      "date": "1783",
+      "description": [
+        "Includes the text of the treaty. Signed: In testimony whereof, we have caused our seal to be hereunto affixed. Witness His Excellency Elias Boudinot, president, this fifteenth day of April, one thousand seven hundred and eighty-three ... Imprint from Evans. Evans 18233 Journals of the Continental Congress, 403 LC copy has annotated on verso: Treaty of Paris--1783. Source: Transfer from Manuscript Department, Library of Congress. Also available in digital form on the Library of Congress Web site. Formerly LCCN tes52-813. qr01 09-06-90"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-17T08:41:21.072Z",
+      "group": [
+        "bdsbib.mar",
+        "catalog-split-03",
+        "catalog",
+        "continental-congress-and-the-constitutional-convention",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/90898287/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/rbc/bdsdcc/08401/08401t.gif",
+        "https://tile.loc.gov/storage-services/service/rbc/bdsdcc/08401/0001.gif#h=1234&w=600",
+        "https://tile.loc.gov/storage-services/service/rbc/bdsdcc/08401/0001.jpg#h=4040&w=1964"
+      ],
+      "index": 329,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        40.0002777778,
+        -75.0697222222
+      ],
+      "location": [
+        "great britain",
+        "united states",
+        "pennsylvania",
+        "philadelphia"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -75.0697222222,
+        40.0002777778
+      ],
+      "mime_type": [
+        "image/gif",
+        "text/xml",
+        "image/tiff",
+        "image/jpeg"
+      ],
+      "number": [
+        "90898287",
+        "2021-03-24t14:21:19"
+      ],
+      "online_format": [
+        "image",
+        "online text"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "rare book and special collections division",
+        "printed ephemera: three centuries of broadsides and other printed ephemera",
+        "documents from the continental congress and the constitutional convention, 1774-1789",
+        "catalog",
+        "american memory"
+      ],
+      "score": 16.094759,
+      "shelf_id": "Cont Cong no. 84",
+      "site": [
+        "ammem",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "great britain",
+        "revolution",
+        "peace",
+        "philadelphia",
+        "history",
+        "broadsheet format (printing)",
+        "broadsides",
+        "treaties",
+        "pennsylvania"
+      ],
+      "timestamp": "2023-06-27T14:13:31.355Z",
+      "title": "The United States in Congress assembled, to all who shall these presents greeting : Whereas in and by our commission, dated at Philadelphia, the fifteenth day of June, in the year of our Lord one thousand seven hundred and eighty-one, the Honorable John Adams, Benjamin Franklin, John Jay, Henry Laurens, and Thomas Jefferson ... with Richard Oswald ... did conclude and sign on the part of the United States of America and the crown of Great-Britain, articles in the words following ... Now know ye, that we the United States in Congress assembled, have ratified and confirmed ... the said articles ...",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/90898287/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2004673484",
+        "http://www.loc.gov/item/2004673484/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.75235",
+        "http://www.loc.gov/resource/ppmsca.75235/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a05327",
+        "http://www.loc.gov/resource/cph.3a05327/",
+        "https://www.loc.gov/pictures/item/2004673484/",
+        "http://www.loc.gov/pictures/item/2004673484/",
+        "https://www.loc.gov/pictures/collection/cpbr/item/2004673484/",
+        "http://www.loc.gov/pictures/collection/cpbr/item/2004673484/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.75235"
+      ],
+      "campaigns": [],
+      "date": "1782-01-01",
+      "dates": [
+        "1782"
+      ],
+      "description": [
+        "Print shows a rattlesnake, representing America, presenting a basket of frogs to a Frenchman. Includes a short verse advising Britons to drive a wedge between the Americans and the French during the peace negotiation process."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-02-18T09:35:25.933Z",
+      "group": [
+        "catalog-split-06",
+        "catalog",
+        "cpbr",
+        "main-catalog-split-06",
+        "main-catalog",
+        "british-cartoon-prints"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2004673484/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/75200/75235_150px.jpg#h=104&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/75200/75235r.jpg#h=444&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/75200/75235v.jpg#h=710&w=1024"
+      ],
+      "index": 330,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "great britain",
+        "united states",
+        "france"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/13689462",
+        "2004673484",
+        "2021-10-25t16:29:35"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "cartoon prints, british",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 14.764258,
+      "shelf_id": "PC 1 - 6039",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "etchings",
+        "great britain",
+        "peace treaties",
+        "united states",
+        "rattlesnakes",
+        "revolution",
+        "intervention (international law)",
+        "peace",
+        "cartoons (commentary)",
+        "france",
+        "history",
+        "frogs",
+        "british"
+      ],
+      "timestamp": "2023-02-18T09:47:36.071Z",
+      "title": "The American rattlesnake presenting Monsieur his ally a dish of frogs",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2004673484/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/cpbr/item/2004673513/",
+        "http://www.loc.gov/item/2004673513/",
+        "http://www.loc.gov/pictures/item/2004673513/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a45660",
+        "http://www.loc.gov/resource/cph.3a45660/",
+        "http://lccn.loc.gov/2004673513"
+      ],
+      "campaigns": [],
+      "date": "1783-01-01",
+      "description": [
+        "1 print : etching. | Print shows Lord Shelburne holding a chamber pot up to a Frenchman, saying \"Monsieur, be so obliging as to make piss with us.\" The Frenchman is kicking the pot, saying, \"By the House of Bourbon, with the war we'll go on.\""
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T23:03:18.335Z",
+      "group": [
+        "cpbr",
+        "catalog-split-15",
+        "catalog",
+        "british-cartoon-prints",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2004673513/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a40000/3a45000/3a45600/3a45660_150px.jpg#h=134&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a40000/3a45000/3a45600/3a45660t.gif#h=134&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a40000/3a45000/3a45600/3a45660r.jpg#h=573&w=640"
+      ],
+      "index": 331,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        52.05545,
+        0.77436
+      ],
+      "location": [
+        "great britain",
+        "united states",
+        "france"
+      ],
+      "location_str": "",
+      "lonlat": [
+        0.77436,
+        52.05545
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2006-08-10t14:36:25",
+        "2004673513"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "cartoon prints, british",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 14.764258,
+      "shelf_id": "PC 1 - 6168 (A size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "etchings",
+        "great britain",
+        "marquis of",
+        "united states",
+        "lansdowne, william petty",
+        "revolution",
+        "peace",
+        "cartoons (commentary)",
+        "france",
+        "history",
+        "international relations",
+        "british"
+      ],
+      "timestamp": "2022-04-23T09:32:17.184Z",
+      "title": "L--d Shel--, begging Monsieur to make piss or p--e",
+      "url": "https://www.loc.gov/item/2004673513/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/pictures/collection/cpbr/item/2004673481/",
+        "http://www.loc.gov/item/2004673481/",
+        "http://www.loc.gov/pictures/item/2004673481/",
+        "https://hdl.loc.gov/loc.pnp/cph.3a05325",
+        "http://www.loc.gov/resource/cph.3a05325/",
+        "http://lccn.loc.gov/2004673481"
+      ],
+      "campaigns": [],
+      "date": "1782-01-01",
+      "description": [
+        "1 print : etching and engraving. | Print shows several British ministers, Keppel, Fox, Richmond, Conway, and others, preparing a porridge of peace to offer Holland, France, and Spain, and separately to a Native wearing a feathered headdress and skirt, representing America, who hesitates, refusing to accept until seeing how palatable to her European allies."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-09-01T23:03:18.335Z",
+      "group": [
+        "cpbr",
+        "catalog-split-03",
+        "catalog",
+        "british-cartoon-prints",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2004673481/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a00000/3a05000/3a05300/3a05325_150px.jpg#h=103&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a00000/3a05000/3a05300/3a05325t.gif#h=103&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3a00000/3a05000/3a05300/3a05325r.jpg#h=439&w=640"
+      ],
+      "index": 332,
+      "language": [
+        "english"
+      ],
+      "latlong": [
+        17.99358,
+        -77.46606
+      ],
+      "location": [
+        "great britain",
+        "united states",
+        "netherlands",
+        "spain",
+        "england",
+        "france"
+      ],
+      "location_str": "",
+      "lonlat": [
+        -77.46606,
+        17.99358
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2006-08-22t11:19:10",
+        "2004673481"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "cartoon prints, british",
+        "prints & photographs online catalog (library of congress)",
+        "catalog"
+      ],
+      "score": 14.764258,
+      "shelf_id": "PC 1 - 6009 (A size) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "duke of",
+        "richmond and lennox, charles lennox",
+        "cartoons (commentary)",
+        "intaglio prints",
+        "revolution",
+        "netherlands",
+        "viscount",
+        "international relations",
+        "cookery",
+        "great britain",
+        "spain",
+        "england",
+        "france",
+        "history",
+        "fox, charles james",
+        "british",
+        "conway, henry seymour",
+        "peace",
+        "keppel, augustus keppel",
+        "government officials"
+      ],
+      "timestamp": "2022-04-23T09:32:17.184Z",
+      "title": "The state cooks making peace-porridge",
+      "url": "https://www.loc.gov/item/2004673481/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2022696875",
+        "http://www.loc.gov/item/2022696875/",
+        "https://hdl.loc.gov/loc.law/llserialsetce.00206_00_00-007-0006-0000",
+        "http://www.loc.gov/resource/llserialsetce.00206_00_00-007-0006-0000/",
+        "https://purl.fdlp.gov/GPO/gpo178377"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "united states. congress. house",
+        "monroe, james"
+      ],
+      "date": "1830",
+      "dates": [
+        "1830"
+      ],
+      "description": [
+        "SERIALSETDELIVERY1"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-01-25T14:01:34.014Z",
+      "group": [
+        "ll/llserialset/mono",
+        "catalog-split-15",
+        "catalog",
+        "congressional-serial-set-document-level",
+        "main-catalog-split-15"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/2022696875/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/ll/llserialsetce/00/20/6_/00/_0/0/00206_00_00/00206_00_00-007-0006-0000/0493.gif",
+        "https://tile.loc.gov/storage-services/service/ll/llserialsetce/00/20/6_/00/_0/0/00206_00_00/00206_00_00-007-0006-0000/0493.gif#h=150&w=97",
+        "https://tile.loc.gov/image-services/iiif/service:ll:llserialsetce:00:20:6_:00:_0:0:00206_00_00:00206_00_00-007-0006-0000:0493/full/pct:12.5/0/default.jpg#h=425&w=275",
+        "https://tile.loc.gov/image-services/iiif/service:ll:llserialsetce:00:20:6_:00:_0:0:00206_00_00:00206_00_00-007-0006-0000:0493/full/pct:25/0/default.jpg#h=850&w=550",
+        "https://tile.loc.gov/image-services/iiif/service:ll:llserialsetce:00:20:6_:00:_0:0:00206_00_00:00206_00_00-007-0006-0000:0493/full/pct:50/0/default.jpg#h=1700&w=1100",
+        "https://tile.loc.gov/image-services/iiif/service:ll:llserialsetce:00:20:6_:00:_0:0:00206_00_00:00206_00_00-007-0006-0000:0493/full/pct:100/0/default.jpg#h=3400&w=2200"
+      ],
+      "index": 333,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "china"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf",
+        "text/plain",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "online resource",
+        "2023-05-31t09:22:18",
+        "2022696875"
+      ],
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "21th congress, 2nd session",
+        "house document",
+        "united states congressional serial set: serial no. 206",
+        "catalog",
+        "law library of congress",
+        "united states congressional serial set (bound house and senate documents and reports)"
+      ],
+      "score": 14.344899,
+      "shelf_id": "KF12",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "diplomats",
+        "china",
+        "ex-presidents",
+        "expense accounts",
+        "revolution",
+        "compensation (law)",
+        "annexation (international law)",
+        "france",
+        "history",
+        "international relations",
+        "ambassadors",
+        "legislative materials",
+        "claims"
+      ],
+      "timestamp": "2024-01-25T16:30:14.124Z",
+      "title": "James Monroe. Letter from James Monroe, late President of the United States, upon the subject of his claim upon the general government. December 13, 1830. Read, and referred to the Committee of the Whole House to which is committed the Bill (H.R. No. 330) for his relief",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2022696875/"
+    }
+  ],
+  "resource": {
+    "caption": "",
+    "image": "https://tile.loc.gov/storage-services/service/mss/mss21451/mss21451-008/00005.gif",
+    "representative_index": 3,
+    "segment_count": 329,
+    "url": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/"
+  },
+  "resources": [
+    {
+      "caption": "",
+      "image": "https://tile.loc.gov/storage-services/service/mss/mss21451/mss21451-008/00005.gif",
+      "representative_index": 3,
+      "segment_count": 329,
+      "url": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/"
+    }
+  ],
+  "segments": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?sp=328"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "franklin, benjamin"
+      ],
+      "date": "1784-01-12",
+      "dates": [
+        "[1784-01-12 TO 1785-05-23]"
+      ],
+      "description": [
+        ""
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T03:05:36.679Z",
+      "group": [
+        "mss21451",
+        "benjamin-franklin-papers"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?sp=328",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mss21451/mss21451-008/00332.gif#h=102&w=150",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00332/full/pct:6.25/0/default.jpg#h=262&w=384",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00332/full/pct:12.5/0/default.jpg#h=524&w=769",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00332/full/pct:25/0/default.jpg#h=1049&w=1539",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00332/full/pct:50/0/default.jpg#h=2098&w=3078",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss21451:mss21451-008:00332/full/pct:100/0/default.jpg#h=4196&w=6157"
+      ],
+      "index": 328,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jpeg",
+        "image/jp2",
+        "image/gif",
+        "image/tiff"
+      ],
+      "number": [
+        "0000000328"
+      ],
+      "number_page": [
+        "0000000328"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "benjamin franklin papers",
+        "benjamin franklin papers: series ii, 1726-1818"
+      ],
+      "resources": [
+        {
+          "files": 1,
+          "url": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?sp=328"
+        }
+      ],
+      "segmentof": [
+        "http://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/"
+      ],
+      "shelf_id": "328",
+      "subject": [
+        "scientists",
+        "united states",
+        "great britain",
+        "diplomats",
+        "revolution",
+        "great britain. treaties, etc. united states, september 3",
+        "foreign relations",
+        "peace",
+        "history",
+        "france",
+        "diplomatic and consular service, american",
+        "manuscripts"
+      ],
+      "timestamp": "2022-04-23T08:30:09.710Z",
+      "title": "Image 328 of Benjamin Franklin Papers: Series II, 1726-1818; 1784, Jan. 12-1785, May 23 (vol. 22) ",
+      "type": [
+        "segment"
+      ],
+      "url": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?sp=328"
+    }
+  ],
+  "timestamp": 1734773594332,
+  "type": "zoom",
+  "viewer_pagination": {
+    "current": 328,
+    "first": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=1",
+    "from": 328,
+    "last": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=329",
+    "next": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=329",
+    "of": 329,
+    "page_list": [
+      {
+        "number": 1,
+        "url": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=1"
+      },
+      {
+        "number": "...",
+        "url": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=325"
+      },
+      {
+        "number": 326,
+        "url": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=326"
+      },
+      {
+        "number": 327,
+        "url": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=327"
+      },
+      {
+        "number": 328,
+        "url": null
+      },
+      {
+        "number": 329,
+        "url": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=329"
+      }
+    ],
+    "perpage": 1,
+    "perpage_options": [
+      25,
+      50,
+      100,
+      150
+    ],
+    "previous": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=327",
+    "results": "328 - 328",
+    "to": 328,
+    "total": 329
+  },
+  "views": {
+    "brief": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=9&st=gallery",
+    "grid": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=4&st=grid",
+    "image": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=14&st=list",
+    "pdf": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=328",
+    "slideshow": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=4&st=slideshow",
+    "text": "https://www.loc.gov/resource/mss21451.mss21451-008_00005_00333/?fo=json&sp=328&st=text"
+  }
+}

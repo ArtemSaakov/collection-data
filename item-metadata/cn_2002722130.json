@@ -1,0 +1,1611 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "(ca. 1928) <cite>Charles Lindbergh, wearing helmet with goggles up, in open cockpit of airplane at Lambert Field, St. Louis, Missouri</cite>. , ca. 1928. 1923. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2002722130/.",
+    "chicago": "<cite>Charles Lindbergh, wearing helmet with goggles up, in open cockpit of airplane at Lambert Field, St. Louis, Missouri</cite>. , ca. 1928. 1923. Photograph. https://www.loc.gov/item/2002722130/.",
+    "mla": "<cite>Charles Lindbergh, wearing helmet with goggles up, in open cockpit of airplane at Lambert Field, St. Louis, Missouri</cite>. 1923. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2002722130/&gt;."
+  },
+  "item": {
+    "_version_": 1731657751026728960,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2002722130/",
+      "http://www.loc.gov/item/2002722130/",
+      "http://www.loc.gov/pictures/item/2002722130/",
+      "https://www.loc.gov/pictures/collection/cph/item/2002722130/",
+      "http://www.loc.gov/pictures/collection/cph/item/2002722130/",
+      "http://www.loc.gov/resource/cph.3b16304/",
+      "https://hdl.loc.gov/loc.pnp/cph.3b16304",
+      "http://lccn.loc.gov/2002722130"
+    ],
+    "call_number": "LOT 9878 [item] [P&P]",
+    "campaigns": [],
+    "control_number": "",
+    "created": "2019-09-17T16:49:25Z",
+    "created_published": [
+      "1923, c1928."
+    ],
+    "created_published_date": "1923, c1928.",
+    "date": "1923-01-01",
+    "dates": [
+      {
+        "1923": "https://www.loc.gov/search/?dates=1923/1923&fo=json"
+      }
+    ],
+    "description": [
+      "1 photographic print."
+    ],
+    "digital_id": [
+      "cph 3b16304 //hdl.loc.gov/loc.pnp/cph.3b16304"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-24T23:31:19.793Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/cph/item/2002722130/#cph",
+      "http://lccn.loc.gov/2002722130#catalog-split-03"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Photographic prints--1920-1930."
+    ],
+    "genre": [
+      "Photographic prints--1920-1930"
+    ],
+    "group": [
+      "cph",
+      "catalog-split-03",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-03",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2002722130/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b16000/3b16300/3b16304_150px.jpg#h=120&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b16000/3b16300/3b16304t.gif#h=118&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b16000/3b16300/3b16304r.jpg#h=510&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b16000/3b16300/3b16304v.jpg#h=816&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "LOT 9878 [item] [P&P]",
+      "control_number": "2002722130",
+      "created": "2019-09-17T16:49:25Z",
+      "created_published": "1923, c1928.",
+      "created_published_date": "1923, c1928.",
+      "date": "1923, c1928.",
+      "digital_id": [
+        "cph 3b16304 //hdl.loc.gov/loc.pnp/cph.3b16304"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Photographic%20prints--1920-1930.&co=cph",
+          "title": "Photographic prints--1920-1930."
+        }
+      ],
+      "genre": [
+        "Photographic prints--1920-1930"
+      ],
+      "id": "2002722130",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2002722130/",
+      "marc": "https://www.loc.gov/pictures/item/2002722130/marc/",
+      "medium": [
+        "1 photographic print."
+      ],
+      "medium_brief": "1 photographic print.",
+      "mediums": [
+        "1 photographic print."
+      ],
+      "modified": "2019-09-17T16:49:25Z",
+      "notes": [
+        "J299439 U.S. Copyright Office",
+        "Title devised by Library staff.",
+        "Copyright by John M. Noble.",
+        "Published in: \"Famous People\" chapter of the ebook Great Photographs from the Library of Congress, 2013."
+      ],
+      "number_former_id": [
+        "https://www.loc.gov/item/2002722130",
+        "https://www.loc.gov/item/12961771"
+      ],
+      "other_control_numbers": [
+        "12961771"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-USZ62-68852 (b&w film copy neg.)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/cph.3b16304"
+      ],
+      "rights_advisory": "No known restrictions on publication. No renewal in Copyright Office.",
+      "rights_information": "No known restrictions on publication. No renewal in Copyright Office.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b16000/3b16300/3b16304_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b16000/3b16300/3b16304r.jpg",
+      "sort_date": "1923",
+      "source_created": "2002-10-09T00:00:00Z",
+      "source_modified": "2019-08-31T16:02:23Z",
+      "subject_headings": [
+        "Lindbergh, Charles A.--(Charles Augustus),--1902-1974.",
+        "Air pilots--American--1920-1930."
+      ],
+      "subjects": [
+        "Lindbergh, Charles A.--(Charles Augustus),--1902-1974",
+        "Air pilots--American--1920-1930"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b16000/3b16300/3b16304_150px.jpg",
+      "title": "[Charles Lindbergh, wearing helmet with goggles up, in open cockpit of airplane at Lambert Field, St. Louis, Missouri]"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2002722130",
+    "link": "https://www.loc.gov/pictures/item/2002722130/",
+    "marc": "https://www.loc.gov/pictures/item/2002722130/marc/",
+    "medium": [
+      "1 photographic print."
+    ],
+    "medium_brief": "1 photographic print.",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2019-09-17T16:49:25Z",
+    "notes": [
+      "J299439 U.S. Copyright Office",
+      "Title devised by Library staff.",
+      "Copyright by John M. Noble.",
+      "Published in: \"Famous People\" chapter of the ebook Great Photographs from the Library of Congress, 2013."
+    ],
+    "number": [
+      "http://www.loc.gov/item/12961771",
+      "2002722130",
+      "http://www.loc.gov/item/2002722130",
+      "2019-08-31t16:02:23"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/12961771",
+      "http://www.loc.gov/item/2002722130"
+    ],
+    "number_lccn": [
+      "2002722130"
+    ],
+    "number_source_modified": [
+      "2019-08-31t16:02:23"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "12961771"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2002722130/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2002722130/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2002722130/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 6,
+        "title": "lot 9878",
+        "url": "https://www.loc.gov/search/?fa=partof:lot+9878&fo=json"
+      },
+      {
+        "count": 117172,
+        "title": "miscellaneous items in high demand",
+        "url": "https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json"
+      },
+      {
+        "count": 949513,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1082837,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1592516,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "related": {
+      "group_record": "https://www.loc.gov/pictures/search/?q=LOT 9878&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2002722130&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-USZ62-68852 (b&w film copy neg.)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/cph.3b16304"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from b&w film copy neg.",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b16000/3b16300/3b16304_150px.jpg",
+        "url": "https://www.loc.gov/resource/cph.3b16304/"
+      }
+    ],
+    "rights": [],
+    "rights_advisory": "No known restrictions on publication. No renewal in Copyright Office.",
+    "rights_information": "No known restrictions on publication. No renewal in Copyright Office.",
+    "score": 19.206085,
+    "shard": "00",
+    "shelf_id": "LOT 9878 [item] [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1923",
+    "source_created": "2002-10-09T00:00:00Z",
+    "source_modified": "2019-08-31T16:02:23Z",
+    "subject": [
+      "lindbergh, charles a.",
+      "american",
+      "(charles augustus)",
+      "air pilots",
+      "photographic prints"
+    ],
+    "subject_headings": [
+      "Lindbergh, Charles A.--(Charles Augustus),--1902-1974",
+      "Air pilots--American--1920-1930"
+    ],
+    "subjects": [
+      {
+        "(charles augustus)": "https://www.loc.gov/search/?fa=subject:%28charles+augustus%29&fo=json"
+      },
+      {
+        "air pilots": "https://www.loc.gov/search/?fa=subject:air+pilots&fo=json"
+      },
+      {
+        "american": "https://www.loc.gov/search/?fa=subject:american&fo=json"
+      },
+      {
+        "lindbergh, charles a.": "https://www.loc.gov/search/?fa=subject:lindbergh,+charles+a.&fo=json"
+      },
+      {
+        "photographic prints": "https://www.loc.gov/search/?fa=subject:photographic+prints&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b16000/3b16300/3b16304_150px.jpg",
+    "timestamp": "2022-05-01T20:38:41.826Z",
+    "title": "[Charles Lindbergh, wearing helmet with goggles up, in open cockpit of airplane at Lambert Field, St. Louis, Missouri]",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2002722130/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/92522332/",
+        "http://www.loc.gov/item/92522332/",
+        "http://www.loc.gov/pictures/item/92522332/",
+        "https://www.loc.gov/pictures/collection/cph/item/92522332/",
+        "http://www.loc.gov/pictures/collection/cph/item/92522332/",
+        "http://www.loc.gov/resource/cph.3c06824/",
+        "https://hdl.loc.gov/loc.pnp/cph.3c06824",
+        "http://lccn.loc.gov/92522332"
+      ],
+      "campaigns": [],
+      "date": "1923-01-01",
+      "dates": [
+        "1923"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-24T21:40:06.613Z",
+      "group": [
+        "cph",
+        "catalog-split-12",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-12",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/92522332/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c06000/3c06800/3c06824_150px.jpg#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c06000/3c06800/3c06824t.gif#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c06000/3c06800/3c06824r.jpg#h=515&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c06000/3c06800/3c06824v.jpg#h=823&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "missouri",
+        "saint louis"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2006-08-30t13:34:12",
+        "http://www.loc.gov/item/11612108",
+        "92522332",
+        "http://www.loc.gov/item/92522332"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "lot 9878"
+      ],
+      "score": 47.09764,
+      "shelf_id": "LOT 9878 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "missouri",
+        "lindbergh, charles a.",
+        "saint louis",
+        "gurney, harlan",
+        "american",
+        "portrait photographs",
+        "(charles augustus)",
+        "group portraits",
+        "air pilots",
+        "photographic prints"
+      ],
+      "timestamp": "2022-05-02T12:01:05.600Z",
+      "title": "[Charles Lindbergh with seven other men, including Bud Gurney(?), in front of biplane, Lambert-St. Louis Field, 1923]",
+      "url": "https://www.loc.gov/item/92522332/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/92520143/",
+        "http://www.loc.gov/item/92520143/",
+        "http://www.loc.gov/pictures/item/92520143/",
+        "https://www.loc.gov/pictures/collection/cph/item/92520143/",
+        "http://www.loc.gov/pictures/collection/cph/item/92520143/",
+        "http://www.loc.gov/resource/cph.3c06825/",
+        "https://hdl.loc.gov/loc.pnp/cph.3c06825",
+        "http://lccn.loc.gov/92520143"
+      ],
+      "campaigns": [],
+      "date": "1925-01-01",
+      "dates": [
+        "1925"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-24T21:37:46.386Z",
+      "group": [
+        "cph",
+        "catalog-split-10",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-10",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/92520143/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c06000/3c06800/3c06825_150px.jpg#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c06000/3c06800/3c06825t.gif#h=121&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c06000/3c06800/3c06825r.jpg#h=515&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3c00000/3c06000/3c06800/3c06825v.jpg#h=823&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "missouri",
+        "saint louis"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/92520143",
+        "92520143",
+        "2006-09-11t11:03:30",
+        "http://www.loc.gov/item/11610184"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "lot 9878"
+      ],
+      "score": 36.141785,
+      "shelf_id": "LOT 9878 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "missouri",
+        "lindbergh, charles a.",
+        "saint louis",
+        "(charles augustus)",
+        "biplanes",
+        "photographic prints",
+        "flight testing"
+      ],
+      "timestamp": "2022-05-02T11:58:43.211Z",
+      "title": "[Charles Lindbergh, adjusting parachute before testing Sergeant Bell's experimental plane, in front of wing of biplane, Lambert Field, St. Louis, Missouri. Sergeant Bell is in airplane]",
+      "url": "https://www.loc.gov/item/92520143/"
+    },
+    {
+      "access_restricted": true,
+      "aka": [
+        "https://www.loc.gov/pictures/item/89706172/",
+        "http://www.loc.gov/item/89706172/",
+        "http://www.loc.gov/pictures/item/89706172/",
+        "https://www.loc.gov/pictures/collection/cph/item/89706172/",
+        "http://www.loc.gov/pictures/collection/cph/item/89706172/",
+        "http://www.loc.gov/resource/cph.3b42162/",
+        "http://lccn.loc.gov/89706172",
+        "https://hdl.loc.gov/loc.pnp/cph.3b42162"
+      ],
+      "campaigns": [],
+      "date": "1929-01-01",
+      "dates": [
+        "1929"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T14:01:20.163Z",
+      "group": [
+        "cph",
+        "catalog-split-08",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-08",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/89706172/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b42000/3b42100/3b42162_150px.jpg#h=150&w=111"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "89706172",
+        "http://www.loc.gov/item/11522992",
+        "http://www.loc.gov/item/89706172",
+        "2002-11-08t19:00:56"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "miscellaneous items in high demand"
+      ],
+      "score": 33.747177,
+      "shelf_id": "BIOG FILE - Lindbergh, Charles Augustus, 1902-1974 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "lindbergh, charles a.",
+        "portrait photographs",
+        "(charles augustus)",
+        "air pilots",
+        "photographic prints"
+      ],
+      "timestamp": "2022-05-02T11:19:36.141Z",
+      "title": "[Charles A. Lindbergh, three-quarter length portrait, standing, facing right, in aviator's clothing, alongside airplane after flight from Miami]",
+      "url": "https://www.loc.gov/item/89706172/"
+    },
+    {
+      "access_restricted": true,
+      "aka": [
+        "https://www.loc.gov/pictures/item/90708895/",
+        "http://www.loc.gov/item/90708895/",
+        "http://www.loc.gov/pictures/item/90708895/",
+        "https://www.loc.gov/pictures/collection/cph/item/90708895/",
+        "http://www.loc.gov/pictures/collection/cph/item/90708895/",
+        "http://www.loc.gov/resource/cph.3b45854/",
+        "https://hdl.loc.gov/loc.pnp/cph.3b45854",
+        "http://lccn.loc.gov/90708895"
+      ],
+      "campaigns": [],
+      "date": "1920-01-01",
+      "dates": [
+        "1920"
+      ],
+      "description": [
+        "1 photographic print."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-24T21:00:01.759Z",
+      "group": [
+        "cph",
+        "catalog-split-14",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/90708895/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/cph/3b40000/3b45000/3b45800/3b45854_150px.jpg#h=150&w=109"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "los angeles",
+        "california"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2003-05-15t08:21:29",
+        "90708895",
+        "http://www.loc.gov/item/11534148",
+        "http://www.loc.gov/item/90708895"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "miscellaneous items in high demand"
+      ],
+      "score": 33.747177,
+      "shelf_id": "BIOG FILE - Lindbergh, Charles Augustus, 1902-1974 <item> [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "lindbergh, charles a.",
+        "california",
+        "los angeles",
+        "portrait photographs",
+        "(charles augustus)",
+        "air pilots",
+        "photographic prints"
+      ],
+      "timestamp": "2022-05-02T11:32:01.734Z",
+      "title": "Lindy takes place of dead comrade--here are the \"three musketeers\" of the National Air Races",
+      "url": "https://www.loc.gov/item/90708895/"
+    },
+    {
+      "access_restricted": true,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2005690896/",
+        "http://www.loc.gov/item/2005690896/",
+        "http://www.loc.gov/pictures/item/2005690896/",
+        "https://www.loc.gov/pictures/collection/coll/item/2005690896/",
+        "http://www.loc.gov/pictures/collection/coll/item/2005690896/",
+        "http://lccn.loc.gov/2005690896",
+        "http://lcweb2.loc.gov/pp/cphquery.html"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "noble, john m."
+      ],
+      "date": "1923",
+      "dates": [
+        "1923"
+      ],
+      "description": [
+        "5 photographic prints ; 8 x 10 in. | Portraits of Lindbergh in cockpit, posed with Harlan (Bud) Gurney, and with other air mail service friends in front of biplane (1923); adjusting his parachute before testing Sergeant Bell's experimental plane (1925?); and with dislocated shoulder after his second parachute jump (June 1925?)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-08-17T12:53:09.093Z",
+      "group": [
+        "coll",
+        "catalog-split-13",
+        "catalog",
+        "groups-of-images",
+        "main-catalog-split-13"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2005690896/",
+      "image_url": [
+        "https://www.loc.gov/static/images/original-format/group-of-images.svg"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "missouri",
+        "saint louis"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "number": [
+        "2014-04-15t10:46:12",
+        "2005690896",
+        "http://www.loc.gov/item/14100604"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing",
+        "collection"
+      ],
+      "partof": [
+        "catalog",
+        "lot 9878",
+        "groups of images (lots)",
+        "prints and photographs division"
+      ],
+      "score": 32.92187,
+      "shelf_id": "LOT 9878 (F) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "missouri",
+        "air pilots",
+        "lindbergh, charles a.",
+        "aircraft accidents",
+        "saint louis",
+        "gurney, harlan",
+        "charles augustus)",
+        "american",
+        "portrait photographs",
+        "group portraits",
+        "biplanes",
+        "photographic prints",
+        "flight testing",
+        "parachuting"
+      ],
+      "timestamp": "2024-08-17T13:06:57.367Z",
+      "title": "Charles A. Lindbergh at Lambert Field, St. Louis, Missouri",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2005690896/"
+    },
+    {
+      "access_restricted": true,
+      "aka": [
+        "https://hdl.loc.gov/loc.pnp/ppmsca.02928",
+        "http://www.loc.gov/resource/ppmsca.02928/",
+        "http://lccn.loc.gov/2002719334",
+        "http://www.loc.gov/item/2002719334/",
+        "https://www.loc.gov/pictures/item/2002719334/",
+        "http://www.loc.gov/pictures/item/2002719334/",
+        "https://www.loc.gov/pictures/collection/cph/item/2002719334/",
+        "http://www.loc.gov/pictures/collection/cph/item/2002719334/"
+      ],
+      "campaigns": [],
+      "date": "1942-01-01",
+      "dates": [
+        "1942"
+      ],
+      "description": [
+        "Members of the Women's Army Auxiliary Corps standing in front of their commander, Captain Frank Stillman."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T11:20:40.810Z",
+      "group": [
+        "awhbib",
+        "cph",
+        "catalog-split-15",
+        "catalog",
+        "american-womens-history",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-15",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2002719334/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/02900/02928_150px.jpg#h=85&w=150"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "iowa",
+        "des moines"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2002719334",
+        "2009-09-04t13:39:33",
+        "http://www.loc.gov/item/12928579"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "american women: a gateway to library of congress resources for the study of women's history and culture in the united states"
+      ],
+      "score": 29.791988,
+      "shelf_id": "Item in MSS Coll.",
+      "site": [
+        "catalog",
+        "pictures"
+      ],
+      "subject": [
+        "army",
+        "military service",
+        "women's army auxiliary corps",
+        "people",
+        "des moines",
+        "women",
+        "african americans",
+        "military personnel",
+        "united states",
+        "iowa",
+        "american",
+        "photographic prints",
+        "world war"
+      ],
+      "timestamp": "2022-12-10T04:46:15.761Z",
+      "title": "[Women's Army Auxiliary Corps, Third Platoon, Company 1, Fort Des Moines, Iowa]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2002719334/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "cph",
+      "catalog-split-03",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-03",
+      "main-catalog",
+      "catalog-split-12",
+      "main-catalog-split-12",
+      "catalog-split-10",
+      "main-catalog-split-10",
+      "catalog-split-08",
+      "main-catalog-split-08",
+      "catalog-split-14",
+      "main-catalog-split-14",
+      "coll",
+      "catalog-split-13",
+      "groups-of-images",
+      "main-catalog-split-13",
+      "awhbib",
+      "catalog-split-15",
+      "american-womens-history",
+      "main-catalog-split-15",
+      "gdc/webcasts",
+      "cataloged-event-videos",
+      "catalog-split-06",
+      "llpub",
+      "main-catalog-split-06",
+      "publications-of-the-law-library-of-congress",
+      "gdc/scd",
+      "general-collections-scan-on-demand-new",
+      "nsr/marc",
+      "national-screening-room"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "cph.3b16304",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.6785447597503662,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/cph.3b16304/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/cph.3b16304/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1734773622.0335255,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 26669152,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/cph/3b10000/3b16000/3b16300/3b16304u.tif",
+      "width": 0
+    },
+    {
+      "height": 120,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 11172,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b16000/3b16300/3b16304_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 118,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 17509,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b16000/3b16300/3b16304t.gif",
+      "width": 150
+    },
+    {
+      "height": 510,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 44990,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b16000/3b16300/3b16304r.jpg",
+      "width": 640
+    },
+    {
+      "height": 816,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 329188,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b16000/3b16300/3b16304v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": "https://www.loc.gov/pictures/search/?q=LOT 9878&fi=number&op=PHRASE&va=exact&co=coll&sg=true",
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2002722130&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2021689856",
+        "http://www.loc.gov/item/2021689856/",
+        "https://hdl.loc.gov/loc.gdc/gdcwebcasts.150803law1300",
+        "http://www.loc.gov/resource/gdcwebcasts.150803law1300/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "law library of congress (u.s.)",
+        "library of congress. prints and photographs division",
+        "library of congress"
+      ],
+      "date": "2015",
+      "dates": [
+        "2015"
+      ],
+      "description": [
+        "Photographer Bob Adelman joined Ira Glasser in a program reflecting on the ongoing struggle for human rights in America."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-08-22T13:04:36.536Z",
+      "group": [
+        "gdc/webcasts",
+        "catalog-split-15",
+        "catalog",
+        "cataloged-event-videos",
+        "main-catalog-split-15"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021689856/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gdc/gdcwebcasts/15/08/03/la/w1/30/0/150803law1300/150803law1300_612.0_thumb.jpg"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "video/mp4",
+        "image/jpeg",
+        "application/xml"
+      ],
+      "number": [
+        "2021689856",
+        "online resource",
+        "2022-11-09t14:48:27",
+        "http://www.loc.gov/item/webcast-7163"
+      ],
+      "online_format": [
+        "video",
+        "image",
+        "online text"
+      ],
+      "original_format": [
+        "film, video"
+      ],
+      "partof": [
+        "event videos",
+        "law library of congress",
+        "general collections",
+        "catalog",
+        "prints and photographs division"
+      ],
+      "score": 11.219923,
+      "shelf_id": "http://lccn.loc.gov/2021689856",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "american history",
+        "civil liberty",
+        "american liberty",
+        "biography, history",
+        "human rights",
+        "american",
+        "america",
+        "human rights in america"
+      ],
+      "timestamp": "2024-10-17T17:03:06.044Z",
+      "title": "Visions of Liberty",
+      "type": [
+        "moving image"
+      ],
+      "url": "https://www.loc.gov/item/2021689856/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2019669401",
+        "http://www.loc.gov/item/2019669401/",
+        "https://purl.fdlp.gov/GPO/gpo144073",
+        "https://hdl.loc.gov/loc.law/llglrd.2019669401",
+        "http://www.loc.gov/resource/llglrd.2019669401/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "sarnecka-crouch, bozena",
+        "papademetriou, theresa",
+        "umeda, sayuri",
+        "feikert-ahalt, clare",
+        "law library of congress (u.s.). global legal research directorate",
+        "zeldin, wendy i.",
+        "medina, rubens",
+        "roudik, peter",
+        "vafai, gholam h."
+      ],
+      "date": "2002",
+      "dates": [
+        "2002"
+      ],
+      "description": [
+        "Typescript. \"September 2002.\" \"LL File No. 2002-13408.\" \"LRA-D-PUB-000222.\" Includes bibliographical references. Description based on online resource; title from PDF cover (Law Library of Congress, viewed September 30, 2020)."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-08-07T06:47:46.581Z",
+      "group": [
+        "catalog-split-06",
+        "catalog",
+        "llpub",
+        "main-catalog-split-06",
+        "publications-of-the-law-library-of-congress"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2019669401/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/ll/llglrd/2019669401/2019669401.gif",
+        "https://tile.loc.gov/storage-services/service/ll/llglrd/2019669401/2019669401.gif#h=150&w=116"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "iran",
+        "federation",
+        "spain",
+        "china",
+        "russian",
+        "japan",
+        "poland",
+        "great britain",
+        "europe"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "number": [
+        "2021-03-08t19:02:30",
+        "2019669401",
+        "n1198227473",
+        "2024-08-05t08:00:25",
+        "online resource"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "law library of congress",
+        "catalog",
+        "legal reports (publications of the law library of congress)"
+      ],
+      "score": 8.623881,
+      "shelf_id": "K4107",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "iran",
+        "firearms",
+        "spain",
+        "china",
+        "law and legislation",
+        "russian (federation)",
+        "japan",
+        "poland",
+        "air pilots",
+        "legal status, laws, etc",
+        "great britain",
+        "europe"
+      ],
+      "timestamp": "2024-08-07T06:49:24.096Z",
+      "title": "Airline pilots carrying firearms",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2019669401/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023695253",
+        "http://www.loc.gov/item/2023695253/",
+        "https://hdl.loc.gov/loc.gdc/gdcebookspublic.2023695253",
+        "http://www.loc.gov/resource/gdcebookspublic.2023695253/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "united states. congress. senate. committee on commerce, science, and transportation. subcommittee on aviation operations, safety, and security"
+      ],
+      "date": "2010",
+      "dates": [
+        "2010"
+      ],
+      "description": [
+        "Shipping list numbers: 2010-0213-P. Includes bibliographical references. Description based on print version record; resource not viewed."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-01-06T19:28:16.539Z",
+      "group": [
+        "gdc/scd",
+        "general-collections-scan-on-demand-new"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2023695253/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/23/69/52/53/2023695253/2023695253.gif",
+        "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/23/69/52/53/2023695253/2023695253.gif#h=401&w=310"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "number": [
+        "online",
+        "2023695253",
+        "2024-01-03t15:17:26"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "other_title": [
+        "FAA's role in the oversight of commercial air carriers"
+      ],
+      "partof": [
+        "general collections",
+        "u.s. government digital resources",
+        "catalog"
+      ],
+      "score": 8.623881,
+      "shelf_id": "KF26",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "federal aviation administration",
+        "local service airlines",
+        "fatigue",
+        "training of",
+        "united states",
+        "management",
+        "aeronautics, commercial",
+        "air pilots",
+        "safety measures",
+        "rules and practice"
+      ],
+      "timestamp": "2024-01-06T20:55:24.763Z",
+      "title": "Aviation safety : FAA's role in the oversight of commercial air carriers : hearing before the Subcommittee on Aviation Operations, Safety, and Security of the Committee on Commerce, Science, and Transportation, United States Senate, One Hundred Eleventh Congress, first session, June 10, 2009",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2023695253/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023695776",
+        "http://www.loc.gov/item/2023695776/",
+        "https://hdl.loc.gov/loc.gdc/gdcebookspublic.2023695776",
+        "http://www.loc.gov/resource/gdcebookspublic.2023695776/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "united states. congress. house. committee on transportation and infrastructure. subcommittee on aviation"
+      ],
+      "date": "2009",
+      "dates": [
+        "2009"
+      ],
+      "description": [
+        "\"111-62.\" Shipping list numbers: 2010-0111-P. Includes bibliographical references. Description based on print version record; resource not viewed."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-01-20T19:17:43.369Z",
+      "group": [
+        "gdc/scd",
+        "general-collections-scan-on-demand-new"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2023695776/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/23/69/57/76/2023695776/2023695776.gif",
+        "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/23/69/57/76/2023695776/2023695776.gif#h=401&w=310"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "number": [
+        "2024-01-04t15:45:51",
+        "online",
+        "2023695776"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "general collections",
+        "u.s. government digital resources",
+        "catalog"
+      ],
+      "score": 8.623881,
+      "shelf_id": "KF27",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "federal aviation administration",
+        "airplanes",
+        "aircraft accidents",
+        "prevention",
+        "human factors",
+        "fatigue",
+        "aeronautics",
+        "piloting",
+        "government policy",
+        "training of",
+        "united states",
+        "air pilots",
+        "safety measures",
+        "rules and practice"
+      ],
+      "timestamp": "2024-01-20T20:09:12.355Z",
+      "title": "The Federal Aviation Administration's call to action on airline safety and pilot training : hearing before the Subcommittee on Aviation of the Committee on Transportation and Infrastructure, House of Representatives, One Hundred Eleventh Congress, first session, September 23, 2009",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2023695776/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023600655",
+        "http://www.loc.gov/item/2023600655/",
+        "https://hdl.loc.gov/loc.mbrsmi/ntscrm.02133566",
+        "http://www.loc.gov/resource/ntscrm.02133566/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "walker, robert",
+        "lingham, tom",
+        "rayart pictures",
+        "pyper, george w.",
+        "duke worne productions",
+        "mckee, lafe",
+        "sullivan, billy",
+        "malone, molly",
+        "worne, duke",
+        "morante, milburn",
+        "smith, ernest (ernest f.)",
+        "metcalfe, earl"
+      ],
+      "date": "1927",
+      "dates": [
+        "1927"
+      ],
+      "description": [
+        "\"William Gordon, Jr., a constant source of irritation to his airplane manufacturer father, leaves home after an argument. Accompanied by his faithful mechanic, William flies his airplane in search of adventure. He soon meets inventor John Courtney and becomes enamored with his daughter, Helen. To help John overcome an unscrupulous rival who covets his invention, William enters a transcontinental airplane race. William wins the race, thus ensuring a government contract for John and Helen's love for himself.\"--AFI Catalog."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-28T12:53:20.141Z",
+      "group": [
+        "nsr/marc",
+        "national-screening-room"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2023600655/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02133566/02133566.gif"
+      ],
+      "index": 5,
+      "language": [
+        "not applicable",
+        "no linguistic content"
+      ],
+      "mime_type": [
+        "image/gif",
+        "video/mp4",
+        "image/jpeg",
+        "video/quicktime",
+        "application/x-video"
+      ],
+      "number": [
+        "2023600655",
+        "http://www.loc.gov/item/mbrs02133566",
+        "http://www.loc.gov/item/2023600655",
+        "2024-04-11t16:36:32"
+      ],
+      "online_format": [
+        "image",
+        "video"
+      ],
+      "original_format": [
+        "film, video"
+      ],
+      "partof": [
+        "catalog",
+        "national screening room"
+      ],
+      "score": 8.623881,
+      "shelf_id": "http://lccn.loc.gov/2023600655",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "airplanes",
+        "design and construction",
+        "feature films",
+        "aviation films",
+        "airplane racing",
+        "air pilots",
+        "fiction films",
+        "silent films"
+      ],
+      "timestamp": "2024-10-28T12:56:08.964Z",
+      "title": "Daring deeds",
+      "type": [
+        "moving image"
+      ],
+      "url": "https://www.loc.gov/item/2023600655/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2023695836",
+        "http://www.loc.gov/item/2023695836/",
+        "https://hdl.loc.gov/loc.gdc/gdcebookspublic.2023695836",
+        "http://www.loc.gov/resource/gdcebookspublic.2023695836/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "united states. congress. house. committee on transportation and infrastructure. subcommittee on aviation"
+      ],
+      "date": "2010",
+      "dates": [
+        "2010"
+      ],
+      "description": [
+        "\"111-97.\" Shipping list numbers: 2011-0031-P. Includes bibliographical references. Description based on print version record; resource not viewed."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-04-06T14:08:02.606Z",
+      "group": [
+        "gdc/scd",
+        "general-collections-scan-on-demand-new"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2023695836/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/23/69/58/36/2023695836/2023695836.gif",
+        "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/23/69/58/36/2023695836/2023695836.gif#h=401&w=310"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "number": [
+        "2024-03-15t11:43:25",
+        "online",
+        "2023695836"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "other_title": [
+        "FAA's oversight of on demand aircraft operators"
+      ],
+      "partof": [
+        "general collections",
+        "u.s. government digital resources",
+        "catalog"
+      ],
+      "score": 8.623881,
+      "shelf_id": "KF27",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "federal aviation administration",
+        "aircraft accidents",
+        "safety regulations",
+        "aeronautics",
+        "government policy",
+        "on-demand aircraft operators",
+        "united states",
+        "law and legislation",
+        "aeronautics, commercial",
+        "air pilots",
+        "legal status, laws, etc",
+        "safety measures",
+        "rules and practice"
+      ],
+      "timestamp": "2024-04-06T14:54:48.898Z",
+      "title": "FAA's oversight of on-demand aircraft operators : hearing before the Subcommittee on Aviation of the Committee on Transportation and Infrastructure, House of Representatives, One Hundred Eleventh Congress, second session, March 17, 2010",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2023695836/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "digital file from b&w film copy neg.",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b16000/3b16300/3b16304_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/cph.3b16304/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from b&w film copy neg.",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/cph/3b10000/3b16000/3b16300/3b16304_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/cph.3b16304/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1734773622712,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/cph.3b16304/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/cph.3b16304/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/cph.3b16304/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/cph.3b16304/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/cph.3b16304/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/cph.3b16304/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/cph.3b16304/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/cph.3b16304/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/cph.3b16304/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/cph.3b16304/?fo=json&st=text"
+  }
+}

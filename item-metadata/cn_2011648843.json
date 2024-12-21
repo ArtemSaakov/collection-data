@@ -1,0 +1,1831 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Frissell, T., photographer. (1967) <cite>Ann Bonfoey Taylor skiing in Vail</cite>. United States Vail Colorado, 1967. May. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2011648843/.",
+    "chicago": "Frissell, Toni, photographer. <cite>Ann Bonfoey Taylor skiing in Vail</cite>. United States Vail Colorado, 1967. May. Photograph. https://www.loc.gov/item/2011648843/.",
+    "mla": "Frissell, Toni, photographer. <cite>Ann Bonfoey Taylor skiing in Vail</cite>. May. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2011648843/&gt;."
+  },
+  "item": {
+    "_version_": 1770856053250981888,
+    "access_advisory": "Please use digital image: original slide is kept in cold storage for preservation.",
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2011648843/",
+      "http://www.loc.gov/item/2011648843/",
+      "http://www.loc.gov/pictures/item/2011648843/",
+      "https://www.loc.gov/pictures/collection/cph/item/2011648843/",
+      "http://www.loc.gov/pictures/collection/cph/item/2011648843/",
+      "https://hdl.loc.gov/loc.pnp/tofr.49691",
+      "https://hdl.loc.gov/loc.pnp/tofr.49691",
+      "https://hdl.loc.gov/loc.pnp/ds.01027",
+      "https://hdl.loc.gov/loc.pnp/ds.01027",
+      "http://www.loc.gov/resource/tofr.49691/",
+      "http://www.loc.gov/resource/ds.01027/",
+      "http://lccn.loc.gov/2011648843"
+    ],
+    "call_number": "LC-F905-49691 [item] [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Frissell, Toni, 1907-1988, photographer"
+    ],
+    "contributors": [
+      {
+        "frissell, toni": "https://www.loc.gov/search/?fa=contributor:frissell,+toni&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2023-07-04T06:43:00Z",
+    "created_published": [
+      "May, 1967."
+    ],
+    "created_published_date": "May, 1967.",
+    "date": "1967",
+    "dates": [
+      {
+        "1967": "https://www.loc.gov/search/?dates=1967/1967&fo=json"
+      }
+    ],
+    "description": [
+      "1 photograph : color transparency ; 35 mm."
+    ],
+    "digital_id": [
+      "tofr 49691 https://hdl.loc.gov/loc.pnp/tofr.49691",
+      "ds 01027 https://hdl.loc.gov/loc.pnp/ds.01027"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2023-07-08T12:38:15.375Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/cph/item/2011648843/#cph",
+      "http://lccn.loc.gov/2011648843#catalog-split-05"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Fashion photographs--1960-1970.",
+      "Portrait photographs--1960-1970."
+    ],
+    "genre": [
+      "Fashion photographs--1960-1970",
+      "Portrait photographs--1960-1970"
+    ],
+    "group": [
+      "cph",
+      "catalog-split-05",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-05",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2011648843/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/tofr/49600/49691_150px.jpg#h=150&w=92",
+      "https://tile.loc.gov/storage-services/service/pnp/tofr/49600/49691r.jpg#h=640&w=391",
+      "https://tile.loc.gov/storage-services/service/pnp/tofr/49600/49691v.jpg#h=1024&w=626"
+    ],
+    "index": 1,
+    "item": {
+      "access_advisory": "Please use digital image: original slide is kept in cold storage for preservation.",
+      "call_number": "LC-F905-49691 [item] [P&P]",
+      "contributors": [
+        "Frissell, Toni, 1907-1988, photographer"
+      ],
+      "control_number": "2011648843",
+      "created": "2023-07-04T06:43:00Z",
+      "created_published": "May, 1967.",
+      "created_published_date": "May, 1967.",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Frissell%2C%20Toni%2C%201907-1988&co=cph",
+          "role": "photographer",
+          "title": "Frissell, Toni, 1907-1988"
+        }
+      ],
+      "date": "May, 1967.",
+      "digital_id": [
+        "tofr 49691 https://hdl.loc.gov/loc.pnp/tofr.49691",
+        "ds 01027 https://hdl.loc.gov/loc.pnp/ds.01027"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Fashion%20photographs--1960-1970.&co=cph",
+          "title": "Fashion photographs--1960-1970."
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Portrait%20photographs--1960-1970.&co=cph",
+          "title": "Portrait photographs--1960-1970."
+        }
+      ],
+      "genre": [
+        "Fashion photographs--1960-1970",
+        "Portrait photographs--1960-1970"
+      ],
+      "id": "2011648843",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2011648843/",
+      "location": [
+        "Colorado--Vail"
+      ],
+      "marc": "https://www.loc.gov/pictures/item/2011648843/marc/",
+      "medium": [
+        "1 photograph : color transparency ; 35 mm."
+      ],
+      "medium_brief": "1 photograph :",
+      "mediums": [
+        "1 photograph : color transparency ; 35 mm."
+      ],
+      "modified": "2023-07-04T06:43:03Z",
+      "notes": [
+        "Title, date, and keywords based on information that came with or on collection items.",
+        "Client: Vogue.",
+        "Published: American Westerns 1967: Mrs. Vernon J. Taylor, Vogue, May 1, 1967).",
+        "Container Notes: Blue dress, 3 sheets 18 2 1/4 transp.; Ann Taylor, 1967, May, Vogue p. 240, Nos. 6910, V5910, 3499.",
+        "Ann Bonfoey Taylor, full-length portrait, wearing a ski outfit including a white vinyl jacket, black pants, and a black rabbit hood, Vail, Colorado.",
+        "General information about the Toni Frissell photograph collection is available at: https://hdl.loc.gov/loc.pnp/coll.090",
+        "Published in: Vogue, \"American Westerns, 1967: Mrs. Vernon J. Taylor, Jr.: A relaxed perfectionist. A great sportswoman\", May 1967, pp. 240-241.",
+        "PR 06 CN 651 C12 F8, sheet 4  (bottom row, right)"
+      ],
+      "other_control_numbers": [
+        "16905554"
+      ],
+      "part_of": "Toni Frissell photograph collection",
+      "place": [
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Colorado--Vail&co=cph",
+          "longitude": "",
+          "title": "Colorado--Vail"
+        },
+        {
+          "latitude": "",
+          "link": "https://www.loc.gov/pictures/related/?fi=place&q=Colorado--Vail&co=cph",
+          "longitude": "",
+          "title": "Colorado--Vail"
+        }
+      ],
+      "raw_collections": [
+        "cph",
+        "diof",
+        "pp",
+        "tofr"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-tofr-49691 (digital file from original)\nLC-DIG-ds-01027 (digital file from original item)",
+      "resource_links": [
+        "https://hdl.loc.gov/loc.pnp/tofr.49691",
+        "https://hdl.loc.gov/loc.pnp/ds.01027"
+      ],
+      "restriction": "Please use digital image: original slide is kept in cold storage for preservation.",
+      "rights_advisory": "No known restrictions on publication. For information see \"Toni Frissell Collection\" https://hdl.loc.gov/loc.pnp/res.070.fris",
+      "rights_information": "No known restrictions on publication. For information see \"Toni Frissell Collection\" https://hdl.loc.gov/loc.pnp/res.070.fris",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/tofr/49600/49691_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/tofr/49600/49691r.jpg",
+      "sort_date": "1967",
+      "source_collection": [
+        "Toni Frissell photograph collection"
+      ],
+      "source_created": "2011-08-05T00:00:00Z",
+      "source_modified": "2023-06-28T13:20:24Z",
+      "subject_headings": [
+        "Taylor, Ann Bonfoey,--1910-2007.",
+        "United States--Colorado--Vail.",
+        "Women--Clothing & dress--Colorado--Vail--1960-1970.",
+        "Skiing--Colorado--Vail--1960-1970.",
+        "Skiers--Colorado--Vail--1960-1970.",
+        "Colorado--Vail"
+      ],
+      "subjects": [
+        "Taylor, Ann Bonfoey,--1910-2007",
+        "United States--Colorado--Vail",
+        "Women--Clothing & dress--Colorado--Vail--1960-1970",
+        "Skiing--Colorado--Vail--1960-1970",
+        "Skiers--Colorado--Vail--1960-1970"
+      ],
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/tofr/49600/49691_150px.jpg",
+      "title": "[Ann Bonfoey Taylor skiing in Vail]"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2011648843",
+    "link": "https://www.loc.gov/pictures/item/2011648843/",
+    "location": [
+      "united states",
+      "vail",
+      "colorado"
+    ],
+    "location_city": [
+      "vail"
+    ],
+    "location_country": [
+      "united states"
+    ],
+    "location_state": [
+      "colorado"
+    ],
+    "locations": [
+      {
+        "colorado": "https://www.loc.gov/search/?fa=location:colorado&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      },
+      {
+        "vail": "https://www.loc.gov/search/?fa=location:vail&fo=json"
+      }
+    ],
+    "locations_city": [
+      {
+        "vail": "https://www.loc.gov/search/?fa=location_city:vail&fo=json"
+      }
+    ],
+    "locations_country": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location_country:united+states&fo=json"
+      }
+    ],
+    "locations_state": [
+      {
+        "colorado": "https://www.loc.gov/search/?fa=location_state:colorado&fo=json"
+      }
+    ],
+    "marc": "https://www.loc.gov/pictures/item/2011648843/marc/",
+    "medium": [
+      "1 photograph : color transparency ; 35 mm."
+    ],
+    "medium_brief": "1 photograph :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2023-07-04T06:43:03Z",
+    "notes": [
+      "Title, date, and keywords based on information that came with or on collection items.",
+      "Client: Vogue.",
+      "Published: American Westerns 1967: Mrs. Vernon J. Taylor, Vogue, May 1, 1967).",
+      "Container Notes: Blue dress, 3 sheets 18 2 1/4 transp.; Ann Taylor, 1967, May, Vogue p. 240, Nos. 6910, V5910, 3499.",
+      "Ann Bonfoey Taylor, full-length portrait, wearing a ski outfit including a white vinyl jacket, black pants, and a black rabbit hood, Vail, Colorado.",
+      "General information about the Toni Frissell photograph collection is available at: https://hdl.loc.gov/loc.pnp/coll.090",
+      "Published in: Vogue, \"American Westerns, 1967: Mrs. Vernon J. Taylor, Jr.: A relaxed perfectionist. A great sportswoman\", May 1967, pp. 240-241.",
+      "PR 06 CN 651 C12 F8, sheet 4  (bottom row, right)"
+    ],
+    "number": [
+      "2023-06-28t13:20:24",
+      "http://www.loc.gov/item/16905554",
+      "sheet",
+      "2011648843"
+    ],
+    "number_carrier_type": [
+      "sheet"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/16905554"
+    ],
+    "number_lccn": [
+      "2011648843"
+    ],
+    "number_source_modified": [
+      "2023-06-28t13:20:24"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "16905554"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2011648843/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2011648843/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2011648843/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 117172,
+        "title": "miscellaneous items in high demand",
+        "url": "https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json"
+      },
+      {
+        "count": 949513,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1082837,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1592516,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "place": [
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Colorado--Vail&co=cph",
+        "longitude": "",
+        "title": "Colorado--Vail"
+      },
+      {
+        "latitude": "",
+        "link": "https://www.loc.gov/pictures/related/?fi=place&q=Colorado--Vail&co=cph",
+        "longitude": "",
+        "title": "Colorado--Vail"
+      }
+    ],
+    "raw_collections": [
+      "cph",
+      "diof",
+      "pp",
+      "tofr"
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2011648843&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-tofr-49691 (digital file from original)\nLC-DIG-ds-01027 (digital file from original item)",
+    "reproductions": [],
+    "resource_links": [
+      "https://hdl.loc.gov/loc.pnp/tofr.49691",
+      "https://hdl.loc.gov/loc.pnp/ds.01027"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from original",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/tofr/49600/49691_150px.jpg",
+        "url": "https://www.loc.gov/resource/tofr.49691/"
+      },
+      {
+        "caption": "digital file from original item",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/ds/01000/01027_150px.jpg",
+        "url": "https://www.loc.gov/resource/ds.01027/"
+      }
+    ],
+    "restriction": "Please use digital image: original slide is kept in cold storage for preservation.",
+    "rights": [],
+    "rights_advisory": "No known restrictions on publication. For information see \"Toni Frissell Collection\" https://hdl.loc.gov/loc.pnp/res.070.fris",
+    "rights_information": "No known restrictions on publication. For information see \"Toni Frissell Collection\" https://hdl.loc.gov/loc.pnp/res.070.fris",
+    "score": 18.627922,
+    "shard": "00",
+    "shelf_id": "LC-F905-49691 [item] [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "1967",
+    "source_collection": "Toni Frissell photograph collection",
+    "source_created": "2011-08-05T00:00:00Z",
+    "source_modified": "2000-01-01T12:00:00Z",
+    "subject": [
+      "taylor, ann bonfoey",
+      "vail",
+      "clothing & dress",
+      "colorado",
+      "skiing",
+      "skiers",
+      "women",
+      "united states",
+      "portrait photographs",
+      "fashion photographs"
+    ],
+    "subject_headings": [
+      "Taylor, Ann Bonfoey,--1910-2007",
+      "United States--Colorado--Vail",
+      "Women--Clothing & dress--Colorado--Vail--1960-1970",
+      "Skiing--Colorado--Vail--1960-1970",
+      "Skiers--Colorado--Vail--1960-1970"
+    ],
+    "subjects": [
+      {
+        "clothing & dress": "https://www.loc.gov/search/?fa=subject:clothing+%26+dress&fo=json"
+      },
+      {
+        "colorado": "https://www.loc.gov/search/?fa=subject:colorado&fo=json"
+      },
+      {
+        "fashion photographs": "https://www.loc.gov/search/?fa=subject:fashion+photographs&fo=json"
+      },
+      {
+        "portrait photographs": "https://www.loc.gov/search/?fa=subject:portrait+photographs&fo=json"
+      },
+      {
+        "skiers": "https://www.loc.gov/search/?fa=subject:skiers&fo=json"
+      },
+      {
+        "skiing": "https://www.loc.gov/search/?fa=subject:skiing&fo=json"
+      },
+      {
+        "taylor, ann bonfoey": "https://www.loc.gov/search/?fa=subject:taylor,+ann+bonfoey&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      },
+      {
+        "vail": "https://www.loc.gov/search/?fa=subject:vail&fo=json"
+      },
+      {
+        "women": "https://www.loc.gov/search/?fa=subject:women&fo=json"
+      }
+    ],
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/tofr/49600/49691_150px.jpg",
+    "timestamp": "2023-07-08T12:38:55.977Z",
+    "title": "[Ann Bonfoey Taylor skiing in Vail]",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2011648843/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2011648338/",
+        "http://www.loc.gov/item/2011648338/",
+        "http://www.loc.gov/pictures/item/2011648338/",
+        "https://www.loc.gov/pictures/collection/cph/item/2011648338/",
+        "http://www.loc.gov/pictures/collection/cph/item/2011648338/",
+        "https://hdl.loc.gov/loc.pnp/tofr.37581",
+        "https://hdl.loc.gov/loc.pnp/tofr.37581",
+        "https://hdl.loc.gov/loc.pnp/ds.01010",
+        "https://hdl.loc.gov/loc.pnp/ds.01010",
+        "http://www.loc.gov/resource/tofr.37581/",
+        "http://www.loc.gov/resource/ds.01010/",
+        "http://lccn.loc.gov/2011648338"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "frissell, toni"
+      ],
+      "date": "1969",
+      "dates": [
+        "1969"
+      ],
+      "description": [
+        "1 photograph : color transparency ; 35 mm (slide format)"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-08T12:38:15.375Z",
+      "group": [
+        "cph",
+        "catalog-split-04",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-04",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2011648338/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/tofr/37500/37581_150px.jpg#h=150&w=102",
+        "https://tile.loc.gov/storage-services/service/pnp/tofr/37500/37581r.jpg#h=640&w=436",
+        "https://tile.loc.gov/storage-services/service/pnp/tofr/37500/37581v.jpg#h=1024&w=698"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "vail",
+        "colorado"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/16904980",
+        "2023-06-28t14:08:38",
+        "2011648338",
+        "sheet"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "miscellaneous items in high demand"
+      ],
+      "score": 75.55475,
+      "shelf_id": "LC-F905-37581 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "taylor, ann bonfoey",
+        "clothing & dress",
+        "skiers",
+        "colorado",
+        "skiing",
+        "vail",
+        "women",
+        "united states",
+        "portrait photographs",
+        "fashion photographs"
+      ],
+      "timestamp": "2023-07-08T12:38:55.977Z",
+      "title": "Vogue - Ann Taylor, ski clothes",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2011648338/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2011648831/",
+        "http://www.loc.gov/item/2011648831/",
+        "http://www.loc.gov/pictures/item/2011648831/",
+        "https://www.loc.gov/pictures/collection/cph/item/2011648831/",
+        "http://www.loc.gov/pictures/collection/cph/item/2011648831/",
+        "https://hdl.loc.gov/loc.pnp/tofr.37587",
+        "https://hdl.loc.gov/loc.pnp/tofr.37587",
+        "https://hdl.loc.gov/loc.pnp/ds.01009",
+        "https://hdl.loc.gov/loc.pnp/ds.01009",
+        "http://www.loc.gov/resource/tofr.37587/",
+        "http://www.loc.gov/resource/ds.01009/",
+        "http://lccn.loc.gov/2011648831"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "frissell, toni"
+      ],
+      "date": "1969",
+      "dates": [
+        "1969"
+      ],
+      "description": [
+        "1 photograph : color transparency ; 35 mm (slide format)"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-08T12:38:15.375Z",
+      "group": [
+        "cph",
+        "catalog-split-02",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2011648831/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/tofr/37500/37587_150px.jpg#h=150&w=102",
+        "https://tile.loc.gov/storage-services/service/pnp/tofr/37500/37587r.jpg#h=640&w=437",
+        "https://tile.loc.gov/storage-services/service/pnp/tofr/37500/37587v.jpg#h=1024&w=699"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "vail",
+        "colorado"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2011648831",
+        "2023-06-28t14:08:55",
+        "sheet",
+        "http://www.loc.gov/item/16904010"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "miscellaneous items in high demand"
+      ],
+      "score": 75.55475,
+      "shelf_id": "LC-F905-37587 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "taylor, ann bonfoey",
+        "clothing & dress",
+        "skiers",
+        "colorado",
+        "skiing",
+        "vail",
+        "women",
+        "united states",
+        "portrait photographs",
+        "fashion photographs"
+      ],
+      "timestamp": "2023-07-08T12:38:55.977Z",
+      "title": "Vogue - Ann Taylor, ski clothes",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2011648831/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2011648331/",
+        "http://www.loc.gov/item/2011648331/",
+        "http://www.loc.gov/pictures/item/2011648331/",
+        "https://www.loc.gov/pictures/collection/cph/item/2011648331/",
+        "http://www.loc.gov/pictures/collection/cph/item/2011648331/",
+        "https://hdl.loc.gov/loc.pnp/tofr.37472",
+        "https://hdl.loc.gov/loc.pnp/tofr.37472",
+        "https://hdl.loc.gov/loc.pnp/ds.01012",
+        "https://hdl.loc.gov/loc.pnp/ds.01012",
+        "http://www.loc.gov/resource/tofr.37472/",
+        "http://www.loc.gov/resource/ds.01012/",
+        "http://lccn.loc.gov/2011648331"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "frissell, toni"
+      ],
+      "date": "1969",
+      "dates": [
+        "1969"
+      ],
+      "description": [
+        "1 photograph : color transparency ; 35 mm (slide format)"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-08T12:38:15.375Z",
+      "group": [
+        "cph",
+        "catalog-split-13",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-13",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2011648331/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/tofr/37400/37472_150px.jpg#h=150&w=103",
+        "https://tile.loc.gov/storage-services/service/pnp/tofr/37400/37472r.jpg#h=640&w=439",
+        "https://tile.loc.gov/storage-services/service/pnp/tofr/37400/37472v.jpg#h=1024&w=703"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "vail",
+        "colorado"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/16905022",
+        "sheet",
+        "2023-06-28t13:37:44",
+        "2011648331"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "miscellaneous items in high demand"
+      ],
+      "score": 59.430096,
+      "shelf_id": "LC-F905-37472 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "taylor, ann bonfoey",
+        "clothing & dress",
+        "vail",
+        "colorado",
+        "women",
+        "united states",
+        "portrait photographs",
+        "fashion photographs",
+        "purses"
+      ],
+      "timestamp": "2023-07-08T12:38:55.977Z",
+      "title": "Vogue - Ann Taylor, ski clothes",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2011648331/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2011648336/",
+        "http://www.loc.gov/item/2011648336/",
+        "http://www.loc.gov/pictures/item/2011648336/",
+        "https://www.loc.gov/pictures/collection/cph/item/2011648336/",
+        "http://www.loc.gov/pictures/collection/cph/item/2011648336/",
+        "https://hdl.loc.gov/loc.pnp/tofr.37470",
+        "https://hdl.loc.gov/loc.pnp/tofr.37470",
+        "https://hdl.loc.gov/loc.pnp/ds.01015",
+        "https://hdl.loc.gov/loc.pnp/ds.01015",
+        "http://www.loc.gov/resource/tofr.37470/",
+        "http://www.loc.gov/resource/ds.01015/",
+        "http://lccn.loc.gov/2011648336"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "frissell, toni"
+      ],
+      "date": "1969",
+      "dates": [
+        "1969"
+      ],
+      "description": [
+        "1 photograph : color transparency ; 35 mm (slide format)"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-08T12:38:15.375Z",
+      "group": [
+        "cph",
+        "catalog-split-02",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2011648336/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/tofr/37400/37470_150px.jpg#h=150&w=103",
+        "https://tile.loc.gov/storage-services/service/pnp/tofr/37400/37470r.jpg#h=640&w=438",
+        "https://tile.loc.gov/storage-services/service/pnp/tofr/37400/37470v.jpg#h=1024&w=701"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "vail",
+        "colorado"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2011648336",
+        "sheet",
+        "2023-06-28t13:38:01",
+        "http://www.loc.gov/item/16905107"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "miscellaneous items in high demand"
+      ],
+      "score": 59.430096,
+      "shelf_id": "LC-F905-37470 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "taylor, ann bonfoey",
+        "clothing & dress",
+        "vail",
+        "colorado",
+        "women",
+        "united states",
+        "portrait photographs",
+        "fashion photographs",
+        "purses"
+      ],
+      "timestamp": "2023-07-08T12:38:55.977Z",
+      "title": "Vogue - Ann Taylor, ski clothes",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2011648336/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2011649850/",
+        "http://www.loc.gov/item/2011649850/",
+        "http://www.loc.gov/pictures/item/2011649850/",
+        "https://www.loc.gov/pictures/collection/cph/item/2011649850/",
+        "http://www.loc.gov/pictures/collection/cph/item/2011649850/",
+        "https://hdl.loc.gov/loc.pnp/tofr.50707",
+        "https://hdl.loc.gov/loc.pnp/tofr.50707",
+        "https://hdl.loc.gov/loc.pnp/ds.01020",
+        "https://hdl.loc.gov/loc.pnp/ds.01020",
+        "http://www.loc.gov/resource/tofr.50707/",
+        "http://www.loc.gov/resource/ds.01020/",
+        "http://lccn.loc.gov/2011649850"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "frissell, toni"
+      ],
+      "date": "1969",
+      "dates": [
+        "1969"
+      ],
+      "description": [
+        "1 photograph : color transparency ; 120 medium format."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-11-11T13:37:49.208Z",
+      "group": [
+        "cph",
+        "catalog-split-04",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-04"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2011649850/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/tofr/50700/50707_150px.jpg#h=150&w=149",
+        "https://tile.loc.gov/storage-services/service/pnp/tofr/50700/50707r.jpg#h=640&w=637",
+        "https://tile.loc.gov/storage-services/service/pnp/tofr/50700/50707v.jpg#h=1024&w=1019"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "colorado"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2011649850",
+        "sheet",
+        "http://www.loc.gov/item/16905620",
+        "2023-11-03t13:58:04"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints and photographs division"
+      ],
+      "score": 57.8529,
+      "shelf_id": "LC-F905-50707 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "taylor, ann bonfoey",
+        "clothing & dress",
+        "skiers",
+        "colorado",
+        "skiing",
+        "women",
+        "snow",
+        "hats",
+        "portrait photographs",
+        "fashion photographs"
+      ],
+      "timestamp": "2023-11-11T13:39:17.563Z",
+      "title": "Vogue, Ann Taylor Ski Clothes",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2011649850/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2011645329/",
+        "http://www.loc.gov/item/2011645329/",
+        "http://www.loc.gov/pictures/item/2011645329/",
+        "https://www.loc.gov/pictures/collection/cph/item/2011645329/",
+        "http://www.loc.gov/pictures/collection/cph/item/2011645329/",
+        "https://hdl.loc.gov/loc.pnp/tofr.37471",
+        "https://hdl.loc.gov/loc.pnp/tofr.37471",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.31014",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.31014",
+        "http://www.loc.gov/resource/tofr.37471/",
+        "http://www.loc.gov/resource/ppmsca.31014/",
+        "http://lccn.loc.gov/2011645329"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "frissell, toni"
+      ],
+      "date": "1969",
+      "dates": [
+        "1969"
+      ],
+      "description": [
+        "1 photograph : color transparency ; 35 mm (slide format)"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-08T12:38:15.375Z",
+      "group": [
+        "cph",
+        "catalog-split-01",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-01",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2011645329/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/tofr/37400/37471_150px.jpg#h=150&w=103",
+        "https://tile.loc.gov/storage-services/service/pnp/tofr/37400/37471r.jpg#h=640&w=438",
+        "https://tile.loc.gov/storage-services/service/pnp/tofr/37400/37471v.jpg#h=1024&w=700"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "vail",
+        "colorado"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/16685121",
+        "2023-06-28t13:37:23",
+        "sheet",
+        "2011645329"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division",
+        "miscellaneous items in high demand"
+      ],
+      "score": 54.832005,
+      "shelf_id": "LC-F905-37471 [item] [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "taylor, ann bonfoey",
+        "vail",
+        "color",
+        "fashion models",
+        "skiing",
+        "colorado",
+        "slides",
+        "united states",
+        "fashion photographs"
+      ],
+      "timestamp": "2023-07-08T12:38:55.977Z",
+      "title": "Vogue - Ann Taylor, ski clothes",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2011645329/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "cph",
+      "catalog-split-05",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-05",
+      "main-catalog",
+      "catalog-split-04",
+      "main-catalog-split-04",
+      "catalog-split-02",
+      "main-catalog-split-02",
+      "catalog-split-13",
+      "main-catalog-split-13",
+      "catalog-split-01",
+      "main-catalog-split-01",
+      "ndnp/dlc-2020_now",
+      "library-of-congress-washington-dc-awardee-8",
+      "paprika-iabooks",
+      "catalog-split-00",
+      "main-catalog-split-00",
+      "rbc/nawsa",
+      "catalog-split-14",
+      "national-american-woman-suffrage-association",
+      "main-catalog-split-14"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "ds.01027",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.7376415729522705,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/ds.01027/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/ds.01027/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1734773626.5164654,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 21132528,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/ds/01000/01027u.tif",
+      "width": 0
+    },
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 28166,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ds/01000/01027_150px.jpg",
+      "width": 89
+    },
+    {
+      "height": 640,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 66335,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ds/01000/01027r.jpg",
+      "width": 379
+    },
+    {
+      "height": 1024,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 289143,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ds/01000/01027v.jpg",
+      "width": 606
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2011648843&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83025514/1900-01-27/ed-1/",
+        "http://www.loc.gov/resource/sn83025514/1900-01-27/ed-1/"
+      ],
+      "batch": [
+        "dlc_kingman_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1900-01-27",
+      "dates": [
+        "1900-01-27"
+      ],
+      "description": [
+        "Denver, Colo."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-07T20:32:34.516Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83025514/1900-01-27/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025514:00220720457:1900012701:0001/full/pct:3.125/0/default.jpg#h=278&w=182",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025514:00220720457:1900012701:0001/full/pct:6.25/0/default.jpg#h=556&w=365",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025514:00220720457:1900012701:0001/full/pct:12.5/0/default.jpg#h=1112&w=731"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "colorado",
+        "denver"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00220720457",
+        "1",
+        "sn83025514"
+      ],
+      "numeric_shelf_id": 190001271,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "other_title": [
+        "Statesman"
+      ],
+      "partof": [
+        "the colorado statesman (denver, colo.) 1895-1961",
+        "serial and government publications division",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 15.607592,
+      "shelf_id": "sn83025514, 1900-01-27, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "newspapers",
+        "african american",
+        "colorado",
+        "african americans",
+        "african american newspapers",
+        "denver (colo.)",
+        "united states",
+        "denver"
+      ],
+      "timestamp": "2023-08-08T11:26:26.035Z",
+      "title": "The Colorado statesman (Denver, Colo.), January 27, 1900",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83025514/1900-01-27/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83025515/1900-01-06/ed-1/",
+        "http://www.loc.gov/resource/sn83025515/1900-01-06/ed-1/"
+      ],
+      "batch": [
+        "dlc_kingman_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1900-01-06",
+      "dates": [
+        "1900-01-06"
+      ],
+      "description": [
+        "Colorado Springs, Colo."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-07T20:32:34.516Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83025515/1900-01-06/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025515:00220720457:1900010601:0001/full/pct:3.125/0/default.jpg#h=307&w=208",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025515:00220720457:1900010601:0001/full/pct:6.25/0/default.jpg#h=614&w=417"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "el paso county",
+        "colorado",
+        "el paso",
+        "united states",
+        "colorado springs"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00220720457",
+        "1",
+        "sn83025515"
+      ],
+      "numeric_shelf_id": 190001061,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "the western enterprise (colorado springs, colo.) 1896-1912",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 15.607592,
+      "shelf_id": "sn83025515, 1900-01-06, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "newspapers",
+        "el paso county",
+        "african american",
+        "colorado",
+        "colorado springs (colo.)",
+        "el paso",
+        "african americans",
+        "african american newspapers",
+        "united states",
+        "colorado springs",
+        "el paso county (colo.)"
+      ],
+      "timestamp": "2023-08-08T11:26:26.035Z",
+      "title": "The Western enterprise (Colorado Springs, Colo.), January 6, 1900",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83025515/1900-01-06/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83025515/1900-01-27/ed-1/",
+        "http://www.loc.gov/resource/sn83025515/1900-01-27/ed-1/"
+      ],
+      "batch": [
+        "dlc_kingman_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1900-01-27",
+      "dates": [
+        "1900-01-27"
+      ],
+      "description": [
+        "Colorado Springs, Colo."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-07T20:32:34.516Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83025515/1900-01-27/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025515:00220720457:1900012701:0001/full/pct:3.125/0/default.jpg#h=305&w=214",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025515:00220720457:1900012701:0001/full/pct:6.25/0/default.jpg#h=610&w=428"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "el paso county",
+        "colorado",
+        "el paso",
+        "united states",
+        "colorado springs"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "00220720457",
+        "1",
+        "sn83025515"
+      ],
+      "numeric_shelf_id": 190001271,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "the western enterprise (colorado springs, colo.) 1896-1912",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 15.607592,
+      "shelf_id": "sn83025515, 1900-01-27, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "newspapers",
+        "el paso county",
+        "african american",
+        "colorado",
+        "colorado springs (colo.)",
+        "el paso",
+        "african americans",
+        "african american newspapers",
+        "united states",
+        "colorado springs",
+        "el paso county (colo.)"
+      ],
+      "timestamp": "2023-08-08T11:26:26.035Z",
+      "title": "The Western enterprise (Colorado Springs, Colo.), January 27, 1900",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83025515/1900-01-27/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/sn83025516/1900-01-27/ed-1/",
+        "http://www.loc.gov/resource/sn83025516/1900-01-27/ed-1/"
+      ],
+      "batch": [
+        "dlc_kingman_ver01"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, washington, dc"
+      ],
+      "date": "1900-01-27",
+      "dates": [
+        "1900-01-27"
+      ],
+      "description": [
+        "Denver, Colo."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-08-07T20:32:34.516Z",
+      "group": [
+        "ndnp/dlc-2020_now",
+        "library-of-congress-washington-dc-awardee-8"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/sn83025516/1900-01-27/ed-1/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025516:00220720457:1900012701:0001/full/pct:3.125/0/default.jpg#h=277&w=181",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025516:00220720457:1900012701:0001/full/pct:6.25/0/default.jpg#h=555&w=362",
+        "https://tile.loc.gov/image-services/iiif/service:ndnp:dlc:batch_dlc_kingman_ver01:data:sn83025516:00220720457:1900012701:0001/full/pct:12.5/0/default.jpg#h=1110&w=725"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "montana",
+        "colorado",
+        "new mexico",
+        "united states",
+        "wyoming",
+        "denver",
+        "utah"
+      ],
+      "mime_type": [
+        "image/jp2",
+        "application/pdf",
+        "text/xml",
+        "image/jpeg"
+      ],
+      "number": [
+        "sn83025516",
+        "00220720457",
+        "1"
+      ],
+      "numeric_shelf_id": 190001271,
+      "online_format": [
+        "image",
+        "pdf",
+        "online text"
+      ],
+      "original_format": [
+        "newspaper"
+      ],
+      "partof": [
+        "serial and government publications division",
+        "the statesman (denver, colo.) 1889-1906",
+        "chronicling america"
+      ],
+      "publication_frequency": [
+        "weekly"
+      ],
+      "score": 15.607592,
+      "shelf_id": "sn83025516, 1900-01-27, Edition 1",
+      "site": [
+        "chroniclingamerica"
+      ],
+      "subject": [
+        "newspapers",
+        "montana",
+        "african american",
+        "colorado",
+        "new mexico",
+        "african americans",
+        "african american newspapers",
+        "denver (colo.)",
+        "united states",
+        "wyoming",
+        "denver",
+        "utah"
+      ],
+      "timestamp": "2023-08-08T11:26:26.035Z",
+      "title": "The statesman (Denver, Colo.), January 27, 1900",
+      "type": [
+        "issue"
+      ],
+      "url": "https://www.loc.gov/item/sn83025516/1900-01-27/ed-1/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/12035795",
+        "http://www.loc.gov/item/12035795/",
+        "http://www.loc.gov/resource/gdcmassbookdig.equalsuffrageinc00tayl/",
+        "https://hdl.loc.gov/loc.gdc/scd0001.00298097941",
+        "http://www.loc.gov/resource/scd0001.00298097941/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "taylor, edward t. (edward thomas)"
+      ],
+      "date": "1912",
+      "dates": [
+        "1912"
+      ],
+      "description": [
+        "Also available in digital form."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-05-07T22:22:01.582Z",
+      "group": [
+        "paprika-iabooks",
+        "catalog-split-00",
+        "catalog",
+        "main-catalog-split-00",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/12035795/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:equalsuffrageinc00tayl:equalsuffrageinc00tayl_0007/full/pct:12.5/0/default.jpg#h=516&w=308",
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:equalsuffrageinc00tayl:equalsuffrageinc00tayl_0007/full/pct:25.0/0/default.jpg#h=1033&w=616",
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:equalsuffrageinc00tayl:equalsuffrageinc00tayl_0007/full/pct:50.0/0/default.jpg#h=2066&w=1232",
+        "https://tile.loc.gov/image-services/iiif/public:gdcmassbookdig:equalsuffrageinc00tayl:equalsuffrageinc00tayl_0007/full/pct:100.0/0/default.jpg#h=4133&w=2464"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "colorado"
+      ],
+      "mime_type": [
+        "image/jpeg",
+        "text/xml",
+        "application/json",
+        "application/pdf",
+        "text/plain",
+        "image/jp2"
+      ],
+      "number": [
+        "12035795",
+        "2019-01-11t10:03:36"
+      ],
+      "online_format": [
+        "image",
+        "online text",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "general collections",
+        "catalog",
+        "selected digitized books"
+      ],
+      "score": 11.21107,
+      "shelf_id": "JK1911.C6 T3",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "women",
+        "colorado",
+        "suffrage"
+      ],
+      "timestamp": "2023-06-03T06:23:41.856Z",
+      "title": "Equal suffrage in Colorado. Speech of Hon. Edward T. Taylor",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/12035795/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/ca21000331",
+        "http://www.loc.gov/item/ca21000331/",
+        "https://hdl.loc.gov/loc.rbc/rbnawsa.n1331",
+        "http://www.loc.gov/resource/rbnawsa.n1331/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "stone, lucy",
+        "brown, j. g. (joseph g.)",
+        "national american woman suffrage association collection (library of congress)"
+      ],
+      "date": "1898",
+      "dates": [
+        "1898"
+      ],
+      "description": [
+        "Colorado women were enfranchised in 1898. This book details the history of that struggle. It includes a discussion of the growth of Colorado women's clubs as an important factor in the campaign. It also provides lists of suffrage workers and of women who have been elected and appointed to positions in Colorado government in the late nineteenth century."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-07-18T17:03:04.533Z",
+      "group": [
+        "rbc/nawsa",
+        "catalog-split-14",
+        "catalog",
+        "national-american-woman-suffrage-association",
+        "main-catalog-split-14",
+        "main-catalog"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/ca21000331/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/rbc/rbnawsa/n1331/001.gif",
+        "https://tile.loc.gov/storage-services/service/rbc/rbnawsa/n1331/001.gif#h=796&w=600"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "colorado"
+      ],
+      "mime_type": [
+        "text/plain",
+        "image/gif",
+        "text/xml",
+        "image/tiff",
+        "application/pdf"
+      ],
+      "number": [
+        "2016-04-16t16:51:43",
+        "ca21000331"
+      ],
+      "online_format": [
+        "online text",
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "other_title": [
+        "Equal suffrage in Colorado, 1868-1898"
+      ],
+      "partof": [
+        "rare book and special collections division",
+        "catalog",
+        "national american woman suffrage association collection"
+      ],
+      "score": 10.802159,
+      "shelf_id": "JK1911.C6 B7 JK1881 .N357 sec. VII, no. 72",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "women",
+        "colorado",
+        "political activity",
+        "suffrage"
+      ],
+      "timestamp": "2023-07-18T17:07:09.166Z",
+      "title": "The history of equal suffrage in Colorado, 1868-1898",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/ca21000331/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"https://www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "digital file from original item",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/ds/01000/01027_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/ds.01027/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from original item",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/ds/01000/01027_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/ds.01027/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1734773627254,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/ds.01027/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/ds.01027/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/ds.01027/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/ds.01027/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/ds.01027/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/ds.01027/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/ds.01027/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/ds.01027/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/ds.01027/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/ds.01027/?fo=json&st=text"
+  }
+}

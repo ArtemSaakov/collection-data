@@ -1,0 +1,1603 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Ehrhart, S. D. (1903) <cite>Goggles have their uses / Ehrhart</cite>. , 1903. N.Y.: J. Ottmann Lith. Co., Puck Bldg. [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/2010652277/.",
+    "chicago": "Ehrhart, S. D. , Approximately , Artist. <cite>Goggles have their uses / Ehrhart</cite>. , 1903. N.Y.: J. Ottmann Lith. Co., Puck Bldg. Photograph. https://www.loc.gov/item/2010652277/.",
+    "mla": "Ehrhart, S. D. , Approximately , Artist. <cite>Goggles have their uses / Ehrhart</cite>. N.Y.: J. Ottmann Lith. Co., Puck Bldg. Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/2010652277/&gt;."
+  },
+  "item": {
+    "_version_": 1731691693504200704,
+    "access_restricted": false,
+    "aka": [
+      "https://www.loc.gov/pictures/item/2010652277/",
+      "http://www.loc.gov/item/2010652277/",
+      "http://www.loc.gov/pictures/item/2010652277/",
+      "https://www.loc.gov/pictures/collection/cph/item/2010652277/",
+      "http://www.loc.gov/pictures/collection/cph/item/2010652277/",
+      "http://www.loc.gov/resource/ppmsca.25753/",
+      "https://hdl.loc.gov/loc.pnp/ppmsca.25753",
+      "http://lccn.loc.gov/2010652277"
+    ],
+    "call_number": "Illus. in AP101.P7 1903 (Case X) [P&P]",
+    "campaigns": [],
+    "contributor_names": [
+      "Ehrhart, S. D. (Samuel D.), approximately 1862-1937, artist"
+    ],
+    "contributors": [
+      {
+        "ehrhart, s. d. (samuel d.)": "https://www.loc.gov/search/?fa=contributor:ehrhart,+s.+d.+%28samuel+d.%29&fo=json"
+      }
+    ],
+    "control_number": "",
+    "created": "2019-05-06T19:07:30Z",
+    "created_published": [
+      "N.Y. : J. Ottmann Lith. Co., Puck Bldg., 1903 June 24."
+    ],
+    "created_published_date": "1903 June 24.",
+    "date": "1903-06-24",
+    "dates": [
+      {
+        "1903": "https://www.loc.gov/search/?dates=1903/1903&fo=json"
+      },
+      {
+        "1903-06-24": "https://www.loc.gov/search/?dates=1903-06-24/1903-06-24&fo=json"
+      }
+    ],
+    "description": [
+      "1 print : chromolithograph. | Illustration shows a vignette cartoon showing a fashionably dressed woman wearing goggles taking a drive in an automobile. Through a series of vignettes her slim figure and dress attract considerable attention, however, when she removes her goggles, exposing some blemishes to her looks, the men react with horror."
+    ],
+    "digital_id": [
+      "ppmsca 25753 //hdl.loc.gov/loc.pnp/ppmsca.25753"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2021-08-24T23:52:28.369Z",
+    "extract_urls": [
+      "http://www.loc.gov/pictures/collection/cph/item/2010652277/#cph",
+      "http://lccn.loc.gov/2010652277#catalog-split-00"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "format_headings": [
+      "Cartoons (Commentary)--1900-1910.",
+      "Chromolithographs--Color--1900-1910.",
+      "Periodical illustrations--1900-1910."
+    ],
+    "genre": [
+      "Periodical illustrations--1900-1910",
+      "Cartoons (Commentary)--1900-1910",
+      "Chromolithographs--Color--1900-1910"
+    ],
+    "group": [
+      "cph",
+      "catalog-split-00",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-00",
+      "main-catalog"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/2010652277/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/25700/25753_150px.jpg#h=97&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/25700/25753t.gif#h=97&w=150",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/25700/25753r.jpg#h=413&w=640",
+      "https://tile.loc.gov/storage-services/service/pnp/ppmsca/25700/25753v.jpg#h=661&w=1024"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": "Illus. in AP101.P7 1903 (Case X) [P&P]",
+      "contributors": [
+        "Ehrhart, S. D. (Samuel D.), approximately 1862-1937, artist."
+      ],
+      "control_number": "2010652277",
+      "created": "2019-05-06T19:07:30Z",
+      "created_published": "N.Y. : J. Ottmann Lith. Co., Puck Bldg., 1903 June 24.",
+      "created_published_date": "1903 June 24.",
+      "creators": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=name&q=Ehrhart%2C%20S.%20D.%20%28Samuel%20D.%29%2C%20approximately%201862-1937&co=cph",
+          "role": "artist",
+          "title": "Ehrhart, S. D. (Samuel D.), approximately 1862-1937"
+        }
+      ],
+      "date": "1903 June 24.",
+      "digital_id": [
+        "ppmsca 25753 //hdl.loc.gov/loc.pnp/ppmsca.25753"
+      ],
+      "display_offsite": true,
+      "format": [
+        "still image"
+      ],
+      "formats": [
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Cartoons%20%28Commentary%29--1900-1910.&co=cph",
+          "title": "Cartoons (Commentary)--1900-1910."
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Chromolithographs--Color--1900-1910.&co=cph",
+          "title": "Chromolithographs--Color--1900-1910."
+        },
+        {
+          "link": "https://www.loc.gov/pictures/related/?fi=format&q=Periodical%20illustrations--1900-1910.&co=cph",
+          "title": "Periodical illustrations--1900-1910."
+        }
+      ],
+      "genre": [
+        "Periodical illustrations--1900-1910",
+        "Cartoons (Commentary)--1900-1910",
+        "Chromolithographs--Color--1900-1910"
+      ],
+      "id": "2010652277",
+      "language": [
+        "eng"
+      ],
+      "link": "https://www.loc.gov/pictures/item/2010652277/",
+      "marc": "https://www.loc.gov/pictures/item/2010652277/marc/",
+      "medium": [
+        "1 print : chromolithograph."
+      ],
+      "medium_brief": "1 print :",
+      "mediums": [
+        "1 print : chromolithograph."
+      ],
+      "modified": "2019-05-06T19:07:30Z",
+      "notes": [
+        "Title from item.",
+        "Illus. in: Puck, v. 53, no. 1373 (1903 June 24), centerfold.",
+        "Copyright 1903 by Keppler & Schwarzmann."
+      ],
+      "other_control_numbers": [
+        "16569389"
+      ],
+      "repository": "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print",
+      "reproduction_number": "LC-DIG-ppmsca-25753 (digital file from original print)",
+      "resource_links": [
+        "//hdl.loc.gov/loc.pnp/ppmsca.25753"
+      ],
+      "rights_advisory": "No known restrictions on publication.",
+      "rights_information": "No known restrictions on publication.",
+      "service_low": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/25700/25753_150px.jpg",
+      "service_medium": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/25700/25753r.jpg",
+      "sort_date": "19030624",
+      "source_created": "2010-12-06T00:00:00Z",
+      "source_modified": "2013-06-06T13:27:15Z",
+      "stmt_of_responsibility": "Ehrhart.",
+      "subject_headings": [
+        "Women--Social life--1900-1910.",
+        "Women--Clothing & dress--1900-1910.",
+        "Automobile driving--1900-1910.",
+        "Goggles--1900-1910.",
+        "Ugliness--1900-1910.",
+        "Relations between the sexes--1900-1910."
+      ],
+      "subjects": [
+        "Women--Social life--1900-1910",
+        "Women--Clothing & dress--1900-1910",
+        "Automobile driving--1900-1910",
+        "Goggles--1900-1910",
+        "Ugliness--1900-1910",
+        "Relations between the sexes--1900-1910"
+      ],
+      "summary": "Illustration shows a vignette cartoon showing a fashionably dressed woman wearing goggles taking a drive in an automobile. Through a series of vignettes her slim figure and dress attract considerable attention, however, when she removes her goggles, exposing some blemishes to her looks, the men react with horror.",
+      "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/25700/25753_150px.jpg",
+      "title": "Goggles have their uses"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "library_of_congress_control_number": "2010652277",
+    "link": "https://www.loc.gov/pictures/item/2010652277/",
+    "marc": "https://www.loc.gov/pictures/item/2010652277/marc/",
+    "medium": [
+      "1 print : chromolithograph."
+    ],
+    "medium_brief": "1 print :",
+    "mime_type": [
+      "image/gif",
+      "image/jpg",
+      "image/tif"
+    ],
+    "modified": "2019-05-06T19:07:30Z",
+    "notes": [
+      "Title from item.",
+      "Illus. in: Puck, v. 53, no. 1373 (1903 June 24), centerfold.",
+      "Copyright 1903 by Keppler & Schwarzmann."
+    ],
+    "number": [
+      "http://www.loc.gov/item/16569389",
+      "2010652277",
+      "2013-06-06t13:27:15"
+    ],
+    "number_former_id": [
+      "http://www.loc.gov/item/16569389"
+    ],
+    "number_lccn": [
+      "2010652277"
+    ],
+    "number_source_modified": [
+      "2013-06-06t13:27:15"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_control_numbers": [
+      "16569389"
+    ],
+    "other_formats": [
+      {
+        "label": "MARCXML Record",
+        "link": "https://lccn.loc.gov/2010652277/marcxml"
+      },
+      {
+        "label": "MODS Record",
+        "link": "https://lccn.loc.gov/2010652277/mods"
+      },
+      {
+        "label": "Dublin Core Record",
+        "link": "https://lccn.loc.gov/2010652277/dc"
+      }
+    ],
+    "partof": [
+      {
+        "count": 117172,
+        "title": "miscellaneous items in high demand",
+        "url": "https://www.loc.gov/search/?fa=partof:miscellaneous+items+in+high+demand&fo=json"
+      },
+      {
+        "count": 949513,
+        "title": "prints & photographs online catalog (library of congress)",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+%26+photographs+online+catalog+%28library+of+congress%29&fo=json"
+      },
+      {
+        "count": 1082837,
+        "title": "prints and photographs division",
+        "url": "https://www.loc.gov/search/?fa=partof:prints+and+photographs+division&fo=json"
+      },
+      {
+        "count": 1592516,
+        "title": "catalog",
+        "url": "https://www.loc.gov/search/?fa=partof:catalog&fo=json"
+      }
+    ],
+    "related": {
+      "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2010652277&st=gallery&sb=call_number#focus"
+    },
+    "repository": [
+      "Library of Congress Prints and Photographs Division Washington, D.C. 20540 USA http://hdl.loc.gov/loc.pnp/pp.print"
+    ],
+    "reproduction_number": "LC-DIG-ppmsca-25753 (digital file from original print)",
+    "reproductions": [],
+    "resource_links": [
+      "//hdl.loc.gov/loc.pnp/ppmsca.25753"
+    ],
+    "resources": [
+      {
+        "caption": "digital file from original print",
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/25700/25753_150px.jpg",
+        "url": "https://www.loc.gov/resource/ppmsca.25753/"
+      }
+    ],
+    "rights": [],
+    "rights_advisory": "No known restrictions on publication.",
+    "rights_information": "No known restrictions on publication.",
+    "score": 19.206085,
+    "shard": "00",
+    "shelf_id": "Illus. in AP101.P7 1903 (Case X) [P&P]",
+    "site": [
+      "pictures",
+      "catalog"
+    ],
+    "sort_date": "19030624",
+    "source_created": "2010-12-06T00:00:00Z",
+    "source_modified": "2013-06-06T13:27:15Z",
+    "stmt_of_responsibility": "Ehrhart.",
+    "subject": [
+      "relations between the sexes",
+      "cartoons (commentary)",
+      "goggles",
+      "ugliness",
+      "women",
+      "automobile driving",
+      "chromolithographs",
+      "color",
+      "periodical illustrations",
+      "clothing & dress",
+      "social life"
+    ],
+    "subject_headings": [
+      "Women--Social life--1900-1910",
+      "Women--Clothing & dress--1900-1910",
+      "Automobile driving--1900-1910",
+      "Goggles--1900-1910",
+      "Ugliness--1900-1910",
+      "Relations between the sexes--1900-1910"
+    ],
+    "subjects": [
+      {
+        "automobile driving": "https://www.loc.gov/search/?fa=subject:automobile+driving&fo=json"
+      },
+      {
+        "cartoons (commentary)": "https://www.loc.gov/search/?fa=subject:cartoons+%28commentary%29&fo=json"
+      },
+      {
+        "chromolithographs": "https://www.loc.gov/search/?fa=subject:chromolithographs&fo=json"
+      },
+      {
+        "clothing & dress": "https://www.loc.gov/search/?fa=subject:clothing+%26+dress&fo=json"
+      },
+      {
+        "color": "https://www.loc.gov/search/?fa=subject:color&fo=json"
+      },
+      {
+        "goggles": "https://www.loc.gov/search/?fa=subject:goggles&fo=json"
+      },
+      {
+        "periodical illustrations": "https://www.loc.gov/search/?fa=subject:periodical+illustrations&fo=json"
+      },
+      {
+        "relations between the sexes": "https://www.loc.gov/search/?fa=subject:relations+between+the+sexes&fo=json"
+      },
+      {
+        "social life": "https://www.loc.gov/search/?fa=subject:social+life&fo=json"
+      },
+      {
+        "ugliness": "https://www.loc.gov/search/?fa=subject:ugliness&fo=json"
+      },
+      {
+        "women": "https://www.loc.gov/search/?fa=subject:women&fo=json"
+      }
+    ],
+    "summary": "Illustration shows a vignette cartoon showing a fashionably dressed woman wearing goggles taking a drive in an automobile. Through a series of vignettes her slim figure and dress attract considerable attention, however, when she removes her goggles, exposing some blemishes to her looks, the men react with horror.",
+    "thumb_gallery": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/25700/25753_150px.jpg",
+    "timestamp": "2022-05-02T05:38:11.814Z",
+    "title": "Goggles have their uses / Ehrhart.",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "unrestricted": true,
+    "url": "https://www.loc.gov/item/2010652277/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2012647449/",
+        "http://www.loc.gov/item/2012647449/",
+        "http://www.loc.gov/pictures/item/2012647449/",
+        "https://www.loc.gov/pictures/collection/cph/item/2012647449/",
+        "http://www.loc.gov/pictures/collection/cph/item/2012647449/",
+        "http://www.loc.gov/resource/ppmsca.28620/",
+        "http://lccn.loc.gov/2012647449",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.28620"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ehrhart, s. d. (samuel d.)"
+      ],
+      "date": "1899-08-09",
+      "dates": [
+        "1899-08-09",
+        "1899"
+      ],
+      "description": [
+        "1 print : chromolithograph. | Print shows a vignette cartoon about the aspirations for social life among the well-to-do; at center, \"The Will-o'-the-Wisp of Social Aspirations\" shows a crowd of rich people chasing after \"Social Ambition\", a wraith-like female figure floating just beyond the edge of a cliff who entices them to follow her. Among the vignettes are women promenading while \"Displaying Gowns at the Summer Resort\" and \"Kow-towing to Royalty\", \"Coaching in the Highlands\" and spending \"All Day on the Golf-Links\", \"Cruising in the Mediterranean\" and \"Being 'Sporty' at Monte Carlo\". This sort of rake's progress \"among the 'Smart Set'\" ends with a final vignette labeled \"What it Leads to\" that shows a long line of well-dressed men and women leading to the judge's bench where he hands out documents labeled \"Divorce\"."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T00:07:15.882Z",
+      "group": [
+        "cph",
+        "catalog-split-07",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-07",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2012647449/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/28600/28620_150px.jpg#h=97&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/28600/28620t.gif#h=97&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/28600/28620r.jpg#h=412&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/28600/28620v.jpg#h=660&w=1024"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/17323982",
+        "2012647449",
+        "2013-06-07t13:49:01"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 49.09583,
+      "shelf_id": "Illus. in AP101.P7 1899 (Case X) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "cartoons (commentary)",
+        "divorce",
+        "leisure",
+        "women",
+        "rake's progress",
+        "chromolithographs",
+        "color",
+        "periodical illustrations",
+        "clothing & dress",
+        "domestic life",
+        "rich people",
+        "social life"
+      ],
+      "timestamp": "2022-05-02T06:04:55.229Z",
+      "title": "The decay of home-life among the \"smart set\"",
+      "url": "https://www.loc.gov/item/2012647449/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2012647463/",
+        "http://www.loc.gov/item/2012647463/",
+        "http://www.loc.gov/pictures/item/2012647463/",
+        "https://www.loc.gov/pictures/collection/cph/item/2012647463/",
+        "http://www.loc.gov/pictures/collection/cph/item/2012647463/",
+        "http://www.loc.gov/resource/ppmsca.28672/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.28672",
+        "http://lccn.loc.gov/2012647463"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ehrhart, s. d. (samuel d.)"
+      ],
+      "date": "1899-02-08",
+      "dates": [
+        "1899-02-08",
+        "1899"
+      ],
+      "description": [
+        "1 print : chromolithograph. | Print shows an Irish American woman labeled \"Walking Delegate\" displaying the \"By-Laws of the Help Lady's Union\" during a dinner party hosted by an elderly woman sitting at a table with her guests. Women domestics are seen removing their aprons, as a man in the background orders the \"Walking Delegate\" to leave."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T00:07:15.882Z",
+      "group": [
+        "cph",
+        "catalog-split-03",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-03",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2012647463/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/28600/28672_150px.jpg#h=100&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/28600/28672t.gif#h=100&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/28600/28672r.jpg#h=425&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/28600/28672v.jpg#h=680&w=1024"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2013-06-07t13:49:57",
+        "http://www.loc.gov/item/17325927",
+        "2012647463"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 49.09583,
+      "shelf_id": "Illus. in AP101.P7 1899 (Case X) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "women domestics",
+        "cartoons (commentary)",
+        "contracts",
+        "employment",
+        "labor leaders",
+        "upper class",
+        "women",
+        "chromolithographs",
+        "color",
+        "periodical illustrations",
+        "clothing & dress",
+        "dinner parties",
+        "servants",
+        "social life"
+      ],
+      "timestamp": "2022-05-02T06:04:55.229Z",
+      "title": "A look ahead; - but not so very far ahead, either!",
+      "url": "https://www.loc.gov/item/2012647463/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2012647473/",
+        "http://www.loc.gov/item/2012647473/",
+        "http://www.loc.gov/pictures/item/2012647473/",
+        "https://www.loc.gov/pictures/collection/cph/item/2012647473/",
+        "http://www.loc.gov/pictures/collection/cph/item/2012647473/",
+        "http://www.loc.gov/resource/ppmsca.28632/",
+        "http://lccn.loc.gov/2012647473",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.28632"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ehrhart, s. d. (samuel d.)"
+      ],
+      "date": "1898-09-21",
+      "dates": [
+        "1898-09-21",
+        "1898"
+      ],
+      "description": [
+        "1 print : chromolithograph. | Print shows on the left, two fashionably dressed, healthy young women escorting a young man ill-suited for military service, carrying a valise, on his departure from a seaside resort; on the right, two hearty young men, a soldier and a sailor, are returning home from military service during the Spanish-American War."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T00:07:15.882Z",
+      "group": [
+        "cph",
+        "catalog-split-04",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-04",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2012647473/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/28600/28632_150px.jpg#h=98&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/28600/28632t.gif#h=98&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/28600/28632r.jpg#h=420&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/28600/28632v.jpg#h=672&w=1024"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2012647473",
+        "http://www.loc.gov/item/17328107",
+        "2013-06-07t13:51:03"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 49.09583,
+      "shelf_id": "Illus. in AP101.P7 1898 (Case X) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "arrivals & departures",
+        "cartoons (commentary)",
+        "american",
+        "women",
+        "chromolithographs",
+        "color",
+        "spanish-american war",
+        "periodical illustrations",
+        "clothing & dress",
+        "military personnel",
+        "social life"
+      ],
+      "timestamp": "2022-05-02T06:04:55.229Z",
+      "title": "After the campaigns - return of the conquering heros",
+      "url": "https://www.loc.gov/item/2012647473/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2012647489/",
+        "http://www.loc.gov/item/2012647489/",
+        "http://www.loc.gov/pictures/item/2012647489/",
+        "https://www.loc.gov/pictures/collection/cph/item/2012647489/",
+        "http://www.loc.gov/pictures/collection/cph/item/2012647489/",
+        "http://www.loc.gov/resource/ppmsca.28649/",
+        "http://lccn.loc.gov/2012647489",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.28649"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ehrhart, s. d. (samuel d.)"
+      ],
+      "date": "1898-11-23",
+      "dates": [
+        "1898-11-23",
+        "1898"
+      ],
+      "description": [
+        "1 print : chromolithograph. | Print shows a fashionably dressed, healthy young woman hanging on the arm of an injured football player; in the background, two hearty young men, a soldier and a sailor, home from military service during the Spanish-American War, and a young man, ill-suited for military service, are standing on the sidelines, no longer favored by the young woman."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T00:07:15.882Z",
+      "group": [
+        "cph",
+        "catalog-split-11",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-11",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2012647489/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/28600/28649_150px.jpg#h=150&w=120",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/28600/28649t.gif#h=150&w=120",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/28600/28649r.jpg#h=640&w=512",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/28600/28649v.jpg#h=1024&w=820"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/17334543",
+        "2012647489",
+        "2013-06-07t13:54:41"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 49.09583,
+      "shelf_id": "Illus. in AP101.P7 1898 (Case X) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "arrivals & departures",
+        "cartoons (commentary)",
+        "american",
+        "women",
+        "magazine covers",
+        "chromolithographs",
+        "color",
+        "football players",
+        "periodical illustrations",
+        "clothing & dress",
+        "military personnel",
+        "courtship",
+        "social life"
+      ],
+      "timestamp": "2022-05-02T06:04:55.229Z",
+      "title": "The modern maid - as changeable as the seasons",
+      "url": "https://www.loc.gov/item/2012647489/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2012648563/",
+        "http://www.loc.gov/item/2012648563/",
+        "http://www.loc.gov/pictures/item/2012648563/",
+        "https://www.loc.gov/pictures/collection/cph/item/2012648563/",
+        "http://www.loc.gov/pictures/collection/cph/item/2012648563/",
+        "http://www.loc.gov/resource/ppmsca.28943/",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.28943",
+        "http://lccn.loc.gov/2012648563"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ehrhart, s. d. (samuel d.)"
+      ],
+      "date": "1895-09-18",
+      "dates": [
+        "1895-09-18",
+        "1895"
+      ],
+      "description": [
+        "1 print : chromolithograph. | Print shows a female figure with wings rising from the flames of summer romances that are burning out as the season comes to an end; she leaves behind many broken-hearted men on the beach at a summer resort."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-25T00:09:46.955Z",
+      "group": [
+        "cph",
+        "catalog-split-05",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-05",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2012648563/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/28900/28943_150px.jpg#h=97&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/28900/28943t.gif#h=97&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/28900/28943r.jpg#h=415&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/28900/28943v.jpg#h=663&w=1024"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "http://www.loc.gov/item/17398309",
+        "2013-06-07t14:30:57",
+        "2012648563"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 49.09583,
+      "shelf_id": "Illus. in AP101.P7 1895 (Case X) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "cartoons (commentary)",
+        "women",
+        "summer",
+        "phoenix (mythical bird)",
+        "chromolithographs",
+        "color",
+        "rejection (psychology)",
+        "periodical illustrations",
+        "clothing & dress",
+        "men",
+        "courtship",
+        "social life"
+      ],
+      "timestamp": "2022-05-02T06:09:05.752Z",
+      "title": "The phœnix-like \"summer girl\"",
+      "url": "https://www.loc.gov/item/2012648563/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "https://www.loc.gov/pictures/item/2010651577/",
+        "http://www.loc.gov/item/2010651577/",
+        "http://www.loc.gov/pictures/item/2010651577/",
+        "https://www.loc.gov/pictures/collection/cph/item/2010651577/",
+        "http://www.loc.gov/pictures/collection/cph/item/2010651577/",
+        "http://www.loc.gov/resource/ppmsca.25621/",
+        "http://lccn.loc.gov/2010651577",
+        "https://hdl.loc.gov/loc.pnp/ppmsca.25621"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "ehrhart, s. d. (samuel d.)"
+      ],
+      "date": "1902-03-26",
+      "dates": [
+        "1902-03-26",
+        "1902"
+      ],
+      "description": [
+        "1 print : chromolithograph. | Illustration shows several young women wearing their new Easter fashions outside a church. Includes a poem titled \"The Easter Girls\" by Madeline Bridges."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-08-24T23:50:47.902Z",
+      "group": [
+        "cph",
+        "catalog-split-02",
+        "catalog",
+        "miscellaneous-items-high-demand",
+        "main-catalog-split-02",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2010651577/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/25600/25621_150px.jpg#h=96&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/25600/25621t.gif#h=97&w=150",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/25600/25621r.jpg#h=412&w=640",
+        "https://tile.loc.gov/storage-services/service/pnp/ppmsca/25600/25621v.jpg#h=659&w=1024"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpg",
+        "image/tif"
+      ],
+      "number": [
+        "2013-06-06t13:02:48",
+        "2010651577",
+        "http://www.loc.gov/item/16529027"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "miscellaneous items in high demand",
+        "catalog",
+        "prints & photographs online catalog (library of congress)",
+        "prints and photographs division"
+      ],
+      "score": 49.09583,
+      "shelf_id": "Illus. in AP101.P7 1902 (Case X) [P&P]",
+      "site": [
+        "pictures",
+        "catalog"
+      ],
+      "subject": [
+        "cartoons (commentary)",
+        "churches",
+        "women",
+        "chromolithographs",
+        "color",
+        "easter",
+        "city & town life",
+        "periodical illustrations",
+        "clothing & dress",
+        "social life"
+      ],
+      "timestamp": "2022-05-02T05:36:21.226Z",
+      "title": "The Easter girls",
+      "url": "https://www.loc.gov/item/2010651577/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "cph",
+      "catalog-split-00",
+      "catalog",
+      "miscellaneous-items-high-demand",
+      "main-catalog-split-00",
+      "main-catalog",
+      "catalog-split-07",
+      "main-catalog-split-07",
+      "catalog-split-03",
+      "main-catalog-split-03",
+      "catalog-split-04",
+      "main-catalog-split-04",
+      "catalog-split-11",
+      "main-catalog-split-11",
+      "catalog-split-05",
+      "main-catalog-split-05",
+      "catalog-split-02",
+      "main-catalog-split-02",
+      "collections-portal",
+      "awhbib.xml",
+      "american-womens-history",
+      "gdc/scd",
+      "general-collections-scan-on-demand-new",
+      "gdcdatasets",
+      "general-collections-datasets",
+      "usrep102",
+      "us-report",
+      "nsr/marc",
+      "national-screening-room"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "ppmsca.25753",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.6191632747650146,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/ppmsca.25753/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/ppmsca.25753/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1734773627.8074338,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 0,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 138023613,
+      "url": "https://tile.loc.gov/storage-services/master/pnp/ppmsca/25700/25753u.tif",
+      "width": 0
+    },
+    {
+      "height": 97,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 5589,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/25700/25753_150px.jpg",
+      "width": 150
+    },
+    {
+      "height": 97,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 15724,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/25700/25753t.gif",
+      "width": 150
+    },
+    {
+      "height": 413,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 69750,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/25700/25753r.jpg",
+      "width": 640
+    },
+    {
+      "height": 661,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 187304,
+      "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/25700/25753v.jpg",
+      "width": 1024
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related": {
+    "group_record": null,
+    "lot_link": null,
+    "neighbors": "https://www.loc.gov/pictures/related/?&co=cph&pk=2010652277&st=gallery&sb=call_number#focus",
+    "survey_link": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/visual-image-web-archive/about-this-collection/",
+        "http://www.loc.gov/collections/visimage/",
+        "http://www.loc.gov/collections/visual-image-website-archives/",
+        "http://lccn.loc.gov/2007700166",
+        "http://www.loc.gov/item/2007700166/",
+        "https://hdl.loc.gov/loc.natlib/collnatlib.00000014"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress. prints and photographs division",
+        "library of congress"
+      ],
+      "count": 19,
+      "date": "2008",
+      "dates": [
+        "2008"
+      ],
+      "description": [
+        "Like books and magazines in the Library's general collections, this set of websites complements the original and historical visual material held in the Prints &amp; Photographs Division. Included are sites for photographers and cartoonists represented in P&amp;P (e.g., Kuper, Prokudin-Gorskii, Rogovin, and Telnaes). Also, websites for new digital image formats (e.g., Wrist photography, Reicholdarts cell phone photos, and Micah Wright remix posters). Other sites document new ways of displaying the visual arts through virtual galleries (e.g., Alternative Museum) and new ways of representing architectural work and the built environment (e.g., McKissack, Pritzker Prize, Vergara's Invincible Cities, and Vi&#241;oly). Major then-current event themes include views of Kurdistan and the Iraq War."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:06:08.086Z",
+      "group": [
+        "collections-portal"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/visual-image-web-archive/about-this-collection/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/visual-image-web-archive/500_500.jpg"
+      ],
+      "index": 1,
+      "items": "https://www.loc.gov/collections/visual-image-web-archive/",
+      "language": [
+        "english"
+      ],
+      "location": [
+        "kurdistan",
+        "united states",
+        "russian federation"
+      ],
+      "number": [
+        "2012-03-21t11:31:00",
+        "2007700166"
+      ],
+      "original_format": [
+        "collection",
+        "web archive"
+      ],
+      "partof": [
+        "prints and photographs division",
+        "digital collections",
+        "visual image web archive"
+      ],
+      "score": 18.278172,
+      "shelf_id": "~/collections/visual-image-web-archive/about-this-collection/",
+      "subject": [
+        "cartoons (commentary)",
+        "art & architecture",
+        "photographs",
+        "digital photographs",
+        "political cartoons",
+        "arts and culture",
+        "ethnographic photographs",
+        "portraits",
+        "color",
+        "photographs, prints & posters",
+        "illustrations"
+      ],
+      "timestamp": "2024-12-21T06:49:36.114Z",
+      "title": "Visual Image Web Archive",
+      "type": [
+        "collection"
+      ],
+      "url": "https://www.loc.gov/collections/visual-image-web-archive/about-this-collection/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/awhbib000026/",
+        "https://hdl.loc.gov/loc.gmd/g3820.awh00010",
+        "http://www.loc.gov/resource/g3820.awh00010/",
+        "http://www.loc.gov/item/g3820.awh00010/"
+      ],
+      "campaigns": [],
+      "digitized": true,
+      "extract_timestamp": "2020-09-19T02:57:30.490Z",
+      "group": [
+        "awhbib.xml",
+        "american-womens-history"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/awhbib000026/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/gmd/gmd382/g3820/g3820/awh00010.gif",
+        "https://tile.loc.gov/storage-services/service/gmd/gmd382/g3820/g3820/awh00010.gif#h=150&w=202",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3820:g3820:awh00010/full/pct:25/0/default.jpg#h=271&w=365",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3820:g3820:awh00010/full/pct:50/0/default.jpg#h=543&w=731",
+        "https://tile.loc.gov/image-services/iiif/service:gmd:gmd382:g3820:g3820:awh00010/full/pct:100/0/default.jpg#h=1087&w=1463"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "map"
+      ],
+      "partof": [
+        "geography and map division",
+        "american memory",
+        "american women: a gateway to library of congress resources for the study of women's history and culture in the united states"
+      ],
+      "score": 16.007063,
+      "shelf_id": "Title Collection",
+      "site": [
+        "ammem"
+      ],
+      "subject": [
+        "transportation",
+        "maps",
+        "women",
+        "automobile driving"
+      ],
+      "timestamp": "2022-12-10T04:43:26.356Z",
+      "title": "[Detail from \"Shell road map: Pennsylvania\" showing woman driving a car with license plates in the background]",
+      "type": [
+        "cartographic"
+      ],
+      "url": "https://www.loc.gov/item/awhbib000026/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2005619200",
+        "http://www.loc.gov/item/2005619200/",
+        "https://hdl.loc.gov/loc.gdc/gdcebookspublic.2005619200",
+        "http://www.loc.gov/resource/gdcebookspublic.2005619200/",
+        "http://papers.nber.org/papers/W11553"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "fullerton, don",
+        "gan, li",
+        "national bureau of economic research",
+        "feng, ye"
+      ],
+      "date": "2005",
+      "dates": [
+        "2005"
+      ],
+      "description": [
+        "\"Mobile sources contribute large percentages of each pollutant, but technology is not yet available to measure and tax emissions from each vehicle.  We build a behavioral model of household choices about vehicles and miles traveled.  The ideal-but-unavailable emissions tax would encourage drivers to abate emissions through many behaviors, some of which involve market transactions that can be observed for feasible market incentives (such as a gas tax, subsidy to new cars, or tax by vehicle type).  Our model can calculate behavioral effects of each such price and thus calculate car choices, miles, and emissions.A nested logit structure is used to model discrete choices among different vehicle bundles.  We also consider continuous choices of miles driven and the age of each vehicle.  We propose a consistent estimation method for both discrete and continuous demands in one step, to capture the interactive effects of simultaneous decisions.  Results are compared with those of the traditional sequential estimation procedure\"--National Bureau of Economic Research web site."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-11-02T14:21:47.798Z",
+      "group": [
+        "gdc/scd",
+        "general-collections-scan-on-demand-new"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2005619200/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/05/61/92/00/2005619200/2005619200.gif",
+        "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/05/61/92/00/2005619200/2005619200.gif#h=401&w=310"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "number": [
+        "2024-10-25t16:01:24",
+        "2005619200"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "catalog",
+        "general collections"
+      ],
+      "score": 11.16139,
+      "shelf_id": "HB1",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "economic aspects",
+        "mathematical models",
+        "automobiles",
+        "automobile driving",
+        "pollution",
+        "government policy",
+        "purchasing"
+      ],
+      "timestamp": "2024-11-02T15:52:21.603Z",
+      "title": "Vehicle choices, miles driven, and pollution policies",
+      "type": [
+        "text"
+      ],
+      "url": "https://www.loc.gov/item/2005619200/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2020449244",
+        "http://www.loc.gov/item/2020449244/",
+        "https://hdl.loc.gov/loc.gdc/gdcdatasets.2020449244",
+        "http://www.loc.gov/resource/gdcdatasets.2020449244/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "united states. federal highway administration"
+      ],
+      "date": "2017",
+      "dates": [
+        "2017"
+      ],
+      "description": [
+        "\"Contains all PVDs generated during the AMCD field testing program. The probe vehicle message is used to exchange status about a vehicle with other DSRC readers to allow the collection of information about a typical vehicle's traveling behaviors along a segment of road. The exchanges of this message as well as the event which caused the collection of various elements defined in the messages are in Annex B of the SAE J2735 standard.\"-- Dataset website. \"Date created: May 26, 2017.\"--Dataset website, About this Dataset, viewed July 12, 2022. \"A CSV-formatted data file containing a collection of PVD messages used to exchange status information about a vehicle with other (typically RSU) DSRC devices to support the collection of information about a typical vehicle's traveling behaviors along a segment of road. In typical use, the reporting vehicle has collected one or more snapshots, which it will send to receiving RSUs along with information about the point in time and space when the snapshot event occurred\"--AMCD Metadata Description Review, detailed description of data set, Probe Vehicle Data. Title from dataset website, viewed July 12, 2022."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-10-28T17:45:04.130Z",
+      "group": [
+        "gdcdatasets",
+        "general-collections-datasets"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2020449244/",
+      "image_url": [],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "virginia"
+      ],
+      "mime_type": [
+        "application/zip"
+      ],
+      "number": [
+        "other",
+        "2023-10-20t15:57:14",
+        "2020449244"
+      ],
+      "online_format": [
+        "compressed data"
+      ],
+      "original_format": [
+        "software, e-resource"
+      ],
+      "other_title": [
+        "Advanced Messaging Concept Development : Probe Vehicle Data"
+      ],
+      "partof": [
+        "catalog",
+        "selected datasets"
+      ],
+      "score": 11.16139,
+      "shelf_id": "TL152.5",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "traffic monitoring",
+        "automobile driving",
+        "data sets",
+        "virginia"
+      ],
+      "timestamp": "2023-10-28T17:45:39.116Z",
+      "title": "Dataset of probe vehicle data from the Advanced Messaging Concept Development field testing program",
+      "type": [
+        "software"
+      ],
+      "url": "https://www.loc.gov/item/2020449244/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/usrep284044/",
+        "http://www.loc.gov/resource/usrep.usrep284044/",
+        "http://www.loc.gov/item/usrep.usrep284044/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "supreme court of the united states",
+        "mcreynolds, james clark"
+      ],
+      "date": "1931",
+      "dates": [
+        "1931"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-12-04T18:40:40.830Z",
+      "group": [
+        "usrep102",
+        "us-report"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/usrep284044/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/ll/usrep/usrep284/usrep284044/usrep284044.gif#h=150&w=100"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "application/pdf"
+      ],
+      "online_format": [
+        "image",
+        "pdf"
+      ],
+      "original_format": [
+        "periodical"
+      ],
+      "partof": [
+        "u.s. reports: civil procedure",
+        "united states reports (official opinions of the u.s. supreme court)",
+        "u.s. reports: volume 284",
+        "law library of congress"
+      ],
+      "score": 11.16139,
+      "shelf_id": "Call Number: KF101 Series: Civil Procedure Series: Volume 284",
+      "subject": [
+        "supreme court",
+        "goggles",
+        "legal remedies",
+        "judicial review and appeals",
+        "judicial decisions",
+        "periodical",
+        "steel",
+        "worker safety and health",
+        "law",
+        "chisels",
+        "united states",
+        "common law",
+        "personal injuries",
+        "court decisions",
+        "court cases",
+        "federal employers' liability act",
+        "civil procedure",
+        "labor",
+        "negligence",
+        "government documents",
+        "court opinions",
+        "law library",
+        "assumption of risk",
+        "u.s. reports",
+        "defective equipment",
+        "torts"
+      ],
+      "timestamp": "2023-12-04T19:02:54.645Z",
+      "title": "U.S. Reports: Chesapeake & Ohio Ry Co. v. Kuhn, 284 U.S. 44 (1931).",
+      "type": [
+        "periodical"
+      ],
+      "url": "https://www.loc.gov/item/usrep284044/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/00694261",
+        "http://www.loc.gov/item/00694261/",
+        "https://hdl.loc.gov/loc.mbrsmi/ntscrm.02498397",
+        "http://www.loc.gov/resource/ntscrm.02498397/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "thomas a. edison, inc",
+        "paper print collection (library of congress)",
+        "porter, edwin s.",
+        "sarony, gilbert"
+      ],
+      "date": "1901",
+      "dates": [
+        "1901"
+      ],
+      "description": [
+        "\"Scene opens in a photographer's studio. A typical old maid, impersonated by Mr. Gilbert Saroni [sic], enters to have her picture made. While the photographer is making his camera ready the old maid walks about the studio. She first looks at a hanger with a number of photo samples, which immediately falls from the wall, not being able to stand her gaze. She then looks at the clock and her face frightens the clock and causes the hands to turn around at lightning speed, and the clock suddenly falls to the floor with a crash. She then walks over to the mirror to ascertain the trouble, and as she presents herself in front of the glass it suddenly cracks in several places. The photographer then sits her in a chair and poses her ready for her picture. Just as he is to press the button the camera explodes with a great puff of smoke, completely destroying the camera and demolishing the studio. The picture finishes up with the old maid tipping back in her chair and losing her balance, displaying a large quantity of fancy lace goods. A sure winner. Length 75 feet\"--Edison films catalog, no. 105."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-10-28T12:53:18.178Z",
+      "group": [
+        "nsr/marc",
+        "national-screening-room"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/00694261/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mbrs/ntscrm/02498397/02498397.gif"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "video/mp4",
+        "image/jpeg",
+        "video/quicktime",
+        "application/x-video"
+      ],
+      "number": [
+        "2024-01-31t16:07:21",
+        "00694261"
+      ],
+      "online_format": [
+        "image",
+        "video"
+      ],
+      "original_format": [
+        "film, video"
+      ],
+      "other_title": [
+        "Title in Edison films catalog: Old maid posing for her picture"
+      ],
+      "partof": [
+        "national screening room",
+        "motion picture, broadcasting and recorded sound division",
+        "inventing entertainment: the early motion pictures and sound recordings of the edison companies",
+        "catalog"
+      ],
+      "score": 10.734318,
+      "shelf_id": "FLA 3753 (viewing print) FYA 3756 (viewing print) FRB 0999 (dupe neg pic) FPE 5264 (dupe neg pic) FRB 0602 (master pos pic) Box 0157H (paper pos) Box 5519 (paper pos, copy 2)",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "humor",
+        "short films",
+        "ugliness",
+        "older women",
+        "portrait photography",
+        "comedy films",
+        "silent films",
+        "fiction films"
+      ],
+      "timestamp": "2024-10-28T12:55:03.652Z",
+      "title": "The old maid having her picture taken",
+      "type": [
+        "moving image"
+      ],
+      "url": "https://www.loc.gov/item/00694261/"
+    }
+  ],
+  "reproductions": "<p>If an image is displaying, you can download it yourself. (Some images \ndisplay only as thumbnails outside the Library of Congress because of rights \nconsiderations, but you have access to larger size images on site.)\n</p>\n\n<p>  \nAlternatively, you can purchase copies of various types through Library \nof Congress Duplication Services</a>.\n</p>\n\n<p> \n<ol>\n<p>\n<li><strong>If a digital image is displaying:</strong> The qualities of the digital image \npartially depend on whether it was made from the original or an \nintermediate such as a copy negative or transparency. If the Reproduction \nNumber field above includes a reproduction number that starts with \nLC-DIG..., then there is a digital image that was made directly \nfrom the original and is of sufficient resolution for most publication\n purposes.\n</li> \n</p>\n\n<li><strong>If there is information listed in the Reproduction Number field above:</strong> \nYou can use the reproduction number to purchase a copy from Duplication \nServices.  It will be made from the source listed in the parentheses after\n the number.  \n<p> \nIf only black-and-white (&quot;b&w&quot;) sources are listed and you \n desire a copy showing color or tint (assuming the original has any), \n you can generally purchase a quality copy of the original in color by \n citing the Call Number listed above and including the catalog record \n (&quot;About This Item&quot;) with your request.\n </p>\n</li>\n\n<li><strong>If there is no information listed in the Reproduction Number field \nabove:</strong> You can generally purchase a quality copy through \nDuplication Services. Cite the Call Number listed above and include the catalog record (&quot;About This Item&quot;) with \n your request.\n</li>\n</ol>\n</p>\n\n<p> \nPrice lists, contact information, and order forms are available on the\n <a href=\"//www.loc.gov/duplicationservices/\">Duplication Services Web site</a>.  \n</p>\n\n\n\n",
+  "resource": {
+    "caption": "digital file from original print",
+    "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/25700/25753_150px.jpg",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/ppmsca.25753/"
+  },
+  "resources": [
+    {
+      "caption": "digital file from original print",
+      "image": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/25700/25753_150px.jpg",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/ppmsca.25753/"
+    }
+  ],
+  "thesaurus_entry": null,
+  "timestamp": 1734773628426,
+  "type": "legacyzoom",
+  "unrestricted": true,
+  "views": {
+    "brief": "https://www.loc.gov/resource/ppmsca.25753/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/ppmsca.25753/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/ppmsca.25753/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/ppmsca.25753/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/ppmsca.25753/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/ppmsca.25753/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/ppmsca.25753/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/ppmsca.25753/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/ppmsca.25753/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/ppmsca.25753/?fo=json&st=text"
+  }
+}
