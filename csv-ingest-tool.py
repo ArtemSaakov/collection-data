@@ -87,7 +87,6 @@ def extract_dates(container: list) -> str:
              - "yyyy" for single years
              - An empty string if no recognizable date is found
     """
-
     # if container contains a nested list, extract the first item from the
     # nested list, as that is the portion that contains date values for these
     # instances
@@ -153,7 +152,7 @@ def extract_dates(container: list) -> str:
         return f"{year:04d}"
 
     # if no recognizable date found
-    return ""
+    return None
 
 
 def extract_description(desc: str, notes: list) -> str:
@@ -254,20 +253,21 @@ def main() -> None:
                 data_dict["item_type"] = "Item"
                 data_dict["date_uploaded"] = td
                 data_dict["source_file"] = f'../{"/".join(i.parts[-3:])}'
+                data_dict["image_url"] = data.get("image_url", [])[-1]
                 data_dict[f"{dc}title"] = data.get("title", "")
                 data_dict[f"{dc}created"] = extract_dates(
                     data.get("created_published", [""])
-                )
+                ) or data.get('date', [''])
                 data_dict[f"{dc}description"] = extract_description(
                     data.get("description", [""])[0], data.get("notes", [""])
-                )
+                ) or data_dict[f"{dc}title"]
                 data_dict[f"{dc}contributor"] = "|".join(
                     data.get("contributor_names", [""])
                 )
                 data_dict[f"{dc}identifier:controlNumber"] = deep_data.get(
                     "control_number"
-                ) or data.get("library_of_congress_control_number", "")
-                data_dict[f"{mods}locationUrl"] = data.get("link", "")
+                ) or data.get("library_of_congress_control_number") or data.get("id", '').split('/')[-2] or data.get('url', '').split('/')[-2]
+                data_dict[f"{mods}locationUrl"] = data.get("link") or data.get("url", "")
                 data_dict[f"{mods}mediaType"] = "|".join(data.get("mime_type", [""]))
                 ext_form = determine_extent_form(data.get("medium", [""]))
                 data_dict[f"{mods}physicalExtent"] = ext_form[0]

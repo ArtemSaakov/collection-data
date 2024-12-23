@@ -1,0 +1,1493 @@
+{
+  "articles_and_essays": [
+    {
+      "score": 6.9678936,
+      "title": "Watch “Walt Whitman: Citizen Poet”",
+      "url": "https://blogs.loc.gov/catbird/2019/06/watch-walt-whitman-citizen-poet/"
+    }
+  ],
+  "cite_this": {
+    "apa": "(1841) <cite>Walt Whitman Papers in the Charles E. Feinberg Collection: Memorabilia, undated; Spectacles</cite>. - 1981. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mss1863002449/.",
+    "chicago": "<cite>Walt Whitman Papers in the Charles E. Feinberg Collection: Memorabilia, undated; Spectacles</cite>. - 1981, 1841. Manuscript/Mixed Material. https://www.loc.gov/item/mss1863002449/.",
+    "mla": "<cite>Walt Whitman Papers in the Charles E. Feinberg Collection: Memorabilia, undated; Spectacles</cite>. - 1981, 1841. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;www.loc.gov/item/mss1863002449/&gt;."
+  },
+  "item": {
+    "_version_": 1728709510677135360,
+    "access_restricted": false,
+    "aka": [
+      "http://www.loc.gov/item/mss1863002449/",
+      "https://hdl.loc.gov/loc.mss/ms004014.mss18630.02449",
+      "http://www.loc.gov/resource/mss18630.20205/",
+      "http://www.loc.gov/item/mss18630.20205/"
+    ],
+    "call_number": [
+      "series: Memorabilia, undated",
+      "mss18630, box 202"
+    ],
+    "campaigns": [],
+    "created_published": [
+      "1841 - 1981"
+    ],
+    "date": "1841-01-01",
+    "dates": [
+      {
+        "1841 to 1981": "https://www.loc.gov/search/?dates=1841/1981&fo=json"
+      }
+    ],
+    "digital_id": [
+      "http://hdl.loc.gov/loc.mss/ms004014.mss18630.02449"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2022-01-25T18:19:07.920Z",
+    "extract_urls": [
+      "http://c2vlpdmtool01.loc.gov/data-management-tool/export_group_xml/mss18630/mss1863002449.xml#mss18630"
+    ],
+    "format": [
+      {
+        "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format:manuscript/mixed+material&fo=json"
+      }
+    ],
+    "genre": [
+      "Manuscripts"
+    ],
+    "group": [
+      "mss18630",
+      "walt-whitman-papers-in-the-charles-e-feinberg-collection"
+    ],
+    "hassegments": true,
+    "id": "http://www.loc.gov/item/mss1863002449/",
+    "image_url": [
+      "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:002/full/pct:12.5/0/default.jpg#h=294&w=457",
+      "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:002/full/pct:25/0/default.jpg#h=589&w=915",
+      "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:002/full/pct:50/0/default.jpg#h=1178&w=1831",
+      "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:002/full/pct:100/0/default.jpg#h=2357&w=3662"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": [
+        "series: Memorabilia, undated",
+        "mss18630, box 202"
+      ],
+      "created_published": [
+        "1841 - 1981"
+      ],
+      "date": "18410000/19810000",
+      "digital_id": [
+        "http://hdl.loc.gov/loc.mss/ms004014.mss18630.02449"
+      ],
+      "format": "mixed material",
+      "genre": [
+        "Manuscripts"
+      ],
+      "language": [
+        "eng"
+      ],
+      "location": [
+        "United States"
+      ],
+      "related_items": [
+        {
+          "title": "View Walt Whitman Papers in the Charles E Feinberg Collection Finding Aid",
+          "url": "http://hdl.loc.gov/loc.mss/ms004014.mss18630.02449_bak"
+        }
+      ],
+      "repository": "Manuscript Division",
+      "rights": "No known restrictions on use or reproduction.",
+      "source_collection": "Walt Whitman papers in the Charles E. Feinberg collection",
+      "subjects": [
+        "Poets",
+        "American literature.",
+        "American poetry.",
+        "American prose literature.",
+        "Collectors",
+        "Whitman, Walt, 1819-1892. Leaves of grass. 1855.",
+        "Manuscripts",
+        "United States"
+      ],
+      "title": "Walt Whitman Papers in the Charles E. Feinberg Collection: Memorabilia, undated; Spectacles"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "location": [
+      "united states"
+    ],
+    "locations": [
+      {
+        "united states": "https://www.loc.gov/search/?fa=location:united+states&fo=json"
+      }
+    ],
+    "mime_type": [
+      "image/tiff",
+      "image/jpeg",
+      "image/jp2"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "manuscript/mixed material"
+    ],
+    "other_formats": [],
+    "partof": [
+      {
+        "count": 7,
+        "title": "walt whitman papers in the charles e. feinberg collection: memorabilia, undated",
+        "url": "https://www.loc.gov/search/?fa=partof:walt+whitman+papers+in+the+charles+e.+feinberg+collection:+memorabilia,+undated&fo=json"
+      },
+      {
+        "count": 2932,
+        "title": "walt whitman papers in the charles e. feinberg collection",
+        "url": "https://www.loc.gov/collections/feinberg-whitman/?fo=json"
+      },
+      {
+        "count": 169544,
+        "title": "manuscript division",
+        "url": "https://www.loc.gov/search/?fa=partof:manuscript+division&fo=json"
+      }
+    ],
+    "related_items": [
+      {
+        "title": "View Walt Whitman Papers in the Charles E Feinberg Collection Finding Aid",
+        "url": "http://hdl.loc.gov/loc.mss/ms004014.mss18630.02449_bak"
+      }
+    ],
+    "repository": [
+      "Manuscript Division"
+    ],
+    "resources": [
+      {
+        "files": 5,
+        "image": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:002/full/pct:12.5/0/default.jpg",
+        "representative_index": 1,
+        "url": "https://www.loc.gov/resource/mss18630.20205/"
+      }
+    ],
+    "rights": [
+      "<p>The Library of Congress provides access to manuscripts at the Library of Congress for educational and research purposes and makes no warranty with regard to their use for other purposes.</p>\r\n<p>Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with persons desiring to use the item.</p>\r\n<p>The written permission of the copyright owners and/or holders of other rights (such as publicity and/or privacy rights) is required for distribution, reproduction, or other use of protected items beyond that allowed by fair use or other statutory exemptions. There may be content that is protected under the copyright or neighboring-rights laws of other nations.</p>\r\n<p>Credit Line: Library of Congress, Manuscript Division, Walt Whitman Papers in the Charles E. Feinberg Collection.</p>\r\n"
+    ],
+    "score": 19.206085,
+    "shard": "00",
+    "shelf_id": "mss18630, box 202",
+    "site": [],
+    "source_collection": "Walt Whitman papers in the Charles E. Feinberg collection",
+    "subject": [
+      "whitman, walt,. leaves of grass.",
+      "poets",
+      "american literature",
+      "american poetry",
+      "collectors",
+      "american prose literature",
+      "manuscripts"
+    ],
+    "subject_headings": [
+      "Poets",
+      "American literature",
+      "American poetry",
+      "American prose literature",
+      "Collectors",
+      "Whitman, Walt, 1819-1892. Leaves of grass. 1855",
+      "Manuscripts",
+      "United States"
+    ],
+    "subjects": [
+      {
+        "american literature": "https://www.loc.gov/search/?fa=subject:american+literature&fo=json"
+      },
+      {
+        "american poetry": "https://www.loc.gov/search/?fa=subject:american+poetry&fo=json"
+      },
+      {
+        "american prose literature": "https://www.loc.gov/search/?fa=subject:american+prose+literature&fo=json"
+      },
+      {
+        "collectors": "https://www.loc.gov/search/?fa=subject:collectors&fo=json"
+      },
+      {
+        "manuscripts": "https://www.loc.gov/search/?fa=subject:manuscripts&fo=json"
+      },
+      {
+        "poets": "https://www.loc.gov/search/?fa=subject:poets&fo=json"
+      },
+      {
+        "whitman, walt,. leaves of grass.": "https://www.loc.gov/search/?fa=subject:whitman,+walt,.+leaves+of+grass.&fo=json"
+      }
+    ],
+    "timestamp": "2022-03-30T07:37:40.075Z",
+    "title": "Walt Whitman Papers in the Charles E. Feinberg Collection: Memorabilia, undated; Spectacles",
+    "type": [
+      "manuscript/mixed material"
+    ],
+    "url": "https://www.loc.gov/item/mss1863002449/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mss1863002443/",
+        "https://hdl.loc.gov/loc.mss/ms004014.mss18630.02443",
+        "http://www.loc.gov/resource/mss18630.20002/",
+        "http://www.loc.gov/item/mss18630.20002/"
+      ],
+      "campaigns": [],
+      "date": "1841-01-01",
+      "dates": [
+        "[1841 TO 1981]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-25T18:19:07.920Z",
+      "group": [
+        "mss18630",
+        "walt-whitman-papers-in-the-charles-e-feinberg-collection"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mss1863002443/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:200:02:002/full/pct:6.25/0/default.jpg#h=275&w=380",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:200:02:002/full/pct:12.5/0/default.jpg#h=551&w=761",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:200:02:002/full/pct:25/0/default.jpg#h=1102&w=1522",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:200:02:002/full/pct:50/0/default.jpg#h=2204&w=3045",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:200:02:002/full/pct:100/0/default.jpg#h=4409&w=6090"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "walt whitman papers in the charles e. feinberg collection: memorabilia, undated",
+        "walt whitman papers in the charles e. feinberg collection"
+      ],
+      "score": 35.6378,
+      "shelf_id": "mss18630, box 200",
+      "subject": [
+        "whitman, walt,. leaves of grass.",
+        "poets",
+        "american literature",
+        "american poetry",
+        "collectors",
+        "american prose literature",
+        "manuscripts"
+      ],
+      "timestamp": "2022-03-30T07:37:40.075Z",
+      "title": "Walt Whitman Papers in the Charles E. Feinberg Collection: Memorabilia, undated; Hand cast; Bronze",
+      "url": "https://www.loc.gov/item/mss1863002443/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mss1863002444/",
+        "https://hdl.loc.gov/loc.mss/ms004014.mss18630.02444",
+        "http://www.loc.gov/resource/mss18630.20101/",
+        "http://www.loc.gov/item/mss18630.20101/"
+      ],
+      "campaigns": [],
+      "date": "1841-01-01",
+      "dates": [
+        "[1841 TO 1981]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-25T18:19:07.920Z",
+      "group": [
+        "mss18630",
+        "walt-whitman-papers-in-the-charles-e-feinberg-collection"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mss1863002444/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:201:01:002/full/pct:6.25/0/default.jpg#h=222&w=296",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:201:01:002/full/pct:12.5/0/default.jpg#h=445&w=592",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:201:01:002/full/pct:25/0/default.jpg#h=890&w=1185",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:201:01:002/full/pct:50/0/default.jpg#h=1780&w=2370",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:201:01:002/full/pct:100/0/default.jpg#h=3560&w=4740"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "walt whitman papers in the charles e. feinberg collection: memorabilia, undated",
+        "walt whitman papers in the charles e. feinberg collection"
+      ],
+      "score": 35.6378,
+      "shelf_id": "mss18630, box 201",
+      "subject": [
+        "whitman, walt,. leaves of grass.",
+        "poets",
+        "american literature",
+        "american poetry",
+        "collectors",
+        "american prose literature",
+        "manuscripts"
+      ],
+      "timestamp": "2022-03-30T07:37:40.075Z",
+      "title": "Walt Whitman Papers in the Charles E. Feinberg Collection: Memorabilia, undated; Hand cast; Plaster",
+      "url": "https://www.loc.gov/item/mss1863002444/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mss1863002445/",
+        "https://hdl.loc.gov/loc.mss/ms004014.mss18630.02445",
+        "http://www.loc.gov/resource/mss18630.20201/",
+        "http://www.loc.gov/item/mss18630.20201/"
+      ],
+      "campaigns": [],
+      "date": "1841-01-01",
+      "dates": [
+        "[1841 TO 1981]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-25T18:19:07.920Z",
+      "group": [
+        "mss18630",
+        "walt-whitman-papers-in-the-charles-e-feinberg-collection"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/mss1863002445/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:01:001/full/pct:6.25/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:01:001/full/pct:6.25/0/default.jpg#h=183&w=279",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:01:001/full/pct:12.5/0/default.jpg#h=366&w=559",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:01:001/full/pct:25/0/default.jpg#h=732&w=1119",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:01:001/full/pct:50/0/default.jpg#h=1464&w=2239",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:01:001/full/pct:100/0/default.jpg#h=2928&w=4479"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "walt whitman papers in the charles e. feinberg collection: memorabilia, undated",
+        "walt whitman papers in the charles e. feinberg collection"
+      ],
+      "score": 35.6378,
+      "shelf_id": "mss18630, box 202",
+      "subject": [
+        "whitman, walt,. leaves of grass.",
+        "poets",
+        "american literature",
+        "american poetry",
+        "collectors",
+        "american prose literature",
+        "manuscripts"
+      ],
+      "timestamp": "2022-03-30T07:37:40.075Z",
+      "title": "Walt Whitman Papers in the Charles E. Feinberg Collection: Memorabilia, undated; Haversack",
+      "url": "https://www.loc.gov/item/mss1863002445/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mss1863002446/",
+        "https://hdl.loc.gov/loc.mss/ms004014.mss18630.02446",
+        "http://www.loc.gov/resource/mss18630.20202/",
+        "http://www.loc.gov/item/mss18630.20202/"
+      ],
+      "campaigns": [],
+      "date": "1841-01-01",
+      "dates": [
+        "[1841 TO 1981]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-25T18:19:07.920Z",
+      "group": [
+        "mss18630",
+        "walt-whitman-papers-in-the-charles-e-feinberg-collection"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mss1863002446/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:02:002/full/pct:12.5/0/default.jpg#h=349&w=311",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:02:002/full/pct:25/0/default.jpg#h=698&w=622",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:02:002/full/pct:50/0/default.jpg#h=1396&w=1244",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:02:002/full/pct:100/0/default.jpg#h=2792&w=2488"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "walt whitman papers in the charles e. feinberg collection: memorabilia, undated",
+        "walt whitman papers in the charles e. feinberg collection"
+      ],
+      "score": 35.6378,
+      "shelf_id": "mss18630, box 202",
+      "subject": [
+        "whitman, walt,. leaves of grass.",
+        "poets",
+        "american literature",
+        "american poetry",
+        "collectors",
+        "american prose literature",
+        "manuscripts"
+      ],
+      "timestamp": "2022-03-30T07:37:40.075Z",
+      "title": "Walt Whitman Papers in the Charles E. Feinberg Collection: Memorabilia, undated; Medallion",
+      "url": "https://www.loc.gov/item/mss1863002446/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mss1863002447/",
+        "https://hdl.loc.gov/loc.mss/ms004014.mss18630.02447",
+        "http://www.loc.gov/resource/mss18630.20203/",
+        "http://www.loc.gov/item/mss18630.20203/"
+      ],
+      "campaigns": [],
+      "date": "1841-01-01",
+      "dates": [
+        "[1841 TO 1981]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-25T18:19:07.920Z",
+      "group": [
+        "mss18630",
+        "walt-whitman-papers-in-the-charles-e-feinberg-collection"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mss1863002447/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:03:002/full/pct:12.5/0/default.jpg#h=487&w=341",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:03:002/full/pct:25/0/default.jpg#h=974&w=682",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:03:002/full/pct:50/0/default.jpg#h=1949&w=1364",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:03:002/full/pct:100/0/default.jpg#h=3898&w=2729"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "walt whitman papers in the charles e. feinberg collection: memorabilia, undated",
+        "walt whitman papers in the charles e. feinberg collection"
+      ],
+      "score": 35.6378,
+      "shelf_id": "mss18630, box 202",
+      "subject": [
+        "whitman, walt,. leaves of grass.",
+        "poets",
+        "american literature",
+        "american poetry",
+        "collectors",
+        "american prose literature",
+        "manuscripts"
+      ],
+      "timestamp": "2022-03-30T07:37:40.075Z",
+      "title": "Walt Whitman Papers in the Charles E. Feinberg Collection: Memorabilia, undated; Pen",
+      "url": "https://www.loc.gov/item/mss1863002447/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mss1863002448/",
+        "https://hdl.loc.gov/loc.mss/ms004014.mss18630.02448",
+        "http://www.loc.gov/resource/mss18630.20204/",
+        "http://www.loc.gov/item/mss18630.20204/"
+      ],
+      "campaigns": [],
+      "date": "1841-01-01",
+      "dates": [
+        "[1841 TO 1981]"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2022-01-25T18:19:07.920Z",
+      "group": [
+        "mss18630",
+        "walt-whitman-papers-in-the-charles-e-feinberg-collection"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mss1863002448/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:04:002/full/pct:6.25/0/default.jpg#h=193&w=264",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:04:002/full/pct:12.5/0/default.jpg#h=387&w=528",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:04:002/full/pct:25/0/default.jpg#h=774&w=1056",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:04:002/full/pct:50/0/default.jpg#h=1548&w=2113",
+        "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:04:002/full/pct:100/0/default.jpg#h=3096&w=4227"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/tiff",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "manuscript division",
+        "walt whitman papers in the charles e. feinberg collection: memorabilia, undated",
+        "walt whitman papers in the charles e. feinberg collection"
+      ],
+      "score": 35.6378,
+      "shelf_id": "mss18630, box 202",
+      "subject": [
+        "whitman, walt,. leaves of grass.",
+        "poets",
+        "american literature",
+        "american poetry",
+        "collectors",
+        "american prose literature",
+        "manuscripts"
+      ],
+      "timestamp": "2022-03-30T07:37:40.075Z",
+      "title": "Walt Whitman Papers in the Charles E. Feinberg Collection: Memorabilia, undated; Pocket watch",
+      "url": "https://www.loc.gov/item/mss1863002448/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "mss18630",
+      "walt-whitman-papers-in-the-charles-e-feinberg-collection",
+      "wdlpartner",
+      "catalog-split-10",
+      "catalog",
+      "world-digital-library-partners",
+      "main-catalog-split-10",
+      "main-catalog",
+      "catalog-split-11",
+      "main-catalog-split-11",
+      "catalog-split-04",
+      "main-catalog-split-04",
+      "afccal",
+      "american-english-dialect-recordings"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 25,
+    "delimiter": null,
+    "digital_id": null,
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.7833831310272217,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": "mss1863002449/",
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/item/mss1863002449/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/item/mss1863002449/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "shards": [
+      "00"
+    ],
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "layouts/item/layout",
+    "timestamp": 1734773612.4252381,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/gdcwdl.wdl_01522/",
+        "https://hdl.loc.gov/loc.wdl/wdl.1522",
+        "http://www.loc.gov/item/2021669466/",
+        "http://lccn.loc.gov/2021669466",
+        "http://www.loc.gov/resource/wdl.1522/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "anthony, edward",
+        "brady, mathew b."
+      ],
+      "date": "1861-01-01",
+      "dates": [
+        "1861"
+      ],
+      "description": [
+        "Ralph Waldo Emerson (1803-82) was the most prominent American essayist and philosopher of the 19th century. Born in Boston, he was educated at the Boston Latin School and at Harvard College. He studied divinity and served for a time as a Unitarian minister but left the ministry in 1832, after the death of his first wife. He then settled in Concord, Massachusetts, and spent the remainder of his life writing and lecturing. He made several trips to Europe, where he met such poets and thinkers as Walter Savage Landor, Samuel Taylor Coleridge, William Wordsworth, and Thomas Carlyle, who became a lifelong friend. Emerson was part of the group of American philosophers known as the Transcendentalists, whose members included the early feminist and political radical Margaret Fuller and the writer Henry David Thoreau. Emerson's best known essays include \"The American Scholar,\" \"Self-Reliance,\" and \"Friendship.\" The image is from an album of mostly Civil War-era portraits by the famous American photographer Matthew Brady (circa 1823-96) that belonged to Emperor Pedro II of Brazil (1825-91), a collector of photography as well as a photographer himself. The album was a gift to the emperor from Edward Anthony (1818-88), another early American photographer who, in partnership with his brother, owned a company that in the 1850s became the leading seller of photographic supplies in the United States. Dom Pedro may have acquired the album during a trip to the United States in 1876 when he, along with President Ulysses S. Grant, opened the Centennial Exposition in Philadelphia. Brady was born in upstate New York, the son of immigrants from Ireland. Best known for his photographs documenting the battles of the American Civil War, he began his career in 1844 when he opened a daguerreotype portrait studio at the corner of Broadway and Fulton Streets in New York City. Over the course of the next several decades, Brady produced portraits of leading American public figures, many of which were published as engravings in magazines and newspapers. In 1858 he opened a branch in Washington, DC. The album, which also contains a small number of non-photographic prints, is part of the Thereza Christina Maria Collection at the National Library of Brazil. The collection is composed of 21,742 photos assembled by Emperor Pedro II throughout his life and donated by him to the national library. The collection covers a wide variety of subjects. It documents the achievements of Brazil and Brazilians in the 19th century and also includes many photographs of Europe, Africa, and North America."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-07-24T06:13:10.249Z",
+      "group": [
+        "wdlpartner",
+        "catalog-split-10",
+        "catalog",
+        "world-digital-library-partners",
+        "main-catalog-split-10",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021669466/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:01:52:2:wdl_01522:icon966392/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:01:52:2:wdl_01522:icon966392/full/pct:12.5/0/default.jpg#h=340&w=223",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:01:52:2:wdl_01522:icon966392/full/pct:25/0/default.jpg#h=680&w=447",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:01:52:2:wdl_01522:icon966392/full/pct:50/0/default.jpg#h=1360&w=894",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:01:52:2:wdl_01522:icon966392/full/pct:100/0/default.jpg#h=2720&w=1789"
+      ],
+      "index": 1,
+      "language": [
+        "no linguistic content",
+        "not applicable"
+      ],
+      "location": [
+        "massachusetts",
+        "united states of america"
+      ],
+      "mime_type": [
+        "application/zip",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2021669466",
+        "2021-07-16t09:11:05"
+      ],
+      "online_format": [
+        "compressed data",
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "world digital library",
+        "national library of brazil",
+        "catalog",
+        "world digital library - partner items"
+      ],
+      "score": 12.476771,
+      "shelf_id": "http://lccn.loc.gov/2021669466",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "emerson, ralph waldo",
+        "transcendentalism (new england)",
+        "philosophers",
+        "memory of the world",
+        "poets, american",
+        "portrait photographs",
+        "american literature",
+        "1861 to 1876",
+        "massachusetts",
+        "authors, american",
+        "united states of america",
+        "poets",
+        "philosophy, american",
+        "authors",
+        "portraits"
+      ],
+      "timestamp": "2022-09-11T21:46:55.359Z",
+      "title": "Ralph Waldo Emerson.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2021669466/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/resource/gdcwdl.wdl_01523/",
+        "https://hdl.loc.gov/loc.wdl/wdl.1523",
+        "http://lccn.loc.gov/2021669467",
+        "http://www.loc.gov/resource/wdl.1523/",
+        "http://www.loc.gov/item/2021669467/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "anthony, edward",
+        "brady, mathew b."
+      ],
+      "date": "1861-01-01",
+      "dates": [
+        "1861"
+      ],
+      "description": [
+        "Henry Wadsworth Longfellow (1807-82) was an American poet, translator, and educator, whose poems were immensely popular with the reading public of his day. A graduate of Bowdoin College in his native Maine, he served as professor of modern European languages first at Bowdoin and later at Harvard. In his long career he managed to combine the writing of poems on American subjects with translation of works by many of the great European poets. His narrative poems on American historical subjects include Evangeline: A Tale of Acadie (1847), The Song of Hiawatha (1855), and The Courtship of Miles Standish (1858). His most famous translation is that of Dante's Divine Comedy, which he published in 1867. Longfellow is said to have known a dozen European languages. The image is from an album of mostly Civil War-era portraits by the famous American photographer Matthew Brady (circa 1823-96) that belonged to Emperor Pedro II of Brazil (1825-91), a collector of photography as well as a photographer himself. The album was a gift to the emperor from Edward Anthony (1818-88), another early American photographer who, in partnership with his brother, owned a company that in the 1850s became the leading seller of photographic supplies in the United States. Dom Pedro may have acquired the album during a trip to the United States in 1876 when he, along with President Ulysses S. Grant, opened the Centennial Exposition in Philadelphia. Brady was born in upstate New York, the son of immigrants from Ireland. Best known for his photographs documenting the battles of the American Civil War, he began his career in 1844 when he opened a daguerreotype portrait studio at the corner of Broadway and Fulton Streets in New York City. Over the course of the next several decades, Brady produced portraits of leading American public figures, many of which were published as engravings in magazines and newspapers. In 1858 he opened a branch in Washington, DC. The album, which also contains a small number of non-photographic prints, is part of the Thereza Christina Maria Collection at the National Library of Brazil. The collection is composed of 21,742 photos assembled by Emperor Pedro II throughout his life and donated by him to the national library. The collection covers a wide variety of subjects. It documents the achievements of Brazil and Brazilians in the 19th century and also includes many photographs of Europe, Africa, and North America."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2021-07-24T06:13:10.249Z",
+      "group": [
+        "wdlpartner",
+        "catalog-split-11",
+        "catalog",
+        "world-digital-library-partners",
+        "main-catalog-split-11",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2021669467/",
+      "image_url": [
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:01:52:3:wdl_01523:icon966393/full/pct:12.5/0/default.jpg",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:01:52:3:wdl_01523:icon966393/full/pct:12.5/0/default.jpg#h=340&w=223",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:01:52:3:wdl_01523:icon966393/full/pct:25/0/default.jpg#h=680&w=447",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:01:52:3:wdl_01523:icon966393/full/pct:50/0/default.jpg#h=1360&w=894",
+        "https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:01:52:3:wdl_01523:icon966393/full/pct:100/0/default.jpg#h=2720&w=1789"
+      ],
+      "index": 2,
+      "language": [
+        "no linguistic content",
+        "not applicable"
+      ],
+      "location": [
+        "massachusetts",
+        "united states of america"
+      ],
+      "mime_type": [
+        "application/zip",
+        "image/jpeg",
+        "image/jp2"
+      ],
+      "number": [
+        "2021669467",
+        "2021-07-16t09:11:06"
+      ],
+      "online_format": [
+        "compressed data",
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "world digital library",
+        "national library of brazil",
+        "catalog",
+        "world digital library - partner items"
+      ],
+      "score": 12.476771,
+      "shelf_id": "http://lccn.loc.gov/2021669467",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "longfellow, henry wadsworth",
+        "memory of the world",
+        "poets, american",
+        "portrait photographs",
+        "american literature",
+        "1861 to 1876",
+        "massachusetts",
+        "authors, american",
+        "united states of america",
+        "poets",
+        "authors",
+        "portraits"
+      ],
+      "timestamp": "2022-09-11T21:46:55.359Z",
+      "title": "Henry Wadsworth Longfellow.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/2021669467/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://bvbr.bib-bvb.de:8991/F?func=service&doc_library=BVB01&doc_number=020723175&line_number=0002&func_code=DB_RECORDS&service_type=MEDIA",
+        "http://www.loc.gov/item/2011411415/",
+        "http://lccn.loc.gov/2011411415",
+        "http://bvbr.bib-bvb.de:8991/F?func=service&doc_library=BVB01&doc_number=020723175&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "kleppien, axel-björn"
+      ],
+      "date": "2010",
+      "dates": [
+        "2010"
+      ],
+      "description": [
+        "Originally presented as the author's thesis (doctoral)--Univ. Bonn, 2010."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-06-02T18:52:34.445Z",
+      "group": [
+        "catalog-split-04",
+        "catalog",
+        "main-catalog-split-04",
+        "main-catalog"
+      ],
+      "hassegments": false,
+      "id": "http://lccn.loc.gov/2011411415",
+      "image_url": [],
+      "index": 3,
+      "language": [
+        "german"
+      ],
+      "location": [
+        "united states"
+      ],
+      "number": [
+        "2011-06-23t14:01:14",
+        "2011411415"
+      ],
+      "original_format": [
+        "book"
+      ],
+      "partof": [
+        "catalog"
+      ],
+      "score": 8.079859,
+      "shelf_id": "PS169.W27 K54 2010",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "united states",
+        "history and criticism",
+        "war poetry, american",
+        "war in literature",
+        "history",
+        "american literature",
+        "american prose literature",
+        "war and literature"
+      ],
+      "timestamp": "2023-07-07T18:39:09.297Z",
+      "title": "Der Krieg in der amerikanischen Literatur : Untersuchung des Wandels von Beschreibung, Bewertung und Leserlenkung in der nordamerikanischen War Prose und War Poetry während des Zeitraums vom Unabhängigkeitskrieg bis zum Irakkrieg",
+      "type": [
+        "text"
+      ],
+      "url": "//lccn.loc.gov/2011411415"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/afccal000009/",
+        "https://hdl.loc.gov/loc.afc/afc1986022.sr01b03",
+        "http://www.loc.gov/resource/afc1986022.afc1986022_sr01b03/",
+        "http://www.loc.gov/item/afc1986022.afc1986022_sr01b03/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "phelan, jack",
+        "unidentified"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-03-02T16:29:57.734Z",
+      "group": [
+        "afccal",
+        "american-english-dialect-recordings"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/afccal000009/",
+      "image_url": [],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "new york",
+        "united states"
+      ],
+      "mime_type": [
+        "audio/wav",
+        "application/x-audio"
+      ],
+      "online_format": [
+        "audio"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "center for applied linguistics collection",
+        "american folklife center",
+        "american english dialect recordings: the center for applied linguistics collection",
+        "american memory"
+      ],
+      "score": 8.02418,
+      "shelf_id": "AFC 1986/022:  AFS 24,299 b03",
+      "subject": [
+        "new york",
+        "language surveys",
+        "language",
+        "united states",
+        "interviews",
+        "women college graduates",
+        "reading",
+        "english language",
+        "new york (state)",
+        "warner, william w. beautiful swimmers",
+        "women, white",
+        "dialects",
+        "american prose literature"
+      ],
+      "timestamp": "2023-03-10T20:59:17.490Z",
+      "title": "Reading sample of woman, New York, New York",
+      "type": [
+        "sound recording"
+      ],
+      "url": "https://www.loc.gov/item/afccal000009/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/afccal000010/",
+        "https://hdl.loc.gov/loc.afc/afc1986022.sr01b04",
+        "http://www.loc.gov/resource/afc1986022.afc1986022_sr01b04/",
+        "http://www.loc.gov/item/afc1986022.afc1986022_sr01b04/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "phelan, jack",
+        "unidentified"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-03-02T16:29:57.734Z",
+      "group": [
+        "afccal",
+        "american-english-dialect-recordings"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/afccal000010/",
+      "image_url": [],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "new york",
+        "united states"
+      ],
+      "mime_type": [
+        "audio/wav",
+        "application/x-audio"
+      ],
+      "online_format": [
+        "audio"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "center for applied linguistics collection",
+        "american folklife center",
+        "american english dialect recordings: the center for applied linguistics collection",
+        "american memory"
+      ],
+      "score": 8.02418,
+      "shelf_id": "AFC 1986/022:  AFS 24,299 b04",
+      "subject": [
+        "new york",
+        "language surveys",
+        "language",
+        "interviews",
+        "women college graduates",
+        "reading",
+        "english language",
+        "new york (state)",
+        "warner, william w. beautiful swimmers",
+        "women, white",
+        "dialects",
+        "american prose literature"
+      ],
+      "timestamp": "2023-03-10T20:59:17.490Z",
+      "title": "Reading sample of woman, New York, New York",
+      "type": [
+        "sound recording"
+      ],
+      "url": "https://www.loc.gov/item/afccal000010/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/afccal000013/",
+        "https://hdl.loc.gov/loc.afc/afc1986022.sr01b07",
+        "http://www.loc.gov/resource/afc1986022.afc1986022_sr01b07/",
+        "http://www.loc.gov/item/afc1986022.afc1986022_sr01b07/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "phelan, jack",
+        "unidentified"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-03-02T16:29:57.734Z",
+      "group": [
+        "afccal",
+        "american-english-dialect-recordings"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/afccal000013/",
+      "image_url": [],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "charleston",
+        "united states",
+        "south carolina",
+        "calhoun"
+      ],
+      "mime_type": [
+        "audio/wav",
+        "application/x-audio"
+      ],
+      "online_format": [
+        "audio"
+      ],
+      "original_format": [
+        "sound recording"
+      ],
+      "partof": [
+        "center for applied linguistics collection",
+        "american folklife center",
+        "american english dialect recordings: the center for applied linguistics collection",
+        "american memory"
+      ],
+      "score": 8.02418,
+      "shelf_id": "AFC 1986/022:  AFS 24,299 b07",
+      "subject": [
+        "language surveys",
+        "language",
+        "lanier, sidney,. the marshes of glynn",
+        "lanier, sidney,. evening song",
+        "interviews",
+        "reading",
+        "lanier, sidney,. the mocking bird",
+        "cable, george washington,. posson jone",
+        "english language",
+        "south carolina",
+        "poetry",
+        "women, white",
+        "dialects",
+        "calhoun county",
+        "american prose literature"
+      ],
+      "timestamp": "2023-03-10T20:59:17.490Z",
+      "title": "Reading sample of woman, Charleston, South Carolina",
+      "type": [
+        "sound recording"
+      ],
+      "url": "https://www.loc.gov/item/afccal000013/"
+    }
+  ],
+  "resources": [
+    {
+      "caption": "",
+      "files": [
+        [
+          {
+            "height": 181,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:001/full/pct:6.25/0/default.jpg",
+            "width": 300
+          },
+          {
+            "height": 362,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:001/full/pct:12.5/0/default.jpg",
+            "width": 600
+          },
+          {
+            "height": 724,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:001/full/pct:25/0/default.jpg",
+            "width": 1201
+          },
+          {
+            "height": 1448,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:001/full/pct:50/0/default.jpg",
+            "width": 2403
+          },
+          {
+            "height": 2897,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:001/full/pct:100/0/default.jpg",
+            "width": 4807
+          },
+          {
+            "height": 2897,
+            "info": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:001/info.json",
+            "levels": 7,
+            "mimetype": "image/jp2",
+            "size": 3625384,
+            "url": "https://tile.loc.gov/storage-services/service/mss/mss18630/202/05/001.jp2",
+            "width": 4807
+          },
+          {
+            "height": null,
+            "levels": 1,
+            "mimetype": "image/tiff",
+            "size": 41799184,
+            "url": "https://tile.loc.gov/storage-services/master/mss/mss18630/202/05/001.tif",
+            "width": null
+          }
+        ],
+        [
+          {
+            "height": 294,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:002/full/pct:12.5/0/default.jpg",
+            "width": 457
+          },
+          {
+            "height": 589,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:002/full/pct:25/0/default.jpg",
+            "width": 915
+          },
+          {
+            "height": 1178,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:002/full/pct:50/0/default.jpg",
+            "width": 1831
+          },
+          {
+            "height": 2357,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:002/full/pct:100/0/default.jpg",
+            "width": 3662
+          },
+          {
+            "height": 2357,
+            "info": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:002/info.json",
+            "levels": 7,
+            "mimetype": "image/jp2",
+            "size": 2281848,
+            "url": "https://tile.loc.gov/storage-services/service/mss/mss18630/202/05/002.jp2",
+            "width": 3662
+          },
+          {
+            "height": null,
+            "levels": 1,
+            "mimetype": "image/tiff",
+            "size": 25915572,
+            "url": "https://tile.loc.gov/storage-services/master/mss/mss18630/202/05/002.tif",
+            "width": null
+          }
+        ],
+        [
+          {
+            "height": 161,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:003/full/pct:6.25/0/default.jpg",
+            "width": 329
+          },
+          {
+            "height": 323,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:003/full/pct:12.5/0/default.jpg",
+            "width": 658
+          },
+          {
+            "height": 646,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:003/full/pct:25/0/default.jpg",
+            "width": 1317
+          },
+          {
+            "height": 1292,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:003/full/pct:50/0/default.jpg",
+            "width": 2634
+          },
+          {
+            "height": 2585,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:003/full/pct:100/0/default.jpg",
+            "width": 5268
+          },
+          {
+            "height": 2585,
+            "info": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:003/info.json",
+            "levels": 7,
+            "mimetype": "image/jp2",
+            "size": 1571528,
+            "url": "https://tile.loc.gov/storage-services/service/mss/mss18630/202/05/003.jp2",
+            "width": 5268
+          },
+          {
+            "height": null,
+            "levels": 1,
+            "mimetype": "image/tiff",
+            "size": 40875180,
+            "url": "https://tile.loc.gov/storage-services/master/mss/mss18630/202/05/003.tif",
+            "width": null
+          }
+        ],
+        [
+          {
+            "height": 285,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:004/full/pct:6.25/0/default.jpg",
+            "width": 78
+          },
+          {
+            "height": 571,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:004/full/pct:12.5/0/default.jpg",
+            "width": 157
+          },
+          {
+            "height": 1143,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:004/full/pct:25/0/default.jpg",
+            "width": 315
+          },
+          {
+            "height": 2286,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:004/full/pct:50/0/default.jpg",
+            "width": 631
+          },
+          {
+            "height": 4572,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:004/full/pct:100/0/default.jpg",
+            "width": 1263
+          },
+          {
+            "height": 4572,
+            "info": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:004/info.json",
+            "levels": 7,
+            "mimetype": "image/jp2",
+            "size": 663461,
+            "url": "https://tile.loc.gov/storage-services/service/mss/mss18630/202/05/004.jp2",
+            "width": 1263
+          },
+          {
+            "height": null,
+            "levels": 1,
+            "mimetype": "image/tiff",
+            "size": 17344968,
+            "url": "https://tile.loc.gov/storage-services/master/mss/mss18630/202/05/004.tif",
+            "width": null
+          }
+        ],
+        [
+          {
+            "height": 164,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:005/full/pct:6.25/0/default.jpg",
+            "width": 316
+          },
+          {
+            "height": 329,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:005/full/pct:12.5/0/default.jpg",
+            "width": 633
+          },
+          {
+            "height": 658,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:005/full/pct:25/0/default.jpg",
+            "width": 1266
+          },
+          {
+            "height": 1317,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:005/full/pct:50/0/default.jpg",
+            "width": 2532
+          },
+          {
+            "height": 2634,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "url": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:005/full/pct:100/0/default.jpg",
+            "width": 5064
+          },
+          {
+            "height": 2634,
+            "info": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:005/info.json",
+            "levels": 7,
+            "mimetype": "image/jp2",
+            "size": 2721956,
+            "url": "https://tile.loc.gov/storage-services/service/mss/mss18630/202/05/005.jp2",
+            "width": 5064
+          },
+          {
+            "height": null,
+            "levels": 1,
+            "mimetype": "image/tiff",
+            "size": 40038246,
+            "url": "https://tile.loc.gov/storage-services/master/mss/mss18630/202/05/005.tif",
+            "width": null
+          }
+        ]
+      ],
+      "image": "https://tile.loc.gov/image-services/iiif/service:mss:mss18630:202:05:002/full/pct:12.5/0/default.jpg",
+      "representative_index": 1,
+      "url": "https://www.loc.gov/resource/mss18630.20205/"
+    }
+  ],
+  "timestamp": 1734773613209,
+  "type": "zoom"
+}

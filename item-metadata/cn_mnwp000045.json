@@ -1,0 +1,1282 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "Underwood & Underwood, W. (ca. 1910) <cite>Dr. Mary Parsons, 1st woman physician to practice medicine south of Mason-Dixon Line</cite>. , ca. 1910. [to 1920] [Photograph] Retrieved from the Library of Congress, https://www.loc.gov/item/mnwp000045/.",
+    "chicago": "Underwood & Underwood, Washington, D.C. <cite>Dr. Mary Parsons, 1st woman physician to practice medicine south of Mason-Dixon Line</cite>. , ca. 1910. [to 1920] Photograph. https://www.loc.gov/item/mnwp000045/.",
+    "mla": "Underwood & Underwood, Washington, D.C. <cite>Dr. Mary Parsons, 1st woman physician to practice medicine south of Mason-Dixon Line</cite>. [to 1920] Photograph. Retrieved from the Library of Congress, &lt;www.loc.gov/item/mnwp000045/&gt;."
+  },
+  "item": {
+    "_version_": 1780195694727921664,
+    "access_restricted": false,
+    "aka": [
+      "http://www.loc.gov/item/mnwp000045/",
+      "https://hdl.loc.gov/loc.mss/mnwp.275019",
+      "http://www.loc.gov/resource/mnwp.275019/",
+      "http://www.loc.gov/item/mnwp.275019/",
+      "http://www.loc.gov/resource/mnwp.27501_275019/"
+    ],
+    "call_number": [
+      "Location: National Woman's Party Records, Group II, Container II:275, Folder: Individual Photographs Nos. 301-349 \"P\""
+    ],
+    "campaigns": [],
+    "contributor_names": [
+      "Underwood & Underwood, Washington, D.C. (Photographer)"
+    ],
+    "contributors": [
+      {
+        "underwood & underwood, washington, d.c.": "https://www.loc.gov/search/?fa=contributor:underwood+%26+underwood,+washington,+d.c.&fo=json"
+      }
+    ],
+    "created_published": [
+      "[ca. 1910-1920]"
+    ],
+    "digital_id": [
+      "http://hdl.loc.gov/loc.mss/mnwp.275019"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2023-10-19T14:47:51.164Z",
+    "extract_urls": [
+      "http://c2vlpdmtool01.loc.gov/data-management-tool/export_group_xml/mnwp/mnwp000045.xml#mnwp"
+    ],
+    "format": [
+      {
+        "photo, print, drawing": "https://www.loc.gov/search/?fa=original_format:photo,+print,+drawing&fo=json"
+      }
+    ],
+    "genre": [
+      "Photographs"
+    ],
+    "group": [
+      "mnwp",
+      "women-of-protest"
+    ],
+    "hassegments": false,
+    "id": "http://www.loc.gov/item/mnwp000045/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/mss/mnwp/275/275019t.gif",
+      "https://tile.loc.gov/storage-services/service/mss/mnwp/275/275019t.gif#h=150&w=110",
+      "https://tile.loc.gov/storage-services/service/mss/mnwp/275/275019r.jpg#h=600&w=439",
+      "https://tile.loc.gov/storage-services/service/mss/mnwp/275/275019v.jpg#h=3211&w=2352"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": [
+        "Location: National Woman's Party Records, Group II, Container II:275, Folder: Individual Photographs Nos. 301-349 \"P\""
+      ],
+      "contributors": [
+        "Underwood & Underwood, Washington, D.C. (Photographer)"
+      ],
+      "created_published": [
+        "[ca. 1910-1920]"
+      ],
+      "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mnwp.275019"
+      ],
+      "format": "still image",
+      "genre": [
+        "Photographs"
+      ],
+      "language": "eng",
+      "medium": [
+        "1 photograph: print; 7 x 5 in."
+      ],
+      "notes": [
+        "Title and information transcribed from item.",
+        "Summary: Informal portrait, head and chest, Dr. Mary Parsons, leaning against wall, facing forward, wearing outer garment over dress with brooch and eyeglasses."
+      ],
+      "repository": "Manuscript Division",
+      "rights": "No known restrictions on use or reproduction.",
+      "source_collection": "Records of the National Woman's Party",
+      "subjects": [
+        "National Woman's Party",
+        "Suffragists--United States--1910-1920",
+        "Women--Suffrage--United States",
+        "Parsons, Mary",
+        "Physicians",
+        "Photographs"
+      ],
+      "title": "Dr. Mary Parsons, 1st woman physician to practice medicine south of Mason-Dixon Line."
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "medium": [
+      "1 photograph: print; 7 x 5 in."
+    ],
+    "mime_type": [
+      "image/gif",
+      "image/tiff",
+      "image/jpeg"
+    ],
+    "notes": [
+      "Title and information transcribed from item.",
+      "Summary: Informal portrait, head and chest, Dr. Mary Parsons, leaning against wall, facing forward, wearing outer garment over dress with brooch and eyeglasses."
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "photo, print, drawing"
+    ],
+    "other_formats": [],
+    "partof": [
+      {
+        "count": 448,
+        "title": "records of the national woman's party",
+        "url": "https://www.loc.gov/search/?fa=partof:records+of+the+national+woman%27s+party&fo=json"
+      },
+      {
+        "count": 472,
+        "title": "women of protest: photographs from the records of the national woman's party",
+        "url": "https://www.loc.gov/collections/women-of-protest/?fo=json"
+      },
+      {
+        "count": 169544,
+        "title": "manuscript division",
+        "url": "https://www.loc.gov/search/?fa=partof:manuscript+division&fo=json"
+      },
+      {
+        "count": 437343,
+        "title": "american memory",
+        "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+      }
+    ],
+    "repository": [
+      "Manuscript Division"
+    ],
+    "resources": [
+      {
+        "files": 1,
+        "image": "https://tile.loc.gov/storage-services/service/mss/mnwp/275/275019t.gif",
+        "url": "https://www.loc.gov/resource/mnwp.27501_275019/"
+      }
+    ],
+    "rights": [
+      "\r\n<p>The Library of Congress provides access to these materials   for educational and research purposes and makes no warranty with regard   to their use for other purposes. The written permission of the copyright   owners and/or holders of other rights (such as publicity and/or privacy   rights) is required for distribution, reproduction, or other use of   protected items beyond that allowed by fair use or other statutory   exemptions. There may be content that is protected as \"works made for   hire\" (copyright held by the party that commissioned the original work)   and/or under the copyright or neighboring-rights laws of other nations.   Responsibility for making an independent legal assessment of an item and   securing any necessary permissions ultimately rests with persons   desiring to use the item. See <a href=\"/legal/\">Legal Notices</a> and <a href=\"/legal/#privacy_publicity\">Privacy and Publicity Rights</a> for additional information and restrictions.</p>\r\n\r\n\r\n<p>The Library of Congress would like to learn more about these   materials and to hear from individuals or institutions having any   additional information. Please contact us through our <a href=\"https://ask.loc.gov/\">Ask A Librarian</a> service.</p>\r\n\r\n<h2>Preferred Citation</h2>\r\n\r\n<p>Researchers wishing to quote from or refer to special  presentation features and pdfs included in this digital site should cite the  title of the feature and the following digital collection information: Women of  Protest: Photographs from the Records of the National Woman's Party, Manuscript  Division, Library of Congress, Washington, D.C. Please include the URL of the  web page being cited and the date of access. Citations to the individual  photographs from the collection should include the photograph title and date,  Records of the National Woman's Party, Manuscript Division, Library of  Congress, Washington, D.C. Please see the bibliographic records for the  individual photographs for further detail. </p>\r\n\r\n<h2>Permissions</h2>\r\n\r\n<p>The Library of Congress has researched the contents of this   collection to ascertain any possible legal rights embodied in the   materials. Items included in this collection with the permission of   right holders are listed below. For further use of reproduction of those   items, please contact the rights holders listed.</p>\r\n\r\n<p>Two photographs, \"Muriel Lynch (and daughter?),\" and \"Dorothy   Thompson, Journalist,\" made available here with permission from Bachrach   Studio. 321 S. Washington Street, Alexandria, VA 22314</p>\r\n\r\n<h2>Availability of Reproductions</h2>\r\n\r\n<p>To inquire about reproductions of Manuscript Division items found in American Memory, contact the Library of Congress <a href=\"//www.loc.gov/preserv/pds/\">Duplication Services</a>.</p>\r\n\r\n<h2>For Further Information</h2>\r\n\r\n<p>If you have comments or additional questions, please <a href=\"//memory.loc.gov/ammem/contact/\">contact us</a>.</p>\r\n"
+    ],
+    "score": 19.206085,
+    "shard": "00",
+    "shelf_id": "Location: National Woman's Party Records, Group II, Container II:275, Folder: Individual Photographs Nos. 301-349 \"P\"",
+    "source_collection": "Records of the National Woman's Party",
+    "source_modified": "2000-01-01T12:00:00Z",
+    "subject": [
+      "physicians",
+      "women",
+      "national woman's party",
+      "suffrage",
+      "united states",
+      "photographs",
+      "suffragists",
+      "parsons, mary"
+    ],
+    "subject_headings": [
+      "National Woman's Party",
+      "Suffragists--United States--1910-1920",
+      "Women--Suffrage--United States",
+      "Parsons, Mary",
+      "Physicians",
+      "Photographs"
+    ],
+    "subjects": [
+      {
+        "national woman's party": "https://www.loc.gov/search/?fa=subject:national+woman%27s+party&fo=json"
+      },
+      {
+        "parsons, mary": "https://www.loc.gov/search/?fa=subject:parsons,+mary&fo=json"
+      },
+      {
+        "photographs": "https://www.loc.gov/search/?fa=subject:photographs&fo=json"
+      },
+      {
+        "physicians": "https://www.loc.gov/search/?fa=subject:physicians&fo=json"
+      },
+      {
+        "suffrage": "https://www.loc.gov/search/?fa=subject:suffrage&fo=json"
+      },
+      {
+        "suffragists": "https://www.loc.gov/search/?fa=subject:suffragists&fo=json"
+      },
+      {
+        "united states": "https://www.loc.gov/search/?fa=subject:united+states&fo=json"
+      },
+      {
+        "women": "https://www.loc.gov/search/?fa=subject:women&fo=json"
+      }
+    ],
+    "timestamp": "2023-10-19T14:48:32.170Z",
+    "title": "Dr. Mary Parsons, 1st woman physician to practice medicine south of Mason-Dixon Line.",
+    "type": [
+      "photo, print, drawing"
+    ],
+    "url": "https://www.loc.gov/item/mnwp000045/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mnwp000188/",
+        "https://hdl.loc.gov/loc.mss/mnwp.158009",
+        "http://www.loc.gov/resource/mnwp.158009/",
+        "http://www.loc.gov/item/mnwp.158009/",
+        "http://www.loc.gov/resource/mnwp.15800_158009/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "underwood & underwood, washington, d.c."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-10-19T14:47:51.420Z",
+      "group": [
+        "mnwp",
+        "women-of-protest"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/mnwp000188/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/158/158009t.gif",
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/158/158009t.gif#h=150&w=123",
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/158/158009r.jpg#h=600&w=491",
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/158/158009v.jpg#h=4619&w=3780"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "women of protest: photographs from the records of the national woman's party",
+        "manuscript division",
+        "american memory",
+        "records of the national woman's party"
+      ],
+      "score": 42.969456,
+      "shelf_id": "Location: National Woman's Party Records, Group I, Container I:158, Folder: Wiley, Anna Kelton",
+      "subject": [
+        "women",
+        "national woman's party",
+        "washington (d.c.)",
+        "suffrage",
+        "united states",
+        "wiley, anna kelton",
+        "photographs",
+        "suffragists"
+      ],
+      "timestamp": "2023-10-19T14:48:37.844Z",
+      "title": "Mrs. H. W. Wiley [Anna Kelton Wiley] and John and Harvey [Wiley]. Chairman of the Memorial Committee at the services in honor of Dean Emma Gillett at the United States Capitol, Sunday, May 15 [1927].",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/mnwp000188/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mnwp000058/",
+        "https://hdl.loc.gov/loc.mss/mnwp.275032",
+        "http://www.loc.gov/resource/mnwp.275032/",
+        "http://www.loc.gov/item/mnwp.275032/",
+        "http://www.loc.gov/resource/mnwp.27503_275032/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "underwood & underwood, washington, d.c."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-10-19T14:47:51.164Z",
+      "group": [
+        "mnwp",
+        "women-of-protest"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/mnwp000058/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/275/275032t.gif",
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/275/275032t.gif#h=116&w=150",
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/275/275032r.jpg#h=465&w=600",
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/275/275032v.jpg#h=2988&w=3852"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "onalaska",
+        "wisconsin"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "women of protest: photographs from the records of the national woman's party",
+        "manuscript division",
+        "american memory",
+        "records of the national woman's party"
+      ],
+      "score": 42.969456,
+      "shelf_id": "Location: National Woman's Party Records, Group II, Container II:275, Folder: Individual Photographs Nos. 441-442 \"U\"",
+      "subject": [
+        "wisconsin",
+        "women",
+        "national woman's party",
+        "usher, leila",
+        "suffrage",
+        "sculptors",
+        "united states",
+        "photographs",
+        "anthony, susan b. (susan brownell)",
+        "suffragists"
+      ],
+      "timestamp": "2023-10-19T14:48:32.170Z",
+      "title": "Miss Leila Usher, Sculptress, with bas-relief of Susan B. Anthony",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/mnwp000058/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mnwp000059/",
+        "https://hdl.loc.gov/loc.mss/mnwp.275033",
+        "http://www.loc.gov/resource/mnwp.275033/",
+        "http://www.loc.gov/item/mnwp.275033/",
+        "http://www.loc.gov/resource/mnwp.27503_275033/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "underwood & underwood, washington, d.c."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-10-19T14:47:51.164Z",
+      "group": [
+        "mnwp",
+        "women-of-protest"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/mnwp000059/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/275/275033t.gif",
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/275/275033t.gif#h=150&w=105",
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/275/275033r.jpg#h=600&w=419",
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/275/275033v.jpg#h=4636&w=3239"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "women of protest: photographs from the records of the national woman's party",
+        "manuscript division",
+        "american memory",
+        "records of the national woman's party"
+      ],
+      "score": 42.969456,
+      "shelf_id": "Location: National Woman's Party Records, Group II, Container II:275, Folder: Individual Photographs Nos. 443-451 \"V\"",
+      "subject": [
+        "van casteel, mary",
+        "women",
+        "national woman's party",
+        "washington (d.c.)",
+        "suffrage",
+        "george washington university",
+        "united states",
+        "photographs",
+        "women's rights",
+        "equal rights (serial)",
+        "suffragists"
+      ],
+      "timestamp": "2023-10-19T14:48:32.170Z",
+      "title": "Mary Van Casteel, chairman Students' Council National Woman's Party, a student of George Washington University",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/mnwp000059/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mnwp000235/",
+        "https://hdl.loc.gov/loc.mss/mnwp.160045",
+        "http://www.loc.gov/resource/mnwp.160045/",
+        "http://www.loc.gov/item/mnwp.160045/",
+        "http://www.loc.gov/resource/mnwp.16004_160045/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "underwood & underwood, washington, d.c."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-10-19T14:47:51.622Z",
+      "group": [
+        "mnwp",
+        "women-of-protest"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/mnwp000235/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/160/160045t.gif",
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/160/160045t.gif#h=101&w=150",
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/160/160045r.jpg#h=403&w=600",
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/160/160045v.jpg#h=1928&w=2873"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "washington d.c."
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "women of protest: photographs from the records of the national woman's party",
+        "manuscript division",
+        "american memory",
+        "records of the national woman's party"
+      ],
+      "score": 42.969456,
+      "shelf_id": "Location: National Woman's Party Records, Group I, Container I:160, Folder: Pickets--Arrests and Imprisonment",
+      "subject": [
+        "district of columbia",
+        "women",
+        "national woman's party",
+        "political activity",
+        "suffrage",
+        "women prisoners",
+        "united states",
+        "prisons",
+        "photographs",
+        "suffragists"
+      ],
+      "timestamp": "2023-10-19T14:48:43.145Z",
+      "title": "Interior dining room D.C. prison",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/mnwp000235/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mnwp000236/",
+        "https://hdl.loc.gov/loc.mss/mnwp.160046",
+        "http://www.loc.gov/resource/mnwp.160046/",
+        "http://www.loc.gov/item/mnwp.160046/",
+        "http://www.loc.gov/resource/mnwp.16004_160046/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "underwood & underwood, washington, d.c."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-10-19T14:47:51.622Z",
+      "group": [
+        "mnwp",
+        "women-of-protest"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/mnwp000236/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/160/160046t.gif",
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/160/160046t.gif#h=150&w=98",
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/160/160046r.jpg#h=600&w=390",
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/160/160046v.jpg#h=2756&w=1793"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "virginia"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "women of protest: photographs from the records of the national woman's party",
+        "manuscript division",
+        "american memory",
+        "records of the national woman's party"
+      ],
+      "score": 42.969456,
+      "shelf_id": "Location: National Woman's Party Records, Group I, Container I:160, Folder: Pickets--Arrests and Imprisonment",
+      "subject": [
+        "women",
+        "national woman's party",
+        "political activity",
+        "suffrage",
+        "women prisoners",
+        "united states",
+        "prisons",
+        "virginia",
+        "photographs",
+        "suffragists"
+      ],
+      "timestamp": "2023-10-19T14:48:43.145Z",
+      "title": "Cell at Occoquan [Workhouse]",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/mnwp000236/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mnwp000237/",
+        "https://hdl.loc.gov/loc.mss/mnwp.160047",
+        "http://www.loc.gov/resource/mnwp.160047/",
+        "http://www.loc.gov/item/mnwp.160047/",
+        "http://www.loc.gov/resource/mnwp.16004_160047/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "underwood & underwood, washington, d.c."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-10-19T14:47:51.622Z",
+      "group": [
+        "mnwp",
+        "women-of-protest"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/mnwp000237/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/160/160047t.gif",
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/160/160047t.gif#h=119&w=150",
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/160/160047r.jpg#h=475&w=600",
+        "https://tile.loc.gov/storage-services/service/mss/mnwp/160/160047v.jpg#h=2745&w=3464"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "virginia"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/tiff",
+        "image/jpeg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "photo, print, drawing"
+      ],
+      "partof": [
+        "women of protest: photographs from the records of the national woman's party",
+        "manuscript division",
+        "american memory",
+        "records of the national woman's party"
+      ],
+      "score": 42.969456,
+      "shelf_id": "Location: National Woman's Party Records, Group I, Container I:160, Folder: Pickets--Arrests and Imprisonment",
+      "subject": [
+        "women",
+        "national woman's party",
+        "political activity",
+        "suffrage",
+        "women prisoners",
+        "united states",
+        "imprisonment",
+        "photographs",
+        "prostitution",
+        "suffragists"
+      ],
+      "timestamp": "2023-10-19T14:48:43.145Z",
+      "title": "Negro women prostitutes were brought to this sleeping room and placed in beds alternating with suffrage prisoners, 1917.",
+      "type": [
+        "still image"
+      ],
+      "url": "https://www.loc.gov/item/mnwp000237/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "mnwp",
+      "women-of-protest",
+      "cms",
+      "managed-content",
+      "catalog-split-08",
+      "catalog",
+      "main-catalog-split-08",
+      "gdcdatasets",
+      "general-collections-datasets"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 1,
+    "delimiter": null,
+    "digital_id": "mnwp.275019",
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.5110373497009277,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": null,
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/resource/mnwp.275019/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/resource/mnwp.275019/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "resource/base",
+    "timestamp": 1734773605.356749,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "page": [
+    {
+      "height": 150,
+      "levels": 1,
+      "mimetype": "image/gif",
+      "size": 10092,
+      "url": "https://tile.loc.gov/storage-services/service/mss/mnwp/275/275019t.gif",
+      "width": 110
+    },
+    {
+      "height": 600,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 30661,
+      "url": "https://tile.loc.gov/storage-services/service/mss/mnwp/275/275019r.jpg",
+      "width": 439
+    },
+    {
+      "height": 3211,
+      "levels": 1,
+      "mimetype": "image/jpeg",
+      "size": 614457,
+      "url": "https://tile.loc.gov/storage-services/service/mss/mnwp/275/275019v.jpg",
+      "width": 2352
+    },
+    {
+      "height": null,
+      "levels": 1,
+      "mimetype": "image/tiff",
+      "size": 7556014,
+      "url": "https://tile.loc.gov/storage-services/master/mss/mnwp/275/275019u.tif",
+      "width": null
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": null,
+    "previous": null,
+    "total": 1
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/women-of-protest/about-this-collection/related-resources/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "library of congress, manuscript division"
+      ],
+      "description": [
+        "INDIVIDUAL PORTRAITS CONTAINED IN THE RECORDS OF THE NATIONAL WOMAN’S PARTY (GROUPS I AND II) MANUSCRIPT DIVISION, LIBRARY OF CONGRESS Listed below are the names of more than 1,000 individuals for whom there exist formal or informal portraits in Group I (containers I:147-156) and Group II (containers II:274-275) of the Records of the National Woman’s Party held by the Manuscript Division, Library of Congress. The container locations and image counts appear after each name. There are duplicate prints of many images, but the image counts reflect only the number of unique shots per person per container. Some individuals are represented in both Group I and Group II, sometimes by the same image and sometimes by different images. About 16 percent of the portraits in the NWP records have been digitized as part of the American Memory Web site Women of Protest: Photographs from the Records of the National Woman’s Party. The links below lead to these scanned images. For information on images which have not been digitiz"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:32:12.887Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/static/collections/women-of-protest/images/portrait_list.pdf",
+      "image_url": [
+        "https://www.loc.gov/static/collections/women-of-protest/500_500.jpg"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "application/pdf"
+      ],
+      "online_format": [
+        "pdf"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "women of protest: photographs from the records of the national woman's party"
+      ],
+      "score": 29.495365,
+      "shelf_id": "~/collections/women-of-protest/about-this-collection/related-resources/",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "women's history",
+        "women",
+        "national woman's party",
+        "suffrage",
+        "photographs",
+        "portraits"
+      ],
+      "timestamp": "2024-12-21T06:57:10.897Z",
+      "title": "Individual Portraits Contained in the Records of the National Woman's Party",
+      "type": [
+        "web page"
+      ],
+      "url": "//www.loc.gov/static/collections/women-of-protest/images/portrait_list.pdf"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/women-of-protest/articles-and-essays/historial-timeline-of-the-national-womans-party/"
+      ],
+      "campaigns": [],
+      "date": "1913",
+      "dates": [
+        "[1913 TO 1920]"
+      ],
+      "description": [
+        "1912-1997"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:32:12.887Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/women-of-protest/articles-and-essays/historial-timeline-of-the-national-womans-party/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/women-of-protest/images/time1a.jpg"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "chicago"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "women of protest: photographs from the records of the national woman's party"
+      ],
+      "score": 23.732208,
+      "shelf_id": "~/collections/women-of-protest/articles-and-essays/historial-timeline-of-the-national-womans-party/",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "national woman's party",
+        "voting rights",
+        "wilson, woodrow, protestors",
+        "19th amendment",
+        "suffragists",
+        "national american woman suffrage association"
+      ],
+      "timestamp": "2024-12-21T06:53:50.810Z",
+      "title": "Historical Timeline of the National Womans Party | Articles and Essays | Women of Protest: Photographs from the Records of the National Woman's Party | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/women-of-protest/articles-and-essays/historial-timeline-of-the-national-womans-party/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/women-of-protest/articles-and-essays/historical-overview-of-the-national-womans-party/"
+      ],
+      "campaigns": [],
+      "date": "1912",
+      "dates": [
+        "[1912 TO 1920]"
+      ],
+      "description": [
+        "The origins of the National Woman's Party (NWP) date from 1912, when Alice Paul and Lucy Burns, young Americans schooled in the militant tactics of the British suffrage movement, were appointed to the National American Woman Suffrage Association's (NAWSA) Congressional Committee. They injected a renewed militancy into the American campaign and shifted attention away from state voting rights toward a federal suffrage amendment."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:32:12.887Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/women-of-protest/articles-and-essays/historical-overview-of-the-national-womans-party/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/women-of-protest/images/history1.jpg"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "women of protest: photographs from the records of the national woman's party"
+      ],
+      "score": 23.732208,
+      "shelf_id": "~/collections/women-of-protest/articles-and-essays/historical-overview-of-the-national-womans-party/",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "national woman's party",
+        "voting rights",
+        "wilson, woodrow, protestors",
+        "19th amendment",
+        "suffragists",
+        "national american woman suffrage association"
+      ],
+      "timestamp": "2024-12-21T06:53:59.061Z",
+      "title": "Historical Overview of the National Womans Party | Articles and Essays | Women of Protest: Photographs from the Records of the National Woman's Party | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/women-of-protest/articles-and-essays/historical-overview-of-the-national-womans-party/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/mm82034355",
+        "http://www.loc.gov/item/mm82034355/",
+        "https://hdl.loc.gov/loc.mss/collmss.ms000004"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "belmont, alva",
+        "west, helen hunt",
+        "harding, fann",
+        "krafchik, jennifer",
+        "langelan, martha j.",
+        "national woman's party",
+        "hadley, lucia hanna",
+        "sewall-belmont house",
+        "belmont-paul women's equality national monument",
+        "world woman's party",
+        "paul, alice",
+        "chittick, elizabeth",
+        "pollitzer, anita",
+        "harrington, page",
+        "shriner, sara",
+        "ogle, dora g.",
+        "congressional union for woman suffrage (u.s.)",
+        "good, barbara",
+        "du pont, jean kane foulke"
+      ],
+      "description": [
+        "Correspondence; minutes of meetings; reports; congressional voting cards with related correspondence; membership scrolls; administrative files; financial and legal records; personal papers; records of the World Woman's Party and of the Belmont-Paul Women's Equality National Monument, formerly the Sewall-Belmont House, the National Woman's Party (NWP) headquarter's in Washington, D.C.; newspaper clippings; scrapbooks; printed matter; digital audio and video files; databases; website files; posters; photographs and a carte de visite photograph album; and other records of the NWP.  Primarily documents the organization's efforts to promote congressional passage of the nineteenth amendment to the Constitution guaranteeing women the right to vote and of the Equal Rights Amendment.  Includes posters, photographs, and printed matter documenting the suffrage movement prior to the founding of the NWP. Subjects include legal, social, and economic status of women in the U.S. and around the world; attempts to promote jury service for women; the treatment of imprisoned suffragists; cooperative efforts with other women's organizations and with the international women's movement; and organizations including the Inter-American Commission of Women, International Woman Suffrage Alliance, National Council of Women of the United States, and the United Nations.  Other subjects include the 1977 formation of the Woman's Party Corporation (WPC), a charitable arm focusing on NWP finances, and subsequent legal disputes between NWP and WPC. Records of the Belmont-Paul Women's Equality National Monument include historic preservation documents; files pertaining to the National Park Service and the 2016 transfer of the Sewall-Belmont House to the National Park Service as well as its administration of the national monument; documentation of museum holdings, exhibits, programs, and tours; and records pertaining to the party's Florence Bayard Hilles Library including card catalogs. Also includes papers of party members and officials such as Elizabeth Chittick, Jean Kane Foulke Du Pont, Barbara Good, Lucia Hanna Hadley, Fann Harding, Page Harrington, Jennifer Krafchik, Martha J. Langelan, Dora G. Ogle, Alice Paul, Anita Pollitzer, Sara Shriner, and Helen Hunt West.  Shriner's papers include a collection of 1930s posters from the National Council for Prevention of War and the American Friends Service Committee. Scrapbooks include the Alva Belmont scrapbook collection documenting the women's suffrage movement starting in 1909 and the NWP from its beginnings to the 1930s. Printed matter includes issues of NWP publications, Equal Rights, National Woman's Party Bulletin, the Suffragist, and The Sewall-Belmont News; and U.S. Department of Labor booklets concerning women's labor issues."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-08-25T07:01:03.502Z",
+      "group": [
+        "catalog-split-08",
+        "catalog",
+        "main-catalog-split-08"
+      ],
+      "hassegments": false,
+      "id": "http://lccn.loc.gov/mm82034355",
+      "image_url": [],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states",
+        "washington d.c."
+      ],
+      "number": [
+        "2024-08-23t18:00:23",
+        "mm82034355"
+      ],
+      "original_format": [
+        "manuscript/mixed material",
+        "collection"
+      ],
+      "partof": [
+        "manuscript division",
+        "catalog"
+      ],
+      "score": 20.203644,
+      "shelf_id": "http://lccn.loc.gov/mm82034355",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "legal status, laws, etc",
+        "department of labor",
+        "historic buildings",
+        "national council for prevention of war (u.s.)",
+        "national council of women of the united states",
+        "united states",
+        "societies, etc",
+        "photographs",
+        "19th amendment",
+        "national woman's party bulletin",
+        "periodicals",
+        "women's rights",
+        "suffragists",
+        "international cooperation",
+        "equality before the law",
+        "inter-american commission of women",
+        "constitution",
+        "constitutional amendments",
+        "national woman's party",
+        "libraries",
+        "social conditions",
+        "united nations",
+        "florence bayard hilles library",
+        "suffrage",
+        "equal rights amendments",
+        "equal rights",
+        "suffragist",
+        "employment",
+        "washington (d.c.)",
+        "sewall-belmont news",
+        "posters",
+        "20th century",
+        "american friends service committee",
+        "woman's party corporation",
+        "politics and government",
+        "women",
+        "history",
+        "congress",
+        "economic conditions",
+        "jury duty",
+        "trials, litigation, etc",
+        "international woman suffrage alliance"
+      ],
+      "timestamp": "2024-08-25T07:03:56.634Z",
+      "title": "National Woman's Party records,",
+      "type": [
+        "manuscript"
+      ],
+      "url": "//lccn.loc.gov/mm82034355"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://lccn.loc.gov/2019667239",
+        "http://www.loc.gov/item/2019667239/",
+        "https://hdl.loc.gov/loc.gdc/gdcdatasets.2019667239_v2",
+        "http://www.loc.gov/resource/gdcdatasets.2019667239_v2/",
+        "https://hdl.loc.gov/loc.gdc/gdcdatasets.2019667239",
+        "http://www.loc.gov/resource/gdcdatasets.2019667239/"
+      ],
+      "campaigns": [],
+      "contributor": [
+        "by the people (program)",
+        "catt, carrie chapman"
+      ],
+      "date": "2020",
+      "dates": [
+        "2020"
+      ],
+      "description": [
+        "This dataset is an export of transcriptions for 5,760 images from the Carrie Chapman Catt Papers created by volunteers participating in the Library of Congress crowdsourcing program By the People (https://crowd.loc.gov) campaign, Carrie Chapman Catt Papers. It contains text created by volunteers through a transcription and review process, volunteer-created tags, digital collections metadata, and metadata representing the arrangement of the items in the By the People platform, Concordia. This dataset includes transcriptions and data generated from the pages in the By the People campaign Carrie Chapman Catt Papers (https://crowd.loc.gov/campaigns/carrie-chapman-catt-papers/). The campaign consisted of all currently online images of digitized content from the Carrie Chapman Catt Papers (http://hdl.loc.gov/loc.mss/collmss.ms000077) transcribed in their entirety. The papers of suffragist, political strategist, and pacifist Carrie Lane Chapman Catt (1859-1947) span the years 1848-1950 and reflect Catt's steadfast dedication to the rights of women, particularly the right to vote, and world peace. The transcription campaign included the diaries, general correspondence, and speech and article file series of the collection. See the Catt digital collection for all available online items for this collection, as well as contextual information, such as bibliographic resources. Note: This dataset may contain UNICODE characters or lengthy transcriptions which may display incorrectly in some spreadsheet editors. About versioning: Version 1 of the dataset was initially created on 2020-12-07. Version 2 of the dataset was created 2022-10-22 to include a revised README and tags data in the CSV. Both .CSV files are direct exports of the Carrie Chapman Catt Papers campaign. Version 2, description of contents: This dataset includes 2019667239_v2.zip - a zip file containing a CSV file and a README file. carrie-chapman-catt-papers_2022-10-12.csv contains campaign, project, item, itemID, asset, and asset status metadata, as well as an image URL, the volunteer-created transcriptions, and volunteer-created tags. Version 1, description of contents: This dataset includes zip file containing a CSV file and a README file. carrie-chapman-catt-papers-2020-11-16.csv - a .CSV containing campaign, project, item, itemID, asset, and asset status metadata, as well as an image link, and the volunteer-generated transcriptions."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-15T16:00:28.700Z",
+      "group": [
+        "gdcdatasets",
+        "general-collections-datasets"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/2019667239/",
+      "image_url": [],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "application/zip"
+      ],
+      "number": [
+        "2024-12-13t16:32:46",
+        "2019667239",
+        "other"
+      ],
+      "online_format": [
+        "compressed data"
+      ],
+      "original_format": [
+        "software, e-resource"
+      ],
+      "other_title": [
+        "By the People transcription campaign title: Carrie Chapman Catt Papers"
+      ],
+      "partof": [
+        "selected datasets",
+        "general collections",
+        "u.s. government digital resources",
+        "catalog"
+      ],
+      "score": 19.280516,
+      "shelf_id": "JK1896",
+      "site": [
+        "catalog"
+      ],
+      "subject": [
+        "women",
+        "political activity",
+        "suffrage",
+        "united states",
+        "data sets",
+        "catt, carrie chapman",
+        "suffragists"
+      ],
+      "timestamp": "2024-12-15T16:01:03.368Z",
+      "title": "Transcription datasets from Carrie Chapman Catt Papers, Manuscript Division",
+      "type": [
+        "software"
+      ],
+      "url": "https://www.loc.gov/item/2019667239/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/women-of-protest/articles-and-essays/tactics-and-techniques-of-the-national-womans-party-suffrage-campaign/"
+      ],
+      "campaigns": [],
+      "date": "1912",
+      "dates": [
+        "[1912 TO 1920]"
+      ],
+      "description": [
+        "Founded in 1913 as the Congressional Union for Woman Suffrage (CU), the National Woman's Party (NWP) was instrumental in raising public awareness of the women's suffrage campaign. Using a variety of tactics, the party successfully pressured President Woodrow Wilson, members of Congress, and state legislators to support passage of a 19th Amendment to the U.S. Constitution guaranteeing women nationwide the right to vote. In so doing, the NWP established a legacy defending the exercise of free speech, free assembly, and the right to dissent."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:32:12.887Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/women-of-protest/articles-and-essays/tactics-and-techniques-of-the-national-womans-party-suffrage-campaign/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/women-of-protest/images/tactics1.jpg"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "san francisco",
+        "washington d. c.",
+        "new jersey"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "women of protest: photographs from the records of the national woman's party"
+      ],
+      "score": 15.477476,
+      "shelf_id": "~/collections/women-of-protest/articles-and-essays/tactics-and-techniques-of-the-national-womans-party-suffrage-campaign/",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "national woman's party",
+        "suffragists, women's suffrage",
+        "burns, lucy",
+        "paul, alice",
+        "congressional union"
+      ],
+      "timestamp": "2024-12-21T06:53:59.061Z",
+      "title": "Tactics and Techniques of the National Womans Party Suffrage Campaign | Articles and Essays | Women of Protest: Photographs from the Records of the National Woman's Party | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/women-of-protest/articles-and-essays/tactics-and-techniques-of-the-national-womans-party-suffrage-campaign/"
+    }
+  ],
+  "resource": {
+    "caption": "",
+    "image": "https://tile.loc.gov/storage-services/service/mss/mnwp/275/275019t.gif",
+    "segment_count": 1,
+    "url": "https://www.loc.gov/resource/mnwp.27501_275019/"
+  },
+  "resources": [
+    {
+      "caption": "",
+      "image": "https://tile.loc.gov/storage-services/service/mss/mnwp/275/275019t.gif",
+      "segment_count": 1,
+      "url": "https://www.loc.gov/resource/mnwp.27501_275019/"
+    }
+  ],
+  "timestamp": 1734773605868,
+  "type": "legacyzoom",
+  "views": {
+    "brief": "https://www.loc.gov/resource/mnwp.275019/?fo=json&st=brief",
+    "current": "single",
+    "epub": "https://www.loc.gov/resource/mnwp.275019/?fo=json&st=pdf",
+    "gallery": "https://www.loc.gov/resource/mnwp.275019/?fo=json&st=gallery",
+    "grid": "https://www.loc.gov/resource/mnwp.275019/?fo=json&st=grid",
+    "image": "https://www.loc.gov/resource/mnwp.275019/?fo=json&st=image",
+    "list": "https://www.loc.gov/resource/mnwp.275019/?fo=json&st=list",
+    "pdf": "https://www.loc.gov/resource/mnwp.275019/?fo=json&st=pdf",
+    "single": "https://www.loc.gov/resource/mnwp.275019/?fo=json",
+    "slideshow": "https://www.loc.gov/resource/mnwp.275019/?fo=json&st=slideshow",
+    "text": "https://www.loc.gov/resource/mnwp.275019/?fo=json&st=text"
+  }
+}

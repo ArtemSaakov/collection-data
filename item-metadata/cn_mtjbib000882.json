@@ -1,0 +1,995 @@
+{
+  "articles_and_essays": null,
+  "cite_this": {
+    "apa": "(1784) <cite>Thomas Jefferson to James Madison, March , Spectacles to Be Ordered from Benjamin Dudley</cite>. -03. [Manuscript/Mixed Material] Retrieved from the Library of Congress, https://www.loc.gov/item/mtjbib000882/.",
+    "chicago": "<cite>Thomas Jefferson to James Madison, March , Spectacles to Be Ordered from Benjamin Dudley</cite>. -03, 1784. Manuscript/Mixed Material. https://www.loc.gov/item/mtjbib000882/.",
+    "mla": "<cite>Thomas Jefferson to James Madison, March , Spectacles to Be Ordered from Benjamin Dudley</cite>. -03, 1784. Manuscript/Mixed Material. Retrieved from the Library of Congress, &lt;www.loc.gov/item/mtjbib000882/&gt;."
+  },
+  "item": {
+    "_version_": 1757749447192739840,
+    "access_restricted": false,
+    "aka": [
+      "http://www.loc.gov/item/mtjbib000882/",
+      "https://hdl.loc.gov/loc.mss/mtj.mtjbib000882",
+      "http://www.loc.gov/resource/mtj1.003_0110_0111/",
+      "http://www.loc.gov/item/mtj1.003_0110_0111/"
+    ],
+    "call_number": [
+      "series: Series 1: General Correspondence. 1651-1827",
+      "Microfilm Reel: 003"
+    ],
+    "campaigns": [],
+    "created_published": [
+      "1784-03-"
+    ],
+    "date": "1784-03",
+    "dates": [
+      {
+        "1784": "https://www.loc.gov/search/?dates=1784/1784&fo=json"
+      }
+    ],
+    "digital_id": [
+      "http://hdl.loc.gov/loc.mss/mtj.mtjbib000882"
+    ],
+    "digitized": true,
+    "display_offsite": true,
+    "extract_timestamp": "2023-02-13T20:30:40.015Z",
+    "extract_urls": [
+      "http://c2vlpdmtool01.loc.gov/data-management-tool/export_group_xml/mtj/mtjbib000882.xml#mtj"
+    ],
+    "format": [
+      {
+        "manuscript/mixed material": "https://www.loc.gov/search/?fa=original_format:manuscript/mixed+material&fo=json"
+      }
+    ],
+    "genre": [
+      "Correspondence"
+    ],
+    "group": [
+      "mtj",
+      "thomas-jefferson-papers"
+    ],
+    "hassegments": true,
+    "id": "http://www.loc.gov/item/mtjbib000882/",
+    "image_url": [
+      "https://tile.loc.gov/storage-services/service/mss/mtj/mtj1/003/0100/0110.gif",
+      "https://tile.loc.gov/storage-services/service/mss/mtj/mtj1/003/0100/0110.gif#h=287&w=600",
+      "https://tile.loc.gov/storage-services/master/mss/mtj/mtj1/003/0100/0110.jpg#h=751&w=1569"
+    ],
+    "index": 1,
+    "item": {
+      "call_number": [
+        "series: Series 1: General Correspondence. 1651-1827",
+        "Microfilm Reel: 003"
+      ],
+      "created_published": [
+        "1784-03-"
+      ],
+      "date": "17840300",
+      "digital_id": [
+        "http://hdl.loc.gov/loc.mss/mtj.mtjbib000882"
+      ],
+      "format": "Manuscript",
+      "genre": [
+        "Correspondence"
+      ],
+      "language": [
+        "eng"
+      ],
+      "notes": [
+        "Spectacles to Be Ordered from Benjamin Dudley"
+      ],
+      "repository": "Manuscript Division",
+      "rights": "No known restriction on use or reproduction.",
+      "source_collection": "The Thomas Jefferson Papers at the Library of Congress",
+      "subjects": [
+        "Correspondence"
+      ],
+      "title": "Thomas Jefferson to James Madison, March 1784, Spectacles to Be Ordered from Benjamin Dudley"
+    },
+    "language": [
+      "english"
+    ],
+    "languages": [
+      {
+        "english": "https://www.loc.gov/search/?fa=language:english&fo=json"
+      }
+    ],
+    "mime_type": [
+      "image/gif",
+      "image/jpeg"
+    ],
+    "notes": [
+      "Spectacles to Be Ordered from Benjamin Dudley"
+    ],
+    "online_format": [
+      "image"
+    ],
+    "original_format": [
+      "manuscript/mixed material"
+    ],
+    "other_formats": [],
+    "partof": [
+      {
+        "count": 25885,
+        "title": "the thomas jefferson papers at the library of congress: series 1: general correspondence. 1651-1827",
+        "url": "https://www.loc.gov/search/?fa=partof:the+thomas+jefferson+papers+at+the+library+of+congress:+series+1:+general+correspondence.+1651-1827&fo=json"
+      },
+      {
+        "count": 26691,
+        "title": "thomas jefferson papers, 1606-1827",
+        "url": "https://www.loc.gov/collections/thomas-jefferson-papers/?fo=json"
+      },
+      {
+        "count": 169544,
+        "title": "manuscript division",
+        "url": "https://www.loc.gov/search/?fa=partof:manuscript+division&fo=json"
+      },
+      {
+        "count": 437343,
+        "title": "american memory",
+        "url": "https://www.loc.gov/search/?fa=partof:american+memory&fo=json"
+      }
+    ],
+    "repository": [
+      "Manuscript Division"
+    ],
+    "resources": [
+      {
+        "files": 2,
+        "image": "https://tile.loc.gov/storage-services/service/mss/mtj/mtj1/003/0100/0110.gif",
+        "url": "https://www.loc.gov/resource/mtj1.003_0110_0111/"
+      }
+    ],
+    "rights": [
+      "\n\t<p>The Library of Congress is providing access to The Thomas Jefferson  Papers at the Library of Congress for noncommercial, educational and  research purposes. While the Library is not aware of any copyrights or  other rights associated with this Collection, the written permission of  any copyright owners and/or other rights holders (such as publicity  and/or privacy rights) is required for reproduction, distribution, or  other use of any protected items beyond that allowed by fair use or  other statutory exemptions. Responsibility for making an independent  legal assessment of an item and securing any necessary permissions  ultimately rests with the persons desiring to use the item. </p>\n\t<p>Credit Line: Library of Congress, Manuscript Division. </p>\n\t<p>The following items are included in this Collection with permission:</p>\n\t<p>The essay \"<a href=\"//memory.loc.gov/ammem/collections/jefferson_papers/mtjessay1.html\">American Sphinx: The Contradictions of Thomas Jefferson</a>\" by Joseph J. Ellis was originally published in the November-December 1994 issue of <em>Civilization: The Magazine of the Library of Congress</em> and may not be reprinted in any other form or by any other source.</p>\n\t<p>The essay \"<a href=\"//memory.loc.gov/ammem/collections/jefferson_papers/mtjessay2.html\">The Jamestown Records of the Virginia Company of London: A Conservator's Perspective</a>\" by Sylvia R. Albro and Holly H. Krueger was originally published in a slightly different form in <em>Proceedings of the Fourth International Conference of the Institute of Paper Conservation, 6-9 April 1997</em> and may not be reprinted in any other form or by any other source.</p>\n\t<p>Rembrandt Peale's 1800 <a href=\"//memory.loc.gov/ammem/collections/jefferson_papers/mtjtime3c.html\">Thomas Jefferson</a> portrait on the Thomas Jefferson Time Line is from the White House  Collection, courtesy of the White House Historical Association.</p>\n\t<p>The image of <a href=\"//memory.loc.gov/ammem/collections/jefferson_papers/jefferson1.html\">Thomas Jefferson</a> on the home page is from a photomechanical print held in the Library of  Congress's Prints and Photographs Division, Presidential File, and is a  reproduction of the popular 1805 Rembrandt Peale portrait in the  collection of the New-York Historical Society. </p>\n\n"
+    ],
+    "score": 19.206085,
+    "shard": "00",
+    "shelf_id": "series: Series 1: General Correspondence. 1651-1827 Microfilm Reel: 003",
+    "site": [],
+    "source_collection": "The Thomas Jefferson Papers at the Library of Congress",
+    "subject": [
+      "correspondence"
+    ],
+    "subject_headings": [
+      "Correspondence"
+    ],
+    "subjects": [
+      {
+        "correspondence": "https://www.loc.gov/search/?fa=subject:correspondence&fo=json"
+      }
+    ],
+    "timestamp": "2023-02-13T20:35:02.335Z",
+    "title": "Thomas Jefferson to James Madison, March 1784, Spectacles to Be Ordered from Benjamin Dudley",
+    "type": [
+      "manuscript/mixed material"
+    ],
+    "url": "https://www.loc.gov/item/mtjbib000882/"
+  },
+  "more_like_this": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mtjbib016901/",
+        "https://hdl.loc.gov/loc.mss/mtj.mtjbib016901",
+        "http://www.loc.gov/resource/mtj1.037_0723_0723/",
+        "http://www.loc.gov/item/mtj1.037_0723_0723/"
+      ],
+      "campaigns": [],
+      "date": "1807-02-06",
+      "dates": [
+        "1807-02-06"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-02-13T20:31:09.266Z",
+      "group": [
+        "mtj",
+        "thomas-jefferson-papers"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/item/mtjbib016901/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mtj/mtj1/037/0700/0723.gif",
+        "https://tile.loc.gov/storage-services/service/mss/mtj/mtj1/037/0700/0723.gif#h=777&w=600",
+        "https://tile.loc.gov/storage-services/master/mss/mtj/mtj1/037/0700/0723.jpg#h=2370&w=1829"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpeg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "american memory",
+        "the thomas jefferson papers at the library of congress: series 1: general correspondence. 1651-1827",
+        "manuscript division",
+        "thomas jefferson papers, 1606-1827"
+      ],
+      "score": 10.063753,
+      "shelf_id": "series: Series 1: General Correspondence. 1651-1827 Microfilm Reel: 037",
+      "subject": [
+        "correspondence"
+      ],
+      "timestamp": "2023-02-13T21:07:11.277Z",
+      "title": "Thomas Jefferson to Congress, February 6, 1807",
+      "type": [
+        "Manuscript"
+      ],
+      "url": "https://www.loc.gov/item/mtjbib016901/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mtjbib016902/",
+        "https://hdl.loc.gov/loc.mss/mtj.mtjbib016902",
+        "http://www.loc.gov/resource/mtj1.037_0724_0725/",
+        "http://www.loc.gov/item/mtj1.037_0724_0725/"
+      ],
+      "campaigns": [],
+      "date": "1807-02-06",
+      "dates": [
+        "1807-02-06"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-02-13T20:31:09.460Z",
+      "group": [
+        "mtj",
+        "thomas-jefferson-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mtjbib016902/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mtj/mtj1/037/0700/0724.gif",
+        "https://tile.loc.gov/storage-services/service/mss/mtj/mtj1/037/0700/0724.gif#h=787&w=600",
+        "https://tile.loc.gov/storage-services/master/mss/mtj/mtj1/037/0700/0724.jpg#h=2336&w=1782"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpeg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "american memory",
+        "the thomas jefferson papers at the library of congress: series 1: general correspondence. 1651-1827",
+        "manuscript division",
+        "thomas jefferson papers, 1606-1827"
+      ],
+      "score": 10.063753,
+      "shelf_id": "series: Series 1: General Correspondence. 1651-1827 Microfilm Reel: 037",
+      "subject": [
+        "correspondence"
+      ],
+      "timestamp": "2023-02-13T21:07:11.277Z",
+      "title": "Lewis Bollman to Thomas Jefferson, February 6, 1807",
+      "type": [
+        "Manuscript"
+      ],
+      "url": "https://www.loc.gov/item/mtjbib016902/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mtjbib016903/",
+        "https://hdl.loc.gov/loc.mss/mtj.mtjbib016903",
+        "http://www.loc.gov/resource/mtj1.037_0726_0727/",
+        "http://www.loc.gov/item/mtj1.037_0726_0727/"
+      ],
+      "campaigns": [],
+      "date": "1807-02-06",
+      "dates": [
+        "1807-02-06"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-02-13T20:31:09.460Z",
+      "group": [
+        "mtj",
+        "thomas-jefferson-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mtjbib016903/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mtj/mtj1/037/0700/0726.gif",
+        "https://tile.loc.gov/storage-services/service/mss/mtj/mtj1/037/0700/0726.gif#h=752&w=600",
+        "https://tile.loc.gov/storage-services/master/mss/mtj/mtj1/037/0700/0726.jpg#h=2443&w=1949"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpeg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "american memory",
+        "the thomas jefferson papers at the library of congress: series 1: general correspondence. 1651-1827",
+        "manuscript division",
+        "thomas jefferson papers, 1606-1827"
+      ],
+      "score": 10.063753,
+      "shelf_id": "series: Series 1: General Correspondence. 1651-1827 Microfilm Reel: 037",
+      "subject": [
+        "correspondence"
+      ],
+      "timestamp": "2023-02-13T21:07:11.277Z",
+      "title": "John Bracken to Thomas Jefferson, February 6, 1807",
+      "type": [
+        "Manuscript"
+      ],
+      "url": "https://www.loc.gov/item/mtjbib016903/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mtjbib016904/",
+        "https://hdl.loc.gov/loc.mss/mtj.mtjbib016904",
+        "http://www.loc.gov/resource/mtj1.037_0728_0731/",
+        "http://www.loc.gov/item/mtj1.037_0728_0731/"
+      ],
+      "campaigns": [],
+      "date": "1807-02-06",
+      "dates": [
+        "1807-02-06"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-02-13T20:31:09.460Z",
+      "group": [
+        "mtj",
+        "thomas-jefferson-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mtjbib016904/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mtj/mtj1/037/0700/0728.gif",
+        "https://tile.loc.gov/storage-services/service/mss/mtj/mtj1/037/0700/0728.gif#h=760&w=600",
+        "https://tile.loc.gov/storage-services/master/mss/mtj/mtj1/037/0700/0728.jpg#h=2350&w=1856"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpeg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "american memory",
+        "the thomas jefferson papers at the library of congress: series 1: general correspondence. 1651-1827",
+        "manuscript division",
+        "thomas jefferson papers, 1606-1827"
+      ],
+      "score": 10.063753,
+      "shelf_id": "series: Series 1: General Correspondence. 1651-1827 Microfilm Reel: 037",
+      "subject": [
+        "correspondence"
+      ],
+      "timestamp": "2023-02-13T21:07:11.277Z",
+      "title": "Daniel Clark, Jr. to Thomas Jefferson, February 6, 1807",
+      "type": [
+        "Manuscript"
+      ],
+      "url": "https://www.loc.gov/item/mtjbib016904/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mtjbib016905/",
+        "https://hdl.loc.gov/loc.mss/mtj.mtjbib016905",
+        "http://www.loc.gov/resource/mtj1.037_0732_0739/",
+        "http://www.loc.gov/item/mtj1.037_0732_0739/"
+      ],
+      "campaigns": [],
+      "date": "1806",
+      "dates": [
+        "1806"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-02-13T20:31:09.460Z",
+      "group": [
+        "mtj",
+        "thomas-jefferson-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mtjbib016905/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mtj/mtj1/037/0700/0732.gif",
+        "https://tile.loc.gov/storage-services/service/mss/mtj/mtj1/037/0700/0732.gif#h=771&w=600",
+        "https://tile.loc.gov/storage-services/master/mss/mtj/mtj1/037/0700/0732.jpg#h=2377&w=1849"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpeg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "american memory",
+        "the thomas jefferson papers at the library of congress: series 1: general correspondence. 1651-1827",
+        "manuscript division",
+        "thomas jefferson papers, 1606-1827"
+      ],
+      "score": 10.063753,
+      "shelf_id": "series: Series 1: General Correspondence. 1651-1827 Microfilm Reel: 037",
+      "subject": [
+        "correspondence"
+      ],
+      "timestamp": "2023-02-13T21:07:11.277Z",
+      "title": "William Barnwell, 1806, Charity Hospital of New Orleans",
+      "type": [
+        "Manuscript"
+      ],
+      "url": "https://www.loc.gov/item/mtjbib016905/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/item/mtjbib016906/",
+        "https://hdl.loc.gov/loc.mss/mtj.mtjbib016906",
+        "http://www.loc.gov/resource/mtj1.037_0740_0746/",
+        "http://www.loc.gov/item/mtj1.037_0740_0746/"
+      ],
+      "campaigns": [],
+      "date": "1807-02-06",
+      "dates": [
+        "1807-02-06"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2023-02-13T20:31:09.460Z",
+      "group": [
+        "mtj",
+        "thomas-jefferson-papers"
+      ],
+      "hassegments": true,
+      "id": "http://www.loc.gov/item/mtjbib016906/",
+      "image_url": [
+        "https://tile.loc.gov/storage-services/service/mss/mtj/mtj1/037/0700/0740.gif",
+        "https://tile.loc.gov/storage-services/service/mss/mtj/mtj1/037/0700/0740.gif#h=769&w=600",
+        "https://tile.loc.gov/storage-services/master/mss/mtj/mtj1/037/0700/0740.jpg#h=2190&w=1709"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/gif",
+        "image/jpeg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "manuscript/mixed material"
+      ],
+      "partof": [
+        "american memory",
+        "the thomas jefferson papers at the library of congress: series 1: general correspondence. 1651-1827",
+        "manuscript division",
+        "thomas jefferson papers, 1606-1827"
+      ],
+      "score": 10.063753,
+      "shelf_id": "series: Series 1: General Correspondence. 1651-1827 Microfilm Reel: 037",
+      "subject": [
+        "correspondence"
+      ],
+      "timestamp": "2023-02-13T21:07:11.277Z",
+      "title": "Thomas Jefferson to Henry Dearborn, February 6, 1807, with List of Gunboats in Ports",
+      "type": [
+        "Manuscript"
+      ],
+      "url": "https://www.loc.gov/item/mtjbib016906/"
+    }
+  ],
+  "options": {
+    "access_group": [
+      ""
+    ],
+    "access_group_raw": "",
+    "all": null,
+    "api_version": "1",
+    "app_context": null,
+    "application_version": "$Revision$",
+    "attribute": null,
+    "attribute!": null,
+    "attribute_map": null,
+    "cache_tags": [
+      "mtj",
+      "thomas-jefferson-papers",
+      "cms",
+      "managed-content"
+    ],
+    "callback": null,
+    "clip": null,
+    "clip_image_width": null,
+    "clip_rotation": null,
+    "content_filter": null,
+    "content_replacement": "",
+    "count": null,
+    "dates": null,
+    "default_count": 25,
+    "delimiter": null,
+    "digital_id": null,
+    "display_level": null,
+    "distance": null,
+    "downloadOption": null,
+    "duration": 0.8329257965087891,
+    "embed": [],
+    "embed!": [],
+    "excludeTerms": null,
+    "facetLimits": "",
+    "facetPrefix": null,
+    "facet_count": null,
+    "facet_style": null,
+    "field": null,
+    "format": "json",
+    "host": "www.loc.gov",
+    "ical": false,
+    "id": "mtjbib000882/",
+    "iiif": false,
+    "index": null,
+    "inputEncoding": "UTF-8",
+    "is_portal": null,
+    "item": null,
+    "items": null,
+    "keys": null,
+    "language": null,
+    "latlong": null,
+    "method": "GET",
+    "newSearch": null,
+    "new_clip_url": false,
+    "onsite": false,
+    "operator": null,
+    "outputEncoding": "UTF-8",
+    "page_campaigns": [],
+    "path_info": "/item/mtjbib000882/",
+    "port": "443",
+    "proxypath": null,
+    "query_string": "fo=json",
+    "redirect_proxy": false,
+    "redirect_to_item": null,
+    "referer": "",
+    "region": "",
+    "release_id": 123456789,
+    "request_host": "www.loc.gov",
+    "request_params": {
+      "fo": [
+        "json"
+      ]
+    },
+    "request_url": "https://www.loc.gov/item/mtjbib000882/?fo=json",
+    "resource": "",
+    "resource_sequence": null,
+    "scheme": "https",
+    "searchIn": null,
+    "searchTerms": "",
+    "segments": null,
+    "shards": [
+      "00"
+    ],
+    "site_id": null,
+    "site_type": null,
+    "solrQuery": "",
+    "sortBy": null,
+    "sortOrder": null,
+    "startPage": null,
+    "style": null,
+    "suggested": null,
+    "target": null,
+    "template": "layouts/item/layout",
+    "timestamp": 1734773594.8376365,
+    "tz_aware": null,
+    "unionFacets": "",
+    "webcast_permalink": null
+  },
+  "related_items": [
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/thomas-jefferson-papers/about-this-collection/related-resources/"
+      ],
+      "campaigns": [],
+      "description": [
+        "Catalogs and Calendars of the Papers Thomas Jefferson at the Library of Congress     Calendar of the Correspondence of Thomas Jefferson.         Part I: Letters from Jefferson. Bulletin of the Bureau of Rolls and Library of the Department of State. No. 6, July, 1894. Washington: Department of State, 1894; reprint, New York: Burt Franklin, 1970. LC Call Number: E302 .J452. Online at: http://catalog.hathitrust.org/Record/012288358 External     Part II: Letters from Jefferson."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:29:41.873Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/thomas-jefferson-papers/about-this-collection/related-resources/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/thomas-jefferson-papers/500_500.jpg"
+      ],
+      "index": 1,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "thomas jefferson papers, 1606-1827"
+      ],
+      "score": 6.9923086,
+      "shelf_id": "~/collections/thomas-jefferson-papers/about-this-collection/related-resources/",
+      "site": [
+        "cms"
+      ],
+      "timestamp": "2024-12-21T06:53:06.814Z",
+      "title": "Related Resources | About this Collection | Thomas Jefferson Papers, 1606-1827 | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/thomas-jefferson-papers/about-this-collection/related-resources/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/thomas-jefferson-papers/about-this-collection/rights-and-access/"
+      ],
+      "campaigns": [],
+      "description": [
+        "The Library of Congress is providing access to The Thomas Jefferson Papers at the Library of Congress for noncommercial, educational and research purposes. While the Library is not aware of any copyrights or other rights associated with this Collection, the written permission of any copyright owners and/or other rights holders (such as publicity and/or privacy rights) is required for reproduction, distribution, or other use of any protected items beyond that allowed by fair use or other statutory exemptions. Responsibility for making an independent legal assessment of an item and securing any necessary permissions ultimately rests with the persons desiring to use the item."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:29:41.873Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/thomas-jefferson-papers/about-this-collection/rights-and-access/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/thomas-jefferson-papers/500_500.jpg"
+      ],
+      "index": 2,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "thomas jefferson papers, 1606-1827"
+      ],
+      "score": 6.9923086,
+      "shelf_id": "~/collections/thomas-jefferson-papers/about-this-collection/rights-and-access/",
+      "site": [
+        "cms"
+      ],
+      "timestamp": "2024-12-21T06:53:06.814Z",
+      "title": "Rights and Access | About this Collection | Thomas Jefferson Papers, 1606-1827 | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/thomas-jefferson-papers/about-this-collection/rights-and-access/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/thomas-jefferson-papers/articles-and-essays/"
+      ],
+      "campaigns": [],
+      "description": [
+        "Top of page Skip to main content Library of Congress Search Everything Audio Recordings Books/Printed Material Films, Videos Legislation Manuscripts/Mixed Material Maps Notated Music Newspapers Periodicals Personal Narratives Photos, Prints, Drawings Software, E-Resources Web Archives"
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:29:41.873Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/thomas-jefferson-papers/articles-and-essays/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/thomas-jefferson-papers/500_500.jpg"
+      ],
+      "index": 3,
+      "language": [
+        "english"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "thomas jefferson papers, 1606-1827"
+      ],
+      "score": 6.9923086,
+      "shelf_id": "~/collections/thomas-jefferson-papers/articles-and-essays/",
+      "site": [
+        "cms"
+      ],
+      "timestamp": "2024-12-21T06:53:06.814Z",
+      "title": "Articles and Essays | Thomas Jefferson Papers, 1606-1827 | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/thomas-jefferson-papers/articles-and-essays/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/thomas-jefferson-papers/articles-and-essays/american-sphinx-the-contraditions-of-thomas-jefferson/"
+      ],
+      "campaigns": [],
+      "date": "1776",
+      "dates": [
+        "[1776 TO 1815]"
+      ],
+      "description": [
+        "An essay by historian Joseph Ellis from the November-December 1994 issue of Civilization: The Magazine of the Library of Congress."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:29:41.873Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/thomas-jefferson-papers/articles-and-essays/american-sphinx-the-contraditions-of-thomas-jefferson/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/thomas-jefferson-papers/500_500.jpg"
+      ],
+      "index": 4,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "thomas jefferson papers, 1606-1827"
+      ],
+      "score": 6.9923086,
+      "shelf_id": "~/collections/thomas-jefferson-papers/articles-and-essays/american-sphinx-the-contraditions-of-thomas-jefferson/",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "jefferson, thomas",
+        "manuscripts",
+        "president"
+      ],
+      "timestamp": "2024-12-21T06:53:06.814Z",
+      "title": "American Sphinx: The Contradictions of Thomas Jefferson | Articles and Essays | Thomas Jefferson Papers, 1606-1827 | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/thomas-jefferson-papers/articles-and-essays/american-sphinx-the-contraditions-of-thomas-jefferson/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/thomas-jefferson-papers/articles-and-essays/anne-cary-randolphs-household-accounts/"
+      ],
+      "campaigns": [],
+      "date": "1805",
+      "dates": [
+        "[1805 TO 1808]"
+      ],
+      "description": [
+        "Between 1805 and 1808 Thomas and Martha Jefferson’s teenaged granddaughter kept her household accounts in the blank pages of a notebook previously used by her grandparents. This essay reveals and contextualizes Randolph’s practice of trading with Monticello’s slaves."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:29:41.873Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/thomas-jefferson-papers/articles-and-essays/anne-cary-randolphs-household-accounts/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/thomas-jefferson-papers/500_500.jpg"
+      ],
+      "index": 5,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "thomas jefferson papers, 1606-1827"
+      ],
+      "score": 6.9923086,
+      "shelf_id": "~/collections/thomas-jefferson-papers/articles-and-essays/anne-cary-randolphs-household-accounts/",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "jefferson, thomas",
+        "manuscripts",
+        "president"
+      ],
+      "timestamp": "2024-12-21T06:53:06.814Z",
+      "title": "Anne Cary Randolph’s Household Accounts, 1805-1808 | Articles and Essays | Thomas Jefferson Papers, 1606-1827 | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/thomas-jefferson-papers/articles-and-essays/anne-cary-randolphs-household-accounts/"
+    },
+    {
+      "access_restricted": false,
+      "aka": [
+        "http://www.loc.gov/collections/thomas-jefferson-papers/articles-and-essays/selected-quotations-from-the-thomas-jefferson-papers/"
+      ],
+      "campaigns": [],
+      "date": "1776",
+      "dates": [
+        "[1776 TO 1815]"
+      ],
+      "description": [
+        "A brief selections of quotations from Thomas Jefferson’s papers at the Library of Congress."
+      ],
+      "digitized": true,
+      "extract_timestamp": "2024-12-21T06:29:41.873Z",
+      "group": [
+        "cms",
+        "managed-content"
+      ],
+      "hassegments": false,
+      "id": "http://www.loc.gov/collections/thomas-jefferson-papers/articles-and-essays/selected-quotations-from-the-thomas-jefferson-papers/",
+      "image_url": [
+        "https://www.loc.gov/static/collections/thomas-jefferson-papers/500_500.jpg"
+      ],
+      "index": 6,
+      "language": [
+        "english"
+      ],
+      "location": [
+        "united states"
+      ],
+      "mime_type": [
+        "image/jpg"
+      ],
+      "online_format": [
+        "image"
+      ],
+      "original_format": [
+        "web page"
+      ],
+      "partof": [
+        "thomas jefferson papers, 1606-1827"
+      ],
+      "score": 6.9923086,
+      "shelf_id": "~/collections/thomas-jefferson-papers/articles-and-essays/selected-quotations-from-the-thomas-jefferson-papers/",
+      "site": [
+        "cms"
+      ],
+      "subject": [
+        "jefferson, thomas",
+        "quotations",
+        "manuscripts",
+        "president"
+      ],
+      "timestamp": "2024-12-21T06:53:06.814Z",
+      "title": "Selected Quotations from the Thomas Jefferson Papers | Articles and Essays | Thomas Jefferson Papers, 1606-1827 | Digital Collections",
+      "type": [
+        "web page"
+      ],
+      "url": "https://www.loc.gov/collections/thomas-jefferson-papers/articles-and-essays/selected-quotations-from-the-thomas-jefferson-papers/"
+    }
+  ],
+  "resources": [
+    {
+      "caption": "",
+      "files": [
+        [
+          {
+            "height": 287,
+            "levels": 1,
+            "mimetype": "image/gif",
+            "size": 31018,
+            "url": "https://tile.loc.gov/storage-services/service/mss/mtj/mtj1/003/0100/0110.gif",
+            "width": 600
+          },
+          {
+            "height": 751,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "size": 56765,
+            "url": "https://tile.loc.gov/storage-services/master/mss/mtj/mtj1/003/0100/0110.jpg",
+            "width": 1569
+          }
+        ],
+        [
+          {
+            "height": 289,
+            "levels": 1,
+            "mimetype": "image/gif",
+            "size": 27646,
+            "url": "https://tile.loc.gov/storage-services/service/mss/mtj/mtj1/003/0100/0111.gif",
+            "width": 600
+          },
+          {
+            "height": 737,
+            "levels": 1,
+            "mimetype": "image/jpeg",
+            "size": 41544,
+            "url": "https://tile.loc.gov/storage-services/master/mss/mtj/mtj1/003/0100/0111.jpg",
+            "width": 1529
+          }
+        ]
+      ],
+      "image": "https://tile.loc.gov/storage-services/service/mss/mtj/mtj1/003/0100/0110.gif",
+      "url": "https://www.loc.gov/resource/mtj1.003_0110_0111/"
+    }
+  ],
+  "timestamp": 1734773595670,
+  "type": "legacyzoom"
+}

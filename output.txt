@@ -1,0 +1,87 @@
+cn_2002722130.json:
+ ['1 photographic print.'] 
+ ['J299439 U.S. Copyright Office', 'Title devised by Library staff.', 'Copyright by John M. Noble.', 'Published in: "Famous People" chapter of the ebook Great Photographs from the Library of Congress, 2013.'] 
+cn_03028558.json:
+ ['Also available in digital form.'] 
+ ['Also available in digital form.'] 
+cn_2019630723.json:
+ ['Photograph shows profile portrait of Ruth Bader Ginsburg at Senate confirmation hearing for her appointment to the Supreme Court.'] 
+ ['Title from item.', 'Gift; CQ Roll Call; 2011 (DLC/PP-2011:177).', 'Forms part of the CQ Roll Call Photograph Collection.'] 
+cn_2017853099.json:
+ ['1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller.'] 
+ ['Title and other information from caption card.', 'Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944.', 'More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi', 'Temp. note: owibatch4', 'Film copy on SIS roll 9, frame 24.'] 
+cn_mtjbib000882.json:
+ None 
+ ['Spectacles to Be Ordered from Benjamin Dudley'] 
+cn_2009630296.json:
+ ['1 drawing : ink ; 8.7 x 12.2 cm (sheet)'] 
+ ['No Japanese title in the picture.', 'Title from item.', 'Unsigned, possibly by Kano, 1878.', 'From the "Medicine" series.', 'Gift; Mrs. David Murray; 1909.', 'Forms part of: David Murray collection.', 'Forms part of: Japanese prints and drawings (Library of Congress).'] 
+cn_mss21451024.json:
+ None 
+ None 
+cn_2017675749.json:
+ ['1 negative : glass ; 5 x 7 in.'] 
+ ['Title, date and notes from Red Cross caption card.', 'Photographer name or source of original from caption card or negative sleeve: ARC, American Red Cross Official Photograph.', 'Group title: General, U.S. in England.', 'On caption card: B-106.', 'Data: Atlantic Div. 11/14/18.', 'Gift; American National Red Cross 1944 and 1952.', 'General information about the American National Red Cross photograph collection is available at http://hdl.loc.gov/loc.pnp/pp.anrc', 'Temp note: Batch 21'] 
+cn_mnwp000045.json:
+ None 
+ ['Title and information transcribed from item.', 'Summary: Informal portrait, head and chest, Dr. Mary Parsons, leaning against wall, facing forward, wearing outer garment over dress with brooch and eyeglasses.'] 
+cn_99401665.json:
+ ['1 print : etching, hand-colored. | Satire showing head of Clifford with two circles representing huge spectacles, "Old house old prices & no private boxes" and "Old house old prices & no pigeon holes," over his eyes. Each circle contains a symmetrical view of Covent Garden Theatre seen from the stage. Superimposed on the middle of one circle is a large O and in the other circle a large P.'] 
+ ['Forms part of : British Cartoon Prints  Collection (Library of Congress).', 'Catalogue of prints and drawings in the British Museum. Division I, political and personal satires, v. 8, no. 11429'] 
+cn_2023867737.json:
+ ['Gottlieb Collection Assignment No. 524 Reference print available in Music Division, Library of Congress. Original negative or transparency: 1 negative : b&w ; 3 1/4 x 4 1/4 in. Library of Congress Prints and Photographs Division. Originals not served. Originals Purchase; William P. Gottlieb, 1995-1997 Record created through migration from the Performing Arts Encyclopedia Database.'] 
+ ['Gottlieb Collection Assignment No. 524', 'Reference print available in Music Division, Library of Congress.', 'Original negative or transparency: 1 negative : b&w ; 3 1/4 x 4 1/4 in. Library of Congress Prints and Photographs Division. Originals not served.', 'Originals Purchase; William P. Gottlieb, 1995-1997', 'Record created through migration from the Performing Arts Encyclopedia Database.'] 
+cn_2011648843.json:
+ ['1 photograph : color transparency ; 35 mm.'] 
+ ['Title, date, and keywords based on information that came with or on collection items.', 'Client: Vogue.', 'Published: American Westerns 1967: Mrs. Vernon J. Taylor, Vogue, May 1, 1967).', 'Container Notes: Blue dress, 3 sheets 18 2 1/4 transp.; Ann Taylor, 1967, May, Vogue p. 240, Nos. 6910, V5910, 3499.', 'Ann Bonfoey Taylor, full-length portrait, wearing a ski outfit including a white vinyl jacket, black pants, and a black rabbit hood, Vail, Colorado.', 'General information about the Toni Frissell photograph collection is available at: https://hdl.loc.gov/loc.pnp/coll.090', 'Published in: Vogue, "American Westerns, 1967: Mrs. Vernon J. Taylor, Jr.: A relaxed perfectionist. A great sportswoman", May 1967, pp. 240-241.', 'PR 06 CN 651 C12 F8, sheet 4  (bottom row, right)'] 
+cn_2010630700.json:
+ ['1 photograph : digital, TIFF file, color.'] 
+ ["Title from item; part of title from Ford's Theater Collection website.", "Credit line: Carol M. Highsmith's America, Library of Congress, Prints and Photographs Division.", 'Gift and purchase; Carol M. Highsmith; 2009; (DLC/PP-2010:031).', "Forms part of: Carol M. Highsmith's America Project in the Carol M. Highsmith Archive."] 
+cn_2017878422.json:
+ ['1 transparency : color.'] 
+ ['12002-34.', 'Transfer from U.S. Office of War Information, 1944.', 'General information about the FSA/OWI Color Photographs is available at http://hdl.loc.gov/loc.pnp/pp.fsac', 'Title from FSA or OWI agency caption.', 'Additional information about this photograph might be available through the Flickr Commons project at http://www.flickr.com/photos/library_of_congress/2179057897'] 
+cn_2014636045.json:
+ ['1 print : color lithograph ; sheet 106 x 71 cm. (poster format)'] 
+ ['R18030 U.S. Copyright Office', '"Copyright 1886 by E.F. Benton."', 'Caption: Jugg, the land agent.', 'Created by "Phoenix Litho. Co., Chicago."', 'Form 27.', 'Forms part of: Theatrical poster collection (Library of Congress)'] 
+cn_2017853273.json:
+ ['1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller.'] 
+ ['Title and other information from caption card.', 'Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944.', 'More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi', 'Temp. note: owibatch4', 'Film copy on SIS roll 9, frame 157.'] 
+cn_12032563.json:
+ ['Also available in digital form.'] 
+ ['Also available in digital form.'] 
+cn_2002697538.json:
+ ['1 photographic print. | Half lgth., facing left; wearing monacle and feather hat.'] 
+ ['Photoprint copyrighted by J. Schloss.', 'No. 78.', 'This record contains unverified data from caption card.', 'Caption card tracings: Hats; Photog. I.; BI; Eyeglasses; Shelf.'] 
+cn_98517852.json:
+ ['1 print on board (poster) : silkscreen, color. | Poster for WPA Illinois Safety Division promoting safety and use of proper eye protection.'] 
+ ['Date stamped on verso: Apr 28 1937.', 'Work Projects Administration Poster Collection (Library of Congress).', 'Posters of the WPA / Christopher DeNoon. Los Angeles : Wheatly Press, c1987, no. 214'] 
+cn_mss1863002449.json:
+ None 
+ None 
+cn_2010648833.json:
+ ['1 photograph : sixth-plate ambrotype, hand-colored ; 9.3 x 8.1 cm (case)'] 
+ ['Title devised by Library staff.', 'Case: Leather with two parallel ornate stripes and centered scroll motif.', "Digital photo with mat removed by Mike O'Donnell.", 'Gift; Tom Liljenquist; 2010; (DLC/PP-2010:105).', 'More information about this collection is available at http://hdl.loc.gov/loc.pnp/pp.lilj', 'Exhibited: "The Last Full Measure : Civil War Photographs from the Liljenquist Family Collection" at the Library of Congress, Washington, D.C., 2011.', 'pp/liljunion'] 
+cn_2017696658.json:
+ ['1 negative : safety ; 4 x 5 inches or smaller.'] 
+ ['Actual size of negative is C (approximately 4 x 5 inches).', 'Caption card lists some of the printing history of image.', 'Title and other information from caption card.', 'Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944.', 'More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi', 'DDE: Should this be in lot 1885? Lot no. of 9141 incorrect.', 'Film copy on SIS roll 32, frame 1302.'] 
+cn_2010652277.json:
+ ['1 print : chromolithograph. | Illustration shows a vignette cartoon showing a fashionably dressed woman wearing goggles taking a drive in an automobile. Through a series of vignettes her slim figure and dress attract considerable attention, however, when she removes her goggles, exposing some blemishes to her looks, the men react with horror.'] 
+ ['Title from item.', 'Illus. in: Puck, v. 53, no. 1373 (1903 June 24), centerfold.', 'Copyright 1903 by Keppler & Schwarzmann.'] 
+cn_2017648645.json:
+ ['1 photograph : albumen print on card mount ; mount 7 x 11 cm (carte de visite format) | Photograph shows portrait of abolitionist Sojourner Truth wearing polka dotted dress and holding cased photograph of her grandson, who was a prisoner-of-war at James Island, South Carolina between 1863 and 1865.'] 
+ ['Title devised by Library staff.', "Date and place of publication from Grigsby, Darcy Grimaldo. Enduring Truths : Sojourner's shadows and substance. Chicago : The University of Chicago Press, 2015, pages 52-53.", 'Gift; Tom Liljenquist; 2017; (DLC/PP-2017:171, formerly deposit D073)', 'Purchased from: Swann Auction Galleries, New York, March 2017.', 'Forms part of: Liljenquist Family Collection of Civil War Photographs (Library of Congress).', 'pp/liljpaper'] 
+cn_97518651.json:
+ ['1 photographic print.'] 
+ ['Title devised by Library staff.', 'George Grantham Bain Collection (Library of Congress).', 'General information about the Bain Collection is available at http://hdl.loc.gov/loc.pnp/pp.ggbain', 'Published in: Baseball Americana : treasures from the Library of Congress / Harry Katz, et al. New York : Smithsonian Books, 2009.'] 
+cn_2001696483.json:
+ ['1 negative : glass, dry plate ; 4 x 5 in.'] 
+ ['Title based on: Wilbur & Orville Wright, pictorial materials: a documentary guide / Arthur G. Renstrom. Washington: Library of Congress, 1982, p. 44.', 'Attributed to Wilbur and/or Orville Wright.', 'Reference copy in LOT 11512.', 'Forms part of: Glass negatives from the Papers of Wilbur and Orville Wright.'] 
+cn_2017696833.json:
+ ['1 negative : safety ; 4 x 5 inches or smaller.'] 
+ ['Actual size of negative is C (approximately 4 x 5 inches).', 'File print missing series code; added Aug. 1999.', 'Title and other information from caption card.', 'Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944.', 'More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi', 'Film copy on SIS roll 32, frame 1346.'] 
+cn_2013648190.json:
+ ['1 photographic print. | Photograph showing Theodore Roosevelt, .'] 
+ ['J234031 U.S. Copyright Office.', 'Title devised by Library staff.', 'Copyright 1918 by Baker Art Gallery, Columbus O.'] 
+cn_2017798280.json:
+ ['1 negative : safety ; 3 1/4 x 4 1/4 inches or smaller.'] 
+ ['Title and other information from caption card.', 'Transfer; United States. Office of War Information. Overseas Picture Division. Washington Division; 1944.', 'More information about the FSA/OWI Collection is available at http://hdl.loc.gov/loc.pnp/pp.fsaowi', 'Temp. note: usf34batch5', 'Film copy on SIS roll 5, frame 120.'] 

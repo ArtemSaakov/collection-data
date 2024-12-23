@@ -164,7 +164,7 @@ def metadata_from_csv(filename: str, filename_dir: Path, metadata_dir: Path = No
                     print(f"Error fetching metadata for {i['link']}")
                 else:
                     item = metadata.json().get("item", {})
-                    id = item.get("library_of_congress_control_number") or item.get("control_number")
+                    id = item['item'].get('control_number') or item.get("id", '').split('/')[-2] or item.get('url', '').split('/')[-2]
 
                     if not save_to_file(metadata, f'cn_{id}', dir_path=metadata_dir):
                         metadata_save_error += 1
@@ -259,7 +259,7 @@ def main():
     set_info = content.get("set", {})
     final_set_list = set_info.get("items", [])
 
-    print("\nWriting library_info set list to CSV as ftu-libraries-set-list.csv...")
+    print(f"\nWriting set_info list to CSV as ftu-{set_name}-set-list.csv...")
     if not dicts_to_csv(final_set_list, f"ftu-{set_name}-set-list.csv", dir_path=COLLECTION_DATA_DIR):
         raise Exception("Error writing to CSV.")
 
